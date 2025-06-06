@@ -1,0 +1,307 @@
+<!-- templates/base.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{% block meta_description %}Pragati Education - Excellence in IELTS Preparation{% endblock %}">
+    <meta name="keywords" content="{% block meta_keywords %}IELTS, preparation, test, practice, education, Pragati{% endblock %}">
+    <title>{% block title %}Pragati Education - IELTS Preparation{% endblock %}</title>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="{% load static %}{% static 'images/favicon.ico' %}">
+
+    <!-- CSS -->
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/base.css' %}">
+    {% block extra_css %}{% endblock %}
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    {% block body %}
+    <div id="app">
+        {% block content %}{% endblock %}
+    </div>
+    {% endblock %}
+
+    <!-- JavaScript -->
+    <script src="{% static 'js/base.js' %}"></script>
+    {% block extra_js %}{% endblock %}
+
+    <!-- Analytics (Add your tracking code here) -->
+    {% if not debug %}
+    <!-- Google Analytics or other tracking code -->
+    {% endif %}
+</body>
+</html>
+
+<!-- templates/coming_soon.html -->
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Coming Soon - Pragati Education IELTS Preparation{% endblock %}
+
+{% block meta_description %}Get ready for IELTS success with Pragati Education's comprehensive preparation system. Coming soon - interactive tests, AI-powered practice, and expert guidance.{% endblock %}
+
+{% block meta_keywords %}IELTS preparation, IELTS test, IELTS practice, speaking practice, writing practice, listening practice, reading practice, Pragati Education{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="bg-animation"></div>
+
+    <header class="header">
+        <div class="logo">Pragati Education</div>
+        <div class="tagline">Excellence in Education</div>
+    </header>
+
+    <main class="main-content">
+        <div class="hero-section">
+            <h1 class="hero-title">IELTS Preparation System</h1>
+            <p class="hero-subtitle">Master your IELTS exam with our comprehensive preparation platform. Get ready to achieve your dream score with expert guidance and advanced practice tests.</p>
+
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-headphones"></i>
+                    </div>
+                    <h3 class="feature-title">Listening Practice</h3>
+                    <p class="feature-desc">Interactive listening exercises with real exam scenarios</p>
+                </div>
+
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-book-open"></i>
+                    </div>
+                    <h3 class="feature-title">Reading Tests</h3>
+                    <p class="feature-desc">Comprehensive reading passages with detailed analysis</p>
+                </div>
+
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-pen-fancy"></i>
+                    </div>
+                    <h3 class="feature-title">Writing Tasks</h3>
+                    <p class="feature-desc">Task 1 & 2 practice with expert feedback</p>
+                </div>
+
+                <div class="feature-card">
+                    <div class="feature-icon">
+                        <i class="fas fa-microphone"></i>
+                    </div>
+                    <h3 class="feature-title">Speaking Practice</h3>
+                    <p class="feature-desc">AI-powered speaking practice and evaluation</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="countdown-section">
+            <h2 class="countdown-title">Launching Soon</h2>
+            <div class="countdown" id="countdown">
+                <div class="countdown-item">
+                    <span class="countdown-number" id="days">00</span>
+                    <span class="countdown-label">Days</span>
+                </div>
+                <div class="countdown-item">
+                    <span class="countdown-number" id="hours">00</span>
+                    <span class="countdown-label">Hours</span>
+                </div>
+                <div class="countdown-item">
+                    <span class="countdown-number" id="minutes">00</span>
+                    <span class="countdown-label">Minutes</span>
+                </div>
+                <div class="countdown-item">
+                    <span class="countdown-number" id="seconds">00</span>
+                    <span class="countdown-label">Seconds</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="email-signup">
+            <form class="email-form" id="emailForm">
+                {% csrf_token %}
+                <input
+                    type="email"
+                    class="email-input"
+                    placeholder="Enter your email for early access"
+                    required
+                    id="emailInput"
+                    name="email"
+                >
+                <button type="submit" class="submit-btn">Notify Me</button>
+            </form>
+            <div class="success-message" id="successMessage">
+                <i class="fas fa-check-circle"></i> <span id="successText">Thank you! We'll notify you when we launch.</span>
+            </div>
+            <div class="error-message" id="errorMessage" style="display: none;">
+                <i class="fas fa-exclamation-circle"></i> <span id="errorText">Something went wrong. Please try again.</span>
+            </div>
+        </div>
+
+        <div class="social-links">
+            <a href="#" class="social-link" title="Facebook">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+            <a href="#" class="social-link" title="Twitter">
+                <i class="fab fa-twitter"></i>
+            </a>
+            <a href="#" class="social-link" title="Instagram">
+                <i class="fab fa-instagram"></i>
+            </a>
+            <a href="#" class="social-link" title="LinkedIn">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+            <a href="#" class="social-link" title="YouTube">
+                <i class="fab fa-youtube"></i>
+            </a>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <p>&copy; 2025 Pragati Education. All rights reserved. | Empowering students to achieve their IELTS goals.</p>
+    </footer>
+</div>
+
+<style>
+/* Include all the CSS from the coming soon page here */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background: linear-gradient(135deg, #000000 0%, #1a1a1a 100%);
+    color: #ffffff;
+    overflow-x: hidden;
+}
+
+.container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+/* All other CSS styles from the original coming soon page */
+/* ... (include all the styles here) ... */
+
+.error-message {
+    background: rgba(239, 68, 68, 0.1);
+    border: 1px solid rgba(239, 68, 68, 0.3);
+    color: #ef4444;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-top: 1rem;
+    display: none;
+}
+
+.error-message.show {
+    display: block;
+    animation: slideIn 0.3s ease-out;
+}
+</style>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+// Enhanced JavaScript with Django integration
+document.addEventListener('DOMContentLoaded', function() {
+    // Countdown Timer
+    function updateCountdown() {
+        const targetDate = new Date('2025-07-15T00:00:00').getTime();
+        const now = new Date().getTime();
+        const timeLeft = targetDate - now;
+
+        if (timeLeft > 0) {
+            const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
+
+            document.getElementById('days').textContent = days.toString().padStart(2, '0');
+            document.getElementById('hours').textContent = hours.toString().padStart(2, '0');
+            document.getElementById('minutes').textContent = minutes.toString().padStart(2, '0');
+            document.getElementById('seconds').textContent = seconds.toString().padStart(2, '0');
+        } else {
+            document.getElementById('days').textContent = '00';
+            document.getElementById('hours').textContent = '00';
+            document.getElementById('minutes').textContent = '00';
+            document.getElementById('seconds').textContent = '00';
+        }
+    }
+
+    setInterval(updateCountdown, 1000);
+    updateCountdown();
+
+    // Enhanced email form submission with Django backend
+    document.getElementById('emailForm').addEventListener('submit', async function(e) {
+        e.preventDefault();
+
+        const form = this;
+        const email = document.getElementById('emailInput').value;
+        const submitBtn = form.querySelector('.submit-btn');
+        const successMessage = document.getElementById('successMessage');
+        const errorMessage = document.getElementById('errorMessage');
+
+        // Hide previous messages
+        successMessage.classList.remove('show');
+        errorMessage.classList.remove('show');
+
+        // Disable submit button
+        submitBtn.disabled = true;
+        submitBtn.textContent = 'Please wait...';
+
+        try {
+            const response = await fetch('{% url "core:subscribe_email" %}', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'X-CSRFToken': document.querySelector('[name=csrfmiddlewaretoken]').value
+                },
+                body: JSON.stringify({ email: email })
+            });
+
+            const data = await response.json();
+
+            if (data.success) {
+                document.getElementById('emailInput').value = '';
+                document.getElementById('successText').textContent = data.message;
+                successMessage.classList.add('show');
+
+                // Hide success message after 5 seconds
+                setTimeout(() => {
+                    successMessage.classList.remove('show');
+                }, 5000);
+            } else {
+                document.getElementById('errorText').textContent = data.message;
+                errorMessage.classList.add('show');
+
+                setTimeout(() => {
+                    errorMessage.classList.remove('show');
+                }, 5000);
+            }
+        } catch (error) {
+            document.getElementById('errorText').textContent = 'Network error. Please try again.';
+            errorMessage.classList.add('show');
+
+            setTimeout(() => {
+                errorMessage.classList.remove('show');
+            }, 5000);
+        } finally {
+            // Re-enable submit button
+            submitBtn.disabled = false;
+            submitBtn.textContent = 'Notify Me';
+        }
+    });
+
+    // All other JavaScript functionality from the original page
+    // ... (include all other JS here) ...
+});
+</script>
+{% endblock %}
