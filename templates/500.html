@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block title %}500 - Server Error{% endblock %}
+{% block extra_css %}
+<style>
+  .error-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 80vh;
+    text-align: center;
+    color: #333;
+    padding: 20px;
+  }
+
+  .error-wrapper h1 {
+    font-size: 6rem;
+    color: #e67e22;
+    margin-bottom: 10px;
+  }
+
+  .error-wrapper p {
+    font-size: 1.25rem;
+    margin-bottom: 30px;
+  }
+
+  .error-wrapper a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0f52ba;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+
+  .error-wrapper a:hover {
+    background-color: #083d94;
+  }
+</style>
+{% endblock %}
+{% block content %}
+<div class="error-wrapper">
+    <h1>500</h1>
+    <p>Sorry! Something went wrong on our end.</p>
+    <a href="/">← Return Home</a>
+</div>
+{% endblock %}

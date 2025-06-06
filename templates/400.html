@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block title %}400 - Bad Request{% endblock %}
+{% block extra_css %}
+<style>
+  .error-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 80vh;
+    text-align: center;
+    color: #333;
+    padding: 20px;
+  }
+
+  .error-wrapper h1 {
+    font-size: 6rem;
+    color: #e74c3c;
+    margin-bottom: 10px;
+  }
+
+  .error-wrapper p {
+    font-size: 1.25rem;
+    margin-bottom: 30px;
+  }
+
+  .error-wrapper a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0f52ba;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+
+  .error-wrapper a:hover {
+    background-color: #083d94;
+  }
+</style>
+{% endblock %}
+{% block content %}
+<div class="error-wrapper">
+    <h1>400</h1>
+    <p>Oops! Bad Request. The server couldn’t understand your request.</p>
+    <a href="/">← Back to Home</a>
+</div>
+{% endblock %}
