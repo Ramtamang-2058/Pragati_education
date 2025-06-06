@@ -16,13 +16,11 @@ def coming_soon(request):
     """Render the coming soon page"""
     return render(request, 'coming_soon.html')
 
-
 @csrf_exempt
 @require_http_methods(["POST"])
 def subscribe_email(request):
     """Handle email subscription for early access"""
     try:
-        breakpoint()
         data = json.loads(request.body)
         email = data.get('email', '').strip()
 
@@ -34,13 +32,19 @@ def subscribe_email(request):
                 'message': 'Please enter a valid email address.'
             }, status=400)
 
-        # Here you would typically save to database
-        # For now, we'll just send a confirmation email
-
+        # Save the email to the database
         try:
-            # save the email to a database
-            NotifyEmail(email=email).save()
-            # Send confirmation email
+            notify_email = NotifyEmail(email=email)
+            notify_email.save()
+        except Exception as e:
+            print(f"Database error: {str(e)}")
+            return JsonResponse({
+                'success': False,
+                'message': 'Failed to save email. Please try again.'
+            }, status=500)
+
+        # Send confirmation email
+        try:
             send_mail(
                 subject='Welcome to Pragati Education IELTS Preparation',
                 message=f'''
@@ -66,19 +70,18 @@ def subscribe_email(request):
                 recipient_list=[email],
                 fail_silently=False,
             )
-
-            return JsonResponse({
-                'success': True,
-                'message': 'Thank you! We\'ll notify you when we launch.'
-            })
-
         except Exception as e:
-            # Log the error in production
             print(f"Email sending failed: {str(e)}")
+            # Still return success since email is saved
             return JsonResponse({
                 'success': True,
                 'message': 'Thank you! We\'ll notify you when we launch.'
             })
+
+        return JsonResponse({
+            'success': True,
+            'message': 'Thank you! We\'ll notify you when we launch.'
+        })
 
     except json.JSONDecodeError:
         return JsonResponse({
@@ -87,6 +90,7 @@ def subscribe_email(request):
         }, status=400)
 
     except Exception as e:
+        print(f"Unexpected error: {str(e)}")
         return JsonResponse({
             'success': False,
             'message': 'Something went wrong. Please try again.'
