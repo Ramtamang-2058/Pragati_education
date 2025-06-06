@@ -11,3 +11,5 @@ staticfiles/
 .DS_Store
 .idea/
 *.env
+django.log
+logs/
