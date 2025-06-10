@@ -34,21 +34,21 @@ const VerifyOTPPage = () => {
   };
 
   return (
-    <div className="min-h-screen flex bg-gray-50">
-      <div className="flex-1 flex items-center justify-center p-6">
-        <div className="w-full max-w-md">
+    <div className="min-h-screen flex flex-col lg:flex-row bg-white overflow-auto">
+      <div className="flex-1 flex items-center justify-center p-[5%]">
+        <div className="w-[90%] max-w-[32rem]">
           <Logo />
-          <div className="bg-white rounded-3xl shadow-xl overflow-hidden">
-            <div className="px-8 pt-8 pb-6">
-              <div className="text-center space-y-2">
-                <h2 className="text-4xl font-bold text-gray-900 tracking-tight">Verify OTP</h2>
-                <p className="text-base text-gray-600">
+          <div className="bg-white rounded-[1.5rem] shadow-xl overflow-hidden">
+            <div className="px-[6%] py-[8%]">
+              <div className="text-center">
+                <h2 className="mt-[1.5rem] text-[2rem] font-bold text-red-700">Verify OTP</h2>
+                <p className="mt-[0.5rem] text-[0.875rem] text-gray-600">
                   Enter the 6-digit code sent to your email
                 </p>
               </div>
 
-              <div className="mt-12">
-                <div className="flex justify-center space-x-4">
+              <div className="mt-[2rem]">
+                <div className="flex justify-center gap-[3%]">
                   {otp.map((digit, index) => (
                     <input
                       key={index}
@@ -58,26 +58,24 @@ const VerifyOTPPage = () => {
                       value={digit}
                       onChange={(e) => handleChange(index, e.target.value)}
                       onKeyDown={(e) => handleKeyDown(index, e)}
-                      className="w-14 h-14 text-center text-2xl font-semibold border-2 rounded-xl transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-black focus:border-transparent"
+                      className="w-[15%] aspect-square text-center text-[1.5rem] font-semibold border-2 rounded-lg transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-black focus:border-transparent"
                     />
                   ))}
                 </div>
 
-                <button
-                  className="mt-8 w-full flex justify-center py-3 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-black hover:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500"
-                >
+                <button className="mt-[2rem] w-full flex justify-center py-[0.75rem] px-[1rem] border border-transparent rounded-md shadow-sm text-[0.875rem] font-medium text-white bg-black hover:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500">
                   Verify OTP
                 </button>
 
-                <div className="mt-4 text-center">
-                  <button className="text-sm text-red-600 hover:text-red-500">
+                <div className="mt-[1rem] text-center">
+                  <button className="text-[0.875rem] text-red-600 hover:text-red-500">
                     Resend OTP
                   </button>
                 </div>
               </div>
 
-              <div className="text-center">
-                <Link href="/login" className="text-sm text-red-600 hover:text-red-500">
+              <div className="mt-[1rem] text-center">
+                <Link href="/login" className="text-[0.875rem] text-red-600 hover:text-red-500">
                   Back to login
                 </Link>
               </div>
@@ -86,13 +84,13 @@ const VerifyOTPPage = () => {
         </div>
       </div>
       <div className="hidden lg:block lg:w-1/2">
-        <div className="h-full w-full relative">
+        <div className="h-[90vh] w-[90%] relative m-[5%] rounded-[1.5rem] overflow-hidden">
           <img
             src={IMAGES.verify}
             alt="Verification"
-            className="absolute inset-0 w-full h-full object-cover rounded-l-3xl"
+            className="absolute inset-0 w-full h-full object-cover rounded-[1.5rem]"
           />
-          <div className="absolute inset-0 bg-gradient-to-l from-black/40 to-black/20 rounded-l-3xl" />
+          <div className="absolute inset-0 bg-gradient-to-l from-black/40 to-black/20 rounded-[1.5rem]" />
         </div>
       </div>
     </div>

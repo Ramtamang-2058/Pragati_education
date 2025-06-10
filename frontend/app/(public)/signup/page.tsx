@@ -13,19 +13,19 @@ const SignupPage = () => {
   });
 
   return (
-    <div className="min-h-screen flex flex-row-reverse bg-gray-50">
-      <div className="flex-1 flex items-center justify-center p-6">
-        <div className="w-full max-w-md">
+    <div className="min-h-screen flex flex-col lg:flex-row-reverse bg-white overflow-auto">
+      <div className="flex-1 flex items-center justify-center p-[5%]">
+        <div className="w-[90%] max-w-[32rem]">
           <Logo />
-          <div className="bg-white rounded-3xl shadow-xl overflow-hidden">
-            <div className="px-8 pt-8 pb-6">
+          <div className="bg-white rounded-[1.5rem] shadow-xl overflow-hidden">
+            <div className="px-[6%] py-[8%]">
               <div className="text-center">
-                <h2 className="mt-6 text-3xl font-bold text-gray-900">Create an account</h2>
-                <p className="mt-2 text-sm text-gray-600">Join us today</p>
+                <h2 className="mt-[1.5rem] text-[2rem] font-bold text-red-700">Create an account</h2>
+                <p className="mt-[0.5rem] text-[0.875rem] text-gray-600">Join us today</p>
               </div>
               
-              <form className="mt-8 space-y-6">
-                <div className="rounded-md shadow-sm space-y-4">
+              <form className="mt-[2rem] space-y-[1.5rem]">
+                <div className="rounded-md shadow-sm space-y-[1rem]">
                   <input
                     type="text"
                     required
@@ -62,7 +62,7 @@ const SignupPage = () => {
 
                 <button
                   type="submit"
-                  className="w-full flex justify-center py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-black hover:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500"
+                  className="w-full flex justify-center py-[0.75rem] px-[1rem] border border-transparent rounded-md shadow-sm text-[0.875rem] font-medium text-white bg-black hover:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500"
                 >
                   Sign up
                 </button>
@@ -79,13 +79,13 @@ const SignupPage = () => {
         </div>
       </div>
       <div className="hidden lg:block lg:w-1/2">
-        <div className="h-full w-full relative">
+        <div className="h-[90vh] w-[90%] relative m-[5%] rounded-[1.5rem] overflow-hidden">
           <img
             src={IMAGES.signup}
             alt="Education"
-            className="absolute inset-0 w-full h-full object-cover rounded-r-3xl"
+            className="absolute inset-0 w-full h-full object-cover rounded-[1.5rem]"
           />
-          <div className="absolute inset-0 bg-gradient-to-r from-black/40 to-black/20 rounded-r-3xl" />
+          <div className="absolute inset-0 bg-gradient-to-r from-black/40 to-black/20 rounded-[1.5rem]" />
         </div>
       </div>
     </div>

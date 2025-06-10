@@ -57,26 +57,26 @@ const SubscriptionPage = () => {
       />
       <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/30 to-black/60" />
       
-      <div className="relative min-h-screen py-16 px-4 sm:px-6 lg:px-8">
-        <div className="max-w-5xl mx-auto">
-          <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-white tracking-tight">Choose your plan</h2>
-            <p className="mt-4 text-xl text-gray-200">Select a plan that works best for you</p>
+      <div className="relative min-h-screen py-[8%] px-[5%]">
+        <div className="max-w-[90rem] mx-auto">
+          <div className="text-center mb-[8%]">
+            <h2 className="text-[2.5rem] font-bold text-white tracking-tight">Choose your plan</h2>
+            <p className="mt-[1rem] text-[1.25rem] text-gray-200">Select a plan that works best for you</p>
           </div>
 
-          <div className="grid lg:grid-cols-3 gap-8 mb-12">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-[5%] mb-[5%]">
             {plans.map((plan) => (
               <div
                 key={plan.name}
-                className={`bg-white rounded-2xl p-8 transition-all duration-300 transform hover:-translate-y-1 ${
+                className={`bg-white rounded-[1rem] p-[8%] transition-all duration-300 transform hover:-translate-y-1 ${
                   selectedPlan === plan.name 
-                    ? 'ring-2 ring-black shadow-[0_8px_30px_rgb(0,0,0,0.16)]' 
-                    : 'shadow-[0_8px_30px_rgb(0,0,0,0.12)] hover:shadow-[0_8px_30px_rgb(0,0,0,0.16)]'
+                    ? 'ring-2 ring-black shadow-lg' 
+                    : 'shadow-md hover:shadow-lg'
                 }`}
               >
-                <h3 className="text-2xl font-bold">{plan.name}</h3>
-                <div className="mt-6 flex items-baseline">
-                  <span className="text-5xl font-extrabold">NPR {plan.price}</span>
+                <h3 className="text-[1.5rem] font-bold">{plan.name}</h3>
+                <div className="mt-[1.5rem] flex items-baseline">
+                  <span className="text-[2rem] font-extrabold">NPR {plan.price}</span>
                   <span className="ml-2 text-gray-600">/{plan.duration}</span>
                 </div>
                 <ul className="mt-6 space-y-2">
@@ -100,9 +100,9 @@ const SubscriptionPage = () => {
           </div>
 
           {selectedPlan && (
-            <div className="bg-white rounded-2xl p-8 shadow-[0_8px_30px_rgb(0,0,0,0.12)] transition-all duration-300">
-              <h3 className="text-xl font-semibold mb-6">Select payment method</h3>
-              <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+            <div className="bg-white rounded-[1rem] p-[5%] shadow-md transition-all duration-300">
+              <h3 className="text-[1.25rem] font-semibold mb-[1.5rem]">Select payment method</h3>
+              <div className="grid grid-cols-2 md:grid-cols-4 gap-[3%]">
                 {paymentMethods.map((method) => (
                   <div
                     key={method.id}
