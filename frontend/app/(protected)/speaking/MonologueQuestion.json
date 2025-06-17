@@ -1,0 +1,1502 @@
+[
+  {
+    "topic": "Hometown",
+    "monologue_questions": [
+      "Describe your hometown. What is it like, and what are its most distinctive features?",
+      "Tell me about a memorable experience you had growing up in your hometown.",
+      "How has your hometown evolved over the years, and what impact have these changes had?",
+      "If you could change one thing about your hometown, what would it be and why?",
+      "What role does your hometown play in your identity or sense of belonging?",
+      "Discuss a significant local event or tradition that is unique to your hometown.",
+      "Imagine a visitor is coming to your hometown. What places would you recommend they see and why?",
+      "How do people in your hometown typically spend their free time or socialize?",
+      "What are the main economic activities or industries in your hometown?",
+      "Reflect on whether you see yourself living in your hometown in the long term, and explain your reasons."
+    ]
+  },
+  {
+    "topic": "Home",
+    "monologue_questions": [
+      "Describe your current home. What are its most important features and why are they significant to you?",
+      "Explain what makes a home truly comfortable and inviting for you.",
+      "Discuss a particular room or space in your home that holds special meaning, and why.",
+      "If you could design your ideal home, what would it be like and what features would it include?",
+      "How has your home adapted to your needs or lifestyle over time?",
+      "Tell me about a memorable gathering or event that took place in your home.",
+      "What are the advantages and disadvantages of living in your current type of home (house/apartment)?",
+      "How do you personalize your living space to reflect your tastes and personality?",
+      "Discuss the importance of a home for personal well-being and family life.",
+      "Imagine you have to move to a completely different type of home. How would you adapt?"
+    ]
+  },
+  {
+    "topic": "Work",
+    "monologue_questions": [
+      "Describe your current job or a job you've had in the past. What were your main responsibilities?",
+      "Discuss what motivates you in your work and what you find most fulfilling about it.",
+      "Explain a challenging situation you faced at work and how you dealt with it.",
+      "How do you see your career developing in the next five to ten years?",
+      "Reflect on the importance of work in people's lives beyond just earning money.",
+      "Tell me about a memorable project or achievement from your work experience.",
+      "How has technology impacted the way people work in your field or country?",
+      "Discuss the qualities that you believe are essential for success in your profession.",
+      "If you could change one aspect of your work or the working world, what would it be?",
+      "Describe the typical working environment or culture in your workplace."
+    ]
+  },
+  {
+    "topic": "Study",
+    "monologue_questions": [
+      "Describe a subject or course that you are currently studying or have studied in the past. What aspects do you find most interesting?",
+      "Explain what motivated you to choose your particular field of study or chosen subject.",
+      "Discuss a significant challenge you've faced in your studies and how you overcame it.",
+      "How do you typically approach learning new material or preparing for exams?",
+      "Reflect on the long-term goals you hope to achieve through your education.",
+      "Tell me about a memorable learning experience or a moment when something clicked for you.",
+      "How has technology influenced your study habits or the way education is delivered?",
+      "Discuss the importance of lifelong learning in today's rapidly changing world.",
+      "If you could design a new course or subject for students, what would it be and why?",
+      "Describe the ideal learning environment for you, and explain why it suits your study style."
+    ]
+  },
+  {
+    "topic": "Daily routine",
+    "monologue_questions": [
+      "Describe your typical daily routine on a weekday, from morning to evening.",
+      "Explain how your daily routine differs on weekends or holidays, and what you enjoy about these differences.",
+      "Discuss any particular habits or rituals that are important parts of your daily routine.",
+      "If you could change one aspect of your daily routine, what would it be and why?",
+      "Reflect on the importance of having a routine or structure in your life.",
+      "Tell me about a time your daily routine was significantly disrupted, and how you managed it.",
+      "How has your daily routine evolved over different stages of your life?",
+      "Discuss the balance between productivity and relaxation in your daily routine.",
+      "Imagine you have a completely free day with no obligations. How would you spend it?",
+      "Describe how your daily routine reflects your personal priorities and values."
+    ]
+  },
+  {
+    "topic": "Free time",
+    "monologue_questions": [
+      "Describe how you typically spend your free time. What activities do you enjoy most?",
+      "Explain the importance of having free time in your life and how it contributes to your well-being.",
+      "Discuss a new hobby or activity you've recently tried or would like to try in your free time.",
+      "How has the way you spend your free time changed over the years?",
+      "Reflect on the balance between active pursuits and relaxation in your free time activities.",
+      "Tell me about a memorable experience you've had during your free time.",
+      "How do social media and technology influence the way people spend their free time today?",
+      "Discuss the benefits of engaging in various free time activities for personal growth and development.",
+      "If you had an unlimited amount of free time, how would you ideally fill your days?",
+      "Describe how your free time activities reflect your personality and interests."
+    ]
+  },
+  {
+    "topic": "Hobbies",
+    "monologue_questions": [
+      "Describe one of your favorite hobbies. How did you become interested in it?",
+      "Explain the skills or qualities that your hobby requires, and how you've developed them.",
+      "Discuss the personal benefits you gain from engaging in your hobby.",
+      "How has your hobby evolved or changed over time, if at all?",
+      "Reflect on how your hobby connects you with others or a wider community.",
+      "Tell me about a memorable achievement or moment related to your hobby.",
+      "How much time and effort do you dedicate to your hobby, and how do you manage it with other commitments?",
+      "Discuss the importance of having hobbies for mental well-being and work-life balance.",
+      "If you could learn any new hobby, what would it be and why?",
+      "Describe how your hobby allows you to express your creativity or passion."
+    ]
+  },
+  {
+    "topic": "Friends",
+    "monologue_questions": [
+      "Describe the qualities you value most in a friend, and explain why these are important to you.",
+      "Tell me about a memorable experience you've shared with a close friend.",
+      "Discuss how you maintain strong friendships, especially over long distances or busy schedules.",
+      "How have your friendships evolved at different stages of your life?",
+      "Reflect on the role that friends play in supporting you through challenging times.",
+      "Explain the difference between an acquaintance and a close friend, in your opinion.",
+      "How do social media platforms affect the way people interact with their friends today?",
+      "Discuss the importance of having a diverse group of friends with different perspectives.",
+      "If you could give one piece of advice about friendship, what would it be?",
+      "Describe a time when a friend truly made a difference in your life."
+    ]
+  },
+  {
+    "topic": "Family",
+    "monologue_questions": [
+      "Describe your family members and the relationships you have with them.",
+      "Tell me about a cherished family tradition or ritual that is important to you.",
+      "Discuss a memorable family gathering or event that you've experienced.",
+      "How has your family supported you through different stages of your life?",
+      "Reflect on the changing dynamics of family life in your country today.",
+      "Explain what 'family' means to you, beyond just blood relatives.",
+      "How do you maintain connections with family members who live far away?",
+      "Discuss the challenges and rewards of being part of a family.",
+      "If you could spend more time with your family, what activities would you do together?",
+      "Describe how your family has influenced your values and beliefs."
+    ]
+  },
+  {
+    "topic": "Childhood",
+    "monologue_questions": [
+      "Describe your most vivid or happy memory from your childhood.",
+      "Tell me about a significant lesson you learned during your childhood.",
+      "Discuss a favorite toy, game, or activity that occupied much of your time as a child.",
+      "How was your childhood different from the childhoods of children today?",
+      "Reflect on the role your parents or guardians played in shaping who you are today.",
+      "Explain a particular challenge or difficulty you faced during your childhood and how you overcame it.",
+      "Describe the neighborhood or environment where you grew up.",
+      "How important do you think it is for children to have a lot of free play?",
+      "If you could relive one day from your childhood, which day would it be and why?",
+      "Discuss how your childhood experiences have influenced your adult life."
+    ]
+  },
+  {
+    "topic": "Favorite food",
+    "monologue_questions": [
+      "Describe your favorite food. What are its ingredients, and what does it taste like?",
+      "Explain why this particular food is your favorite, perhaps recalling a special memory associated with it.",
+      "Discuss how this food is typically prepared and served in your culture.",
+      "How often do you get to eat your favorite food, and do you ever make it yourself?",
+      "Reflect on the role of food in bringing people together or celebrating special occasions.",
+      "Tell me about a time you tried to cook your favorite food and how it turned out.",
+      "How has your taste in food evolved over the years?",
+      "Discuss the importance of local or traditional foods in your country's culture.",
+      "If you could introduce your favorite food to someone from a different culture, what would you tell them about it?",
+      "Describe a time when food brought you comfort or joy."
+    ]
+  },
+  {
+    "topic": "Sleep",
+    "monologue_questions": [
+      "Describe your typical sleeping habits. How many hours of sleep do you usually get?",
+      "Explain the importance of sleep for your physical and mental well-being.",
+      "Discuss any challenges you face with getting enough or good quality sleep.",
+      "How has your sleep pattern changed at different stages of your life?",
+      "Reflect on the effects of sleep deprivation on your daily life.",
+      "Tell me about a time you had a very vivid dream or a particularly refreshing sleep.",
+      "How do you prepare for sleep or create a good sleeping environment?",
+      "Discuss the cultural perceptions of sleep or rest in your country.",
+      "If you could have a perfectly restful night's sleep every night, how do you think it would impact your life?",
+      "Describe the ideal conditions for you to get a good night's sleep."
+    ]
+  },
+  {
+    "topic": "Birthdays",
+    "monologue_questions": [
+      "Describe how birthdays are typically celebrated in your country.",
+      "Tell me about a memorable birthday celebration you've had or attended.",
+      "Discuss the significance of birthdays in marking personal growth and milestones.",
+      "How have birthday traditions changed for you as you've gotten older?",
+      "Reflect on the importance of gift-giving and receiving on birthdays.",
+      "Explain your favorite aspect of birthday celebrations.",
+      "How do you prefer to celebrate your own birthday: with a big party or a quiet gathering?",
+      "Discuss the role of food and cake in birthday celebrations in your culture.",
+      "If you could plan your dream birthday celebration, what would it involve?",
+      "Describe what makes a birthday truly special for you."
+    ]
+  },
+  {
+    "topic": "Shopping",
+    "monologue_questions": [
+      "Describe your typical shopping habits. What kind of things do you usually buy?",
+      "Explain your preferred method of shopping: online or in physical stores, and why.",
+      "Discuss a memorable shopping experience, positive or negative.",
+      "How has technology changed the way people shop in your country?",
+      "Reflect on the impact of consumerism and materialism on society.",
+      "Tell me about a time you made a purchase you later regretted, and what you learned from it.",
+      "How do you budget for your shopping, if at all?",
+      "Discuss the ethical considerations you might take into account when shopping (e.g., sustainable products, fair trade).",
+      "If you had an unlimited budget for one shopping trip, what would you buy?",
+      "Describe the atmosphere of your favorite place to go shopping."
+    ]
+  },
+  {
+    "topic": "Social media",
+    "monologue_questions": [
+      "Describe your experience with social media. Which platforms do you use most often and why?",
+      "Explain how social media has impacted your personal communication and relationships.",
+      "Discuss the advantages and disadvantages of using social media in today's world.",
+      "How has social media influenced the way news and information are shared?",
+      "Reflect on the concept of 'digital well-being' and how it relates to social media use.",
+      "Tell me about a time social media positively influenced an event or cause.",
+      "How do you manage your privacy and personal information on social media?",
+      "Discuss the role of social media in promoting or hindering real-life connections.",
+      "If you could design a new social media platform, what features would it have?",
+      "Describe how social media reflects or shapes cultural trends in your country."
+    ]
+  },
+  {
+    "topic": "Mobile phones",
+    "monologue_questions": [
+      "Describe how you use your mobile phone on a typical day. What are its most important functions for you?",
+      "Explain how mobile phones have transformed daily life and communication in your country.",
+      "Discuss the advantages and disadvantages of relying so heavily on mobile phones.",
+      "How has the design and functionality of mobile phones evolved since you first started using them?",
+      "Reflect on the concept of 'digital detox' and its relevance in a mobile-driven world.",
+      "Tell me about a time your mobile phone proved to be extremely useful or problematic.",
+      "How do you manage your screen time and avoid excessive mobile phone use?",
+      "Discuss the impact of mobile phones on social interactions in public spaces.",
+      "If you could add one new feature to mobile phones, what would it be and why?",
+      "Describe how mobile phones have changed the way people access information and entertainment."
+    ]
+  },
+  {
+    "topic": "Reading",
+    "monologue_questions": [
+      "Describe your reading habits. What kind of books or materials do you enjoy reading most?",
+      "Explain what motivates you to read and what you gain from it.",
+      "Discuss a book or article that has had a significant impact on you, and why.",
+      "How has your reading preference changed over the years?",
+      "Reflect on the benefits of reading for personal growth and knowledge acquisition.",
+      "Tell me about a memorable character from a book you've read.",
+      "How do e-books and audiobooks compare to traditional physical books for you?",
+      "Discuss the role of reading in education and lifelong learning.",
+      "If you could recommend one book to everyone, what would it be and why?",
+      "Describe the ideal environment for you to enjoy a good book."
+    ]
+  },
+  {
+    "topic": "Movies",
+    "monologue_questions": [
+      "Describe your favorite type of movie or a specific movie you enjoy. What makes it appealing?",
+      "Explain your preferred way to watch movies: at home, in the cinema, or elsewhere.",
+      "Discuss the role of movies in reflecting or shaping cultural values and trends.",
+      "How has the movie industry evolved with the rise of streaming platforms and new technologies?",
+      "Reflect on the impact of movies on your emotions or understanding of the world.",
+      "Tell me about a memorable experience you had watching a movie.",
+      "How do you choose which movies to watch, and do you read reviews?",
+      "Discuss the importance of special effects and cinematography in modern movies.",
+      "If you could be a character in any movie, who would you be and why?",
+      "Describe the atmosphere of a typical cinema experience in your country."
+    ]
+  },
+  {
+    "topic": "Music",
+    "monologue_questions": [
+      "Describe your taste in music. What genres or artists do you enjoy most and why?",
+      "Explain how music affects your mood and what role it plays in your daily life.",
+      "Discuss a memorable musical experience, such as a concert or a significant song.",
+      "How has your taste in music changed over the years, and what influenced these changes?",
+      "Reflect on the power of music to evoke memories or cultural connections.",
+      "Tell me about a time music helped you through a challenging situation.",
+      "How do you discover new music, and what are your preferred platforms for listening?",
+      "Discuss the importance of music education for children.",
+      "If you could learn to play any musical instrument, which one would it be and why?",
+      "Describe how music expresses emotion and tells stories."
+    ]
+  },
+  {
+    "topic": "Pets",
+    "monologue_questions": [
+      "Describe a pet you have or have had in the past, or a pet you would like to have.",
+      "Explain the benefits of having a pet for individuals and families.",
+      "Discuss the responsibilities involved in owning a pet.",
+      "How do pets contribute to the emotional well-being of their owners?",
+      "Reflect on the bond between humans and animals.",
+      "Tell me about a memorable or humorous incident involving a pet.",
+      "How do cultural attitudes towards pets vary in your country or around the world?",
+      "Discuss the challenges of pet ownership, particularly in urban environments.",
+      "If you could communicate with animals, what would you ask your pet?",
+      "Describe the role of pets in modern society."
+    ]
+  },
+  {
+    "topic": "Clothing",
+    "monologue_questions": [
+      "Describe your personal style when it comes to clothing. What kind of clothes do you usually wear?",
+      "Explain how clothing can express a person's identity or mood.",
+      "Discuss a memorable outfit you've worn for a special occasion.",
+      "How have fashion trends changed in your country over the past few decades?",
+      "Reflect on the balance between comfort and style in clothing choices.",
+      "Tell me about a time when clothing played a significant role in a cultural event or celebration.",
+      "How do you decide what to wear each day, and what factors influence your choices?",
+      "Discuss the impact of the fashion industry on the environment.",
+      "If you could design a new piece of clothing, what would it be and why?",
+      "Describe how traditional clothing in your country reflects its history and culture."
+    ]
+  },
+  {
+    "topic": "Travel",
+    "monologue_questions": [
+      "Describe a memorable trip you've taken. Where did you go, and what did you experience?",
+      "Explain what motivates you to travel and what you hope to gain from your journeys.",
+      "Discuss the advantages and disadvantages of different types of travel (e.g., solo, group, budget, luxury).",
+      "How has your approach to travel changed over the years?",
+      "Reflect on the impact of tourism on local cultures and economies.",
+      "Tell me about a challenging situation you faced while traveling and how you resolved it.",
+      "How do you plan for a trip, from choosing a destination to packing?",
+      "Discuss the importance of cultural immersion when traveling to new places.",
+      "If you could travel anywhere in the world, where would you go and why?",
+      "Describe how travel broadens one's perspective and understanding of the world."
+    ]
+  },
+  {
+    "topic": "Transportation",
+    "monologue_questions": [
+      "Describe the most common forms of transportation in your city or region.",
+      "Explain your preferred mode of transportation and why you choose it.",
+      "Discuss the challenges and solutions related to transportation in urban areas.",
+      "How has transportation evolved in your country over the past few decades?",
+      "Reflect on the environmental impact of various transportation methods.",
+      "Tell me about a memorable experience using public transportation.",
+      "How do advancements in technology impact future transportation solutions?",
+      "Discuss the importance of efficient transportation systems for a city's economy and quality of life.",
+      "If you could design a new mode of public transportation, what would it be like?",
+      "Describe how transportation choices affect daily routines and lifestyles."
+    ]
+  },
+  {
+    "topic": "Driving",
+    "monologue_questions": [
+      "Describe your experience with driving. Do you drive often, and what do you enjoy about it?",
+      "Explain the advantages and disadvantages of driving as a primary mode of transportation.",
+      "Discuss a memorable driving experience, positive or challenging.",
+      "How has driving changed with the introduction of new technologies (e.g., GPS, electric cars)?",
+      "Reflect on the responsibilities of being a driver and road safety.",
+      "Tell me about a time you had a problem while driving and how you resolved it.",
+      "How do driving habits and road etiquette vary in your country compared to others?",
+      "Discuss the environmental concerns associated with driving and potential solutions.",
+      "If you could change one aspect of driving or road conditions, what would it be?",
+      "Describe the role of driving in people's daily lives in your society."
+    ]
+  },
+  {
+    "topic": "Walking",
+    "monologue_questions": [
+      "Describe how often you walk and for what purposes (e.g., exercise, commuting, leisure).",
+      "Explain the benefits of walking for physical and mental health.",
+      "Discuss a favorite place or route where you enjoy walking, and what makes it special.",
+      "How has walking as a form of transportation or recreation changed in your city?",
+      "Reflect on the simple pleasure and observational opportunities that walking offers.",
+      "Tell me about a memorable walk you've taken, perhaps in nature or a new city.",
+      "How can urban planning encourage more people to walk in cities?",
+      "Discuss the challenges that pedestrians face in your area.",
+      "If you could design a perfect walking path or trail, what features would it have?",
+      "Describe how walking connects you to your surroundings and community."
+    ]
+  },
+  {
+    "topic": "Weather",
+    "monologue_questions": [
+      "Describe the typical weather patterns in your region throughout the year.",
+      "Explain how different types of weather affect your mood and daily activities.",
+      "Discuss a memorable weather event you have experienced.",
+      "How do people in your country adapt to extreme weather conditions?",
+      "Reflect on the impact of climate change on the weather patterns you observe.",
+      "Tell me about your favorite type of weather and what you enjoy doing in it.",
+      "How do weather forecasts influence your plans?",
+      "Discuss the role of weather in agriculture and daily life in your country.",
+      "If you could control the weather for one day, what kind of weather would you create?",
+      "Describe how weather inspires art, literature, or cultural expressions."
+    ]
+  },
+  {
+    "topic": "Seasons",
+    "monologue_questions": [
+      "Describe the different seasons in your country and their most distinctive characteristics.",
+      "Explain which season is your favorite and why, detailing the activities you enjoy during that time.",
+      "Discuss how people's daily routines and lifestyles change with the seasons.",
+      "How have the seasons changed in terms of their timing or intensity in recent years?",
+      "Reflect on the cultural significance of different seasons in your country.",
+      "Tell me about a memorable experience associated with a particular season.",
+      "How do the seasons influence the local food and traditions?",
+      "Discuss the challenges that extreme changes in seasons can bring.",
+      "If you could experience a season from another part of the world, which would it be and why?",
+      "Describe how the changing seasons evoke different emotions or feelings in you."
+    ]
+  },
+  {
+    "topic": "Pollution",
+    "monologue_questions": [
+      "Describe the most pressing forms of pollution in your city or country.",
+      "Explain the main causes of these types of pollution.",
+      "Discuss the impact of pollution on public health and the environment.",
+      "How have efforts to combat pollution evolved over the years in your country?",
+      "Reflect on the responsibility of individuals versus governments and industries in tackling pollution.",
+      "Tell me about a time you witnessed significant pollution and how it made you feel.",
+      "How do you think technology can help in reducing pollution?",
+      "Discuss the challenges involved in convincing people to adopt more eco-friendly habits.",
+      "If you could implement one major policy to reduce pollution, what would it be?",
+      "Describe the vision of a city or country with minimal pollution."
+    ]
+  },
+  {
+    "topic": "Recycling",
+    "monologue_questions": [
+      "Describe your personal recycling habits and what items you typically recycle.",
+      "Explain the importance of recycling for environmental sustainability.",
+      "Discuss the challenges associated with recycling in your community or country.",
+      "How has the practice of recycling changed or improved in recent years?",
+      "Reflect on the broader concept of waste management and reducing consumption.",
+      "Tell me about an initiative or campaign that successfully promoted recycling in your area.",
+      "How do you think technology can further improve recycling processes?",
+      "Discuss the role of education in encouraging more people to recycle.",
+      "If you could make one change to the recycling system in your area, what would it be?",
+      "Describe the benefits of a circular economy where waste is minimized."
+    ]
+  },
+  {
+    "topic": "Nature",
+    "monologue_questions": [
+      "Describe your favorite natural place to visit. What makes it special to you?",
+      "Explain the benefits of spending time in nature for mental and physical well-being.",
+      "Discuss a memorable experience you've had in nature.",
+      "How has the accessibility of natural spaces changed in your area?",
+      "Reflect on the importance of preserving natural environments for future generations.",
+      "Tell me about a time you observed wildlife in its natural habitat.",
+      "How do human activities impact natural environments in your country?",
+      "Discuss the role of environmental education in fostering appreciation for nature.",
+      "If you could introduce a new initiative to protect a natural area, what would it be?",
+      "Describe how nature inspires creativity or a sense of awe."
+    ]
+  },
+  {
+    "topic": "Forests",
+    "monologue_questions": [
+      "Describe the types of forests found in your country or region.",
+      "Explain the ecological importance of forests for the planet.",
+      "Discuss a memorable experience you've had in a forest, perhaps hiking or camping.",
+      "How are forests in your country being impacted by human activities or climate change?",
+      "Reflect on the challenges and successes of forest conservation efforts.",
+      "Tell me about a particular tree or plant species that is significant in your country's forests.",
+      "How do local communities interact with forests, and what are their traditional uses?",
+      "Discuss the economic benefits that forests provide, such as timber or tourism.",
+      "If you could implement a program to restore a degraded forest area, what would it involve?",
+      "Describe the unique atmosphere and sounds of a healthy forest."
+    ]
+  },
+  {
+    "topic": "Rivers",
+    "monologue_questions": [
+      "Describe a significant river in your country or one that you are familiar with.",
+      "Explain the historical or cultural importance of rivers in your region.",
+      "Discuss the various ways people utilize rivers today (e.g., transportation, agriculture, recreation).",
+      "How are rivers being affected by pollution or other environmental issues in your country?",
+      "Reflect on the challenges and efforts involved in river conservation and management.",
+      "Tell me about a memorable experience you've had near a river, such as a picnic or a boat trip.",
+      "How do rivers contribute to the biodiversity of an area?",
+      "Discuss the economic activities that depend on healthy river systems.",
+      "If you could improve the health of one river, what specific actions would you take?",
+      "Describe the changing landscape along a river from its source to its mouth."
+    ]
+  },
+  {
+    "topic": "Wildlife",
+    "monologue_questions": [
+      "Describe some common wildlife species found in your country or region.",
+      "Explain the importance of protecting wildlife and biodiversity.",
+      "Discuss a memorable encounter you've had with wildlife, either in nature or a protected area.",
+      "How are wildlife populations in your country being threatened?",
+      "Reflect on the ethical considerations surrounding human interaction with wildlife.",
+      "Tell me about a conservation project or effort aimed at protecting a specific species.",
+      "How does urbanization and development impact wildlife habitats?",
+      "Discuss the role of wildlife tourism and its potential benefits and drawbacks.",
+      "If you could choose one endangered species to protect, which would it be and why?",
+      "Describe the unique adaptations or behaviors of a particular wild animal."
+    ]
+  },
+  {
+    "topic": "Climate change",
+    "monologue_questions": [
+      "Describe what you understand by 'climate change' and its primary causes.",
+      "Explain the most significant impacts of climate change that you've observed or heard about in your country.",
+      "Discuss the urgency of addressing climate change and why it requires global cooperation.",
+      "How has public awareness and concern about climate change evolved in your society?",
+      "Reflect on the role of individual actions versus governmental policies in combating climate change.",
+      "Tell me about a news story or personal experience that highlights the effects of climate change.",
+      "How do different sectors, like agriculture or energy, contribute to and are affected by climate change?",
+      "Discuss the ethical responsibilities of developed nations concerning climate change.",
+      "If you could implement one major solution to combat climate change, what would it be?",
+      "Describe the vision of a sustainable future in the face of climate change."
+    ]
+  },
+  {
+    "topic": "Sustainable living",
+    "monologue_questions": [
+      "Describe what 'sustainable living' means to you in your daily life.",
+      "Explain the main reasons why sustainable living is becoming increasingly important.",
+      "Discuss some practical steps individuals can take to live more sustainably.",
+      "How has the concept of sustainable living evolved in your country or globally?",
+      "Reflect on the challenges people face when trying to adopt a more sustainable lifestyle.",
+      "Tell me about a time you made a conscious effort to live more sustainably and its outcome.",
+      "How do businesses and industries contribute to or hinder sustainable living?",
+      "Discuss the role of education in promoting sustainable practices.",
+      "If you could design a 'sustainable community,' what features would it have?",
+      "Describe the long-term benefits of widespread adoption of sustainable living practices."
+    ]
+  },
+  {
+    "topic": "School",
+    "monologue_questions": [
+      "Describe your most memorable experience from your school days.",
+      "Explain the importance of school beyond just academic learning.",
+      "Discuss a particular subject or teacher that had a significant impact on you at school.",
+      "How has the education system in your country changed since you were a student?",
+      "Reflect on the balance between academic pressure and extracurricular activities in schools.",
+      "Tell me about a challenge you faced at school and how you overcame it.",
+      "How do schools prepare students for future careers and life challenges?",
+      "Discuss the role of technology in modern schooling.",
+      "If you could design your ideal school, what would it be like?",
+      "Describe the atmosphere of your former school and what made it unique."
+    ]
+  },
+  {
+    "topic": "Teachers",
+    "monologue_questions": [
+      "Describe the qualities of a truly effective and inspiring teacher.",
+      "Explain how a particular teacher influenced your academic or personal development.",
+      "Discuss the challenges and rewards of being a teacher in today's world.",
+      "How has the role of teachers changed with advancements in technology and online learning?",
+      "Reflect on the importance of a good teacher beyond just imparting knowledge.",
+      "Tell me about a memorable lesson or teaching method employed by a teacher.",
+      "How do teachers foster a positive learning environment in the classroom?",
+      "Discuss the importance of professional development and continuous learning for teachers.",
+      "If you could become a teacher, what subject would you teach and what would be your teaching philosophy?",
+      "Describe the impact that teachers have on society as a whole."
+    ]
+  },
+  {
+    "topic": "Subjects",
+    "monologue_questions": [
+      "Describe a subject that you found particularly challenging during your studies, and why.",
+      "Explain the importance of studying a diverse range of subjects in school.",
+      "Discuss a subject that you believe should be given more emphasis in the curriculum, and why.",
+      "How have the methods of teaching and learning for certain subjects evolved?",
+      "Reflect on the practical applications of different school subjects in real life.",
+      "Tell me about a time when learning a particular subject sparked your curiosity or passion.",
+      "How do students choose their subjects in your country's education system?",
+      "Discuss the role of interdisciplinary studies in understanding complex issues.",
+      "If you could introduce a completely new subject into the curriculum, what would it be and what would it cover?",
+      "Describe how different subjects appeal to different learning styles."
+    ]
+  },
+  {
+    "topic": "Exams",
+    "monologue_questions": [
+      "Describe your feelings and preparations when faced with important exams.",
+      "Explain the arguments for and against using exams as a primary method of assessment.",
+      "Discuss a memorable exam experience, whether positive or particularly challenging.",
+      "How have exam formats and technologies changed over the years?",
+      "Reflect on the impact of exam pressure on students' mental health.",
+      "Tell me about an alternative assessment method you believe could be more effective than exams.",
+      "How do exams influence the way students learn and teachers teach?",
+      "Discuss the role of exams in determining future academic or career paths.",
+      "If you could redesign the examination system, what changes would you make?",
+      "Describe the atmosphere in a typical examination hall."
+    ]
+  },
+  {
+    "topic": "Online learning",
+    "monologue_questions": [
+      "Describe your experience with online learning, whether as a student or otherwise.",
+      "Explain the main advantages and disadvantages of online learning compared to traditional classroom settings.",
+      "Discuss how online learning has impacted access to education globally.",
+      "How has technology transformed the tools and platforms used for online learning?",
+      "Reflect on the challenges of maintaining focus and motivation in an online learning environment.",
+      "Tell me about a specific online course or resource that you found particularly effective.",
+      "How do you think online learning will evolve in the future?",
+      "Discuss the role of online learning in lifelong education and professional development.",
+      "If you could design an ideal online learning platform, what features would it include?",
+      "Describe how online learning fosters self-discipline and independent study."
+    ]
+  },
+  {
+    "topic": "Homework",
+    "monologue_questions": [
+      "Describe your typical approach to doing homework when you were a student.",
+      "Explain the purpose of homework and whether you believe it is always beneficial.",
+      "Discuss the ideal amount of homework that students should receive.",
+      "How has the nature of homework changed with the advent of online resources and technology?",
+      "Reflect on the role of parents in assisting their children with homework.",
+      "Tell me about a particularly challenging or enjoyable homework assignment you remember.",
+      "How does homework contribute to a student's overall learning and academic performance?",
+      "Discuss the arguments for and against abolishing homework.",
+      "If you could design a new type of homework assignment, what would it be?",
+      "Describe the atmosphere of a typical home when children are doing their homework."
+    ]
+  },
+  {
+    "topic": "Study habits",
+    "monologue_questions": [
+      "Describe your most effective study habits. What methods do you find work best for you?",
+      "Explain the importance of developing good study habits for academic success.",
+      "Discuss a time when you struggled with a particular subject and how you adjusted your study habits to improve.",
+      "How have your study habits evolved from your school days to your current learning endeavors?",
+      "Reflect on the role of environment and time management in effective studying.",
+      "Tell me about a specific study technique or tool that you find particularly useful.",
+      "How do you stay motivated and avoid procrastination when it comes to studying?",
+      "Discuss the benefits of studying alone versus studying with a group.",
+      "If you could give one piece of advice to a struggling student about study habits, what would it be?",
+      "Describe how good study habits can extend beyond academics into other areas of life."
+    ]
+  },
+  {
+    "topic": "Foreign languages",
+    "monologue_questions": [
+      "Describe your experience learning a foreign language. Which language was it, and what were the challenges?",
+      "Explain the benefits of being bilingual or multilingual in today's globalized world.",
+      "Discuss a memorable experience you've had using a foreign language, perhaps while traveling.",
+      "How important do you think it is for children to start learning foreign languages at a young age?",
+      "Reflect on the connection between language and culture.",
+      "Tell me about a cultural insight you gained through learning a foreign language.",
+      "How do modern technologies, like language apps, aid in foreign language acquisition?",
+      "Discuss the role of immersion in becoming fluent in a new language.",
+      "If you could learn any foreign language instantly, which one would it be and why?",
+      "Describe how learning a foreign language changes your perspective on your own language."
+    ]
+  },
+  {
+    "topic": "Education",
+    "monologue_questions": [
+      "Describe what 'education' means to you, beyond formal schooling.",
+      "Explain the primary purpose of education in society, in your opinion.",
+      "Discuss how the education system in your country addresses the diverse needs of students.",
+      "How has the concept of education evolved with advancements in technology and global changes?",
+      "Reflect on the idea of lifelong learning and its importance in modern life.",
+      "Tell me about a significant educational experience that shaped your views or career path.",
+      "How do you think education can contribute to solving global challenges?",
+      "Discuss the balance between theoretical knowledge and practical skills in education.",
+      "If you could reform the education system in your country, what would be your top priority?",
+      "Describe the role of education in fostering critical thinking and creativity."
+    ]
+  },
+  {
+    "topic": "University",
+    "monologue_questions": [
+      "Describe your experience at university, or what you imagine university life to be like if you haven't attended.",
+      "Explain the main reasons why people choose to attend university.",
+      "Discuss the advantages and disadvantages of pursuing a university degree in today's job market.",
+      "How has the role of universities changed in your country over the past few decades?",
+      "Reflect on the balance between academic learning and personal development at university.",
+      "Tell me about a memorable social or extracurricular activity you participated in at university.",
+      "How do universities prepare students for the workforce and real-world challenges?",
+      "Discuss the financial implications of attending university and potential solutions for affordability.",
+      "If you could choose any subject to study at university now, what would it be and why?",
+      "Describe the unique atmosphere of a university campus."
+    ]
+  },
+  {
+    "topic": "Internet",
+    "monologue_questions": [
+      "Describe how you use the internet on a daily basis. What are its most valuable functions for you?",
+      "Explain how the internet has transformed various aspects of modern life, such as communication or commerce.",
+      "Discuss the major advantages and disadvantages of the internet for individuals and society.",
+      "How has the internet influenced the way people access information and news?",
+      "Reflect on the concept of 'digital citizenship' and responsible internet use.",
+      "Tell me about a time the internet proved to be incredibly useful or presented a significant challenge.",
+      "How do you manage your online privacy and security?",
+      "Discuss the future potential of the internet and emerging technologies like the metaverse.",
+      "If you could add one new feature or service to the internet, what would it be?",
+      "Describe how the internet connects people across geographical boundaries."
+    ]
+  },
+  {
+    "topic": "Computers",
+    "monologue_questions": [
+      "Describe your experience using computers. What tasks do you primarily use them for?",
+      "Explain how computers have revolutionized the way people work, learn, and entertain themselves.",
+      "Discuss the impact of computers on industries and professions in your country.",
+      "How have computers evolved from their early forms to the devices we use today?",
+      "Reflect on the importance of digital literacy in a world increasingly reliant on computers.",
+      "Tell me about a time a computer helped you solve a complex problem or create something new.",
+      "How do you ensure the security and maintenance of your computer?",
+      "Discuss the potential future developments of computing technology.",
+      "If you could invent a new type of computer, what capabilities would it have?",
+      "Describe the ubiquity of computers in modern society and their impact on daily life."
+    ]
+  },
+  {
+    "topic": "Artificial intelligence",
+    "monologue_questions": [
+      "Describe your current understanding of Artificial Intelligence (AI).",
+      "Explain the potential benefits of AI for society, such as in healthcare or education.",
+      "Discuss the ethical concerns and potential risks associated with the development and deployment of AI.",
+      "How do you think AI will impact the job market and various industries in the future?",
+      "Reflect on the concept of AI achieving consciousness or human-level intelligence.",
+      "Tell me about an application of AI that you find particularly impressive or concerning.",
+      "How can governments and organizations regulate the development of AI responsibly?",
+      "Discuss the role of AI in creative fields, such as art or music.",
+      "If you could ask an AI system any question, what would it be?",
+      "Describe a future scenario where AI plays a significant role in daily life."
+    ]
+  },
+  {
+    "topic": "Robots",
+    "monologue_questions": [
+      "Describe your perception of robots. What comes to mind when you hear the word 'robot'?",
+      "Explain the different ways robots are currently being used in various industries.",
+      "Discuss the advantages and disadvantages of using robots in everyday life.",
+      "How do you think robots will impact human society in the next few decades?",
+      "Reflect on the ethical considerations of creating increasingly intelligent robots.",
+      "Tell me about a specific robot or robotic application that you find fascinating or alarming.",
+      "How do fictional portrayals of robots in movies or books compare to real-world robotics?",
+      "Discuss the potential for robots to perform tasks that are currently done by humans.",
+      "If you could design a personal robot assistant, what tasks would it perform for you?",
+      "Describe the concept of human-robot interaction and its future implications."
+    ]
+  },
+  {
+    "topic": "News",
+    "monologue_questions": [
+      "Describe how you typically get your news and information. What sources do you rely on?",
+      "Explain the importance of staying informed about current events.",
+      "Discuss the challenges of distinguishing reliable news from misinformation in the digital age.",
+      "How has the way news is delivered and consumed changed with the rise of social media?",
+      "Reflect on the impact of constant news cycles on people's mental well-being.",
+      "Tell me about a news story that had a significant impact on you or your community.",
+      "How do different news outlets or platforms present information differently?",
+      "Discuss the role of investigative journalism in a democratic society.",
+      "If you could change one aspect of how news is reported, what would it be?",
+      "Describe how local news differs from international news in terms of its impact."
+    ]
+  },
+  {
+    "topic": "Television",
+    "monologue_questions": [
+      "Describe your television viewing habits. What kind of programs or genres do you enjoy?",
+      "Explain how television has evolved from traditional broadcasting to streaming services.",
+      "Discuss the impact of television on family life and social interactions.",
+      "How has television influenced cultural trends and public opinion in your country?",
+      "Reflect on the balance between entertainment and educational content on television.",
+      "Tell me about a memorable television show or series that you enjoyed.",
+      "How do you think advertising on television affects consumers?",
+      "Discuss the future of television in an age of personalized content and on-demand viewing.",
+      "If you could create a new TV show, what would it be about?",
+      "Describe the comfort and appeal of watching television at home."
+    ]
+  },
+  {
+    "topic": "Online shopping",
+    "monologue_questions": [
+      "Describe your experience with online shopping. What kinds of products do you usually buy online?",
+      "Explain the main advantages and disadvantages of online shopping compared to traditional retail.",
+      "Discuss the security concerns and trust issues associated with online transactions.",
+      "How has online shopping influenced the traditional retail landscape in your country?",
+      "Reflect on the concept of instant gratification and its role in online shopping.",
+      "Tell me about a particularly good or bad experience you've had with online shopping.",
+      "How do online reviews and recommendations influence your purchasing decisions?",
+      "Discuss the environmental impact of online shopping, such as packaging and delivery.",
+      "If you could improve one aspect of online shopping, what would it be?",
+      "Describe how online shopping has changed consumer behavior and expectations."
+    ]
+  },
+  {
+    "topic": "Video games",
+    "monologue_questions": [
+      "Describe your experience with video games, if any. What genres or platforms do you prefer?",
+      "Explain the appeal of video games for different age groups.",
+      "Discuss the potential benefits and drawbacks of playing video games.",
+      "How has the video game industry evolved from simple arcade games to complex virtual worlds?",
+      "Reflect on the social aspect of video gaming, including online communities and e-sports.",
+      "Tell me about a memorable moment or achievement you've had while playing a video game.",
+      "How do you think video games can be used for educational or training purposes?",
+      "Discuss the concerns around video game addiction and its impact on mental health.",
+      "If you could design a new video game, what would its concept be?",
+      "Describe the immersive experience that modern video games can offer."
+    ]
+  },
+  {
+    "topic": "Cybersecurity",
+    "monologue_questions": [
+      "Describe your understanding of cybersecurity and its importance in today's digital world.",
+      "Explain the common types of cyber threats that individuals and organizations face.",
+      "Discuss the measures you take to protect your personal information and devices online.",
+      "How has the landscape of cybersecurity evolved with technological advancements?",
+      "Reflect on the balance between online convenience and security.",
+      "Tell me about a time you or someone you know encountered a cybersecurity issue and how it was resolved.",
+      "How can governments and international bodies work together to combat cybercrime?",
+      "Discuss the ethical dilemmas surrounding government surveillance and data privacy.",
+      "If you could give one piece of advice to someone about cybersecurity, what would it be?",
+      "Describe the potential consequences of a major cybersecurity breach on a national or global scale."
+    ]
+  },
+  {
+    "topic": "Streaming platforms",
+    "monologue_questions": [
+      "Describe your experience with streaming platforms. Which ones do you use and for what content?",
+      "Explain how streaming platforms have transformed the entertainment industry.",
+      "Discuss the advantages and disadvantages of having so many streaming options.",
+      "How do streaming platforms personalize content recommendations for users?",
+      "Reflect on the impact of 'binge-watching' on viewing habits.",
+      "Tell me about a specific show or movie you discovered through a streaming platform that you really enjoyed.",
+      "How do streaming platforms compete with traditional television broadcasting?",
+      "Discuss the future of content creation and distribution in the streaming era.",
+      "If you could request a specific type of content for a streaming platform, what would it be?",
+      "Describe the convenience and accessibility that streaming platforms offer."
+    ]
+  },
+  {
+    "topic": "Festivals",
+    "monologue_questions": [
+      "Describe a significant festival in your country. What is its origin and how is it celebrated?",
+      "Explain the importance of festivals in preserving cultural identity and traditions.",
+      "Discuss a memorable experience you've had participating in or observing a festival.",
+      "How have modern influences or globalization affected traditional festivals in your country?",
+      "Reflect on the role of festivals in bringing communities together.",
+      "Tell me about the typical food, music, or clothing associated with this festival.",
+      "How do different generations participate in and perceive festivals?",
+      "Discuss the economic impact of festivals on local communities.",
+      "If you could attend any festival in the world, which one would it be and why?",
+      "Describe the atmosphere and emotions associated with a major public festival."
+    ]
+  },
+  {
+    "topic": "Traditions",
+    "monologue_questions": [
+      "Describe a cherished tradition in your family or community. What makes it special?",
+      "Explain the purpose and value of maintaining traditions in a rapidly changing world.",
+      "Discuss how traditions are passed down from one generation to the next.",
+      "How have some traditions in your country adapted or changed over time?",
+      "Reflect on the connection between traditions and a sense of belonging or identity.",
+      "Tell me about a time when a tradition brought people together or resolved a conflict.",
+      "How do different cultures celebrate similar events with unique traditions?",
+      "Discuss the challenges of preserving traditions in the face of modernization.",
+      "If you could start a new tradition in your community, what would it be?",
+      "Describe the feeling of continuity and history that traditions evoke."
+    ]
+  },
+  {
+    "topic": "Local food",
+    "monologue_questions": [
+      "Describe a signature local food from your region or country. What are its main ingredients and flavors?",
+      "Explain the cultural significance of this local food and when it is typically eaten.",
+      "Discuss how local food is prepared and served, and if there are specific rituals involved.",
+      "How has the availability or popularity of local food changed with globalization?",
+      "Reflect on the concept of 'farm-to-table' and its importance for local food systems.",
+      "Tell me about a memorable experience you had trying or preparing a local dish.",
+      "How do local food markets and restaurants contribute to the community?",
+      "Discuss the challenges faced by local food producers and sustainable farming.",
+      "If you could introduce your local food to someone from a completely different culture, what would you emphasize?",
+      "Describe the role of local food in expressing regional identity."
+    ]
+  },
+  {
+    "topic": "Art",
+    "monologue_questions": [
+      "Describe your personal connection to art. What forms of art do you appreciate most?",
+      "Explain the various roles that art plays in society, such as expression or commentary.",
+      "Discuss a specific piece of art (painting, sculpture, music, performance) that has moved you.",
+      "How has the definition of 'art' expanded or changed in modern times?",
+      "Reflect on the importance of art education for children and adults.",
+      "Tell me about a time you created a piece of art or participated in an artistic activity.",
+      "How do different cultures express themselves through unique art forms?",
+      "Discuss the challenges faced by artists in making a living from their work.",
+      "If you could commission a new piece of public art for your city, what would it be?",
+      "Describe the power of art to communicate ideas and emotions across time and cultures."
+    ]
+  },
+  {
+    "topic": "Museums",
+    "monologue_questions": [
+      "Describe your experiences visiting museums. What types of museums do you enjoy most?",
+      "Explain the primary purpose of museums in preserving history, culture, and knowledge.",
+      "Discuss a particularly memorable exhibition or artifact you've seen in a museum.",
+      "How have museums adapted to engage a wider and more diverse audience?",
+      "Reflect on the role of technology in enhancing the museum experience.",
+      "Tell me about a time a museum visit sparked your curiosity or changed your perspective.",
+      "How do museums balance preservation with accessibility for the public?",
+      "Discuss the importance of museums for education and research.",
+      "If you could create a new type of museum, what would its theme be?",
+      "Describe the atmosphere of a quiet and contemplative museum space."
+    ]
+  },
+  {
+    "topic": "Public holidays",
+    "monologue_questions": [
+      "Describe a significant public holiday in your country. How is it celebrated?",
+      "Explain the purpose of public holidays and their importance for society.",
+      "Discuss how families and communities typically spend their time on public holidays.",
+      "How have public holidays in your country evolved or been added over time?",
+      "Reflect on the balance between national remembrance and personal relaxation during public holidays.",
+      "Tell me about a memorable experience you've had during a public holiday.",
+      "How do public holidays impact the economy and daily routines?",
+      "Discuss the advantages and disadvantages of having many or few public holidays.",
+      "If you could create a new public holiday, what would it commemorate and how would it be celebrated?",
+      "Describe the collective mood or spirit during a public holiday."
+    ]
+  },
+  {
+    "topic": "Superstitions",
+    "monologue_questions": [
+      "Describe a common superstition that exists in your country or culture.",
+      "Explain the origins or beliefs behind this superstition.",
+      "Discuss whether you or people you know believe in or follow this superstition.",
+      "How do superstitions influence people's daily behavior or decision-making?",
+      "Reflect on the role of superstitions in providing comfort or a sense of control.",
+      "Tell me about a time you encountered a superstition, even if you didn't believe it.",
+      "How do superstitions vary across different cultures or regions?",
+      "Discuss the difference between a superstition and a religious belief.",
+      "If you could dispel one widespread superstition, which would it be and why?",
+      "Describe how superstitions are passed down through generations."
+    ]
+  },
+  {
+    "topic": "Gender equality",
+    "monologue_questions": [
+      "Describe what 'gender equality' means to you in a practical sense.",
+      "Explain the progress that has been made towards gender equality in your country.",
+      "Discuss the remaining challenges or areas where gender inequality persists.",
+      "How do societal norms and cultural expectations influence gender roles?",
+      "Reflect on the benefits of achieving full gender equality for all members of society.",
+      "Tell me about an instance where you observed or experienced gender inequality.",
+      "How can education and awareness campaigns promote gender equality?",
+      "Discuss the role of government policies and legislation in advancing gender equality.",
+      "If you could implement one major initiative to promote gender equality, what would it be?",
+      "Describe the vision of a society where true gender equality has been achieved."
+    ]
+  },
+  {
+    "topic": "Community events",
+    "monologue_questions": [
+      "Describe a memorable community event that took place in your local area.",
+      "Explain the purpose of community events and their importance for social cohesion.",
+      "Discuss the various types of community events that are popular in your city or town.",
+      "How do community events reflect the culture and values of a particular neighborhood?",
+      "Reflect on the challenges of organizing and promoting successful community events.",
+      "Tell me about a time you volunteered or participated actively in a community event.",
+      "How do community events contribute to a sense of belonging among residents?",
+      "Discuss the role of local government or organizations in supporting community events.",
+      "If you could organize a new community event, what would it be and what would its goals be?",
+      "Describe the positive atmosphere and interactions at a well-attended community event."
+    ]
+  },
+  {
+    "topic": "Social responsibility",
+    "monologue_questions": [
+      "Describe what 'social responsibility' means to you as an individual.",
+      "Explain why businesses and corporations should prioritize social responsibility.",
+      "Discuss a specific example of a company or organization demonstrating strong social responsibility.",
+      "How has the concept of social responsibility evolved in your country or globally?",
+      "Reflect on the balance between profit motives and social impact for businesses.",
+      "Tell me about a time you took a socially responsible action or supported a cause.",
+      "How can consumers encourage businesses to be more socially responsible?",
+      "Discuss the role of education in fostering a sense of social responsibility in young people.",
+      "If you could implement a policy to encourage social responsibility, what would it involve?",
+      "Describe the impact of socially responsible actions on a community or the environment."
+    ]
+  },
+  {
+    "topic": "Exercise",
+    "monologue_questions": [
+      "Describe your exercise routine, or what kind of exercise you prefer.",
+      "Explain the numerous benefits of regular physical exercise for overall health.",
+      "Discuss a memorable experience you've had related to exercise or sports.",
+      "How has access to exercise facilities or opportunities changed in your community?",
+      "Reflect on the psychological and emotional benefits of physical activity.",
+      "Tell me about a time you faced a challenge with exercise and how you overcame it.",
+      "How do you stay motivated to exercise consistently?",
+      "Discuss the importance of incorporating exercise into daily life, even for busy individuals.",
+      "If you could introduce a new type of exercise or fitness trend, what would it be?",
+      "Describe the feeling of accomplishment after a good workout."
+    ]
+  },
+  {
+    "topic": "Nutrition",
+    "monologue_questions": [
+      "Describe your understanding of healthy nutrition. What foods do you prioritize?",
+      "Explain the importance of a balanced diet for physical and mental well-being.",
+      "Discuss a misconception or common myth about nutrition that you've encountered.",
+      "How have dietary habits and food choices changed in your country over time?",
+      "Reflect on the challenges of maintaining a healthy diet in today's fast-paced world.",
+      "Tell me about a time you made a significant change to your diet and its effects.",
+      "How do cultural factors influence food choices and eating habits?",
+      "Discuss the role of food education in promoting better nutrition among the public.",
+      "If you could provide one piece of advice about healthy eating, what would it be?",
+      "Describe the link between good nutrition and overall energy levels."
+    ]
+  },
+  {
+    "topic": "Mental health",
+    "monologue_questions": [
+      "Describe what 'mental health' means to you, and why it's as important as physical health.",
+      "Explain the factors that contribute to good mental well-being.",
+      "Discuss the stigma surrounding mental health issues in society and how it can be addressed.",
+      "How has awareness and discussion about mental health changed in your country over time?",
+      "Reflect on the strategies you use to manage stress and maintain your mental health.",
+      "Tell me about a time when you or someone you know sought support for mental health.",
+      "How can communities and workplaces create a more supportive environment for mental health?",
+      "Discuss the role of technology, both positive and negative, in impacting mental health.",
+      "If you could initiate a national campaign for mental health, what would its core message be?",
+      "Describe the importance of empathy and understanding in supporting those with mental health challenges."
+    ]
+  },
+  {
+    "topic": "Smoking",
+    "monologue_questions": [
+      "Describe the prevalence of smoking in your country and public attitudes towards it.",
+      "Explain the significant health risks associated with smoking and passive smoking.",
+      "Discuss the effectiveness of anti-smoking campaigns and policies (e.g., public smoking bans).",
+      "How has the perception of smoking changed across generations?",
+      "Reflect on the challenges individuals face when trying to quit smoking.",
+      "Tell me about a time you encountered a strong anti-smoking message or initiative.",
+      "How do advertising and peer pressure contribute to people starting to smoke?",
+      "Discuss alternative products to traditional cigarettes and their implications.",
+      "If you could implement one measure to reduce smoking rates, what would it be?",
+      "Describe the long-term societal impact of widespread smoking."
+    ]
+  },
+  {
+    "topic": "Healthcare",
+    "monologue_questions": [
+      "Describe the healthcare system in your country. What are its strengths and weaknesses?",
+      "Explain the importance of access to quality healthcare for all citizens.",
+      "Discuss the main challenges currently facing healthcare providers and systems.",
+      "How has medical technology impacted the delivery and effectiveness of healthcare?",
+      "Reflect on the balance between preventative care and treating illnesses.",
+      "Tell me about a personal experience you've had with the healthcare system.",
+      "How do cultural beliefs and traditional practices interact with modern healthcare?",
+      "Discuss the ethical dilemmas that arise in modern medicine and healthcare.",
+      "If you could make one major reform to your country's healthcare system, what would it be?",
+      "Describe the role of public health initiatives in preventing widespread diseases."
+    ]
+  },
+  {
+    "topic": "Sports",
+    "monologue_questions": [
+      "Describe your favorite sport to play or watch. What aspects of it do you enjoy most?",
+      "Explain the various benefits of engaging in sports, both for individuals and communities.",
+      "Discuss a memorable sporting event or achievement that you've witnessed or participated in.",
+      "How has the popularity of different sports changed in your country over the years?",
+      "Reflect on the values that sports can teach, such as teamwork and perseverance.",
+      "Tell me about a time when sports brought people together, overcoming differences.",
+      "How do sports contribute to national identity or pride?",
+      "Discuss the challenges faced by professional athletes, such as pressure and injuries.",
+      "If you could introduce a new sport to the Olympic Games, what would it be?",
+      "Describe the intense atmosphere of a major sports competition."
+    ]
+  },
+  {
+    "topic": "Yoga",
+    "monologue_questions": [
+      "Describe your experience with yoga, or what you understand about it.",
+      "Explain the physical and mental benefits associated with practicing yoga.",
+      "Discuss the different styles of yoga and their unique characteristics.",
+      "How has the popularity of yoga grown in your country or globally?",
+      "Reflect on the philosophical or spiritual aspects of yoga beyond just physical exercise.",
+      "Tell me about a specific yoga pose or sequence that you find particularly beneficial.",
+      "How can yoga be adapted for people of different ages and physical abilities?",
+      "Discuss the role of yoga in stress reduction and mindfulness.",
+      "If you could recommend yoga to someone, what advice would you give them?",
+      "Describe the calming and meditative atmosphere often associated with a yoga class."
+    ]
+  },
+  {
+    "topic": "Medical technology",
+    "monologue_questions": [
+      "Describe a recent advancement in medical technology that you find particularly impressive.",
+      "Explain how medical technology has revolutionized diagnosis and treatment of diseases.",
+      "Discuss the ethical considerations and debates surrounding cutting-edge medical technologies.",
+      "How has medical technology made healthcare more accessible or affordable?",
+      "Reflect on the potential for medical technology to extend human lifespan and improve quality of life.",
+      "Tell me about a specific medical device or procedure that has significantly impacted healthcare.",
+      "How do medical professionals adapt to new technologies in their practice?",
+      "Discuss the challenges of making new medical technologies available to everyone.",
+      "If you could imagine a future medical technology, what would it be and how would it work?",
+      "Describe the balance between human expertise and technological assistance in modern medicine."
+    ]
+  },
+  {
+    "topic": "Stress",
+    "monologue_questions": [
+      "Describe the common sources of stress in modern life, in your opinion.",
+      "Explain how stress impacts your physical and mental well-being.",
+      "Discuss effective strategies you use to manage or reduce stress.",
+      "How has the level of stress in society changed over the past few decades?",
+      "Reflect on the difference between good stress (eustress) and bad stress (distress).",
+      "Tell me about a specific situation where you felt significant stress and how you coped.",
+      "How do different cultures perceive and deal with stress?",
+      "Discuss the role of work-life balance and self-care in preventing chronic stress.",
+      "If you could give one piece of advice to someone experiencing high levels of stress, what would it be?",
+      "Describe the feeling of relief when a period of stress comes to an end."
+    ]
+  },
+  {
+    "topic": "Healthy lifestyle",
+    "monologue_questions": [
+      "Describe what a 'healthy lifestyle' means to you, encompassing various aspects.",
+      "Explain the most challenging aspects of maintaining a healthy lifestyle in today's society.",
+      "Discuss some simple, practical steps that people can take to live healthier lives.",
+      "How have public health campaigns influenced people's understanding of healthy living?",
+      "Reflect on the long-term benefits of adopting a healthy lifestyle.",
+      "Tell me about a time you made a conscious decision to improve your health habits.",
+      "How do different cultural backgrounds influence healthy lifestyle choices?",
+      "Discuss the role of technology, such as fitness trackers, in promoting a healthy lifestyle.",
+      "If you could design a program to encourage healthy living in your community, what would it involve?",
+      "Describe the feeling of well-being that comes from living a healthy lifestyle."
+    ]
+  },
+  {
+    "topic": "Jobs",
+    "monologue_questions": [
+      "Describe the most common types of jobs in your country or region.",
+      "Explain what qualities you believe are essential for success in any job.",
+      "Discuss a job that you would never want to do, and explain why.",
+      "How has the job market in your country been influenced by technological advancements?",
+      "Reflect on the importance of job satisfaction beyond just earning a salary.",
+      "Tell me about a time you learned a valuable lesson from a job experience.",
+      "How do people in your country typically search for jobs?",
+      "Discuss the impact of automation and AI on the future of work.",
+      "If you could create a new job role that addresses a current societal need, what would it be?",
+      "Describe the evolution of the concept of 'a good job' over time."
+    ]
+  },
+    {
+    "topic": "Career",
+    "monologue_questions": [
+      "Describe your ideal career path. What kind of work do you envision yourself doing?",
+      "Explain what motivates you in your career choices and aspirations.",
+      "Discuss a significant turning point or decision in your career journey.",
+      "How important is continuous learning and professional development in your chosen career field?",
+      "Reflect on the balance between career ambition and personal life.",
+      "Tell me about a time you faced a career setback and how you responded to it.",
+      "How do mentors or role models influence a person's career development?",
+      "Discuss the impact of global trends and economic shifts on career opportunities.",
+      "If you could offer one piece of career advice to a young person, what would it be?",
+      "Describe the satisfaction that comes from achieving a significant career goal."
+    ]
+  },
+  {
+    "topic": "Work-life balance",
+    "monologue_questions": [
+      "Describe what 'work-life balance' means to you personally.",
+      "Explain why achieving a good work-life balance is crucial for well-being.",
+      "Discuss the challenges that individuals face in trying to balance work and personal life.",
+      "How have societal expectations and workplace cultures impacted work-life balance?",
+      "Reflect on the strategies you employ to maintain a healthy balance between your work and personal life.",
+      "Tell me about a time when your work-life balance was particularly challenging, and how you managed it.",
+      "How do employers contribute to or detract from their employees' work-life balance?",
+      "Discuss the long-term consequences of a poor work-life balance.",
+      "If you could implement a policy in a workplace to promote better work-life balance, what would it be?",
+      "Describe the feeling of peace and contentment that comes from a well-balanced life."
+    ]
+  },
+  {
+    "topic": "Freelancing",
+    "monologue_questions": [
+      "Describe your understanding of freelancing as a work model.",
+      "Explain the main advantages and disadvantages of choosing a freelance career.",
+      "Discuss the skills and qualities necessary to succeed as a freelancer.",
+      "How has the rise of the 'gig economy' influenced the prevalence of freelancing?",
+      "Reflect on the financial stability and security concerns associated with freelancing.",
+      "Tell me about someone you know who is a successful freelancer and what you admire about them.",
+      "How do freelancers manage their own work-life balance and client relationships?",
+      "Discuss the impact of technology on facilitating freelance opportunities globally.",
+      "If you were considering becoming a freelancer, what would be your biggest challenge and how would you address it?",
+      "Describe the sense of independence and autonomy that freelancing can offer."
+    ]
+  },
+  {
+    "topic": "Salaries",
+    "monologue_questions": [
+      "Describe what you consider to be a 'fair' salary for a particular job or profession.",
+      "Explain the various factors that influence salary levels in different industries.",
+      "Discuss the ethical considerations surrounding significant salary disparities in society.",
+      "How has the cost of living in your country affected people's perception of adequate salaries?",
+      "Reflect on the role of salaries in motivating employees and attracting talent.",
+      "Tell me about a time you learned about a surprising salary for a particular job.",
+      "How do unions or labor laws impact salary negotiations and minimum wage?",
+      "Discuss the debate around salary transparency in workplaces.",
+      "If you could set the minimum wage in your country, what factors would you consider?",
+      "Describe the connection between salaries, job satisfaction, and overall quality of life."
+    ]
+  },
+  {
+    "topic": "Office culture",
+    "monologue_questions": [
+      "Describe what you believe constitutes a positive and productive office culture.",
+      "Explain how office culture can impact employee morale and productivity.",
+      "Discuss a memorable experience or tradition from an office culture you've been part of.",
+      "How has office culture evolved with the rise of remote work and flexible hours?",
+      "Reflect on the role of leadership in shaping the culture of a workplace.",
+      "Tell me about an office culture that you found challenging or unappealing.",
+      "How do diverse teams contribute to a richer and more innovative office culture?",
+      "Discuss the importance of work-life balance within office culture.",
+      "If you could create your ideal office culture, what key elements would it have?",
+      "Describe the feeling of belonging or isolation that office culture can create."
+    ]
+  },
+  {
+    "topic": "Unemployment",
+    "monologue_questions": [
+      "Describe what 'unemployment' means in an economic and personal sense.",
+      "Explain the main causes of unemployment in your country or globally.",
+      "Discuss the social and psychological impacts of unemployment on individuals and families.",
+      "How do government policies and economic conditions affect unemployment rates?",
+      "Reflect on the strategies individuals can employ to cope with unemployment and seek new opportunities.",
+      "Tell me about a time you heard a story about someone affected by unemployment.",
+      "How do different sectors of the economy contribute to or mitigate unemployment?",
+      "Discuss the role of education and retraining programs in addressing unemployment.",
+      "If you could propose a solution to reduce unemployment in your country, what would it be?",
+      "Describe the resilience and innovation that can emerge in the face of unemployment challenges."
+    ]
+  },
+  {
+    "topic": "Entrepreneurship",
+    "monologue_questions": [
+      "Describe what 'entrepreneurship' means to you and why it's appealing to some.",
+      "Explain the personal qualities and skills required to be a successful entrepreneur.",
+      "Discuss a memorable story of an entrepreneur who inspired you.",
+      "How has the environment for entrepreneurship changed in your country over time?",
+      "Reflect on the challenges and risks involved in starting and running a new business.",
+      "Tell me about a time you had a business idea or considered becoming an entrepreneur.",
+      "How do governments and educational institutions support aspiring entrepreneurs?",
+      "Discuss the impact of entrepreneurship on job creation and economic growth.",
+      "If you could launch a startup to solve a particular problem, what would it be?",
+      "Describe the passion and dedication that drives successful entrepreneurs."
+    ]
+  },
+  {
+    "topic": "Job interviews",
+    "monologue_questions": [
+      "Describe your experience with job interviews, whether as an interviewee or interviewer.",
+      "Explain what you believe are the most important elements of a successful job interview.",
+      "Discuss a particularly challenging or unusual question you've encountered in a job interview.",
+      "How has the format and style of job interviews changed with technology (e.g., video interviews)?",
+      "Reflect on the importance of preparation and confidence in a job interview setting.",
+      "Tell me about a time you felt you performed exceptionally well or poorly in an interview.",
+      "How do candidates typically present themselves and their skills during an interview?",
+      "Discuss the role of body language and non-verbal cues in job interviews.",
+      "If you could give one piece of advice to someone preparing for a job interview, what would it be?",
+      "Describe the feeling of anticipation and nervousness before a job interview."
+    ]
+  },
+  {
+    "topic": "Workplace diversity",
+    "monologue_questions": [
+      "Describe what 'workplace diversity' means to you, encompassing various aspects.",
+      "Explain the significant benefits of having a diverse workforce in an organization.",
+      "Discuss the challenges that can arise when fostering workplace diversity.",
+      "How has the importance of workplace diversity been recognized and promoted in your country?",
+      "Reflect on the ethical considerations and legal frameworks related to diversity in the workplace.",
+      "Tell me about an instance where you observed the positive impact of diversity in a team setting.",
+      "How can companies create an inclusive culture where all employees feel valued?",
+      "Discuss the role of unconscious bias training and diversity initiatives.",
+      "If you could implement one policy to enhance workplace diversity, what would it be?",
+      "Describe how workplace diversity leads to innovation and different perspectives."
+    ]
+  },
+  {
+    "topic": "Space exploration",
+    "monologue_questions": [
+      "Describe what fascinates you most about space exploration.",
+      "Explain the primary goals and benefits of continuing space exploration for humanity.",
+      "Discuss the ethical considerations and potential risks associated with exploring space.",
+      "How has space exploration advanced scientific knowledge and technological innovation?",
+      "Reflect on the long-term vision of human presence in space, such as colonization.",
+      "Tell me about a specific mission or discovery in space exploration that impressed you.",
+      "How do different countries and private companies collaborate in space exploration efforts?",
+      "Discuss the financial investment required for space exploration and its justification.",
+      "If you could go on a space mission, where would you go and what would you hope to achieve?",
+      "Describe the awe and wonder that images and stories from space evoke."
+    ]
+  },
+  {
+    "topic": "Climate science",
+    "monologue_questions": [
+      "Describe your understanding of climate science and its importance for the planet.",
+      "Explain the key scientific findings that support the understanding of climate change.",
+      "Discuss the challenges faced by climate scientists in communicating their findings to the public.",
+      "How has climate science evolved with new research and data?",
+      "Reflect on the role of climate science in informing policy decisions and mitigation strategies.",
+      "Tell me about a specific climate science study or report that caught your attention.",
+      "How do different scientific disciplines contribute to climate science research?",
+      "Discuss the debate between climate change deniers and the scientific consensus.",
+      "If you could pose one critical question to climate scientists, what would it be?",
+      "Describe the urgency that climate science conveys regarding environmental action."
+    ]
+  },
+  {
+    "topic": "Time travel",
+    "monologue_questions": [
+      "Describe your understanding of time travel as depicted in fiction or theory.",
+      "Explain the paradoxes and logical inconsistencies often associated with time travel scenarios.",
+      "Discuss whether you believe time travel is physically possible, and why or why not.",
+      "How has the concept of time travel influenced literature, film, and popular culture?",
+      "Reflect on the ethical implications of altering the past or knowing the future.",
+      "Tell me about a specific time travel story or movie that you found particularly thought-provoking.",
+      "How would the ability to time travel impact human history and individual lives?",
+      "Discuss the scientific theories that hint at the possibility of time dilation or wormholes.",
+      "If you could travel to any point in time, past or future, where would you go and why?",
+      "Describe the profound philosophical questions that time travel raises."
+    ]
+  },
+  {
+    "topic": "Future transport",
+    "monologue_questions": [
+      "Describe your vision of future transport systems in cities and between countries.",
+      "Explain the potential benefits of new transport technologies, such as reduced pollution or congestion.",
+      "Discuss the challenges in developing and implementing advanced transport solutions.",
+      "How do you think future transport will impact daily commutes and travel experiences?",
+      "Reflect on the balance between speed, efficiency, and environmental sustainability in future transport.",
+      "Tell me about a specific concept or prototype for future transport that you find exciting.",
+      "How might autonomous vehicles change urban planning and personal mobility?",
+      "Discuss the role of public infrastructure in supporting future transport systems.",
+      "If you could design one piece of future transport technology, what would it be?",
+      "Describe how future transport might redefine our sense of distance and connectivity."
+    ]
+  },
+  {
+    "topic": "Genetic engineering",
+    "monologue_questions": [
+      "Describe your understanding of genetic engineering and its core principles.",
+      "Explain the potential benefits of genetic engineering in fields like medicine or agriculture.",
+      "Discuss the ethical concerns and societal debates surrounding the use of genetic engineering.",
+      "How has genetic engineering advanced since its early developments?",
+      "Reflect on the idea of 'designer babies' and the moral implications of altering human genes.",
+      "Tell me about a specific application of genetic engineering that you find particularly promising or alarming.",
+      "How do different countries regulate genetic engineering research and applications?",
+      "Discuss the impact of genetic engineering on biodiversity and ecosystems.",
+      "If you could use genetic engineering to solve one major global problem, what would it be?",
+      "Describe the profound implications of humans being able to modify life at the genetic level."
+    ]
+  },
+  {
+    "topic": "Electric cars",
+    "monologue_questions": [
+      "Describe your opinion on electric cars. Do you think they are the future of transport?",
+      "Explain the main advantages of electric cars over traditional gasoline-powered vehicles.",
+      "Discuss the current challenges facing the widespread adoption of electric cars (e.g., charging infrastructure, battery production).",
+      "How has the electric car market evolved in your country over the past few years?",
+      "Reflect on the environmental benefits of electric vehicles, considering their entire lifecycle.",
+      "Tell me about a time you encountered or rode in an electric car.",
+      "How do government incentives and policies influence the sale of electric cars?",
+      "Discuss the potential impact of electric cars on urban air quality and noise pollution.",
+      "If you could design an ideal electric car, what features would it have?",
+      "Describe the quiet and smooth driving experience of an electric vehicle."
+    ]
+  },
+  {
+    "topic": "Inventions",
+    "monologue_questions": [
+      "Describe an invention that you believe has had the greatest impact on humanity.",
+      "Explain what motivates inventors to create new things and solve problems.",
+      "Discuss a memorable invention from history and its unexpected consequences.",
+      "How do inventions contribute to societal progress and economic growth?",
+      "Reflect on the process of invention, from idea to practical application.",
+      "Tell me about a time you thought of a small invention that could solve a daily problem.",
+      "How has the pace of invention and technological innovation changed over centuries?",
+      "Discuss the ethical considerations that arise with powerful new inventions.",
+      "If you could invent something to address a current global challenge, what would it be?",
+      "Describe the feeling of excitement and anticipation surrounding groundbreaking inventions."
+    ]
+  },
+  {
+    "topic": "Renewable energy",
+    "monologue_questions": [
+      "Describe your understanding of renewable energy sources. What are the main types?",
+      "Explain the urgency of transitioning to renewable energy in the face of climate change.",
+      "Discuss the advantages and disadvantages of different renewable energy technologies (e.g., solar, wind, hydro).",
+      "How has the adoption of renewable energy changed in your country over the past decade?",
+      "Reflect on the economic and environmental benefits of investing in renewable energy.",
+      "Tell me about a specific renewable energy project or initiative that impressed you.",
+      "How can governments and industries accelerate the shift towards renewable energy?",
+      "Discuss the challenges of integrating renewable energy into existing power grids.",
+      "If you could promote one renewable energy source above others, which would it be and why?",
+      "Describe the vision of a world powered entirely by renewable energy."
+    ]
+  },
+  {
+    "topic": "Scientific research",
+    "monologue_questions": [
+      "Describe what comes to mind when you think about scientific research.",
+      "Explain the importance of scientific research for human progress and understanding.",
+      "Discuss a recent scientific breakthrough or discovery that you found particularly fascinating.",
+      "How do different fields of scientific research contribute to solving global challenges?",
+      "Reflect on the ethical responsibilities of scientists in their research endeavors.",
+      "Tell me about a time you learned something surprising from scientific research.",
+      "How do governments and private organizations fund and support scientific research?",
+      "Discuss the challenges faced by scientists in getting their research published and recognized.",
+      "If you could dedicate yourself to one area of scientific research, what would it be and why?",
+      "Describe the methodical and inquisitive nature of scientific inquiry."
+    ]
+  },
+  {
+    "topic": "Smart homes",
+    "monologue_questions": [
+      "Describe your understanding of a 'smart home' and the devices it typically includes.",
+      "Explain the main advantages of having smart home technology for daily living.",
+      "Discuss the privacy and security concerns associated with connected smart home devices.",
+      "How has the accessibility and affordability of smart home technology changed?",
+      "Reflect on the potential for smart homes to enhance energy efficiency and convenience.",
+      "Tell me about a specific smart home feature or device that you find most useful or intriguing.",
+      "How do different smart home systems communicate and integrate with each other?",
+      "Discuss the future evolution of smart home technology and its potential impact on lifestyles.",
+      "If you could add one new 'smart' feature to your home, what would it be?",
+      "Describe the seamless and automated experience of living in a fully smart home."
+    ]
+  },
+  {
+    "topic": "Rules",
+    "monologue_questions": [
+      "Describe a specific rule that you believe is particularly important in society or in a particular setting.",
+      "Explain the purpose of rules and why they are necessary for a functioning society.",
+      "Discuss a time when you found a rule to be unfair or challenging to follow, and why.",
+      "How do rules change over time, and what factors lead to these changes?",
+      "Reflect on the balance between individual freedom and the necessity of rules.",
+      "Tell me about a rule in your family or school that taught you an important lesson.",
+      "How do different cultures approach the concept of rules and obedience?",
+      "Discuss the consequences of breaking rules and the importance of accountability.",
+      "If you could introduce a new rule that would greatly benefit society, what would it be?",
+      "Describe the feeling of order and security that well-enforced rules provide."
+    ]
+  },
+  {
+    "topic": "Crime",
+    "monologue_questions": [
+      "Describe what you understand to be the most prevalent forms of crime in your society.",
+      "Explain the underlying causes of crime, in your opinion.",
+      "Discuss the impact of crime on individuals, communities, and overall public safety.",
+      "How has the approach to crime prevention and punishment changed over time?",
+      "Reflect on the role of education and socio-economic factors in reducing crime rates.",
+      "Tell me about a news story or personal observation related to efforts to combat crime.",
+      "How do different types of crime affect people's sense of security?",
+      "Discuss the effectiveness of rehabilitation programs versus punitive measures for criminals.",
+      "If you could implement one major policy to reduce crime in your area, what would it be?",
+      "Describe the feeling of a community working together to address crime concerns."
+    ]
+  },
+  {
+    "topic": "Government",
+    "monologue_questions": [
+      "Describe the most important responsibilities of a government in your country.",
+      "Explain how citizens can participate in and influence their government's decisions.",
+      "Discuss a specific government policy or initiative that has had a significant impact on your life.",
+      "How has the role of government evolved in your country over history?",
+      "Reflect on the balance of power between different branches of government.",
+      "Tell me about a time when you felt particularly proud or frustrated with a government action.",
+      "How do different political ideologies influence governmental approaches?",
+      "Discuss the challenges governments face in addressing complex societal problems.",
+      "If you could advise your government on one major issue, what would it be?",
+      "Describe the ideal relationship between a government and its citizens."
+    ]
+  },
+  {
+    "topic": "Public behavior",
+    "monologue_questions": [
+      "Describe what you consider to be good public behavior in your society.",
+      "Explain the importance of polite and considerate public behavior.",
+      "Discuss a time when you observed exemplary or particularly poor public behavior.",
+      "How has public behavior changed with the advent of new technologies, like mobile phones?",
+      "Reflect on the role of education and social norms in shaping public behavior.",
+      "Tell me about a specific situation where public behavior affected your experience.",
+      "How do different cultural backgrounds influence perceptions of acceptable public behavior?",
+      "Discuss the challenges of enforcing rules related to public behavior.",
+      "If you could implement a campaign to improve public behavior in one area, what would it focus on?",
+      "Describe the impact of collective public behavior on the overall atmosphere of a place."
+    ]
+  },
+  {
+    "topic": "Voting",
+    "monologue_questions": [
+      "Describe your understanding of the voting process in your country.",
+      "Explain the importance of voting in a democratic society.",
+      "Discuss the reasons why some people choose not to vote.",
+      "How have voting methods and accessibility changed over time?",
+      "Reflect on the responsibility of citizens to participate in elections.",
+      "Tell me about a time you participated in an election or a political discussion.",
+      "How do different demographic groups participate in voting?",
+      "Discuss the impact of social media and news on voter behavior.",
+      "If you could propose a change to encourage more people to vote, what would it be?",
+      "Describe the feeling of anticipation on election day and the significance of the results."
+    ]
+  }
+]
