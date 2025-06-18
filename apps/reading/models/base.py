@@ -1,7 +1,9 @@
-from django.db import models
-from abc import ABC
+from abc import ABCMeta, abstractmethod
 
-class QuestionBase(models.Model, ABC):
+from django.db import models
+
+
+class QuestionBase(models.Model, metaclass=ABCMeta):
     DIFFICULTY_LEVELS = [
         ('easy', 'Easy'),
         ('medium', 'Medium'),
@@ -13,4 +15,8 @@ class QuestionBase(models.Model, ABC):
     created_at = models.DateTimeField(auto_now_add=True)
 
     class Meta:
-        abstract = True  # OCP: other types can extend this
+        abstract = True
+
+    @abstractmethod
+    def get_question_text(self):
+        pass

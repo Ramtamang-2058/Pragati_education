@@ -1,5 +1,7 @@
 from django.db import models
+
 from .base import QuestionBase
+
 
 class MultipleChoiceQuestion(QuestionBase):
     question_text = models.TextField()
