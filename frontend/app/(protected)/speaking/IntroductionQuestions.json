@@ -1,0 +1,1002 @@
+[
+  {
+    "topic": "Hometown",
+    "questions": [
+      "Where is your hometown?",
+      "What do you like most about your hometown?",
+      "Is there anything you don't like about it?",
+      "Has your hometown changed much since you were a child?",
+      "Do you think you will always live in your hometown?"
+    ]
+  },
+  {
+    "topic": "Home",
+    "questions": [
+      "Do you live in a house or an apartment?",
+      "What do you like most about your home?",
+      "Is there anything you would like to change about your home?",
+      "What kind of home would you like to live in in the future?",
+      "Do you prefer living in the city or the countryside?"
+    ]
+  },
+  {
+    "topic": "Work",
+    "questions": [
+      "What kind of work do you do?",
+      "What do you like about your job?",
+      "What do you find challenging about your job?",
+      "Do you think you will stay in this job for a long time?",
+      "What was your first job?"
+    ]
+  },
+  {
+    "topic": "Study",
+    "questions": [
+      "What are you currently studying?",
+      "Why did you choose this subject?",
+      "Do you enjoy studying it? Why or why not?",
+      "What is the most interesting part of your course?",
+      "Are there any subjects you find difficult?"
+    ]
+  },
+  {
+    "topic": "Daily routine",
+    "questions": [
+      "Could you describe your typical daily routine?",
+      "What do you usually do in the mornings?",
+      "Is your daily routine different on weekdays and weekends?",
+      "Is there anything you would like to change about your daily routine?",
+      "Do you think it's important to have a routine?"
+    ]
+  },
+  {
+    "topic": "Free time",
+    "questions": [
+      "What do you usually do in your free time?",
+      "Do you prefer to spend your free time alone or with others?",
+      "Is there anything new you'd like to try in your free time?",
+      "How important is free time to you?",
+      "Did you have more free time when you were a child?"
+    ]
+  },
+  {
+    "topic": "Hobbies",
+    "questions": [
+      "Do you have any hobbies?",
+      "How long have you been interested in this hobby?",
+      "What kind of hobbies are popular in your country?",
+      "Do you think it's important to have a hobby?",
+      "Is there a hobby you would like to learn?"
+    ]
+  },
+  {
+    "topic": "Friends",
+    "questions": [
+      "Do you have many friends?",
+      "What do you usually do with your friends?",
+      "What qualities do you look for in a friend?",
+      "How important are friends to you?",
+      "Do you prefer to have a few close friends or many friends?"
+    ]
+  },
+  {
+    "topic": "Family",
+    "questions": [
+      "Could you tell me about your family?",
+      "How often do you see your family?",
+      "What do you enjoy doing with your family?",
+      "How important is family to you?",
+      "Are family relationships changing in your country?"
+    ]
+  },
+  {
+    "topic": "Childhood",
+    "questions": [
+      "What is your happiest memory from childhood?",
+      "What was your favorite game or toy when you were a child?",
+      "Did you have many friends when you were a child?",
+      "What was your school like when you were a child?",
+      "How has your life changed since your childhood?"
+    ]
+  },
+  {
+    "topic": "Favorite food",
+    "questions": [
+      "What is your favorite food?",
+      "How often do you eat it?",
+      "Is there any food you dislike?",
+      "Do you enjoy cooking?",
+      "What kind of food is popular in your country?"
+    ]
+  },
+  {
+    "topic": "Sleep",
+    "questions": [
+      "How many hours of sleep do you usually get each night?",
+      "Do you think it's important to get enough sleep?",
+      "Do you ever have trouble sleeping?",
+      "Do you prefer to sleep with a lot of light or in complete darkness?",
+      "How do you feel when you don't get enough sleep?"
+    ]
+  },
+  {
+    "topic": "Birthdays",
+    "questions": [
+      "How do people in your country celebrate birthdays?",
+      "How did you celebrate your last birthday?",
+      "Do you think birthdays are important?",
+      "Do you prefer to celebrate your birthday with a big party or a small gathering?",
+      "What's the best birthday present you've ever received?"
+    ]
+  },
+  {
+    "topic": "Shopping",
+    "questions": [
+      "Do you enjoy shopping?",
+      "What kind of things do you usually buy?",
+      "Do you prefer to shop online or in physical stores?",
+      "What's your favorite place to go shopping?",
+      "Do you think people shop too much nowadays?"
+    ]
+  },
+  {
+    "topic": "Social media",
+    "questions": [
+      "Do you use social media?",
+      "What social media platforms do you use most often?",
+      "What do you like about social media?",
+      "Are there any downsides to social media?",
+      "How has social media changed the way people communicate?"
+    ]
+  },
+  {
+    "topic": "Mobile phones",
+    "questions": [
+      "How often do you use your mobile phone?",
+      "What do you use your mobile phone for?",
+      "Do you think mobile phones have changed our lives for the better or worse?",
+      "What's the most important feature of a mobile phone for you?",
+      "Did you have a mobile phone when you were a child?"
+    ]
+  },
+  {
+    "topic": "Reading",
+    "questions": [
+      "Do you enjoy reading?",
+      "What kind of books do you like to read?",
+      "How often do you read?",
+      "Do you prefer to read physical books or e-books?",
+      "What are the benefits of reading?"
+    ]
+  },
+  {
+    "topic": "Movies",
+    "questions": [
+      "Do you like watching movies?",
+      "What kind of movies do you enjoy most?",
+      "How often do you go to the cinema?",
+      "Do you prefer to watch movies at home or in the cinema?",
+      "What's the last movie you watched?"
+    ]
+  },
+  {
+    "topic": "Music",
+    "questions": [
+      "Do you like listening to music?",
+      "What kind of music do you like?",
+      "When do you usually listen to music?",
+      "Has your taste in music changed over the years?",
+      "Do you play any musical instruments?"
+    ]
+  },
+  {
+    "topic": "Pets",
+    "questions": [
+      "Do you have any pets?",
+      "What kind of pets are popular in your country?",
+      "What are the benefits of having a pet?",
+      "Do you think children should grow up with pets?",
+      "Would you like to have a pet in the future?"
+    ]
+  },
+  {
+    "topic": "Clothing",
+    "questions": [
+      "What kind of clothes do you usually wear?",
+      "Do you enjoy shopping for clothes?",
+      "Do you think clothing is important?",
+      "What kind of clothes do people wear in your country for special occasions?",
+      "Has your taste in clothing changed over time?"
+    ]
+  },
+  {
+    "topic": "Travel",
+    "questions": [
+      "Do you enjoy traveling?",
+      "What's your favorite place you've ever traveled to?",
+      "Where would you like to travel in the future?",
+      "Do you prefer traveling alone or with others?",
+      "What are the benefits of traveling?"
+    ]
+  },
+  {
+    "topic": "Transportation",
+    "questions": [
+      "How do you usually get to work or school?",
+      "What's your favorite mode of transportation?",
+      "What are the most common forms of transportation in your city?",
+      "Do you think public transportation is important?",
+      "How has transportation changed over the years in your country?"
+    ]
+  },
+  {
+    "topic": "Driving",
+    "questions": [
+      "Do you drive a car?",
+      "Do you enjoy driving?",
+      "What are the advantages of driving?",
+      "Are there any disadvantages to driving in your city?",
+      "Do you think electric cars are the future of driving?"
+    ]
+  },
+  {
+    "topic": "Walking",
+    "questions": [
+      "Do you enjoy walking?",
+      "How often do you go for a walk?",
+      "Where do you usually go for a walk?",
+      "What are the benefits of walking?",
+      "Do you think cities are designed for walking?"
+    ]
+  },
+  {
+    "topic": "Weather",
+    "questions": [
+      "What kind of weather do you like best?",
+      "What's the weather like in your country?",
+      "How does the weather affect your mood?",
+      "Do you think the weather is changing in your country?",
+      "What do you usually do when the weather is bad?"
+    ]
+  },
+  {
+    "topic": "Seasons",
+    "questions": [
+      "How many seasons are there in your country?",
+      "Which season do you like best? Why?",
+      "What do people usually do in your favorite season?",
+      "Has the length of the seasons changed in your country recently?",
+      "Do you prefer hot or cold weather?"
+    ]
+  },
+  {
+    "topic": "Pollution",
+    "questions": [
+      "Is pollution a problem in your city?",
+      "What kind of pollution is most common in your area?",
+      "What can individuals do to reduce pollution?",
+      "What do you think the government should do to tackle pollution?",
+      "How has pollution affected people's lives in your country?"
+    ]
+  },
+  {
+    "topic": "Recycling",
+    "questions": [
+      "Do you recycle?",
+      "What kind of things do you recycle?",
+      "Is recycling common in your country?",
+      "Do you think recycling is important?",
+      "What are the challenges of recycling?"
+    ]
+  },
+  {
+    "topic": "Nature",
+    "questions": [
+      "Do you enjoy spending time in nature?",
+      "What kind of natural places do you like to visit?",
+      "How important is it to protect nature?",
+      "What are the benefits of spending time in nature?",
+      "Has the amount of natural space changed in your area?"
+    ]
+  },
+  {
+    "topic": "Forests",
+    "questions": [
+      "Are there many forests in your country?",
+      "Do you enjoy visiting forests?",
+      "What are the benefits of forests?",
+      "What threats do forests face today?",
+      "What can people do to protect forests?"
+    ]
+  },
+  {
+    "topic": "Rivers",
+    "questions": [
+      "Are there any important rivers in your country?",
+      "Do you live near a river?",
+      "What do people use rivers for in your country?",
+      "What are the problems facing rivers today?",
+      "How important are rivers for the environment?"
+    ]
+  },
+  {
+    "topic": "Wildlife",
+    "questions": [
+      "Is there a lot of wildlife in your country?",
+      "What's your favorite wild animal?",
+      "What threats do wild animals face today?",
+      "What can people do to protect wildlife?",
+      "Do you think it's important to protect endangered species?"
+    ]
+  },
+  {
+    "topic": "Climate change",
+    "questions": [
+      "Are you concerned about climate change?",
+      "What are the main causes of climate change?",
+      "What impact has climate change had in your country?",
+      "What can individuals do to combat climate change?",
+      "What do you think the future holds regarding climate change?"
+    ]
+  },
+  {
+    "topic": "Sustainable living",
+    "questions": [
+      "What does 'sustainable living' mean to you?",
+      "Do you try to live a sustainable lifestyle?",
+      "What are some simple ways people can live more sustainably?",
+      "Is sustainable living becoming more popular in your country?",
+      "What are the biggest challenges to sustainable living?"
+    ]
+  },
+  {
+    "topic": "School",
+    "questions": [
+      "What was your favorite subject at school?",
+      "What do you remember most about your school days?",
+      "Do you think school prepares people for real life?",
+      "What kind of schools are common in your country?",
+      "How important is school for children?"
+    ]
+  },
+  {
+    "topic": "Teachers",
+    "questions": [
+      "What makes a good teacher?",
+      "Did you have a favorite teacher at school?",
+      "What qualities do you think are important for a teacher to have?",
+      "Do you think teaching is a difficult profession?",
+      "How have teachers' roles changed over time?"
+    ]
+  },
+  {
+    "topic": "Subjects",
+    "questions": [
+      "What was your favorite subject in school?",
+      "Are there any subjects you found difficult?",
+      "What subjects do you think are most important for young people today?",
+      "Do you think schools should offer more practical subjects?",
+      "How do subjects help people in their future careers?"
+    ]
+  },
+  {
+    "topic": "Exams",
+    "questions": [
+      "Do you think exams are a good way to assess knowledge?",
+      "How do you usually prepare for exams?",
+      "Do you get stressed before exams?",
+      "Are there any alternatives to exams?",
+      "How important are exams in your country's education system?"
+    ]
+  },
+  {
+    "topic": "Online learning",
+    "questions": [
+      "Have you ever tried online learning?",
+      "What are the advantages of online learning?",
+      "What are the disadvantages of online learning?",
+      "Do you think online learning will replace traditional classroom learning?",
+      "What kind of subjects are suitable for online learning?"
+    ]
+  },
+  {
+    "topic": "Homework",
+    "questions": [
+      "Do you think homework is important for students?",
+      "How much homework did you usually get when you were at school?",
+      "What are the benefits of homework?",
+      "Are there any downsides to homework?",
+      "Do you think parents should help their children with homework?"
+    ]
+  },
+  {
+    "topic": "Study habits",
+    "questions": [
+      "What are your usual study habits?",
+      "Do you prefer to study alone or with others?",
+      "What do you do to stay focused when you're studying?",
+      "Do you think study habits are important for academic success?",
+      "Have your study habits changed over time?"
+    ]
+  },
+  {
+    "topic": "Foreign languages",
+    "questions": [
+      "Do you speak any foreign languages?",
+      "What foreign language would you like to learn?",
+      "Why do you think it's important to learn foreign languages?",
+      "How did you learn English?",
+      "Do you think it's easier to learn a foreign language when you're young?"
+    ]
+  },
+  {
+    "topic": "Education",
+    "questions": [
+      "How important is education to you?",
+      "What do you think is the purpose of education?",
+      "How has education changed in your country over the past few decades?",
+      "Do you think everyone should have access to higher education?",
+      "What kind of education do you think is most important for young people today?"
+    ]
+  },
+  {
+    "topic": "University",
+    "questions": [
+      "Did you go to university?",
+      "What did you study at university?",
+      "What do you remember most about your time at university?",
+      "Do you think a university degree is essential for success?",
+      "What are the advantages of going to university?"
+    ]
+  },
+  {
+    "topic": "Internet",
+    "questions": [
+      "How often do you use the internet?",
+      "What do you use the internet for?",
+      "How has the internet changed your life?",
+      "Are there any downsides to using the internet?",
+      "Do you think the internet has made the world a better place?"
+    ]
+  },
+  {
+    "topic": "Computers",
+    "questions": [
+      "How often do you use a computer?",
+      "What do you use computers for?",
+      "How have computers changed the way people work and study?",
+      "Do you think everyone should know how to use a computer?",
+      "What do you think the future of computers will be like?"
+    ]
+  },
+  {
+    "topic": "Artificial intelligence",
+    "questions": [
+      "What do you know about artificial intelligence (AI)?",
+      "How do you think AI will affect our daily lives in the future?",
+      "Are you optimistic or pessimistic about the development of AI?",
+      "What are the potential benefits of AI?",
+      "What are the potential risks of AI?"
+    ]
+  },
+  {
+    "topic": "Robots",
+    "questions": [
+      "What do you think about robots?",
+      "Do you think robots will be common in our daily lives in the future?",
+      "What kind of tasks could robots do to help us?",
+      "Are there any jobs that you think robots should not do?",
+      "Do you think robots will ever be able to feel emotions?"
+    ]
+  },
+  {
+    "topic": "News",
+    "questions": [
+      "How do you usually get your news?",
+      "How often do you read or watch the news?",
+      "Do you think it's important to stay informed about the news?",
+      "What kind of news do you prefer to read or watch?",
+      "Do you think news reporting is always accurate?"
+    ]
+  },
+  {
+    "topic": "Television",
+    "questions": [
+      "How often do you watch television?",
+      "What kind of TV programs do you enjoy?",
+      "Has television changed over the years?",
+      "Do you think people watch too much television nowadays?",
+      "What are the advantages and disadvantages of watching television?"
+    ]
+  },
+  {
+    "topic": "Online shopping",
+    "questions": [
+      "Do you do a lot of online shopping?",
+      "What kind of things do you usually buy online?",
+      "What are the advantages of online shopping?",
+      "What are the disadvantages of online shopping?",
+      "Do you think online shopping will completely replace traditional shopping?"
+    ]
+  },
+  {
+    "topic": "Video games",
+    "questions": [
+      "Do you play video games?",
+      "What kind of video games do you enjoy?",
+      "Do you think video games are good or bad for people?",
+      "How has the video game industry changed over the years?",
+      "Do you think video games can be educational?"
+    ]
+  },
+  {
+    "topic": "Cybersecurity",
+    "questions": [
+      "How important is cybersecurity to you?",
+      "What measures do you take to protect your online privacy?",
+      "What are some common cybersecurity threats?",
+      "Do you think governments should do more to protect people online?",
+      "How can individuals protect themselves from cybercrime?"
+    ]
+  },
+  {
+    "topic": "Streaming platforms",
+    "questions": [
+      "Do you use any streaming platforms?",
+      "What kind of content do you watch on streaming platforms?",
+      "What are the advantages of streaming platforms?",
+      "What are the disadvantages of streaming platforms?",
+      "Do you think streaming platforms have changed the way people consume media?"
+    ]
+  },
+  {
+    "topic": "Festivals",
+    "questions": [
+      "What are some important festivals in your country?",
+      "Which festival do you like most? Why?",
+      "How do people celebrate this festival?",
+      "Have festivals changed over time in your country?",
+      "Do you think it's important to preserve traditional festivals?"
+    ]
+  },
+  {
+    "topic": "Traditions",
+    "questions": [
+      "Are there many traditions in your country?",
+      "What is one important tradition in your culture?",
+      "How important are traditions to you?",
+      "Do you think traditions are changing in your country?",
+      "How do traditions help shape a country's identity?"
+    ]
+  },
+  {
+    "topic": "Local food",
+    "questions": [
+      "What is a typical local food in your region?",
+      "How often do you eat local food?",
+      "Do you enjoy cooking local dishes?",
+      "Is local food becoming more popular in your country?",
+      "What are the benefits of eating local food?"
+    ]
+  },
+  {
+    "topic": "Art",
+    "questions": [
+      "Do you like art?",
+      "What kind of art do you enjoy most?",
+      "Have you ever visited an art gallery or museum?",
+      "Do you think art is important in society?",
+      "How has art changed over the years?"
+    ]
+  },
+  {
+    "topic": "Museums",
+    "questions": [
+      "Do you like visiting museums?",
+      "What kind of museums do you enjoy most?",
+      "What's the most interesting museum you've ever visited?",
+      "Do you think museums are important for education?",
+      "How can museums attract more visitors?"
+    ]
+  },
+  {
+    "topic": "Public holidays",
+    "questions": [
+      "What are some important public holidays in your country?",
+      "How do people usually celebrate public holidays?",
+      "What do you usually do on public holidays?",
+      "Do you think there are too many or too few public holidays in your country?",
+      "How do public holidays affect people's daily lives?"
+    ]
+  },
+  {
+    "topic": "Superstitions",
+    "questions": [
+      "Are there any common superstitions in your country?",
+      "Do you believe in superstitions?",
+      "How do superstitions influence people's lives?",
+      "Where do superstitions come from?",
+      "Do you think superstitions are still relevant today?"
+    ]
+  },
+  {
+    "topic": "Gender equality",
+    "questions": [
+      "What does gender equality mean to you?",
+      "Do you think there is gender equality in your country?",
+      "What are some challenges to achieving gender equality?",
+      "What can individuals do to promote gender equality?",
+      "How important is gender equality for society?"
+    ]
+  },
+  {
+    "topic": "Community events",
+    "questions": [
+      "Are there many community events in your area?",
+      "Do you participate in community events?",
+      "What kind of community events do you enjoy most?",
+      "What are the benefits of community events?",
+      "How can communities encourage more participation in events?"
+    ]
+  },
+  {
+    "topic": "Social responsibility",
+    "questions": [
+      "What does social responsibility mean to you?",
+      "Do you think individuals have a social responsibility?",
+      "What are some examples of social responsibility?",
+      "Do you think businesses should be socially responsible?",
+      "How can people become more socially responsible?"
+    ]
+  },
+  {
+    "topic": "Exercise",
+    "questions": [
+      "How often do you exercise?",
+      "What kind of exercise do you do?",
+      "What are the benefits of regular exercise?",
+      "Do you think people in your country exercise enough?",
+      "What motivates you to exercise?"
+    ]
+  },
+  {
+    "topic": "Nutrition",
+    "questions": [
+      "How important is nutrition to you?",
+      "What kind of healthy foods do you usually eat?",
+      "Do you think people in your country have a good diet?",
+      "How can people improve their nutrition?",
+      "Is it difficult to eat healthily nowadays?"
+    ]
+  },
+  {
+    "topic": "Mental health",
+    "questions": [
+      "How important is mental health?",
+      "What do you do to maintain your mental well-being?",
+      "Do you think there is enough awareness about mental health in your country?",
+      "What are some common causes of stress?",
+      "What support is available for people with mental health issues?"
+    ]
+  },
+  {
+    "topic": "Smoking",
+    "questions": [
+      "Is smoking common in your country?",
+      "What are the health risks associated with smoking?",
+      "Do you think smoking should be banned in public places?",
+      "What do you think encourages people to start smoking?",
+      "How can people be encouraged to stop smoking?"
+    ]
+  },
+  {
+    "topic": "Healthcare",
+    "questions": [
+      "How important is healthcare to you?",
+      "What kind of healthcare system does your country have?",
+      "What are some challenges facing healthcare today?",
+      "Do you think everyone should have access to free healthcare?",
+      "How has medical technology improved healthcare?"
+    ]
+  },
+  {
+    "topic": "Sports",
+    "questions": [
+      "Do you play any sports?",
+      "What's your favorite sport to watch?",
+      "What are the benefits of playing sports?",
+      "What are the most popular sports in your country?",
+      "Do you think sports are important for young people?"
+    ]
+  },
+  {
+    "topic": "Yoga",
+    "questions": [
+      "Do you practice yoga?",
+      "What are the benefits of practicing yoga?",
+      "Is yoga popular in your country?",
+      "What is the difference between yoga and other forms of exercise?",
+      "Would you recommend yoga to others?"
+    ]
+  },
+  {
+    "topic": "Medical technology",
+    "questions": [
+      "How has medical technology changed healthcare?",
+      "What are some recent advancements in medical technology?",
+      "What are the benefits of medical technology?",
+      "Are there any concerns about the use of medical technology?",
+      "Do you think medical technology will continue to advance rapidly?"
+    ]
+  },
+  {
+    "topic": "Stress",
+    "questions": [
+      "What causes you stress?",
+      "How do you deal with stress?",
+      "Do you think people today are more stressed than in the past?",
+      "What are the effects of long-term stress?",
+      "What advice would you give to someone who is feeling stressed?"
+    ]
+  },
+  {
+    "topic": "Healthy lifestyle",
+    "questions": [
+      "What does a healthy lifestyle mean to you?",
+      "Do you try to live a healthy lifestyle?",
+      "What are some simple steps people can take to live a healthier life?",
+      "Is it difficult to maintain a healthy lifestyle nowadays?",
+      "What role does exercise play in a healthy lifestyle?"
+    ]
+  },
+  {
+    "topic": "Jobs",
+    "questions": [
+      "What kind of jobs are popular in your country?",
+      "What qualities do you think are important for a good job?",
+      "Are there any jobs you would never do?",
+      "How has the job market changed in recent years?",
+      "Do you think it's more difficult to find a job now than in the past?"
+    ]
+  },
+  {
+    "topic": "Career",
+    "questions": [
+      "What are your career aspirations?",
+      "How important is career success to you?",
+      "What factors do you consider when choosing a career?",
+      "Do you think it's common for people to change careers nowadays?",
+      "What advice would you give to someone starting their career?"
+    ]
+  },
+  {
+    "topic": "Work-life balance",
+    "questions": [
+      "What does 'work-life balance' mean to you?",
+      "Do you think you have a good work-life balance?",
+      "Why is work-life balance important?",
+      "What can employers do to promote work-life balance?",
+      "How has the concept of work-life balance changed over time?"
+    ]
+  },
+  {
+    "topic": "Freelancing",
+    "questions": [
+      "What do you know about freelancing?",
+      "Are there many freelancers in your country?",
+      "What are the advantages of freelancing?",
+      "What are the disadvantages of freelancing?",
+      "Do you think freelancing is a good career option?"
+    ]
+  },
+  {
+    "topic": "Salaries",
+    "questions": [
+      "How important are salaries when choosing a job?",
+      "Do you think salaries in your country are fair?",
+      "What factors affect a person's salary?",
+      "Do you think men and women earn equal salaries for the same work?",
+      "How do high salaries affect a country's economy?"
+    ]
+  },
+  {
+    "topic": "Office culture",
+    "questions": [
+      "What do you think makes a good office culture?",
+      "Do you prefer a formal or informal office culture?",
+      "How important is office culture to employee satisfaction?",
+      "How can companies create a positive office culture?",
+      "Have office cultures changed in recent years?"
+    ]
+  },
+  {
+    "topic": "Unemployment",
+    "questions": [
+      "Is unemployment a problem in your country?",
+      "What are the main causes of unemployment?",
+      "What impact does unemployment have on individuals and society?",
+      "What can the government do to reduce unemployment?",
+      "How do people cope with unemployment?"
+    ]
+  },
+  {
+    "topic": "Entrepreneurship",
+    "questions": [
+      "What does 'entrepreneurship' mean to you?",
+      "Do you think entrepreneurship is encouraged in your country?",
+      "What qualities does a successful entrepreneur need?",
+      "What are the challenges of starting your own business?",
+      "Do you think entrepreneurship is important for a country's economy?"
+    ]
+  },
+  {
+    "topic": "Job interviews",
+    "questions": [
+      "Have you ever had a job interview?",
+      "How do you prepare for a job interview?",
+      "What kind of questions are usually asked in job interviews?",
+      "What do you think makes a good impression in a job interview?",
+      "Do you get nervous before job interviews?"
+    ]
+  },
+  {
+    "topic": "Workplace diversity",
+    "questions": [
+      "What does 'workplace diversity' mean to you?",
+      "Do you think workplace diversity is important?",
+      "What are the benefits of a diverse workforce?",
+      "What challenges can arise from workplace diversity?",
+      "How can companies promote workplace diversity?"
+    ]
+  },
+  {
+    "topic": "Space exploration",
+    "questions": [
+      "What do you know about space exploration?",
+      "Do you think space exploration is important?",
+      "What are the benefits of space exploration?",
+      "What are the challenges of space exploration?",
+      "Do you think humans will ever live on other planets?"
+    ]
+  },
+  {
+    "topic": "Climate science",
+    "questions": [
+      "What do you know about climate science?",
+      "How important is climate science for understanding the world?",
+      "What are some key findings of climate science?",
+      "Do you think climate science is well understood by the public?",
+      "What role does climate science play in addressing climate change?"
+    ]
+  },
+  {
+    "topic": "Time travel",
+    "questions": [
+      "Do you believe time travel is possible?",
+      "If you could travel in time, where would you go?",
+      "What would be the advantages of time travel?",
+      "What would be the disadvantages of time travel?",
+      "What kind of changes would time travel bring to society?"
+    ]
+  },
+  {
+    "topic": "Future transport",
+    "questions": [
+      "What kind of transport do you think we will have in the future?",
+      "What are the benefits of future transport methods?",
+      "What are the challenges in developing future transport?",
+      "Do you think flying cars will ever become a reality?",
+      "How will future transport affect our daily lives?"
+    ]
+  },
+  {
+    "topic": "Genetic engineering",
+    "questions": [
+      "What do you know about genetic engineering?",
+      "What are the potential benefits of genetic engineering?",
+      "What are the ethical concerns surrounding genetic engineering?",
+      "Do you think genetic engineering should be used to create 'designer babies'?",
+      "How do you think genetic engineering will impact human health?"
+    ]
+  },
+  {
+    "topic": "Electric cars",
+    "questions": [
+      "What do you think about electric cars?",
+      "Are electric cars popular in your country?",
+      "What are the advantages of electric cars?",
+      "What are the disadvantages of electric cars?",
+      "Do you think electric cars are the future of transport?"
+    ]
+  },
+  {
+    "topic": "Inventions",
+    "questions": [
+      "What is the most important invention in history?",
+      "What invention would you like to see in the future?",
+      "How do inventions change people's lives?",
+      "What qualities does an inventor need?",
+      "Do you think inventions always bring positive changes?"
+    ]
+  },
+  {
+    "topic": "Renewable energy",
+    "questions": [
+      "What do you know about renewable energy?",
+      "What are the main types of renewable energy?",
+      "Do you think renewable energy is important for the future?",
+      "What are the challenges of using renewable energy?",
+      "How can governments encourage the use of renewable energy?"
+    ]
+  },
+  {
+    "topic": "Scientific research",
+    "questions": [
+      "What do you think about scientific research?",
+      "How important is scientific research for progress?",
+      "What kind of scientific research do you find most interesting?",
+      "Do you think governments should invest more in scientific research?",
+      "How does scientific research benefit society?"
+    ]
+  },
+  {
+    "topic": "Smart homes",
+    "questions": [
+      "What do you know about smart homes?",
+      "What kind of smart devices do you have in your home?",
+      "What are the advantages of having a smart home?",
+      "What are the disadvantages of having a smart home?",
+      "Do you think smart homes will become common in the future?"
+    ]
+  },
+  {
+    "topic": "Rules",
+    "questions": [
+      "Why do we need rules in society?",
+      "What kind of rules are important in your school or workplace?",
+      "Do you think rules are always fair?",
+      "What happens when people don't follow rules?",
+      "Do you think there are too many rules nowadays?"
+    ]
+  },
+  {
+    "topic": "Crime",
+    "questions": [
+      "Is crime a problem in your city?",
+      "What are some common types of crime?",
+      "What do you think are the main causes of crime?",
+      "What can individuals do to prevent crime?",
+      "What role does the government play in reducing crime?"
+    ]
+  },
+  {
+    "topic": "Government",
+    "questions": [
+      "What do you think is the most important role of a government?",
+      "How can citizens participate in their government?",
+      "Do you think governments always act in the best interests of their citizens?",
+      "What are some ways a government can improve people's lives?",
+      "How important is it for a government to be transparent?"
+    ]
+  },
+  {
+    "topic": "Public behavior",
+    "questions": [
+      "What kind of public behavior do you admire?",
+      "What kind of public behavior do you dislike?",
+      "Do you think public behavior has changed over time?",
+      "How can we encourage good public behavior?",
+      "What are the consequences of bad public behavior?"
+    ]
+  },
+  {
+    "topic": "Voting",
+    "questions": [
+      "Do you think voting is important?",
+      "How often do people vote in your country?",
+      "What factors influence how people vote?",
+      "Do you think young people are interested in voting?",
+      "How can more people be encouraged to vote?"
+    ]
+  }
+]

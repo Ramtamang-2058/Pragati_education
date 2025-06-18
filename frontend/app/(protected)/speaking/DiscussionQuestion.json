@@ -1,0 +1,737 @@
+[
+  {
+    "topic": "Hometown",
+    "monologue_question_followups": [
+      {
+        "monologue_question": "Describe your hometown. What is it like, and what are its most distinctive features?",
+        "follow_up_questions": [
+          "Do you think your hometown provides enough opportunities for young people?",
+          "How important is it for people to stay connected to their hometown?",
+          "What impact do you think tourism has on small towns like yours?",
+          "In what ways might living in a big city be different from living in your hometown?",
+          "Do you believe your hometown will change significantly in the next 20 years?"
+        ]
+      },
+      {
+        "monologue_question": "Tell me about a memorable experience you had growing up in your hometown.",
+        "follow_up_questions": [
+          "How did that experience shape your values or outlook?",
+          "Are there similar experiences available for children in your hometown today?",
+          "What role do local communities play in creating such memories for children?",
+          "Do you think it's important for children to have a strong connection to their local area?",
+          "How does nostalgia for one's hometown influence people in adulthood?"
+        ]
+      },
+      {
+        "monologue_question": "How has your hometown evolved over the years, and what impact have these changes had?",
+        "follow_up_questions": [
+          "Were these changes generally positive or negative, in your opinion?",
+          "Who do you think benefits most from such urban or rural developments?",
+          "What are the challenges of managing rapid change in a town or city?",
+          "Do you think local governments do enough to involve residents in planning changes?",
+          "How do these changes affect the sense of community in your hometown?"
+        ]
+      },
+      {
+        "monologue_question": "If you could change one thing about your hometown, what would it be and why?",
+        "follow_up_questions": [
+          "How feasible do you think that change would be to implement?",
+          "What other aspects might be affected by such a change?",
+          "Who would benefit most from this change?",
+          "Would this change attract more people to your hometown, or deter them?",
+          "Do you think citizens generally have enough power to influence such changes?"
+        ]
+      },
+      {
+        "monologue_question": "What role does your hometown play in your identity or sense of belonging?",
+        "follow_up_questions": [
+          "Can people truly lose their connection to their hometown after living elsewhere for a long time?",
+          "How do people who move away from their hometowns maintain their sense of identity?",
+          "Is a sense of belonging to a place more important than belonging to a group of people?",
+          "Do you think globalized culture is weakening people's ties to their hometowns?",
+          "How does your hometown compare to others you've visited in terms of identity?"
+        ]
+      },
+      {
+        "monologue_question": "Discuss a significant local event or tradition that is unique to your hometown.",
+        "follow_up_questions": [
+          "How is this event or tradition funded and organized?",
+          "What role does it play in maintaining community spirit?",
+          "Do you think young people are as interested in participating as older generations?",
+          "How has this event adapted over time, if at all?",
+          "Could this tradition be successfully replicated in another town or city?"
+        ]
+      },
+      {
+        "monologue_question": "Imagine a visitor is coming to your hometown. What places would you recommend they see and why?",
+        "follow_up_questions": [
+          "Are these places well-known, or are they more hidden gems?",
+          "What kind of historical or cultural significance do these places hold?",
+          "How accessible are these places for tourists, especially those with disabilities?",
+          "What impact do you think tourism has on these specific sites?",
+          "Would you consider your hometown a major tourist destination?"
+        ]
+      },
+      {
+        "monologue_question": "How do people in your hometown typically spend their free time or socialize?",
+        "follow_up_questions": [
+          "Are there enough public spaces for people to gather and socialize?",
+          "Has technology changed the way people socialize in your hometown?",
+          "Do younger and older generations socialize in different ways?",
+          "How important are community events for socialization in your hometown?",
+          "What recreational facilities are available in your hometown?"
+        ]
+      },
+      {
+        "monologue_question": "What are the main economic activities or industries in your hometown?",
+        "follow_up_questions": [
+          "How stable do you think these industries are for the future?",
+          "What kind of job opportunities do they offer to residents?",
+          "Do you think your hometown relies too heavily on any single industry?",
+          "How do these economic activities affect the environment in your hometown?",
+          "What efforts are being made to diversify the local economy?"
+        ]
+      },
+      {
+        "monologue_question": "Reflect on whether you see yourself living in your hometown in the long term, and explain your reasons.",
+        "follow_up_questions": [
+          "What factors might lead you to reconsider living there permanently?",
+          "How important is it for you to live near family as you get older?",
+          "What opportunities might draw you to live in a different place?",
+          "Do you think moving away from one's hometown is a necessary part of personal growth?",
+          "How do people's priorities change regarding where they live as they age?"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Home",
+    "monologue_question_followups": [
+      {
+        "monologue_question": "Describe your current home. What are its most important features and why are they significant to you?",
+        "follow_up_questions": [
+          "How does your home reflect your personality or lifestyle?",
+          "What is the most practical feature of your home, in your opinion?",
+          "Do you think the concept of 'home' is changing in modern society?",
+          "How important is owning a home versus renting in your culture?",
+          "What role does natural light play in your home environment?"
+        ]
+      },
+      {
+        "monologue_question": "Explain what makes a home truly comfortable and inviting for you.",
+        "follow_up_questions": [
+          "Are these factors more about physical comforts or emotional ones?",
+          "How do cultural differences influence what makes a home comfortable?",
+          "Do you think technology makes homes more or less inviting?",
+          "How important is a sense of privacy in making a home comfortable?",
+          "Can a home be comfortable if it's very small?"
+        ]
+      },
+      {
+        "monologue_question": "Discuss a particular room or space in your home that holds special meaning, and why.",
+        "follow_up_questions": [
+          "What kind of memories are associated with that space?",
+          "How do you use that particular room?",
+          "Do you think every home needs a 'special' space?",
+          "How do people personalize their favorite spaces in their homes?",
+          "What role does that space play in your daily routine?"
+        ]
+      },
+      {
+        "monologue_question": "If you could design your ideal home, what would it be like and what features would it include?",
+        "follow_up_questions": [
+          "Would this ideal home be sustainable or eco-friendly?",
+          "How would smart home technology be incorporated?",
+          "Would its location be more important than its design?",
+          "How would this ideal home support your hobbies or interests?",
+          "Would you prefer a modern or traditional style for your ideal home?"
+        ]
+      },
+      {
+        "monologue_question": "How has your home adapted to your needs or lifestyle over time?",
+        "follow_up_questions": [
+          "Were these adaptations easy or difficult to implement?",
+          "Do you think homes should be designed to be more adaptable?",
+          "How do changing family structures affect home design?",
+          "What is the biggest challenge in adapting a home to new needs?",
+          "Do people typically prefer to adapt their current home or move to a new one?"
+        ]
+      },
+      {
+        "monologue_question": "Tell me about a memorable gathering or event that took place in your home.",
+        "follow_up_questions": [
+          "What made that particular event so memorable?",
+          "How did your home accommodate the guests or activities?",
+          "Do you enjoy hosting events at home?",
+          "How important are homes for social gatherings in your culture?",
+          "What preparations do you usually make before hosting a large event?"
+        ]
+      },
+      {
+        "monologue_question": "What are the advantages and disadvantages of living in your current type of home (house/apartment)?",
+        "follow_up_questions": [
+          "Do you think one type of home is inherently better than another?",
+          "How do these advantages/disadvantages impact your daily life?",
+          "What factors influence people's choice between a house and an apartment?",
+          "How do living costs compare between different types of homes in your area?",
+          "Do you foresee yourself always living in this type of home?"
+        ]
+      },
+      {
+        "monologue_question": "How do you personalize your living space to reflect your tastes and personality?",
+        "follow_up_questions": [
+          "Do you think personalizing a home is important for emotional well-being?",
+          "What challenges do people face when trying to personalize a rented home?",
+          "How do current interior design trends influence your choices?",
+          "Do you prefer a minimalist or a more decorative approach to home personalization?",
+          "What role do personal belongings and mementos play in your home?"
+        ]
+      },
+      {
+        "monologue_question": "Discuss the importance of a home for personal well-being and family life.",
+        "follow_up_questions": [
+          "Can people truly thrive without a stable home environment?",
+          "How does a home contribute to a sense of security and stability?",
+          "What challenges do people face in finding affordable housing today?",
+          "Do you think 'tiny homes' could be a solution to housing shortages?",
+          "How does the design of a home affect family interactions?"
+        ]
+      },
+      {
+        "monologue_question": "Imagine you have to move to a completely different type of home. How would you adapt?",
+        "follow_up_questions": [
+          "What would be the biggest challenge in adapting to this new home type?",
+          "What new opportunities might this different home type present?",
+          "How important is the surrounding neighborhood when moving to a new home?",
+          "Would you try to bring elements of your old home into the new one?",
+          "How quickly do you think people can adapt to completely new living situations?"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Work",
+    "monologue_question_followups": [
+      {
+        "monologue_question": "Describe your current job or a job you've had in the past. What were your main responsibilities?",
+        "follow_up_questions": [
+          "What skills did you develop or improve in that role?",
+          "How do you think your job contributes to society?",
+          "Was there anything about the job that surprised you?",
+          "How did you prepare for the responsibilities of that job?",
+          "What's one thing you would change about that job if you could?"
+        ]
+      },
+      {
+        "monologue_question": "Discuss what motivates you in your work and what you find most fulfilling about it.",
+        "follow_up_questions": [
+          "Is financial reward the main motivator for most people in your country?",
+          "How important is a sense of purpose in one's work?",
+          "Do you think it's possible for everyone to find fulfillment in their jobs?",
+          "How do different generations prioritize job satisfaction?",
+          "What role do colleagues play in making work fulfilling?"
+        ]
+      },
+      {
+        "monologue_question": "Explain a challenging situation you faced at work and how you dealt with it.",
+        "follow_up_questions": [
+          "What did you learn from that experience?",
+          "How important is problem-solving ability in the workplace?",
+          "Did that challenge change your perspective on your job?",
+          "How do workplaces typically support employees through difficult situations?",
+          "Do you think challenges at work are necessary for growth?"
+        ]
+      },
+      {
+        "monologue_question": "How do you see your career developing in the next five to ten years?",
+        "follow_up_questions": [
+          "What steps are you taking to achieve these career goals?",
+          "Are these aspirations realistic given the current job market?",
+          "How important is continuous learning for career progression?",
+          "Do you anticipate any major changes in your industry?",
+          "What role does mentorship play in career development?"
+        ]
+      },
+      {
+        "monologue_question": "Reflect on the importance of work in people's lives beyond just earning money.",
+        "follow_up_questions": [
+          "Does work provide a sense of identity for most people?",
+          "How does unemployment affect an individual's self-esteem?",
+          "Do you think people are working too much or too little these days?",
+          "How does work contribute to social interaction and community?",
+          "What's the difference between a job and a career in your opinion?"
+        ]
+      },
+      {
+        "monologue_question": "Tell me about a memorable project or achievement from your work experience.",
+        "follow_up_questions": [
+          "What challenges did you overcome during that project?",
+          "How did that achievement impact your career or your organization?",
+          "Did you work alone or as part of a team on that project?",
+          "What skills were most crucial for its success?",
+          "How often do people get to work on truly memorable projects?"
+        ]
+      },
+      {
+        "monologue_question": "How has technology impacted the way people work in your field or country?",
+        "follow_up_questions": [
+          "Has technology created more jobs or eliminated them?",
+          "What are the biggest benefits of technology in the workplace?",
+          "What are the biggest drawbacks or concerns?",
+          "How quickly do workers need to adapt to new technologies?",
+          "Do you think technology will eventually make human workers obsolete in some sectors?"
+        ]
+      },
+      {
+        "monologue_question": "Discuss the qualities that you believe are essential for success in your profession.",
+        "follow_up_questions": [
+          "Are these qualities more about technical skills or soft skills?",
+          "Can these qualities be taught or are they innate?",
+          "How important is networking for success in your profession?",
+          "Do you think these qualities will remain essential in the future?",
+          "What role does passion play in professional success?"
+        ]
+      },
+      {
+        "monologue_question": "If you could change one aspect of your work or the working world, what would it be?",
+        "follow_up_questions": [
+          "How would this change benefit employees and employers?",
+          "What obstacles might prevent this change from happening?",
+          "Do you think this change is a realistic possibility?",
+          "How would this change impact the overall economy?",
+          "Would this change affect job satisfaction?"
+        ]
+      },
+      {
+        "monologue_question": "Describe the typical working environment or culture in your workplace.",
+        "follow_up_questions": [
+          "How does this culture compare to other workplaces you know?",
+          "Does the culture encourage collaboration or individual achievement?",
+          "How important is a positive working environment for productivity?",
+          "What role do managers play in shaping workplace culture?",
+          "Has the workplace culture changed since the pandemic?"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Study",
+    "monologue_question_followups": [
+      {
+        "monologue_question": "Describe a subject or course that you are currently studying or have studied in the past. What aspects do you find most interesting?",
+        "follow_up_questions": [
+          "How do you think this subject will be useful in your future career?",
+          "Are there any practical applications of what you're studying?",
+          "What made this particular subject more interesting than others?",
+          "Do you think everyone should study this subject?",
+          "How has this subject changed your way of thinking?"
+        ]
+      },
+      {
+        "monologue_question": "Explain what motivated you to choose your particular field of study or chosen subject.",
+        "follow_up_questions": [
+          "Were there any alternative subjects you considered?",
+          "How much influence did others have on your choice?",
+          "Do you think it's better to choose a subject you're passionate about or one with good job prospects?",
+          "What challenges did you face in pursuing this field?",
+          "How has your motivation evolved since you started studying it?"
+        ]
+      },
+      {
+        "monologue_question": "Discuss a significant challenge you've faced in your studies and how you overcame it.",
+        "follow_up_questions": [
+          "What support systems did you rely on during that time?",
+          "Did that challenge change your approach to studying?",
+          "How important is resilience in academic pursuits?",
+          "Do you think educational institutions provide enough support for struggling students?",
+          "What was the most valuable lesson you learned from that challenge?"
+        ]
+      },
+      {
+        "monologue_question": "How do you typically approach learning new material or preparing for exams?",
+        "follow_up_questions": [
+          "Do you prefer studying alone or with a group?",
+          "How important is time management in your study routine?",
+          "What role does technology play in your study habits?",
+          "Do you think current assessment methods accurately reflect student knowledge?",
+          "How do you deal with stress or anxiety before exams?"
+        ]
+      },
+      {
+        "monologue_question": "Reflect on the long-term goals you hope to achieve through your education.",
+        "follow_up_questions": [
+          "Are these goals primarily personal or professional?",
+          "How flexible are your long-term goals, given potential changes in the world?",
+          "Do you think education guarantees success in achieving goals?",
+          "What role does luck or opportunity play alongside education?",
+          "How will your education benefit society?"
+        ]
+      },
+      {
+        "monologue_question": "Tell me about a memorable learning experience or a moment when something clicked for you.",
+        "follow_up_questions": [
+          "What made that moment so impactful?",
+          "Do you think such 'aha' moments are common in learning?",
+          "How important is a good teacher in facilitating such experiences?",
+          "Can these memorable experiences be replicated in online learning environments?",
+          "What did you learn about yourself during that experience?"
+        ]
+      },
+      {
+        "monologue_question": "How has technology influenced your study habits or the way education is delivered?",
+        "follow_up_questions": [
+          "What are the biggest advantages of using technology for studying?",
+          "What are the biggest disadvantages or distractions?",
+          "Do you think technology makes learning easier or harder?",
+          "How accessible are these technologies to all students?",
+          "Will traditional classrooms eventually become obsolete due to technology?"
+        ]
+      },
+      {
+        "monologue_question": "Discuss the importance of lifelong learning in today's rapidly changing world.",
+        "follow_up_questions": [
+          "What motivates people to continue learning after formal education?",
+          "How can individuals best stay updated with new knowledge and skills?",
+          "Do employers actively support lifelong learning for their staff?",
+          "What role do hobbies play in lifelong learning?",
+          "Is lifelong learning more about adapting to change or pursuing personal interests?"
+        ]
+      },
+      {
+        "monologue_question": "If you could design a new course or subject for students, what would it be and why?",
+        "follow_up_questions": [
+          "What age group would this course be for?",
+          "What unique skills or knowledge would students gain from it?",
+          "How would you assess student learning in this new course?",
+          "Would it be a compulsory or optional subject?",
+          "What challenges might you face in implementing such a new course?"
+        ]
+      },
+      {
+        "monologue_question": "Describe the ideal learning environment for you, and explain why it suits your study style.",
+        "follow_up_questions": [
+          "Is this environment physical or psychological?",
+          "How much does noise or quietness affect your learning?",
+          "Do you think all students have the opportunity to learn in their ideal environment?",
+          "What role does comfort play in a learning environment?",
+          "How important is the presence of a teacher in your ideal learning environment?"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Daily routine",
+    "monologue_question_followups": [
+      {
+        "monologue_question": "Describe your typical daily routine on a weekday, from morning to evening.",
+        "follow_up_questions": [
+          "Do you find your routine energizing or exhausting?",
+          "How flexible is your routine, or do you stick to it strictly?",
+          "What's one small change you could make to improve your routine?",
+          "How does your routine compare to that of people in different professions?",
+          "Do you think having a strict routine is beneficial for everyone?"
+        ]
+      },
+      {
+        "monologue_question": "Explain how your daily routine differs on weekends or holidays, and what you enjoy about these differences.",
+        "follow_up_questions": [
+          "Is it difficult to switch between your weekday and weekend routines?",
+          "Do you believe a complete break from routine on weekends is important?",
+          "What activities do you prioritize when you have more flexibility?",
+          "How do these differences affect your productivity?",
+          "Do you prefer structure or spontaneity in your daily life?"
+        ]
+      },
+      {
+        "monologue_question": "Discuss any particular habits or rituals that are important parts of your daily routine.",
+        "follow_up_questions": [
+          "How did you develop these habits?",
+          "What benefits do these rituals bring to your day?",
+          "Do you think habits make life more efficient or monotonous?",
+          "Are there any habits you would like to incorporate into your routine?",
+          "How do these habits reflect your personal values?"
+        ]
+      },
+      {
+        "monologue_question": "If you could change one aspect of your daily routine, what would it be and why?",
+        "follow_up_questions": [
+          "How realistic is it to implement this change?",
+          "What impact would this change have on other parts of your day?",
+          "Would this change affect your work or study performance?",
+          "What are the biggest obstacles to changing established routines?",
+          "Do you think small changes in routine can lead to big improvements?"
+        ]
+      },
+      {
+        "monologue_question": "Reflect on the importance of having a routine or structure in your life.",
+        "follow_up_questions": [
+          "Can too much routine lead to boredom or lack of creativity?",
+          "How does a routine help with stress management?",
+          "Do different personalities benefit differently from routine?",
+          "What happens when people lose their sense of routine?",
+          "How do cultural norms influence the daily routines of people?"
+        ]
+      },
+      {
+        "monologue_question": "Tell me about a time your daily routine was significantly disrupted, and how you managed it.",
+        "follow_up_questions": [
+          "What was the biggest challenge during that disruption?",
+          "Did you discover any unexpected benefits from the disruption?",
+          "How quickly were you able to re-establish a routine?",
+          "Do you think being adaptable to routine changes is a valuable skill?",
+          "What role did external factors play in the disruption?"
+        ]
+      },
+      {
+        "monologue_question": "How has your daily routine evolved over different stages of your life?",
+        "follow_up_questions": [
+          "What caused the biggest shifts in your routine at different stages?",
+          "Do you prefer the routine you have now, or one from a previous stage?",
+          "How do family responsibilities impact one's daily routine?",
+          "What role does age play in shaping daily habits?",
+          "Do you think future routines will be more or less structured?"
+        ]
+      },
+      {
+        "monologue_question": "Discuss the balance between productivity and relaxation in your daily routine.",
+        "follow_up_questions": [
+          "Do you find it difficult to achieve this balance?",
+          "What are your go-to activities for relaxation?",
+          "How does stress affect your ability to relax?",
+          "Is a strict schedule necessary for maintaining this balance?",
+          "What advice would you give to someone struggling to balance productivity and relaxation?"
+        ]
+      },
+      {
+        "monologue_question": "Imagine you have a completely free day with no obligations. How would you spend it?",
+        "follow_up_questions": [
+          "Would you plan out every hour, or be spontaneous?",
+          "Would you prefer to spend it alone or with others?",
+          "How would this ideal day differ from a typical weekend day?",
+          "What feeling would you hope to achieve by the end of this day?",
+          "Do you think it's important to have such completely free days occasionally?"
+        ]
+      },
+      {
+        "monologue_question": "Describe how your daily routine reflects your personal priorities and values.",
+        "follow_up_questions": [
+          "Are there any conflicts between your routine and your ideal values?",
+          "How do people's values influence their time management?",
+          "Do you think society's values are reflected in common daily routines?",
+          "How challenging is it to align your routine with your deepest priorities?",
+          "What's one value that you consistently try to incorporate into your day?"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Free time",
+    "monologue_question_followups": [
+      {
+        "monologue_question": "Describe how you typically spend your free time. What activities do you enjoy most?",
+        "follow_up_questions": [
+          "Do you always have enough free time, or do you wish you had more?",
+          "How has your choice of free time activities changed over time?",
+          "Are these activities mostly solitary or do they involve others?",
+          "Do you think people in your country generally have enough free time?",
+          "What role does free time play in recharging your energy?"
+        ]
+      },
+      {
+        "monologue_question": "Explain the importance of having free time in your life and how it contributes to your well-being.",
+        "follow_up_questions": [
+          "Can too much free time be a bad thing?",
+          "How does free time impact creativity and innovation?",
+          "Do you think workplaces should prioritize providing employees with more free time?",
+          "How does a lack of free time affect people's stress levels?",
+          "Is there a cultural difference in how free time is valued?"
+        ]
+      },
+      {
+        "monologue_question": "Discuss a new hobby or activity you've recently tried or would like to try in your free time.",
+        "follow_up_questions": [
+          "What sparked your interest in this new activity?",
+          "What challenges do you anticipate in trying it?",
+          "How important is it to continuously try new things in your free time?",
+          "What resources would you need to pursue this activity?",
+          "Do you think learning new hobbies is beneficial for the brain?"
+        ]
+      },
+      {
+        "monologue_question": "How has the way you spend your free time changed over the years?",
+        "follow_up_questions": [
+          "What caused these changes in your free time activities?",
+          "Do you miss any of the free time activities from your past?",
+          "How do life stages (e.g., student, working professional, parent) influence free time?",
+          "Has technology affected how you spend your free time?",
+          "Do you think these changes are for the better or worse?"
+        ]
+      },
+      {
+        "monologue_question": "Reflect on the balance between active pursuits and relaxation in your free time activities.",
+        "follow_up_questions": [
+          "Which do you prioritize more, activity or relaxation, and why?",
+          "What are the benefits of a balanced approach to free time?",
+          "Do you find it difficult to switch between active and relaxed modes?",
+          "How do different people define 'relaxation'?",
+          "Is there a perfect ratio of active to passive free time?"
+        ]
+      },
+      {
+        "monologue_question": "Tell me about a memorable experience you've had during your free time.",
+        "follow_up_questions": [
+          "What made that experience so memorable?",
+          "Did you plan it, or was it spontaneous?",
+          "How did that experience make you feel at the time?",
+          "Would you try to replicate that experience?",
+          "What role does free time play in creating lasting memories?"
+        ]
+      },
+      {
+        "monologue_question": "How do social media and technology influence the way people spend their free time today?",
+        "follow_up_questions": [
+          "Do you think technology enhances or diminishes the quality of free time?",
+          "Are people spending too much free time on screens?",
+          "How can people use technology more constructively in their free time?",
+          "Has technology made free time more accessible or more isolating?",
+          "What's the difference between true relaxation and mindless scrolling?"
+        ]
+      },
+      {
+        "monologue_question": "Discuss the benefits of engaging in various free time activities for personal growth and development.",
+        "follow_up_questions": [
+          "Can hobbies contribute to professional development?",
+          "How do different types of activities foster different kinds of growth?",
+          "Do you think schools should encourage more varied free time pursuits?",
+          "How does personal growth from free time compare to formal education?",
+          "Is it ever too late to pick up a new activity for personal growth?"
+        ]
+      },
+      {
+        "monologue_question": "If you had an unlimited amount of free time, how would you ideally fill your days?",
+        "follow_up_questions": [
+          "Would you still engage in some form of work or purposeful activity?",
+          "How would this compare to your current ideal of a free day?",
+          "What ethical considerations might arise from having unlimited free time?",
+          "Do you think unlimited free time would ultimately lead to boredom?",
+          "How would society function if everyone had unlimited free time?"
+        ]
+      },
+      {
+        "monologue_question": "Describe how your free time activities reflect your personality and interests.",
+        "follow_up_questions": [
+          "Do people typically choose free time activities that align with their personality?",
+          "Can free time activities help people discover new aspects of themselves?",
+          "How do your interests influence the people you spend your free time with?",
+          "Do you think it's possible for someone to have very different work and free time personalities?",
+          "What happens when one's free time activities no longer align with their interests?"
+        ]
+      }
+    ]
+  },
+  {
+    "topic": "Hobbies",
+    "monologue_question_followups": [
+      {
+        "monologue_question": "Describe one of your favorite hobbies. How did you become interested in it?",
+        "follow_up_questions": [
+          "Is this hobby popular in your country?",
+          "What is the most challenging aspect of this hobby?",
+          "How much time do you dedicate to it each week?",
+          "Does this hobby require any special equipment or skills?",
+          "How has your involvement with this hobby changed over time?"
+        ]
+      },
+      {
+        "monologue_question": "Explain the skills or qualities that your hobby requires, and how you've developed them.",
+        "follow_up_questions": [
+          "Can these skills be transferred to other areas of your life or work?",
+          "Is it more about innate talent or consistent practice for this hobby?",
+          "How do you measure progress in your hobby?",
+          "What resources (e.g., books, online tutorials, mentors) did you use to develop these skills?",
+          "Do you think hobbies are a good way to develop new skills?"
+        ]
+      },
+      {
+        "monologue_question": "Discuss the personal benefits you gain from engaging in your hobby.",
+        "follow_up_questions": [
+          "Are these benefits primarily physical, mental, or emotional?",
+          "How does your hobby help you relax or de-stress?",
+          "Do you think hobbies are essential for a balanced life?",
+          "What unexpected benefits have you gained from your hobby?",
+          "How do these benefits compare to those gained from work or study?"
+        ]
+      },
+      {
+        "monologue_question": "How has your hobby evolved or changed over time, if at all?",
+        "follow_up_questions": [
+          "What caused these changes in your hobby?",
+          "Do you prefer its current form or an earlier one?",
+          "Has your commitment to the hobby increased or decreased?",
+          "How do new technologies or trends affect your hobby?",
+          "Do you think hobbies generally tend to evolve with a person?"
+        ]
+      },
+      {
+        "monologue_question": "Reflect on how your hobby connects you with others or a wider community.",
+        "follow_up_questions": [
+          "Have you made new friends through your hobby?",
+          "What kind of community events or groups exist for your hobby?",
+          "Do you think hobbies are good for building social connections?",
+          "How does being part of a community enhance the hobby experience?",
+          "Are there any online communities related to your hobby?"
+        ]
+      },
+      {
+        "monologue_question": "Tell me about a memorable achievement or moment related to your hobby.",
+        "follow_up_questions": [
+          "What made that moment so special to you?",
+          "Was it a personal achievement or a public recognition?",
+          "How did you feel after achieving that moment?",
+          "Did that achievement motivate you to pursue the hobby further?",
+          "Do you think hobbies always need clear goals or achievements?"
+        ]
+      },
+      {
+        "monologue_question": "How much time and effort do you dedicate to your hobby, and how do you manage it with other commitments?",
+        "follow_up_questions": [
+          "Do you ever feel your hobby takes up too much time?",
+          "How do you prioritize your hobby among other responsibilities?",
+          "What happens when you have a period with less time for your hobby?",
+          "Do you think hobbies should be a priority for everyone?",
+          "How does your schedule accommodate your hobby?"
+        ]
+      },
+      {
+        "monologue_question": "Discuss the importance of having hobbies for mental well-being and work-life balance.",
+        "follow_up_questions": [
+          "Can hobbies help prevent burnout from work or study?",
+          "How do hobbies contribute to a sense of purpose outside of work?",
+          "Do employers recognize the value of employees having hobbies?",
+          "What's the difference between a hobby and a casual interest?",
+          "How do people discover hobbies that are good for their mental health?"
+        ]
+      },
+      {
+        "monologue_question": "If you could learn any new hobby, what would it be and why?",
+        "follow_up_questions": [
+          "What resources would you need to start learning this hobby?",
+          "What challenges do you anticipate in learning it?",
+          "Would you prefer to learn it alone or with others?",
+          "How would this new hobby complement your current interests?",
+          "Do you think learning new hobbies keeps the mind active?"
+        ]
+      },
+      {
+        "monologue_question": "Describe how your hobby allows you to express your creativity or passion.",
+        "follow_up_questions": [
+          "Do you think all hobbies involve some form of creativity?",
+          "How does expressing creativity through a hobby differ from expressing it at work?",
+          "What role does passion play in sustaining a hobby over time?",
+          "Do you share your creative output from your hobby with others?",
+          "How can hobbies help people discover hidden talents?"
+        ]
+      }
+    ]
+  }
+]

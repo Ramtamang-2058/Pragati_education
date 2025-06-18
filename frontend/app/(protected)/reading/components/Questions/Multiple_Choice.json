@@ -1,0 +1,362 @@
+[
+  {
+    "question_number": 1,
+    "passage": "The ongoing digital revolution has profoundly reshaped the landscape of global communication, creating unprecedented opportunities for instantaneous interaction across vast distances. Technologies such as high-speed internet, email, and sophisticated video conferencing platforms have effectively bridged geographical barriers, enabling individuals and organisations to connect with remarkable ease. This pervasive connectivity, while offering immense advantages in terms of information exchange and cultural understanding, also introduces new considerations regarding digital literacy and online privacy.",
+    "question_stem": "Which aspects of modern communication are highlighted in the passage?",
+    "options": [
+      {"letter": "A", "text": "The decline of all traditional communication methods.", "is_correct": false},
+      {"letter": "B", "text": "The ability to interact instantly across distances.", "is_correct": true},
+      {"letter": "C", "text": "The emergence of new privacy concerns.", "is_correct": true},
+      {"letter": "D", "text": "The exclusive use of written correspondence.", "is_correct": false}
+    ],
+    "explanation": "The passage mentions 'instantaneous interaction across vast distances' and 'new considerations regarding digital literacy and online privacy'."
+  },
+  {
+    "question_number": 2,
+    "passage": "Engaging in regular physical activity is an indispensable component of a holistic approach to health and well-being. Consistent exercise not only yields significant physiological benefits, such as enhanced cardiovascular function and strengthened musculoskeletal systems, but also exerts a powerful positive influence on psychological states. Many individuals report a marked reduction in stress levels and an overall improvement in mood following sustained periods of moderate exertion, underscoring the multifaceted advantages of incorporating activity into daily routines.",
+    "question_stem": "According to the text, what positive effects can regular exercise have?",
+    "options": [
+      {"letter": "A", "text": "It only influences physical strength.", "is_correct": false},
+      {"letter": "B", "text": "It can lead to improved cardiovascular health.", "is_correct": true},
+      {"letter": "C", "text": "It often contributes to lower stress levels.", "is_correct": true},
+      {"letter": "D", "text": "It guarantees immediate weight loss for everyone.", "is_correct": false}
+    ],
+    "explanation": "The passage notes 'enhanced cardiovascular function' and 'a marked reduction in stress levels and an overall improvement in mood'."
+  },
+  {
+    "question_number": 3,
+    "passage": "The global imperative to address climate change has catalysed a transformative shift towards sustainable energy solutions. Technologies like photovoltaic solar panels efficiently harness solar radiation, converting it into electricity without generating harmful emissions. Similarly, expansive wind farms capture the kinetic energy of air currents, providing a clean and inexhaustible power source. These innovative approaches are pivotal in diminishing humanity's ecological footprint and transitioning away from reliance on finite fossil fuels, thus securing a more environmentally sound future.",
+    "question_stem": "What is the primary motivation for developing renewable energy sources?",
+    "options": [
+      {"letter": "A", "text": "To increase dependency on fossil fuels.", "is_correct": false},
+      {"letter": "B", "text": "To mitigate the effects of climate change.", "is_correct": true},
+      {"letter": "C", "text": "To decrease the global ecological footprint.", "is_correct": true},
+      {"letter": "D", "text": "To create more energy-intensive industries.", "is_correct": false}
+    ],
+    "explanation": "The passage mentions 'The global imperative to address climate change has catalysed a transformative shift towards sustainable energy solutions' and 'diminishing humanity's ecological footprint'."
+  },
+  {
+    "question_number": 4,
+    "passage": "The ongoing phenomenon of urbanization, characterised by the movement of populations from rural to densely populated urban centres, presents a dual-edged sword for societies worldwide. On one hand, metropolitan areas frequently serve as hubs for innovation, offering enhanced educational opportunities and a wider array of employment prospects. On the other hand, rapid urban growth often precipitates significant challenges, including severe strains on public infrastructure, the proliferation of informal settlements, and heightened levels of traffic congestion, demanding meticulous urban planning.",
+    "question_stem": "What are the common challenges associated with rapid urbanization?",
+    "options": [
+      {"letter": "A", "text": "Increased access to educational facilities.", "is_correct": false},
+      {"letter": "B", "text": "Severe pressure on existing public infrastructure.", "is_correct": true},
+      {"letter": "C", "text": "A reduction in employment opportunities.", "is_correct": false},
+      {"letter": "D", "text": "Higher levels of traffic congestion.", "is_correct": true}
+    ],
+    "explanation": "The passage states 'rapid urban growth often precipitates significant challenges, including severe strains on public infrastructure... and heightened levels of traffic congestion'."
+  },
+  {
+    "question_number": 5,
+    "passage": "The profound impact of the printing press, invented by Johannes Gutenberg in the 15th century, cannot be overstated in the annals of human intellectual development. This revolutionary device facilitated the rapid and extensive reproduction of texts, thereby dramatically reducing the cost of books and making them far more accessible to a burgeoning readership beyond monastic or elite circles. Consequently, it played an instrumental role in stimulating widespread literacy, disseminating knowledge, and ultimately catalysing the European Renaissance and the Protestant Reformation.",
+    "question_stem": "Which of the following were direct consequences of the printing press invention?",
+    "options": [
+      {"letter": "A", "text": "Books became exclusively available to the wealthy.", "is_correct": false},
+      {"letter": "B", "text": "The cost of printed materials significantly decreased.", "is_correct": true},
+      {"letter": "C", "text": "It contributed to the spread of literacy.", "is_correct": true},
+      {"letter": "D", "text": "It halted intellectual development for centuries.", "is_correct": false}
+    ],
+    "explanation": "The passage explains it 'dramatically reducing the cost of books and making them far more accessible' and 'played an instrumental role in stimulating widespread literacy, disseminating knowledge'."
+  },
+  {
+    "question_number": 6,
+    "passage": "The burgeoning global tourism industry has emerged as a significant economic driver for numerous nations, particularly those endowed with rich cultural heritage or pristine natural environments. It generates substantial foreign exchange earnings, creates diverse employment opportunities across hospitality and related sectors, and often necessitates significant investment in infrastructure development, such as airports and hotels. However, if not managed sustainably, the influx of tourists can exert considerable pressure on delicate ecosystems and potentially dilute the authenticity of local cultures.",
+    "question_stem": "What positive economic impacts does global tourism typically have?",
+    "options": [
+      {"letter": "A", "text": "It frequently leads to cultural degradation.", "is_correct": false},
+      {"letter": "B", "text": "It stimulates various employment sectors.", "is_correct": true},
+      {"letter": "C", "text": "It fosters infrastructure improvements.", "is_correct": true},
+      {"letter": "D", "text": "It always reduces local spending.", "is_correct": false}
+    ],
+    "explanation": "The passage indicates it 'creates diverse employment opportunities' and 'often necessitates significant investment in infrastructure development'."
+  },
+  {
+    "question_number": 7,
+    "passage": "Mastering the art of effective time management is unequivocally a foundational skill for achieving both academic excellence and professional advancement. This discipline entails the judicious allocation of one's hours, which typically involves meticulous prioritization of tasks, the establishment of realistic and achievable deadlines, and the vigilant avoidance of superfluous distractions. Cultivating such proficiency can dramatically elevate an individual's productivity output and concurrently ameliorate feelings of anxiety and being overwhelmed.",
+    "question_stem": "What elements are crucial for effective time management?",
+    "options": [
+      {"letter": "A", "text": "Ignoring all forms of external distractions.", "is_correct": true},
+      {"letter": "B", "text": "Setting unrealistic expectations for task completion.", "is_correct": false},
+      {"letter": "C", "text": "Prioritizing tasks appropriately.", "is_correct": true},
+      {"letter": "D", "text": "Working continuously without any breaks.", "is_correct": false}
+    ],
+    "explanation": "The passage states it involves 'meticulous prioritization of tasks... and the vigilant avoidance of superfluous distractions'."
+  },
+  {
+    "question_number": 8,
+    "passage": "The Amazon Rainforest stands as an ecological titan, globally recognized for its unparalleled biodiversity and its indispensable role in regulating planetary climate patterns. This sprawling biome hosts millions of species, many of which are endemic, making it a critical reservoir of genetic information. Its extensive forest cover acts as a monumental carbon sink, absorbing prodigious quantities of atmospheric carbon dioxide, thereby mitigating the severity of global warming. However, persistent deforestation, driven by agricultural expansion and logging, continues to threaten this invaluable natural asset.",
+    "question_stem": "Why is the Amazon Rainforest considered vital on a global scale?",
+    "options": [
+      {"letter": "A", "text": "It is the primary source of commercial timber for construction.", "is_correct": false},
+      {"letter": "B", "text": "It plays a key role in global climate regulation.", "is_correct": true},
+      {"letter": "C", "text": "It is a crucial repository of unique biodiversity.", "is_correct": true},
+      {"letter": "D", "text": "It is entirely impervious to human-induced threats.", "is_correct": false}
+    ],
+    "explanation": "The passage highlights its 'unparalleled biodiversity and its indispensable role in regulating planetary climate patterns' and being a 'critical reservoir of genetic information'."
+  },
+  {
+    "question_number": 9,
+    "passage": "The burgeoning field of Artificial Intelligence (AI) is rapidly catalysing transformative shifts across a myriad of economic sectors. From streamlining operational processes through automation of repetitive tasks to enabling sophisticated data analytics and predictive modelling, AI applications are significantly augmenting efficiency and unlocking novel capabilities. This technological paradigm shift is not merely enhancing current practices but is also projected to fundamentally redefine the structure and demands of future employment landscapes, necessitating workforce adaptation.",
+    "question_stem": "In what ways is Artificial Intelligence (AI) impacting various economic sectors?",
+    "options": [
+      {"letter": "A", "text": "It exclusively reduces human employment in all areas.", "is_correct": false},
+      {"letter": "B", "text": "It improves operational efficiency through automation.", "is_correct": true},
+      {"letter": "C", "text": "It is enabling advanced data analysis.", "is_correct": true},
+      {"letter": "D", "text": "It has no discernible effect on future job markets.", "is_correct": false}
+    ],
+    "explanation": "The passage states AI is 'streamlining operational processes through automation' and 'enabling sophisticated data analytics'."
+  },
+  {
+    "question_number": 10,
+    "passage": "The increasing prevalence of remote work arrangements is initiating profound reconfigurations in both urban planning paradigms and conventional office design principles. Progressive companies are increasingly re-evaluating the necessity of expansive, centralized corporate campuses, opting instead for more flexible co-working environments or entirely distributed virtual teams. This burgeoning trend carries the potential to alleviate urban traffic congestion, diminish the environmental impact associated with daily commuting, and potentially cultivate a more balanced work-life dynamic for a significant portion of the global workforce.",
+    "question_stem": "What are the potential consequences of the growing trend of remote work?",
+    "options": [
+      {"letter": "A", "text": "It will inevitably lead to the complete disappearance of all office buildings.", "is_correct": false},
+      {"letter": "B", "text": "It could contribute to reduced urban traffic congestion.", "is_correct": true},
+      {"letter": "C", "text": "It has the potential to enhance work-life balance.", "is_correct": true},
+      {"letter": "D", "text": "It encourages a return to traditional, rigid office structures.", "is_correct": false}
+    ],
+    "explanation": "The passage suggests it 'carries the potential to alleviate urban traffic congestion... and potentially cultivate a more balanced work-life dynamic'."
+  },
+  {
+    "question_number": 11,
+    "passage": "Sustainable agricultural practices represent a holistic approach designed to satisfy the world's burgeoning demand for food and fibre, without compromising the ecological integrity of natural systems or the capacity of future generations to meet their own fundamental requirements. Such methodologies encompass a broad spectrum of techniques, including crop rotation, organic farming, and judicious water management, all of which are instrumental in preserving soil health, conserving biodiversity, and ensuring the long-term viability of agricultural ecosystems.",
+    "question_stem": "What is the overarching aim of sustainable agricultural practices?",
+    "options": [
+      {"letter": "A", "text": "To increase reliance on chemical fertilisers.", "is_correct": false},
+      {"letter": "B", "text": "To protect ecological integrity for future generations.", "is_correct": true},
+      {"letter": "C", "text": "To satisfy current food demands without harming the environment.", "is_correct": true},
+      {"letter": "D", "text": "To exclusively focus on maximizing short-term yields.", "is_correct": false}
+    ],
+    "explanation": "The passage states its aim is to 'satisfy the world's burgeoning demand for food and fibre, without compromising the ecological integrity of natural systems or the capacity of future generations to meet their own fundamental requirements'."
+  },
+  {
+    "question_number": 12,
+    "passage": "The evolution of pedagogical methodologies in education has transitioned considerably from traditional rote learning approaches to more dynamic, student-centric paradigms. Contemporary educational philosophy frequently champions the cultivation of critical thinking abilities, the development of sophisticated problem-solving strategies, and the promotion of collaborative learning environments. Furthermore, the pervasive integration of digital technologies has become an increasingly indispensable medium for the delivery of diverse educational content and fostering interactive learning experiences.",
+    "question_stem": "What are some characteristics of modern pedagogical approaches?",
+    "options": [
+      {"letter": "A", "text": "They solely focus on memorization and repetition.", "is_correct": false},
+      {"letter": "B", "text": "They prioritise the development of critical thinking.", "is_correct": true},
+      {"letter": "C", "text": "They encourage collaborative learning amongst students.", "is_correct": true},
+      {"letter": "D", "text": "They avoid the use of any digital technologies.", "is_correct": false}
+    ],
+    "explanation": "The passage mentions 'cultivation of critical thinking abilities... and the promotion of collaborative learning environments. Furthermore, the pervasive integration of digital technologies has become an increasingly indispensable medium'."
+  },
+  {
+    "question_number": 13,
+    "passage": "The burgeoning global adoption of electric vehicles (EVs) is anticipated to instigate substantial improvements in urban air quality. A key advantage of EVs is their complete absence of tailpipe emissions, which means they do not release harmful pollutants directly into the local atmosphere, unlike conventional internal combustion engine vehicles. This transformative shift in transportation technology is regarded as crucial for addressing escalating public health concerns, particularly in densely populated metropolitan areas where air pollution levels are often critically high.",
+    "question_stem": "What is the primary environmental benefit of electric vehicles mentioned?",
+    "options": [
+      {"letter": "A", "text": "They can operate without any charging infrastructure.", "is_correct": false},
+      {"letter": "B", "text": "They contribute to significant reductions in urban air pollution.", "is_correct": true},
+      {"letter": "C", "text": "They increase the consumption of fossil fuels.", "is_correct": false},
+      {"letter": "D", "text": "They produce zero tailpipe emissions.", "is_correct": true}
+    ],
+    "explanation": "The passage highlights 'their complete absence of tailpipe emissions' and that this 'significantly reduces local air pollution'."
+  },
+  {
+    "question_number": 14,
+    "passage": "Neuroplasticity, a truly remarkable inherent capability of the human brain, refers to its profound ability to continually adapt, reorganize, and form new neural connections throughout an individual's lifespan. This dynamic characteristic underpins our capacity for lifelong learning, facilitates recovery from neurological injuries by rerouting functions, and enables profound adjustments to novel environmental stimuli. While particularly pronounced during formative childhood years, the brain's plasticity persists, albeit with varying degrees, well into adulthood, underscoring its continuous developmental potential.",
+    "question_stem": "Which statements accurately describe neuroplasticity?",
+    "options": [
+      {"letter": "A", "text": "It is primarily limited to the early stages of childhood development.", "is_correct": false},
+      {"letter": "B", "text": "It refers to the brain's capacity for adaptation and reorganization.", "is_correct": true},
+      {"letter": "C", "text": "It allows individuals to learn new skills.", "is_correct": true},
+      {"letter": "D", "text": "It implies the brain's structure is entirely fixed from birth.", "is_correct": false}
+    ],
+    "explanation": "The passage defines it as the brain's 'ability to continually adapt, reorganize, and form new neural connections' and states it 'underpins our capacity for lifelong learning'."
+  },
+  {
+    "question_number": 15,
+    "passage": "The ubiquity of smartphones has fundamentally reconfigured various facets of contemporary personal and professional existence. These sophisticated handheld devices offer users immediate access to an extensive repository of information, enable seamless and continuous communication across diverse networks, and ingeniously integrate a multitude of functionalities, ranging from advanced navigation systems to high-resolution photographic capabilities, all within a singular, compact unit. This pervasive integration of technology has, in turn, fostered both unprecedented levels of convenience and the evolution of novel societal norms and expectations regarding connectivity.",
+    "question_stem": "What are the significant impacts or features of smartphones?",
+    "options": [
+      {"letter": "A", "text": "They have reduced the overall convenience for users.", "is_correct": false},
+      {"letter": "B", "text": "They provide instant access to vast amounts of information.", "is_correct": true},
+      {"letter": "C", "text": "They combine various functions into a single device.", "is_correct": true},
+      {"letter": "D", "text": "They have eliminated the need for human interaction.", "is_correct": false}
+    ],
+    "explanation": "The passage notes they 'offer users immediate access to an extensive repository of information... and ingeniously integrate a multitude of functionalities'."
+  },
+  {
+    "question_number": 16,
+    "passage": "The paramount importance of biodiversity to the health and functioning of planetary ecosystems cannot be overstated. A rich and varied array of species contributes intrinsically to the stability and inherent resilience of natural environments, empowering them to more effectively withstand and recover from ecological disturbances, such as climate shifts or disease outbreaks. Conversely, a reduction in biodiversity can precipitate cascading ecological imbalances, leading to diminished ecosystem services that are vital for human welfare, including critical processes like natural pollination, water filtration, and nutrient cycling.",
+    "question_stem": "What is the primary contribution of high biodiversity to ecosystems?",
+    "options": [
+      {"letter": "A", "text": "It guarantees the absence of all environmental disturbances.", "is_correct": false},
+      {"letter": "B", "text": "It enhances ecological stability and resilience.", "is_correct": true},
+      {"letter": "C", "text": "It improves the capacity of ecosystems to recover from disruptions.", "is_correct": true},
+      {"letter": "D", "text": "It invariably leads to a reduction in ecosystem services.", "is_correct": false}
+    ],
+    "explanation": "The passage states 'A rich and varied array of species contributes intrinsically to the stability and inherent resilience of natural environments, empowering them to more effectively withstand and recover from ecological disturbances'."
+  },
+  {
+    "question_number": 17,
+    "passage": "Volcanic eruptions, though often perceived primarily as catastrophic natural phenomena, are in fact integral components of Earth's dynamic geological processes. Beyond their immediate destructive potential, these events play a crucial long-term role in shaping the planet's surface by contributing to the formation of new landmasses and enriching surrounding soils with a diverse array of essential minerals. Over geological timescales, the continuous release of gases and molten rock from volcanoes has significantly influenced the composition of Earth's atmosphere and the very contours of its continents, underscoring their profound geological importance.",
+    "question_stem": "What are the constructive roles of volcanic eruptions?",
+    "options": [
+      {"letter": "A", "text": "They exclusively cause widespread environmental destruction.", "is_correct": false},
+      {"letter": "B", "text": "They are instrumental in the creation of new land.", "is_correct": true},
+      {"letter": "C", "text": "They contribute to the enrichment of soils with minerals.", "is_correct": true},
+      {"letter": "D", "text": "They primarily lead to a decrease in global temperatures.", "is_correct": false}
+    ],
+    "explanation": "The passage states they 'contributing to the formation of new landmasses and enriching surrounding soils with a diverse array of essential minerals'."
+  },
+  {
+    "question_number": 18,
+    "passage": "The academic discipline of history offers an unparalleled lens through which to comprehend the intricate tapestry of human civilization. By meticulously analysing past events, societies gain invaluable insights into the foundational origins of contemporary social structures, political systems, and cultural norms. Furthermore, studying historical narratives provides crucial opportunities to learn from previous societal missteps and triumphs, thereby potentially informing strategic decisions and enabling more astute predictions regarding future trends and challenges. Authentic historical research is rigorously grounded in the meticulous examination of primary source materials, including ancient manuscripts, archaeological findings, and oral traditions.",
+    "question_stem": "What key understandings can be gained from studying history?",
+    "options": [
+      {"letter": "A", "text": "A definitive ability to prevent all future societal problems.", "is_correct": false},
+      {"letter": "B", "text": "Insights into the origins of current social systems.", "is_correct": true},
+      {"letter": "C", "text": "Opportunities to learn from historical errors and successes.", "is_correct": true},
+      {"letter": "D", "text": "Exclusive knowledge of only recent historical events.", "is_correct": false}
+    ],
+    "explanation": "The passage explains we can 'understand the foundational origins of contemporary social structures... and learn from previous societal missteps and triumphs'."
+  },
+  {
+    "question_number": 19,
+    "passage": "The strategic development of sustainable transportation systems is an imperative undertaking for both mitigating adverse environmental impacts and significantly enhancing the quality of urban living. Actively promoting and investing in modes such as comprehensive public transport networks, dedicated cycling infrastructure, and pedestrian-friendly pathways can substantially curtail carbon emissions and alleviate pervasive traffic congestion within metropolitan areas. Such forward-thinking initiatives are demonstrably pivotal in fostering healthier, more efficient, and ultimately more livable urban environments for their inhabitants.",
+    "question_stem": "What are the principal objectives of developing sustainable transportation systems?",
+    "options": [
+      {"letter": "A", "text": "To encourage an increase in private vehicle ownership.", "is_correct": false},
+      {"letter": "B", "text": "To reduce overall carbon emissions.", "is_correct": true},
+      {"letter": "C", "text": "To improve the overall quality of urban life.", "is_correct": true},
+      {"letter": "D", "text": "To completely eliminate all forms of urban travel.", "is_correct": false}
+    ],
+    "explanation": "The passage highlights their importance for 'mitigating adverse environmental impacts and significantly enhancing the quality of urban living' and to 'curtail carbon emissions'."
+  },
+  {
+    "question_number": 20,
+    "passage": "The escalating global challenge of freshwater scarcity is predominantly driven by a confluence of factors, including unprecedented population expansion, intensified agricultural demands, and pervasive industrial pollution. Excessive extraction of water from finite natural reserves for various human activities, coupled with the degradation of water quality through contaminants, exacerbates this critical issue. Consequently, the implementation of robust and efficient water management strategies, alongside widespread public awareness campaigns promoting conservation, becomes unequivocally critical for ensuring long-term access to this indispensable resource.",
+    "question_stem": "What are the primary factors contributing to global freshwater scarcity?",
+    "options": [
+      {"letter": "A", "text": "A global decrease in overall human population.", "is_correct": false},
+      {"letter": "B", "text": "Increased agricultural water consumption.", "is_correct": true},
+      {"letter": "C", "text": "Extensive industrial water pollution.", "is_correct": true},
+      {"letter": "D", "text": "The natural replenishment of water sources.", "is_correct": false}
+    ],
+    "explanation": "The passage attributes scarcity to 'unprecedented population expansion, intensified agricultural demands, and pervasive industrial pollution' and 'Excessive extraction... coupled with the degradation of water quality through contaminants'."
+  },
+  {
+    "question_number": 21,
+    "passage": "Technological innovation has instigated a profound transformation across the entire healthcare spectrum, from diagnostic precision to therapeutic efficacy. Advanced imaging techniques and sophisticated laboratory analyses now enable medical professionals to identify health conditions with unprecedented accuracy and at earlier stages. Concurrently, the proliferation of digital health platforms and telemedicine services has dramatically expanded access to medical consultations and expert advice, particularly benefiting remote populations and those with limited mobility, thereby bridging geographical divides in healthcare provision.",
+    "question_stem": "How has technology fundamentally altered the healthcare sector?",
+    "options": [
+      {"letter": "A", "text": "It has universally increased the cost of all medical treatments.", "is_correct": false},
+      {"letter": "B", "text": "It has led to more precise diagnostic capabilities.", "is_correct": true},
+      {"letter": "C", "text": "It has improved access to medical advice through telemedicine.", "is_correct": true},
+      {"letter": "D", "text": "It has reduced the need for highly skilled medical professionals.", "is_correct": false}
+    ],
+    "explanation": "The passage states 'Diagnostic tools are becoming more precise' and 'telemedicine services has dramatically expanded access to medical consultations'."
+  },
+  {
+    "question_number": 22,
+    "passage": "Forest ecosystems are of paramount importance, their value extending far beyond their role as sources of timber and other raw materials. These vital biomes are indispensable for maintaining atmospheric composition by producing vast quantities of oxygen and sequestering carbon dioxide, thereby playing a critical role in regulating global temperatures. Furthermore, forests serve as irreplaceable habitats for an astonishing diversity of plant and animal species, underpin the health of freshwater systems, and are instrumental in preventing soil erosion. Consequently, their diligent protection is an ecological imperative for planetary balance and sustained human prosperity.",
+    "question_stem": "What are the key ecological functions of forests?",
+    "options": [
+      {"letter": "A", "text": "They contribute to increased levels of soil erosion.", "is_correct": false},
+      {"letter": "B", "text": "They are essential for regulating global temperatures.", "is_correct": true},
+      {"letter": "C", "text": "They provide critical habitats for diverse species.", "is_correct": true},
+      {"letter": "D", "text": "They are exclusively important for timber production.", "is_correct": false}
+    ],
+    "explanation": "The passage highlights their role in 'regulating global temperatures' and serving as 'irreplaceable habitats for an astonishing diversity of plant and animal species'."
+  },
+  {
+    "question_number": 23,
+    "passage": "The intricate process of childhood development is profoundly influenced by a complex interplay of inherent genetic predispositions and a rich array of environmental stimuli. Early childhood experiences, particularly the quality and frequency of social interaction, coupled with exposure to stimulating and enriching learning environments, are pivotal in shaping an individual's subsequent cognitive, emotional, and social growth trajectories. A supportive and nurturing early environment lays the foundational groundwork for healthy development throughout life.",
+    "question_stem": "Which factors are highlighted as significant influences on childhood development?",
+    "options": [
+      {"letter": "A", "text": "Only the child's genetic makeup.", "is_correct": false},
+      {"letter": "B", "text": "The quality of social interaction.", "is_correct": true},
+      {"letter": "C", "text": "Exposure to stimulating learning environments.", "is_correct": true},
+      {"letter": "D", "text": "Exclusive focus on academic achievements at a young age.", "is_correct": false}
+    ],
+    "explanation": "The passage mentions 'inherent genetic predispositions and a rich array of environmental stimuli' and 'social interaction, coupled with exposure to stimulating and enriching learning environments'."
+  },
+  {
+    "question_number": 24,
+    "passage": "Humanity's enduring pursuit of space exploration has yielded consequences far beyond the realm of pure scientific inquiry into the cosmos. While it has undoubtedly expanded our fundamental understanding of the universe, providing unprecedented insights into celestial mechanics and planetary formation, it has also served as a powerful catalyst for a myriad of terrestrial technological innovations. Derived benefits range from the sophisticated satellite communication networks that underpin global connectivity to the development of advanced materials with applications in various industries, thereby illustrating space exploration's tangible contributions to daily life on Earth, despite its considerable financial investment.",
+    "question_stem": "What are the main results of space exploration mentioned in the text?",
+    "options": [
+      {"letter": "A", "text": "It has exclusively led to significant financial losses.", "is_correct": false},
+      {"letter": "B", "text": "It has deepened our comprehension of the universe.", "is_correct": true},
+      {"letter": "C", "text": "It has spurred numerous technological advancements for Earth.", "is_correct": true},
+      {"letter": "D", "text": "It has primarily focused on discovering new alien life forms.", "is_correct": false}
+    ],
+    "explanation": "The passage states it 'expanded our fundamental understanding of the universe' and 'served as a powerful catalyst for a myriad of terrestrial technological innovations'."
+  },
+  {
+    "question_number": 25,
+    "passage": "The escalating global crisis of freshwater scarcity is a pressing environmental and societal concern, exacerbated by exponential population growth, intensifying agricultural demands, and pervasive industrial pollution. The over-extraction of potable water from rivers, lakes, and aquifers, coupled with the degradation of existing water sources through various contaminants, collectively contributes to this critical imbalance. Consequently, the proactive implementation of judicious water management strategies, such as efficient irrigation techniques and widespread public education campaigns promoting conservation, is paramount for ensuring sustainable access to this indispensable resource for both present and future generations.",
+    "question_stem": "What are the significant factors contributing to the global freshwater crisis?",
+    "options": [
+      {"letter": "A", "text": "Reduced industrial water usage.", "is_correct": false},
+      {"letter": "B", "text": "Increasing global population.", "is_correct": true},
+      {"letter": "C", "text": "Contamination of water sources.", "is_correct": true},
+      {"letter": "D", "text": "Effective water management practices.", "is_correct": false}
+    ],
+    "explanation": "The passage attributes the crisis to 'exponential population growth, intensifying agricultural demands, and pervasive industrial pollution' and 'the degradation of existing water sources through various contaminants'."
+  },
+  {
+    "question_number": 26,
+    "passage": "The proliferation of e-commerce platforms has ushered in a profound transformation of the global retail landscape, fundamentally altering consumer buying habits and business operational models. For consumers, the principal allure lies in the unparalleled convenience of being able to peruse and purchase goods from any location at any time, a benefit that transcends geographical and temporal constraints. For businesses, the digital marketplace opens up vast, previously untapped global markets, circumventing the limitations of physical retail presence. However, this shift also introduces complex challenges pertaining to secure logistics, efficient supply chain management, and robust data protection.",
+    "question_stem": "What are the primary effects of e-commerce on consumers and businesses?",
+    "options": [
+      {"letter": "A", "text": "It restricts consumer purchasing options.", "is_correct": false},
+      {"letter": "B", "text": "It offers consumers unprecedented convenience.", "is_correct": true},
+      {"letter": "C", "text": "It creates new global markets for businesses.", "is_correct": true},
+      {"letter": "D", "text": "It removes all challenges related to product delivery.", "is_correct": false}
+    ],
+    "explanation": "The passage states it offers 'unparalleled convenience' for consumers and 'opens up vast, previously untapped global markets' for businesses."
+  },
+  {
+    "question_number": 27,
+    "passage": "Effective leadership is demonstrably characterized by a constellation of indispensable attributes that collectively empower individuals to guide and inspire groups towards shared objectives. Key among these are exceptional communication prowess, the innate ability to genuinely motivate and galvanise teams, and the articulation of a compelling, forward-looking vision. Furthermore, exemplary leaders must exhibit a high degree of adaptability to deftly navigate unforeseen circumstances and possess an unwavering commitment to continuous professional development, ensuring their relevance in dynamic environments.",
+    "question_stem": "What are some essential qualities of effective leadership?",
+    "options": [
+      {"letter": "A", "text": "An exclusive focus on individual accomplishments.", "is_correct": false},
+      {"letter": "B", "text": "Strong communication skills.", "is_correct": true},
+      {"letter": "C", "text": "The capacity to inspire and motivate teams.", "is_correct": true},
+      {"letter": "D", "text": "A rigid resistance to any form of change.", "is_correct": false}
+    ],
+    "explanation": "The passage lists 'exceptional communication prowess, the innate ability to genuinely motivate and galvanise teams, and the articulation of a compelling, forward-looking vision' and 'a high degree of adaptability'."
+  },
+  {
+    "question_number": 28,
+    "passage": "The seismic shift brought about by the digital revolution has irrevocably reshaped the entertainment industry, fundamentally altering how content is consumed and created. The ascendancy of streaming services has largely supplanted traditional modes of media consumption, offering unparalleled on-demand access to an extensive array of films, musical compositions, and television programmes. This paradigm shift has consequently fostered increased personalization of content recommendations for individual users and concurrently opened up novel avenues for diverse content creators to reach broader audiences, democratising access to entertainment.",
+    "question_stem": "How has the digital revolution impacted the entertainment industry?",
+    "options": [
+      {"letter": "A", "text": "It has led to a decrease in the demand for new content.", "is_correct": false},
+      {"letter": "B", "text": "It provides on-demand access to a wide range of media.", "is_correct": true},
+      {"letter": "C", "text": "It has resulted in more personalized content experiences.", "is_correct": true},
+      {"letter": "D", "text": "It has caused the complete disappearance of all traditional media forms.", "is_correct": false}
+    ],
+    "explanation": "The passage highlights 'on-demand access to an extensive array of films, musical compositions, and television programmes' and that it 'fostered increased personalization of content recommendations'."
+  },
+  {
+    "question_number": 29,
+    "passage": "The profound significance of cultural heritage lies in its capacity to serve as a vital nexus connecting contemporary societies with the legacies of their forebears, thereby instilling a profound sense of collective identity and historical continuity. The assiduous preservation of historical edifices, traditional artistic expressions, and indigenous oral traditions not only enriches the communal fabric of present-day societies but also constitutes an invaluable repository of educational insights for future generations. A failure to safeguard this rich heritage risks a catastrophic erosion of collective memory and a diminishing appreciation for ancestral achievements.",
+    "question_stem": "Why is the preservation of cultural heritage deemed important?",
+    "options": [
+      {"letter": "A", "text": "It creates a divide between past and present generations.", "is_correct": false},
+      {"letter": "B", "text": "It provides a sense of collective identity.", "is_correct": true},
+      {"letter": "C", "text": "It serves as a valuable educational resource.", "is_correct": true},
+      {"letter": "D", "text": "It is only relevant to archaeological experts.", "is_correct": false}
+    ],
+    "explanation": "The passage states it 'connects contemporary societies with the legacies of their forebears, thereby instilling a profound sense of collective identity and historical continuity' and 'constitutes an invaluable repository of educational insights'."
+  },
+  {
+    "question_number": 30,
+    "passage": "The escalating global challenge of waste management necessitates the widespread adoption of comprehensive and sustainable strategies to alleviate environmental degradation. The foundational principles of this approach are encapsulated by the '3 Rs': reducing overall consumption of resources, actively reusing items whenever feasible, and diligently recycling materials to convert waste into new products. Implementing these interconnected strategies is crucial for minimizing the volume of waste destined for landfills, conserving finite natural resources, and significantly curtailing environmental pollution, thereby charting a course towards a more ecologically resilient and sustainable global future.",
+    "question_stem": "What are the core components of effective waste management strategies?",
+    "options": [
+      {"letter": "A", "text": "Primarily increasing the number of landfill sites.", "is_correct": false},
+      {"letter": "B", "text": "Reducing the overall consumption of goods.", "is_correct": true},
+      {"letter": "C", "text": "Recycling materials to create new products.", "is_correct": true},
+      {"letter": "D", "text": "Uncontrolled disposal of all waste materials.", "is_correct": false}
+    ],
+    "explanation": "The passage identifies the '3 Rs': 'reducing overall consumption of resources, actively reusing items whenever feasible, and diligently recycling materials'."
+  }
+]
