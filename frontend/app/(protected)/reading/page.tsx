@@ -1,8 +1,9 @@
+// app/(protected)/reading/page.tsx
 "use client";
-import React, { useState } from 'react';
-import { Navigation } from './components/Navigation';
-import { QuestionList } from './components/QuestionList';
-import { StatusLegend } from './components/StatusLegend';
+import React, { useState } from "react";
+import { Navigation } from "./components/Navigation";
+import { QuestionList } from "./components/QuestionList";
+import { StatusLegend } from "./components/StatusLegend";
 
 const Page = () => {
   const [currentLevel, setCurrentLevel] = useState<"easy" | "medium" | "hard">("medium");
@@ -16,27 +17,13 @@ const Page = () => {
     setCurrentLevel(level);
   };
 
-  const handleStartTest = (questionId: number) => {
-    console.log(`Starting test ${questionId}`);
-    // Add navigation or modal logic here
-  };
-
-  const handleContinueTest = (questionId: number) => {
-    console.log(`Continuing test ${questionId}`);
-    // Add navigation or modal logic here
-  };
-
-  const handleViewResults = (questionId: number) => {
-    console.log(`Viewing results for test ${questionId}`);
-    // Add navigation or modal logic here
-  };
-
   return (
     <div className="flex min-h-screen bg-gray-50">
-      <Navigation 
-        onSelect={handleQuestionTypeSelect} 
+      <Navigation
+        onSelect={handleQuestionTypeSelect}
         onSelectLevel={handleLevelSelect}
         currentLevel={currentLevel}
+        currentType={selectedType}
       />
       <main className="ml-72 flex-1 p-8">
         <div className="max-w-7xl mx-auto">
@@ -51,13 +38,7 @@ const Page = () => {
                   </p>
                 </div>
                 <StatusLegend />
-                <QuestionList 
-                  questionType={selectedType} 
-                  level={currentLevel}
-                  onStartTest={handleStartTest}
-                  onContinueTest={handleContinueTest}
-                  onViewResults={handleViewResults}
-                />
+                <QuestionList questionType={selectedType} level={currentLevel} />
               </>
             ) : (
               <div className="text-center py-12">
