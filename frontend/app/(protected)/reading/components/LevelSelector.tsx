@@ -1,3 +1,4 @@
+// app/(protected)/reading/components/LevelSelector.tsx
 "use client";
 
 type Level = "easy" | "medium" | "hard";
@@ -16,11 +17,11 @@ export const LevelSelector = ({ onSelectLevel, currentLevel }: LevelSelectorProp
         <button
           key={level}
           onClick={() => onSelectLevel(level)}
-          className={`px-4 py-2 rounded-lg capitalize ${
-            currentLevel === level
+          className={`px-4 py-2 rounded-lg capitalize text-sm font-medium transition-all
+            ${currentLevel === level
               ? "bg-red-600 text-white"
-              : "bg-white border border-gray-300 hover:bg-gray-50"
-          }`}
+              : "bg-white border border-gray-300 text-gray-700 hover:bg-gray-50"
+            }`}
         >
           {level}
         </button>
