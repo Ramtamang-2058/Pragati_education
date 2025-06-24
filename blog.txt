@@ -1,0 +1,142 @@
+Microservices Blog ideas:
+
+- Go routines help in fast scraping
+- Python for AI ML / Gen AI and recommendation service
+
+
+GRPC for Products and recommendations - Communication
+Orders and users Communication with GRPC
+
+Data sharing patterns for Microservices:
+- When user interacts with orders, it needs user idea
+- WHen order reacts with products, it needs list of products based on order idea
+
+Order in which info flows...
+Software engineer's perspective... 
+
+
+Keep as less references as possible
+CRUD operations on overly nested schemas is difficult because it is difficult to make a JSON ready for frontend which risks overloadind the frontend servers
+
+Software engineer is focusing on small parts
+Project structure should be meticulous to accomodate scaling
+Repitition of code across microservices should be packaged and share
+New team members find it easier to join new people
+Best to rely on industry standards
+Structuring a small scale microservices Project
+Implementing user flow is engineer's responsiblity
+When it comes to microservices, special care is required on how datas interact with each other
+
+Process the data effectively:
+Use graphQL for building APIs 
+(mobile frontend stays very light in graphQL)
+
+For third party software, use REST API and for interacting with frontend use GraphQL
+
+Blog Topics:- 
+Polyglot Persistence
+
+Microservices are great options for low budget and low resources, because they can distribute work across the globe.
+
+Update in the deals logic. 
+They can give access to entire codebase. 
+
+Accounts, contacts, leads, deals and sales.
+
+Think carefully of:-
+- How will data be shared?
+- How is schema structured?
+- File structure should be similar across architecture
+- Isolate importsnt functionality across services while still balancing the repititive modules
+
+Package Version Management:
+- You cannot have different versions across different services because it makes the software less maintainable
+
+
+Devops perspective
+- Ease of deployment 
+- Containerization of each module / service
+
+Ease of scaling:
+- Lead server is getting more loads than deals server, and when people are leads, the database is scalable but for deals they are not scalable
+
+Distributed Tracing 
+- Central dashboard for devops team
+ 
+Event Procesing:
+- Decomposition by business capabilities
+- Decomposition by sub-domains
+- Decomposition by transaction
+
+Strangler Pattern:
+- Transform -> Only monolith is used
+- Co-exist -> Co-exist before slowly removing monolith
+- Eliminate -> Directly use the microservice then
+
+Database per service. 
+- Use different database for each service
+
+Different database for Payments.
+
+Compliance is extremely expensive. Gdpr compliance only on users or something.
+
+Microservices should be highly testable, loosely coupled, independently deployable, organized around business capabilities and sub driven.
+
+Latency due to microservice is fixed by event driven architefcture
+
+The scaling Client problem:
+- Client side / frontend connects to multiple microservices directly
+- Leads to an increased latency
+- Use an API gateway like Kong, AWS gateway or NGINX 
+
+Frontend has to make requests to multiple microservices that makes it slower.
+So, it makes the client side slower.
+
+Big ball of mud communication:
+- Lacks clear boundary on who can communicate to who and whocan acccess what
+- Messy unstructured service modeules that are tightly coupled
+
+Rate limiting and throttling
+Content negotiation
+Modular API design
+Fraph GraphQL
+Backend for frontend (BFF)
+
+Load balancer and multiple API gateways
+
+Inter Service Communication:- 
+Kafka, Rabbit MQ, Redis, Confluent built on top of Kafka for live streaming
+
+How to setup and establish communication between microservices?
+- HTTP requests have lags and delays
+- In traditional systems, client makes HTTP req to server and gets response
+- Streaming systems make it easy for everyone to be in sync without specifically making requests
+- So systems tend to be 
+
+
+Communication Between Microservices:
+- Request response
+- Adding a cache like Redis cache
+- Redundant data storage across micro services is solved
+- Streaming between services where microservices communicate using events (this is async)
+- We can use Publisher - Subscriber model for this like RabbitMQ and Streams or web socketsz
+
+Event Driven Architecture:
+- Events are data, not just signals
+- They are the single source of truth
+- Consumers encapsulate own business logic
+
+Types of events: 
+- Unkeyed Event - Event as a singular state of fact 
+- Keyed Event - Contains a key but does not represent an entity 
+- Entity Event - Message trigerred by a change in a specific entity (state changes like order placed or user updated)
+
+Designing Events:- 
+- Singular event definition per stream (OrderCreated event, OrderShipped event, OrderCancelled event)
+  This reduces consumer complexity on events, improves data integrity makes maintainence easier and increases scalability
+- Use narrowest data Types while designing an event
+- 
+
+
+What does an event driven architecture look like?
+ 

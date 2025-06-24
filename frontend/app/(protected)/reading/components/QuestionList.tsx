@@ -1,4 +1,5 @@
 "use client";
+import { ResourceTab, resourcesMap } from "./ResourceComponent";
 
 type QuestionStatus = "completed" | "inProgress" | "notStarted";
 
@@ -99,30 +100,38 @@ export const QuestionList = ({
     }
   };
 
+  const resource = resourcesMap[questionType];
+
   return (
-    <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6">
-      {questions.map((question) => (
-        <div
-          key={question.id}
-          onClick={() => onQuestionClick?.(question.id)}
-          className={`w-24 h-24 border-2 rounded-2xl flex flex-col items-center justify-center transition-all cursor-pointer
-            ${getStatusStyle(question.status)}
-            ${question.status !== "notStarted" 
-              ? "hover:scale-110 hover:shadow-xl transform duration-200" 
-              : "opacity-60"
-            }
-          `}
-        >
-          <span className="text-xl mb-1">{getStatusIcon(question.status)}</span>
-          <div className="text-lg font-semibold">
-            {question.id}
+    <div>
+      {/* Resources tab above the question grid */}
+      {resource && (
+        <ResourceTab videoUrl={resource.videoUrl} downloadUrl={resource.downloadUrl} />
+      )}
+      <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6">
+        {questions.map((question) => (
+          <div
+            key={question.id}
+            onClick={() => onQuestionClick?.(question.id)}
+            className={`w-24 h-24 border-2 rounded-2xl flex flex-col items-center justify-center transition-all cursor-pointer
+              ${getStatusStyle(question.status)}
+              ${question.status !== "notStarted" 
+                ? "hover:scale-110 hover:shadow-xl transform duration-200" 
+                : "opacity-60"
+              }
+            `}
+          >
+            <span className="text-xl mb-1">{getStatusIcon(question.status)}</span>
+            <div className="text-lg font-semibold">
+              {question.id}
+            </div>
+            {question.status === "completed" && question.score !== undefined && (
+              <span className="text-xs font-medium">{question.score}%</span>
+            )}
+            {getActionButton(question.status, question.id)}
           </div>
-          {question.status === "completed" && question.score !== undefined && (
-            <span className="text-xs font-medium">{question.score}%</span>
-          )}
-          {getActionButton(question.status, question.id)}
-        </div>
-      ))}
+        ))}
+      </div>
     </div>
   );
 };

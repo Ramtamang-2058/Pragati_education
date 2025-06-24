@@ -1,362 +1,1088 @@
-[
-  {
-    "question_number": 1,
-    "passage": "The ongoing digital revolution has profoundly reshaped the landscape of global communication, creating unprecedented opportunities for instantaneous interaction across vast distances. Technologies such as high-speed internet, email, and sophisticated video conferencing platforms have effectively bridged geographical barriers, enabling individuals and organisations to connect with remarkable ease. This pervasive connectivity, while offering immense advantages in terms of information exchange and cultural understanding, also introduces new considerations regarding digital literacy and online privacy.",
-    "question_stem": "Which aspects of modern communication are highlighted in the passage?",
-    "options": [
-      {"letter": "A", "text": "The decline of all traditional communication methods.", "is_correct": false},
-      {"letter": "B", "text": "The ability to interact instantly across distances.", "is_correct": true},
-      {"letter": "C", "text": "The emergence of new privacy concerns.", "is_correct": true},
-      {"letter": "D", "text": "The exclusive use of written correspondence.", "is_correct": false}
-    ],
-    "explanation": "The passage mentions 'instantaneous interaction across vast distances' and 'new considerations regarding digital literacy and online privacy'."
-  },
-  {
-    "question_number": 2,
-    "passage": "Engaging in regular physical activity is an indispensable component of a holistic approach to health and well-being. Consistent exercise not only yields significant physiological benefits, such as enhanced cardiovascular function and strengthened musculoskeletal systems, but also exerts a powerful positive influence on psychological states. Many individuals report a marked reduction in stress levels and an overall improvement in mood following sustained periods of moderate exertion, underscoring the multifaceted advantages of incorporating activity into daily routines.",
-    "question_stem": "According to the text, what positive effects can regular exercise have?",
-    "options": [
-      {"letter": "A", "text": "It only influences physical strength.", "is_correct": false},
-      {"letter": "B", "text": "It can lead to improved cardiovascular health.", "is_correct": true},
-      {"letter": "C", "text": "It often contributes to lower stress levels.", "is_correct": true},
-      {"letter": "D", "text": "It guarantees immediate weight loss for everyone.", "is_correct": false}
-    ],
-    "explanation": "The passage notes 'enhanced cardiovascular function' and 'a marked reduction in stress levels and an overall improvement in mood'."
-  },
-  {
-    "question_number": 3,
-    "passage": "The global imperative to address climate change has catalysed a transformative shift towards sustainable energy solutions. Technologies like photovoltaic solar panels efficiently harness solar radiation, converting it into electricity without generating harmful emissions. Similarly, expansive wind farms capture the kinetic energy of air currents, providing a clean and inexhaustible power source. These innovative approaches are pivotal in diminishing humanity's ecological footprint and transitioning away from reliance on finite fossil fuels, thus securing a more environmentally sound future.",
-    "question_stem": "What is the primary motivation for developing renewable energy sources?",
-    "options": [
-      {"letter": "A", "text": "To increase dependency on fossil fuels.", "is_correct": false},
-      {"letter": "B", "text": "To mitigate the effects of climate change.", "is_correct": true},
-      {"letter": "C", "text": "To decrease the global ecological footprint.", "is_correct": true},
-      {"letter": "D", "text": "To create more energy-intensive industries.", "is_correct": false}
-    ],
-    "explanation": "The passage mentions 'The global imperative to address climate change has catalysed a transformative shift towards sustainable energy solutions' and 'diminishing humanity's ecological footprint'."
-  },
-  {
-    "question_number": 4,
-    "passage": "The ongoing phenomenon of urbanization, characterised by the movement of populations from rural to densely populated urban centres, presents a dual-edged sword for societies worldwide. On one hand, metropolitan areas frequently serve as hubs for innovation, offering enhanced educational opportunities and a wider array of employment prospects. On the other hand, rapid urban growth often precipitates significant challenges, including severe strains on public infrastructure, the proliferation of informal settlements, and heightened levels of traffic congestion, demanding meticulous urban planning.",
-    "question_stem": "What are the common challenges associated with rapid urbanization?",
-    "options": [
-      {"letter": "A", "text": "Increased access to educational facilities.", "is_correct": false},
-      {"letter": "B", "text": "Severe pressure on existing public infrastructure.", "is_correct": true},
-      {"letter": "C", "text": "A reduction in employment opportunities.", "is_correct": false},
-      {"letter": "D", "text": "Higher levels of traffic congestion.", "is_correct": true}
-    ],
-    "explanation": "The passage states 'rapid urban growth often precipitates significant challenges, including severe strains on public infrastructure... and heightened levels of traffic congestion'."
-  },
-  {
-    "question_number": 5,
-    "passage": "The profound impact of the printing press, invented by Johannes Gutenberg in the 15th century, cannot be overstated in the annals of human intellectual development. This revolutionary device facilitated the rapid and extensive reproduction of texts, thereby dramatically reducing the cost of books and making them far more accessible to a burgeoning readership beyond monastic or elite circles. Consequently, it played an instrumental role in stimulating widespread literacy, disseminating knowledge, and ultimately catalysing the European Renaissance and the Protestant Reformation.",
-    "question_stem": "Which of the following were direct consequences of the printing press invention?",
-    "options": [
-      {"letter": "A", "text": "Books became exclusively available to the wealthy.", "is_correct": false},
-      {"letter": "B", "text": "The cost of printed materials significantly decreased.", "is_correct": true},
-      {"letter": "C", "text": "It contributed to the spread of literacy.", "is_correct": true},
-      {"letter": "D", "text": "It halted intellectual development for centuries.", "is_correct": false}
-    ],
-    "explanation": "The passage explains it 'dramatically reducing the cost of books and making them far more accessible' and 'played an instrumental role in stimulating widespread literacy, disseminating knowledge'."
-  },
-  {
-    "question_number": 6,
-    "passage": "The burgeoning global tourism industry has emerged as a significant economic driver for numerous nations, particularly those endowed with rich cultural heritage or pristine natural environments. It generates substantial foreign exchange earnings, creates diverse employment opportunities across hospitality and related sectors, and often necessitates significant investment in infrastructure development, such as airports and hotels. However, if not managed sustainably, the influx of tourists can exert considerable pressure on delicate ecosystems and potentially dilute the authenticity of local cultures.",
-    "question_stem": "What positive economic impacts does global tourism typically have?",
-    "options": [
-      {"letter": "A", "text": "It frequently leads to cultural degradation.", "is_correct": false},
-      {"letter": "B", "text": "It stimulates various employment sectors.", "is_correct": true},
-      {"letter": "C", "text": "It fosters infrastructure improvements.", "is_correct": true},
-      {"letter": "D", "text": "It always reduces local spending.", "is_correct": false}
-    ],
-    "explanation": "The passage indicates it 'creates diverse employment opportunities' and 'often necessitates significant investment in infrastructure development'."
-  },
-  {
-    "question_number": 7,
-    "passage": "Mastering the art of effective time management is unequivocally a foundational skill for achieving both academic excellence and professional advancement. This discipline entails the judicious allocation of one's hours, which typically involves meticulous prioritization of tasks, the establishment of realistic and achievable deadlines, and the vigilant avoidance of superfluous distractions. Cultivating such proficiency can dramatically elevate an individual's productivity output and concurrently ameliorate feelings of anxiety and being overwhelmed.",
-    "question_stem": "What elements are crucial for effective time management?",
-    "options": [
-      {"letter": "A", "text": "Ignoring all forms of external distractions.", "is_correct": true},
-      {"letter": "B", "text": "Setting unrealistic expectations for task completion.", "is_correct": false},
-      {"letter": "C", "text": "Prioritizing tasks appropriately.", "is_correct": true},
-      {"letter": "D", "text": "Working continuously without any breaks.", "is_correct": false}
-    ],
-    "explanation": "The passage states it involves 'meticulous prioritization of tasks... and the vigilant avoidance of superfluous distractions'."
-  },
-  {
-    "question_number": 8,
-    "passage": "The Amazon Rainforest stands as an ecological titan, globally recognized for its unparalleled biodiversity and its indispensable role in regulating planetary climate patterns. This sprawling biome hosts millions of species, many of which are endemic, making it a critical reservoir of genetic information. Its extensive forest cover acts as a monumental carbon sink, absorbing prodigious quantities of atmospheric carbon dioxide, thereby mitigating the severity of global warming. However, persistent deforestation, driven by agricultural expansion and logging, continues to threaten this invaluable natural asset.",
-    "question_stem": "Why is the Amazon Rainforest considered vital on a global scale?",
-    "options": [
-      {"letter": "A", "text": "It is the primary source of commercial timber for construction.", "is_correct": false},
-      {"letter": "B", "text": "It plays a key role in global climate regulation.", "is_correct": true},
-      {"letter": "C", "text": "It is a crucial repository of unique biodiversity.", "is_correct": true},
-      {"letter": "D", "text": "It is entirely impervious to human-induced threats.", "is_correct": false}
-    ],
-    "explanation": "The passage highlights its 'unparalleled biodiversity and its indispensable role in regulating planetary climate patterns' and being a 'critical reservoir of genetic information'."
-  },
-  {
-    "question_number": 9,
-    "passage": "The burgeoning field of Artificial Intelligence (AI) is rapidly catalysing transformative shifts across a myriad of economic sectors. From streamlining operational processes through automation of repetitive tasks to enabling sophisticated data analytics and predictive modelling, AI applications are significantly augmenting efficiency and unlocking novel capabilities. This technological paradigm shift is not merely enhancing current practices but is also projected to fundamentally redefine the structure and demands of future employment landscapes, necessitating workforce adaptation.",
-    "question_stem": "In what ways is Artificial Intelligence (AI) impacting various economic sectors?",
-    "options": [
-      {"letter": "A", "text": "It exclusively reduces human employment in all areas.", "is_correct": false},
-      {"letter": "B", "text": "It improves operational efficiency through automation.", "is_correct": true},
-      {"letter": "C", "text": "It is enabling advanced data analysis.", "is_correct": true},
-      {"letter": "D", "text": "It has no discernible effect on future job markets.", "is_correct": false}
-    ],
-    "explanation": "The passage states AI is 'streamlining operational processes through automation' and 'enabling sophisticated data analytics'."
-  },
-  {
-    "question_number": 10,
-    "passage": "The increasing prevalence of remote work arrangements is initiating profound reconfigurations in both urban planning paradigms and conventional office design principles. Progressive companies are increasingly re-evaluating the necessity of expansive, centralized corporate campuses, opting instead for more flexible co-working environments or entirely distributed virtual teams. This burgeoning trend carries the potential to alleviate urban traffic congestion, diminish the environmental impact associated with daily commuting, and potentially cultivate a more balanced work-life dynamic for a significant portion of the global workforce.",
-    "question_stem": "What are the potential consequences of the growing trend of remote work?",
-    "options": [
-      {"letter": "A", "text": "It will inevitably lead to the complete disappearance of all office buildings.", "is_correct": false},
-      {"letter": "B", "text": "It could contribute to reduced urban traffic congestion.", "is_correct": true},
-      {"letter": "C", "text": "It has the potential to enhance work-life balance.", "is_correct": true},
-      {"letter": "D", "text": "It encourages a return to traditional, rigid office structures.", "is_correct": false}
-    ],
-    "explanation": "The passage suggests it 'carries the potential to alleviate urban traffic congestion... and potentially cultivate a more balanced work-life dynamic'."
-  },
-  {
-    "question_number": 11,
-    "passage": "Sustainable agricultural practices represent a holistic approach designed to satisfy the world's burgeoning demand for food and fibre, without compromising the ecological integrity of natural systems or the capacity of future generations to meet their own fundamental requirements. Such methodologies encompass a broad spectrum of techniques, including crop rotation, organic farming, and judicious water management, all of which are instrumental in preserving soil health, conserving biodiversity, and ensuring the long-term viability of agricultural ecosystems.",
-    "question_stem": "What is the overarching aim of sustainable agricultural practices?",
-    "options": [
-      {"letter": "A", "text": "To increase reliance on chemical fertilisers.", "is_correct": false},
-      {"letter": "B", "text": "To protect ecological integrity for future generations.", "is_correct": true},
-      {"letter": "C", "text": "To satisfy current food demands without harming the environment.", "is_correct": true},
-      {"letter": "D", "text": "To exclusively focus on maximizing short-term yields.", "is_correct": false}
-    ],
-    "explanation": "The passage states its aim is to 'satisfy the world's burgeoning demand for food and fibre, without compromising the ecological integrity of natural systems or the capacity of future generations to meet their own fundamental requirements'."
-  },
-  {
-    "question_number": 12,
-    "passage": "The evolution of pedagogical methodologies in education has transitioned considerably from traditional rote learning approaches to more dynamic, student-centric paradigms. Contemporary educational philosophy frequently champions the cultivation of critical thinking abilities, the development of sophisticated problem-solving strategies, and the promotion of collaborative learning environments. Furthermore, the pervasive integration of digital technologies has become an increasingly indispensable medium for the delivery of diverse educational content and fostering interactive learning experiences.",
-    "question_stem": "What are some characteristics of modern pedagogical approaches?",
-    "options": [
-      {"letter": "A", "text": "They solely focus on memorization and repetition.", "is_correct": false},
-      {"letter": "B", "text": "They prioritise the development of critical thinking.", "is_correct": true},
-      {"letter": "C", "text": "They encourage collaborative learning amongst students.", "is_correct": true},
-      {"letter": "D", "text": "They avoid the use of any digital technologies.", "is_correct": false}
-    ],
-    "explanation": "The passage mentions 'cultivation of critical thinking abilities... and the promotion of collaborative learning environments. Furthermore, the pervasive integration of digital technologies has become an increasingly indispensable medium'."
-  },
-  {
-    "question_number": 13,
-    "passage": "The burgeoning global adoption of electric vehicles (EVs) is anticipated to instigate substantial improvements in urban air quality. A key advantage of EVs is their complete absence of tailpipe emissions, which means they do not release harmful pollutants directly into the local atmosphere, unlike conventional internal combustion engine vehicles. This transformative shift in transportation technology is regarded as crucial for addressing escalating public health concerns, particularly in densely populated metropolitan areas where air pollution levels are often critically high.",
-    "question_stem": "What is the primary environmental benefit of electric vehicles mentioned?",
-    "options": [
-      {"letter": "A", "text": "They can operate without any charging infrastructure.", "is_correct": false},
-      {"letter": "B", "text": "They contribute to significant reductions in urban air pollution.", "is_correct": true},
-      {"letter": "C", "text": "They increase the consumption of fossil fuels.", "is_correct": false},
-      {"letter": "D", "text": "They produce zero tailpipe emissions.", "is_correct": true}
-    ],
-    "explanation": "The passage highlights 'their complete absence of tailpipe emissions' and that this 'significantly reduces local air pollution'."
-  },
-  {
-    "question_number": 14,
-    "passage": "Neuroplasticity, a truly remarkable inherent capability of the human brain, refers to its profound ability to continually adapt, reorganize, and form new neural connections throughout an individual's lifespan. This dynamic characteristic underpins our capacity for lifelong learning, facilitates recovery from neurological injuries by rerouting functions, and enables profound adjustments to novel environmental stimuli. While particularly pronounced during formative childhood years, the brain's plasticity persists, albeit with varying degrees, well into adulthood, underscoring its continuous developmental potential.",
-    "question_stem": "Which statements accurately describe neuroplasticity?",
-    "options": [
-      {"letter": "A", "text": "It is primarily limited to the early stages of childhood development.", "is_correct": false},
-      {"letter": "B", "text": "It refers to the brain's capacity for adaptation and reorganization.", "is_correct": true},
-      {"letter": "C", "text": "It allows individuals to learn new skills.", "is_correct": true},
-      {"letter": "D", "text": "It implies the brain's structure is entirely fixed from birth.", "is_correct": false}
-    ],
-    "explanation": "The passage defines it as the brain's 'ability to continually adapt, reorganize, and form new neural connections' and states it 'underpins our capacity for lifelong learning'."
-  },
-  {
-    "question_number": 15,
-    "passage": "The ubiquity of smartphones has fundamentally reconfigured various facets of contemporary personal and professional existence. These sophisticated handheld devices offer users immediate access to an extensive repository of information, enable seamless and continuous communication across diverse networks, and ingeniously integrate a multitude of functionalities, ranging from advanced navigation systems to high-resolution photographic capabilities, all within a singular, compact unit. This pervasive integration of technology has, in turn, fostered both unprecedented levels of convenience and the evolution of novel societal norms and expectations regarding connectivity.",
-    "question_stem": "What are the significant impacts or features of smartphones?",
-    "options": [
-      {"letter": "A", "text": "They have reduced the overall convenience for users.", "is_correct": false},
-      {"letter": "B", "text": "They provide instant access to vast amounts of information.", "is_correct": true},
-      {"letter": "C", "text": "They combine various functions into a single device.", "is_correct": true},
-      {"letter": "D", "text": "They have eliminated the need for human interaction.", "is_correct": false}
-    ],
-    "explanation": "The passage notes they 'offer users immediate access to an extensive repository of information... and ingeniously integrate a multitude of functionalities'."
-  },
-  {
-    "question_number": 16,
-    "passage": "The paramount importance of biodiversity to the health and functioning of planetary ecosystems cannot be overstated. A rich and varied array of species contributes intrinsically to the stability and inherent resilience of natural environments, empowering them to more effectively withstand and recover from ecological disturbances, such as climate shifts or disease outbreaks. Conversely, a reduction in biodiversity can precipitate cascading ecological imbalances, leading to diminished ecosystem services that are vital for human welfare, including critical processes like natural pollination, water filtration, and nutrient cycling.",
-    "question_stem": "What is the primary contribution of high biodiversity to ecosystems?",
-    "options": [
-      {"letter": "A", "text": "It guarantees the absence of all environmental disturbances.", "is_correct": false},
-      {"letter": "B", "text": "It enhances ecological stability and resilience.", "is_correct": true},
-      {"letter": "C", "text": "It improves the capacity of ecosystems to recover from disruptions.", "is_correct": true},
-      {"letter": "D", "text": "It invariably leads to a reduction in ecosystem services.", "is_correct": false}
-    ],
-    "explanation": "The passage states 'A rich and varied array of species contributes intrinsically to the stability and inherent resilience of natural environments, empowering them to more effectively withstand and recover from ecological disturbances'."
-  },
-  {
-    "question_number": 17,
-    "passage": "Volcanic eruptions, though often perceived primarily as catastrophic natural phenomena, are in fact integral components of Earth's dynamic geological processes. Beyond their immediate destructive potential, these events play a crucial long-term role in shaping the planet's surface by contributing to the formation of new landmasses and enriching surrounding soils with a diverse array of essential minerals. Over geological timescales, the continuous release of gases and molten rock from volcanoes has significantly influenced the composition of Earth's atmosphere and the very contours of its continents, underscoring their profound geological importance.",
-    "question_stem": "What are the constructive roles of volcanic eruptions?",
-    "options": [
-      {"letter": "A", "text": "They exclusively cause widespread environmental destruction.", "is_correct": false},
-      {"letter": "B", "text": "They are instrumental in the creation of new land.", "is_correct": true},
-      {"letter": "C", "text": "They contribute to the enrichment of soils with minerals.", "is_correct": true},
-      {"letter": "D", "text": "They primarily lead to a decrease in global temperatures.", "is_correct": false}
-    ],
-    "explanation": "The passage states they 'contributing to the formation of new landmasses and enriching surrounding soils with a diverse array of essential minerals'."
-  },
-  {
-    "question_number": 18,
-    "passage": "The academic discipline of history offers an unparalleled lens through which to comprehend the intricate tapestry of human civilization. By meticulously analysing past events, societies gain invaluable insights into the foundational origins of contemporary social structures, political systems, and cultural norms. Furthermore, studying historical narratives provides crucial opportunities to learn from previous societal missteps and triumphs, thereby potentially informing strategic decisions and enabling more astute predictions regarding future trends and challenges. Authentic historical research is rigorously grounded in the meticulous examination of primary source materials, including ancient manuscripts, archaeological findings, and oral traditions.",
-    "question_stem": "What key understandings can be gained from studying history?",
-    "options": [
-      {"letter": "A", "text": "A definitive ability to prevent all future societal problems.", "is_correct": false},
-      {"letter": "B", "text": "Insights into the origins of current social systems.", "is_correct": true},
-      {"letter": "C", "text": "Opportunities to learn from historical errors and successes.", "is_correct": true},
-      {"letter": "D", "text": "Exclusive knowledge of only recent historical events.", "is_correct": false}
-    ],
-    "explanation": "The passage explains we can 'understand the foundational origins of contemporary social structures... and learn from previous societal missteps and triumphs'."
-  },
-  {
-    "question_number": 19,
-    "passage": "The strategic development of sustainable transportation systems is an imperative undertaking for both mitigating adverse environmental impacts and significantly enhancing the quality of urban living. Actively promoting and investing in modes such as comprehensive public transport networks, dedicated cycling infrastructure, and pedestrian-friendly pathways can substantially curtail carbon emissions and alleviate pervasive traffic congestion within metropolitan areas. Such forward-thinking initiatives are demonstrably pivotal in fostering healthier, more efficient, and ultimately more livable urban environments for their inhabitants.",
-    "question_stem": "What are the principal objectives of developing sustainable transportation systems?",
-    "options": [
-      {"letter": "A", "text": "To encourage an increase in private vehicle ownership.", "is_correct": false},
-      {"letter": "B", "text": "To reduce overall carbon emissions.", "is_correct": true},
-      {"letter": "C", "text": "To improve the overall quality of urban life.", "is_correct": true},
-      {"letter": "D", "text": "To completely eliminate all forms of urban travel.", "is_correct": false}
-    ],
-    "explanation": "The passage highlights their importance for 'mitigating adverse environmental impacts and significantly enhancing the quality of urban living' and to 'curtail carbon emissions'."
-  },
-  {
-    "question_number": 20,
-    "passage": "The escalating global challenge of freshwater scarcity is predominantly driven by a confluence of factors, including unprecedented population expansion, intensified agricultural demands, and pervasive industrial pollution. Excessive extraction of water from finite natural reserves for various human activities, coupled with the degradation of water quality through contaminants, exacerbates this critical issue. Consequently, the implementation of robust and efficient water management strategies, alongside widespread public awareness campaigns promoting conservation, becomes unequivocally critical for ensuring long-term access to this indispensable resource.",
-    "question_stem": "What are the primary factors contributing to global freshwater scarcity?",
-    "options": [
-      {"letter": "A", "text": "A global decrease in overall human population.", "is_correct": false},
-      {"letter": "B", "text": "Increased agricultural water consumption.", "is_correct": true},
-      {"letter": "C", "text": "Extensive industrial water pollution.", "is_correct": true},
-      {"letter": "D", "text": "The natural replenishment of water sources.", "is_correct": false}
-    ],
-    "explanation": "The passage attributes scarcity to 'unprecedented population expansion, intensified agricultural demands, and pervasive industrial pollution' and 'Excessive extraction... coupled with the degradation of water quality through contaminants'."
-  },
-  {
-    "question_number": 21,
-    "passage": "Technological innovation has instigated a profound transformation across the entire healthcare spectrum, from diagnostic precision to therapeutic efficacy. Advanced imaging techniques and sophisticated laboratory analyses now enable medical professionals to identify health conditions with unprecedented accuracy and at earlier stages. Concurrently, the proliferation of digital health platforms and telemedicine services has dramatically expanded access to medical consultations and expert advice, particularly benefiting remote populations and those with limited mobility, thereby bridging geographical divides in healthcare provision.",
-    "question_stem": "How has technology fundamentally altered the healthcare sector?",
-    "options": [
-      {"letter": "A", "text": "It has universally increased the cost of all medical treatments.", "is_correct": false},
-      {"letter": "B", "text": "It has led to more precise diagnostic capabilities.", "is_correct": true},
-      {"letter": "C", "text": "It has improved access to medical advice through telemedicine.", "is_correct": true},
-      {"letter": "D", "text": "It has reduced the need for highly skilled medical professionals.", "is_correct": false}
-    ],
-    "explanation": "The passage states 'Diagnostic tools are becoming more precise' and 'telemedicine services has dramatically expanded access to medical consultations'."
-  },
-  {
-    "question_number": 22,
-    "passage": "Forest ecosystems are of paramount importance, their value extending far beyond their role as sources of timber and other raw materials. These vital biomes are indispensable for maintaining atmospheric composition by producing vast quantities of oxygen and sequestering carbon dioxide, thereby playing a critical role in regulating global temperatures. Furthermore, forests serve as irreplaceable habitats for an astonishing diversity of plant and animal species, underpin the health of freshwater systems, and are instrumental in preventing soil erosion. Consequently, their diligent protection is an ecological imperative for planetary balance and sustained human prosperity.",
-    "question_stem": "What are the key ecological functions of forests?",
-    "options": [
-      {"letter": "A", "text": "They contribute to increased levels of soil erosion.", "is_correct": false},
-      {"letter": "B", "text": "They are essential for regulating global temperatures.", "is_correct": true},
-      {"letter": "C", "text": "They provide critical habitats for diverse species.", "is_correct": true},
-      {"letter": "D", "text": "They are exclusively important for timber production.", "is_correct": false}
-    ],
-    "explanation": "The passage highlights their role in 'regulating global temperatures' and serving as 'irreplaceable habitats for an astonishing diversity of plant and animal species'."
-  },
-  {
-    "question_number": 23,
-    "passage": "The intricate process of childhood development is profoundly influenced by a complex interplay of inherent genetic predispositions and a rich array of environmental stimuli. Early childhood experiences, particularly the quality and frequency of social interaction, coupled with exposure to stimulating and enriching learning environments, are pivotal in shaping an individual's subsequent cognitive, emotional, and social growth trajectories. A supportive and nurturing early environment lays the foundational groundwork for healthy development throughout life.",
-    "question_stem": "Which factors are highlighted as significant influences on childhood development?",
-    "options": [
-      {"letter": "A", "text": "Only the child's genetic makeup.", "is_correct": false},
-      {"letter": "B", "text": "The quality of social interaction.", "is_correct": true},
-      {"letter": "C", "text": "Exposure to stimulating learning environments.", "is_correct": true},
-      {"letter": "D", "text": "Exclusive focus on academic achievements at a young age.", "is_correct": false}
-    ],
-    "explanation": "The passage mentions 'inherent genetic predispositions and a rich array of environmental stimuli' and 'social interaction, coupled with exposure to stimulating and enriching learning environments'."
-  },
-  {
-    "question_number": 24,
-    "passage": "Humanity's enduring pursuit of space exploration has yielded consequences far beyond the realm of pure scientific inquiry into the cosmos. While it has undoubtedly expanded our fundamental understanding of the universe, providing unprecedented insights into celestial mechanics and planetary formation, it has also served as a powerful catalyst for a myriad of terrestrial technological innovations. Derived benefits range from the sophisticated satellite communication networks that underpin global connectivity to the development of advanced materials with applications in various industries, thereby illustrating space exploration's tangible contributions to daily life on Earth, despite its considerable financial investment.",
-    "question_stem": "What are the main results of space exploration mentioned in the text?",
-    "options": [
-      {"letter": "A", "text": "It has exclusively led to significant financial losses.", "is_correct": false},
-      {"letter": "B", "text": "It has deepened our comprehension of the universe.", "is_correct": true},
-      {"letter": "C", "text": "It has spurred numerous technological advancements for Earth.", "is_correct": true},
-      {"letter": "D", "text": "It has primarily focused on discovering new alien life forms.", "is_correct": false}
-    ],
-    "explanation": "The passage states it 'expanded our fundamental understanding of the universe' and 'served as a powerful catalyst for a myriad of terrestrial technological innovations'."
-  },
-  {
-    "question_number": 25,
-    "passage": "The escalating global crisis of freshwater scarcity is a pressing environmental and societal concern, exacerbated by exponential population growth, intensifying agricultural demands, and pervasive industrial pollution. The over-extraction of potable water from rivers, lakes, and aquifers, coupled with the degradation of existing water sources through various contaminants, collectively contributes to this critical imbalance. Consequently, the proactive implementation of judicious water management strategies, such as efficient irrigation techniques and widespread public education campaigns promoting conservation, is paramount for ensuring sustainable access to this indispensable resource for both present and future generations.",
-    "question_stem": "What are the significant factors contributing to the global freshwater crisis?",
-    "options": [
-      {"letter": "A", "text": "Reduced industrial water usage.", "is_correct": false},
-      {"letter": "B", "text": "Increasing global population.", "is_correct": true},
-      {"letter": "C", "text": "Contamination of water sources.", "is_correct": true},
-      {"letter": "D", "text": "Effective water management practices.", "is_correct": false}
-    ],
-    "explanation": "The passage attributes the crisis to 'exponential population growth, intensifying agricultural demands, and pervasive industrial pollution' and 'the degradation of existing water sources through various contaminants'."
-  },
-  {
-    "question_number": 26,
-    "passage": "The proliferation of e-commerce platforms has ushered in a profound transformation of the global retail landscape, fundamentally altering consumer buying habits and business operational models. For consumers, the principal allure lies in the unparalleled convenience of being able to peruse and purchase goods from any location at any time, a benefit that transcends geographical and temporal constraints. For businesses, the digital marketplace opens up vast, previously untapped global markets, circumventing the limitations of physical retail presence. However, this shift also introduces complex challenges pertaining to secure logistics, efficient supply chain management, and robust data protection.",
-    "question_stem": "What are the primary effects of e-commerce on consumers and businesses?",
-    "options": [
-      {"letter": "A", "text": "It restricts consumer purchasing options.", "is_correct": false},
-      {"letter": "B", "text": "It offers consumers unprecedented convenience.", "is_correct": true},
-      {"letter": "C", "text": "It creates new global markets for businesses.", "is_correct": true},
-      {"letter": "D", "text": "It removes all challenges related to product delivery.", "is_correct": false}
-    ],
-    "explanation": "The passage states it offers 'unparalleled convenience' for consumers and 'opens up vast, previously untapped global markets' for businesses."
-  },
-  {
-    "question_number": 27,
-    "passage": "Effective leadership is demonstrably characterized by a constellation of indispensable attributes that collectively empower individuals to guide and inspire groups towards shared objectives. Key among these are exceptional communication prowess, the innate ability to genuinely motivate and galvanise teams, and the articulation of a compelling, forward-looking vision. Furthermore, exemplary leaders must exhibit a high degree of adaptability to deftly navigate unforeseen circumstances and possess an unwavering commitment to continuous professional development, ensuring their relevance in dynamic environments.",
-    "question_stem": "What are some essential qualities of effective leadership?",
-    "options": [
-      {"letter": "A", "text": "An exclusive focus on individual accomplishments.", "is_correct": false},
-      {"letter": "B", "text": "Strong communication skills.", "is_correct": true},
-      {"letter": "C", "text": "The capacity to inspire and motivate teams.", "is_correct": true},
-      {"letter": "D", "text": "A rigid resistance to any form of change.", "is_correct": false}
-    ],
-    "explanation": "The passage lists 'exceptional communication prowess, the innate ability to genuinely motivate and galvanise teams, and the articulation of a compelling, forward-looking vision' and 'a high degree of adaptability'."
-  },
-  {
-    "question_number": 28,
-    "passage": "The seismic shift brought about by the digital revolution has irrevocably reshaped the entertainment industry, fundamentally altering how content is consumed and created. The ascendancy of streaming services has largely supplanted traditional modes of media consumption, offering unparalleled on-demand access to an extensive array of films, musical compositions, and television programmes. This paradigm shift has consequently fostered increased personalization of content recommendations for individual users and concurrently opened up novel avenues for diverse content creators to reach broader audiences, democratising access to entertainment.",
-    "question_stem": "How has the digital revolution impacted the entertainment industry?",
-    "options": [
-      {"letter": "A", "text": "It has led to a decrease in the demand for new content.", "is_correct": false},
-      {"letter": "B", "text": "It provides on-demand access to a wide range of media.", "is_correct": true},
-      {"letter": "C", "text": "It has resulted in more personalized content experiences.", "is_correct": true},
-      {"letter": "D", "text": "It has caused the complete disappearance of all traditional media forms.", "is_correct": false}
-    ],
-    "explanation": "The passage highlights 'on-demand access to an extensive array of films, musical compositions, and television programmes' and that it 'fostered increased personalization of content recommendations'."
-  },
-  {
-    "question_number": 29,
-    "passage": "The profound significance of cultural heritage lies in its capacity to serve as a vital nexus connecting contemporary societies with the legacies of their forebears, thereby instilling a profound sense of collective identity and historical continuity. The assiduous preservation of historical edifices, traditional artistic expressions, and indigenous oral traditions not only enriches the communal fabric of present-day societies but also constitutes an invaluable repository of educational insights for future generations. A failure to safeguard this rich heritage risks a catastrophic erosion of collective memory and a diminishing appreciation for ancestral achievements.",
-    "question_stem": "Why is the preservation of cultural heritage deemed important?",
-    "options": [
-      {"letter": "A", "text": "It creates a divide between past and present generations.", "is_correct": false},
-      {"letter": "B", "text": "It provides a sense of collective identity.", "is_correct": true},
-      {"letter": "C", "text": "It serves as a valuable educational resource.", "is_correct": true},
-      {"letter": "D", "text": "It is only relevant to archaeological experts.", "is_correct": false}
-    ],
-    "explanation": "The passage states it 'connects contemporary societies with the legacies of their forebears, thereby instilling a profound sense of collective identity and historical continuity' and 'constitutes an invaluable repository of educational insights'."
-  },
-  {
-    "question_number": 30,
-    "passage": "The escalating global challenge of waste management necessitates the widespread adoption of comprehensive and sustainable strategies to alleviate environmental degradation. The foundational principles of this approach are encapsulated by the '3 Rs': reducing overall consumption of resources, actively reusing items whenever feasible, and diligently recycling materials to convert waste into new products. Implementing these interconnected strategies is crucial for minimizing the volume of waste destined for landfills, conserving finite natural resources, and significantly curtailing environmental pollution, thereby charting a course towards a more ecologically resilient and sustainable global future.",
-    "question_stem": "What are the core components of effective waste management strategies?",
-    "options": [
-      {"letter": "A", "text": "Primarily increasing the number of landfill sites.", "is_correct": false},
-      {"letter": "B", "text": "Reducing the overall consumption of goods.", "is_correct": true},
-      {"letter": "C", "text": "Recycling materials to create new products.", "is_correct": true},
-      {"letter": "D", "text": "Uncontrolled disposal of all waste materials.", "is_correct": false}
-    ],
-    "explanation": "The passage identifies the '3 Rs': 'reducing overall consumption of resources, actively reusing items whenever feasible, and diligently recycling materials'."
-  }
-]
+{
+  "easy": [
+    {
+      "question_number": 1,
+      "passage": "The chart shows how much energy the world used from different sources between 2000 and 2020. Overall, the total amount of energy consumed went up during these years. This tells us that people around the world needed more energy over time.",
+      "question_stem": "What happened to the total global energy use from 2000 to 2020?",
+      "options": [
+        {"letter": "A", "text": "It stayed the same.", "is_correct": false},
+        {"letter": "B", "text": "It increased.", "is_correct": true},
+        {"letter": "C", "text": "It decreased.", "is_correct": false},
+        {"letter": "D", "text": "It only changed for one type of energy.", "is_correct": false}
+      ],
+      "explanation": "The passage states, 'the total amount of energy consumed went up during these years'."
+    },
+    {
+      "question_number": 2,
+      "passage": "Looking at fossil fuels, oil consumption slowly went up from 2000 to 2020. Coal also started high and increased until about 2010. After 2010, coal use went down a little. This shows some changes in how these fuels were used.",
+      "question_stem": "How did coal consumption change after 2010?",
+      "options": [
+        {"letter": "A", "text": "It went up a lot.", "is_correct": false},
+        {"letter": "B", "text": "It went down a little.", "is_correct": true},
+        {"letter": "C", "text": "It stayed the same.", "is_correct": false},
+        {"letter": "D", "text": "It became the most used fuel.", "is_correct": false}
+      ],
+      "explanation": "The passage says, 'After 2010, coal use went down a little'."
+    },
+    {
+      "question_number": 3,
+      "passage": "Natural gas showed a steady rise in use from 2000 to 2020. It started at a medium level but grew consistently. By 2020, natural gas was used more than any other fossil fuel, which is a big change.",
+      "question_stem": "By 2020, what was the status of natural gas compared to other fossil fuels?",
+      "options": [
+        {"letter": "A", "text": "It was used the least.", "is_correct": false},
+        {"letter": "B", "text": "It was used more than coal but less than oil.", "is_correct": false},
+        {"letter": "C", "text": "It was used more than any other fossil fuel.", "is_correct": true},
+        {"letter": "D", "text": "Its use had stopped growing.", "is_correct": false}
+      ],
+      "explanation": "The passage states, 'By 2020, natural gas was used more than any other fossil fuel'."
+    },
+    {
+      "question_number": 4,
+      "passage": "Renewable energy sources like solar and wind started very low in 2000. But, their use grew very fast, especially after 2010. This strong growth shows that many countries are trying to use more clean energy.",
+      "question_stem": "When did renewable energy sources show their fastest growth?",
+      "options": [
+        {"letter": "A", "text": "Before 2005.", "is_correct": false},
+        {"letter": "B", "text": "After 2010.", "is_correct": true},
+        {"letter": "C", "text": "Throughout the whole period, at the same speed.", "is_correct": false},
+        {"letter": "D", "text": "They did not grow much at all.", "is_correct": false}
+      ],
+      "explanation": "The passage notes, 'their use grew very fast, especially after 2010'."
+    },
+    {
+      "question_number": 5,
+      "passage": "Nuclear and hydroelectric power are also shown on the chart. Both of these energy types saw a small but steady increase in their use. They did not grow as quickly as renewables, but their use did not go down either.",
+      "question_stem": "What kind of change did nuclear and hydroelectric power show?",
+      "options": [
+        {"letter": "A", "text": "A quick rise.", "is_correct": false},
+        {"letter": "B", "text": "A sharp drop.", "is_correct": false},
+        {"letter": "C", "text": "A small but steady increase.", "is_correct": true},
+        {"letter": "D", "text": "No change at all.", "is_correct": false}
+      ],
+      "explanation": "The passage says, 'Both of these energy types saw a small but steady increase in their use'."
+    },
+    {
+      "question_number": 6,
+      "passage": "In 2000, oil was one of the most used energy sources globally. It had a very high starting point. This shows its importance at the beginning of the twenty-year period.",
+      "question_stem": "In the year 2000, which energy source had a very high starting point in consumption?",
+      "options": [
+        {"letter": "A", "text": "Renewables.", "is_correct": false},
+        {"letter": "B", "text": "Hydroelectric.", "is_correct": false},
+        {"letter": "C", "text": "Oil.", "is_correct": true},
+        {"letter": "D", "text": "Natural Gas.", "is_correct": false}
+      ],
+      "explanation": "The passage states, 'In 2000, oil was one of the most used energy sources globally. It had a very high starting point'."
+    },
+    {
+      "question_number": 7,
+      "passage": "Even though renewables grew fast, their total amount used by 2020 was still much less than the total amount of fossil fuels (coal, oil, natural gas) used. Fossil fuels still provided most of the world's energy.",
+      "question_stem": "By 2020, how did the total use of renewables compare to fossil fuels?",
+      "options": [
+        {"letter": "A", "text": "Renewables were used more.", "is_correct": false},
+        {"letter": "B", "text": "Renewables were used about the same.", "is_correct": false},
+        {"letter": "C", "text": "Renewables were still used much less.", "is_correct": true},
+        {"letter": "D", "text": "Fossil fuels were not used anymore.", "is_correct": false}
+      ],
+      "explanation": "The passage says, 'their total amount used by 2020 was still much less than the total amount of fossil fuels'."
+    },
+    {
+      "question_number": 8,
+      "passage": "The chart shows that natural gas consumption rose more quickly than oil consumption. This means that over time, the world started to rely more on natural gas compared to oil for new energy needs.",
+      "question_stem": "Which fossil fuel had a faster increase in consumption: oil or natural gas?",
+      "options": [
+        {"letter": "A", "text": "Oil.", "is_correct": false},
+        {"letter": "B", "text": "Natural gas.", "is_correct": true},
+        {"letter": "C", "text": "Both increased at the same speed.", "is_correct": false},
+        {"letter": "D", "text": "Neither increased.", "is_correct": false}
+      ],
+      "explanation": "The passage states, 'natural gas consumption rose more quickly than oil consumption'."
+    },
+    {
+      "question_number": 9,
+      "passage": "Between 2010 and 2020, we see two important changes. Coal use started to go down, while renewable energy use went up very quickly. This period marked a change towards cleaner energy.",
+      "question_stem": "What two important changes happened between 2010 and 2020?",
+      "options": [
+        {"letter": "A", "text": "Oil use stopped, and nuclear power grew fast.", "is_correct": false},
+        {"letter": "B", "text": "Coal use decreased, and renewables grew fast.", "is_correct": true},
+        {"letter": "C", "text": "Natural gas use went down, and hydroelectric use went up slowly.", "is_correct": false},
+        {"letter": "D", "text": "All fossil fuels grew, and all renewables declined.", "is_correct": false}
+      ],
+      "explanation": "The passage clearly states, 'Coal use started to go down, while renewable energy use went up very quickly'."
+    },
+    {
+      "question_number": 10,
+      "passage": "Even with the growth of clean energy, fossil fuels (coal, oil, and natural gas) were still the main source of energy for the world throughout the entire period from 2000 to 2020. They provided the biggest share of total energy.",
+      "question_stem": "What was the main source of global energy throughout 2000-2020?",
+      "options": [
+        {"letter": "A", "text": "Renewable energy.", "is_correct": false},
+        {"letter": "B", "text": "Nuclear power.", "is_correct": false},
+        {"letter": "C", "text": "Fossil fuels.", "is_correct": true},
+        {"letter": "D", "text": "Hydroelectric power.", "is_correct": false}
+      ],
+      "explanation": "The passage says, 'fossil fuels (coal, oil, and natural gas) were still the main source of energy for the world throughout the entire period'."
+    },
+    {
+      "question_number": 11,
+      "passage": "The total energy used globally kept going up from 2000 to 2020. This suggests that as the world's population grows and more countries develop, they need more and more energy to power their homes, businesses, and transport.",
+      "question_stem": "What might be a reason for the increasing total energy demand?",
+      "options": [
+        {"letter": "A", "text": "Less population.", "is_correct": false},
+        {"letter": "B", "text": "More efficient machines.", "is_correct": false},
+        {"letter": "C", "text": "Global population growth and development.", "is_correct": true},
+        {"letter": "D", "text": "A decrease in energy-intensive industries.", "is_correct": false}
+      ],
+      "explanation": "The passage states, 'as the world's population grows and more countries develop, they need more and more energy'."
+    },
+    {
+      "question_number": 12,
+      "passage": "Nuclear power showed some growth at first, but then its use mostly stopped increasing towards 2020. This might be because it is hard to build new nuclear power plants or because of safety concerns.",
+      "question_stem": "What happened to nuclear power consumption towards the end of the period?",
+      "options": [
+        {"letter": "A", "text": "It grew very quickly.", "is_correct": false},
+        {"letter": "B", "text": "It mostly stopped increasing.", "is_correct": true},
+        {"letter": "C", "text": "It started to fall sharply.", "is_correct": false},
+        {"letter": "D", "text": "It became the main energy source.", "is_correct": false}
+      ],
+      "explanation": "The passage notes, 'its use mostly stopped increasing towards 2020'."
+    },
+    {
+      "question_number": 13,
+      "passage": "Hydroelectric power, which comes from water, also increased steadily over the two decades. Its growth was not as fast as new renewables, possibly because there are limits to where new hydroelectric dams can be built.",
+      "question_stem": "How did hydroelectric power consumption change over the period?",
+      "options": [
+        {"letter": "A", "text": "It saw a very rapid increase.", "is_correct": false},
+        {"letter": "B", "text": "It showed a steady, gradual increase.", "is_correct": true},
+        {"letter": "C", "text": "It declined sharply.", "is_correct": false},
+        {"letter": "D", "text": "It stayed exactly the same.", "is_correct": false}
+      ],
+      "explanation": "The passage says, 'Hydroelectric power... also increased steadily over the two decades'."
+    },
+    {
+      "question_number": 14,
+      "passage": "In the year 2000, oil was the single biggest energy source used globally. However, over the years, natural gas grew strongly and became much closer to oil in terms of total use.",
+      "question_stem": "At the start of the chart (2000), which single energy source was used the most?",
+      "options": [
+        {"letter": "A", "text": "Coal.", "is_correct": false},
+        {"letter": "B", "text": "Natural Gas.", "is_correct": false},
+        {"letter": "C", "text": "Oil.", "is_correct": true},
+        {"letter": "D", "text": "Renewables.", "is_correct": false}
+      ],
+      "explanation": "The passage states, 'In the year 2000, oil was the single biggest energy source used globally'."
+    },
+    {
+      "question_number": 15,
+      "passage": "The chart clearly shows that coal consumption went down after its peak, especially in the later years. This drop might be because countries are trying to use cleaner energy sources to help the environment.",
+      "question_stem": "What is a possible reason for the decrease in coal consumption towards the end of the period?",
+      "options": [
+        {"letter": "A", "text": "An increase in coal production.", "is_correct": false},
+        {"letter": "B", "text": "Efforts to use cleaner energy.", "is_correct": true},
+        {"letter": "C", "text": "A sudden stop in all energy use.", "is_correct": false},
+        {"letter": "D", "text": "New discoveries of coal reserves.", "is_correct": false}
+      ],
+      "explanation": "The passage suggests, 'This drop might be because countries are trying to use cleaner energy sources to help the environment'."
+    },
+    {
+      "question_number": 16,
+      "passage": "If we look at all non-fossil fuel energy types, renewables (solar, wind, etc.) grew much faster than nuclear and hydroelectric power. This shows a big difference in how quickly these clean energy types are expanding.",
+      "question_stem": "Among non-fossil fuels, which type grew much faster: renewables or nuclear/hydroelectric?",
+      "options": [
+        {"letter": "A", "text": "Nuclear power.", "is_correct": false},
+        {"letter": "B", "text": "Hydroelectric power.", "is_correct": false},
+        {"letter": "C", "text": "Renewables.", "is_correct": true},
+        {"letter": "D", "text": "All grew at the same speed.", "is_correct": false}
+      ],
+      "explanation": "The passage states, 'renewables (solar, wind, etc.) grew much faster than nuclear and hydroelectric power'."
+    },
+    {
+      "question_number": 17,
+      "passage": "The chart makes it clear that even with new cleaner energy types growing, fossil fuels (coal, oil, and natural gas) still supplied most of the world's energy from 2000 to 2020. This shows how much the world still relies on them.",
+      "question_stem": "Did fossil fuels remain the primary source of global energy during the entire period?",
+      "options": [
+        {"letter": "A", "text": "No, renewables quickly took over.", "is_correct": false},
+        {"letter": "B", "text": "Yes, they supplied most of the energy.", "is_correct": true},
+        {"letter": "C", "text": "Only in the first five years.", "is_correct": false},
+        {"letter": "D", "text": "They were phased out by 2015.", "is_correct": false}
+      ],
+      "explanation": "The passage says, 'fossil fuels... still supplied most of the world's energy from 2000 to 2020'."
+    },
+    {
+      "question_number": 18,
+      "passage": "In 2010, coal reached its highest point of consumption. After this year, its use started to decline. This marks a turning point for coal as an energy source.",
+      "question_stem": "In which year did coal consumption reach its highest point?",
+      "options": [
+        {"letter": "A", "text": "2000.", "is_correct": false},
+        {"letter": "B", "text": "2005.", "is_correct": false},
+        {"letter": "C", "text": "2010.", "is_correct": true},
+        {"letter": "D", "text": "2020.", "is_correct": false}
+      ],
+      "explanation": "The passage clearly states, 'In 2010, coal reached its highest point of consumption'."
+    },
+    {
+      "question_number": 19,
+      "passage": "The total energy from renewable sources was very small at the start of the period in 2000. However, by 2020, even with its fast growth, it had not yet caught up to the levels of the major fossil fuels.",
+      "question_stem": "At the start of the period (2000), how large was the contribution of renewable energy?",
+      "options": [
+        {"letter": "A", "text": "Very large.", "is_correct": false},
+        {"letter": "B", "text": "Equal to oil.", "is_correct": false},
+        {"letter": "C", "text": "Very small.", "is_correct": true},
+        {"letter": "D", "text": "Greater than natural gas.", "is_correct": false}
+      ],
+      "explanation": "The passage says, 'The total energy from renewable sources was very small at the start of the period in 2000'."
+    },
+    {
+      "question_number": 20,
+      "passage": "The consumption of oil showed a relatively straight and slow increase throughout the entire period. It did not have sharp drops or very quick rises, showing a stable but growing demand.",
+      "question_stem": "What describes the change in oil consumption from 2000 to 2020?",
+      "options": [
+        {"letter": "A", "text": "A rapid fall.", "is_correct": false},
+        {"letter": "B", "text": "A steady but slow increase.", "is_correct": true},
+        {"letter": "C", "text": "Many sharp ups and downs.", "is_correct": false},
+        {"letter": "D", "text": "It remained completely unchanged.", "is_correct": false}
+      ],
+      "explanation": "The passage says, 'The consumption of oil showed a relatively straight and slow increase throughout the entire period'."
+    },
+    {
+      "question_number": 21,
+      "passage": "Natural gas began with less use than coal or oil in 2000, but its consumption grew significantly and consistently. This steady rise made it a very important energy source by the end of the period.",
+      "question_stem": "How did natural gas consumption change relative to coal and oil at the beginning of the period?",
+      "options": [
+        {"letter": "A", "text": "It started higher than both coal and oil.", "is_correct": false},
+        {"letter": "B", "text": "It started lower than both coal and oil.", "is_correct": true},
+        {"letter": "C", "text": "It started higher than coal but lower than oil.", "is_correct": false},
+        {"letter": "D", "text": "It started at the same level as oil.", "is_correct": false}
+      ],
+      "explanation": "The passage states, 'Natural gas began with less use than coal or oil in 2000'."
+    },
+    {
+      "question_number": 22,
+      "passage": "Renewable energy sources grew dramatically in the last ten years of the chart (2010-2020). This period saw the biggest push for solar and wind power, showing a clear move towards a different energy future.",
+      "question_stem": "In which specific decade did renewable energy experience dramatic growth?",
+      "options": [
+        {"letter": "A", "text": "2000-2010.", "is_correct": false},
+        {"letter": "B", "text": "2010-2020.", "is_correct": true},
+        {"letter": "C", "text": "Before 2000.", "is_correct": false},
+        {"letter": "D", "text": "After 2020.", "is_correct": false}
+      ],
+      "explanation": "The passage states, 'Renewable energy sources grew dramatically in the last ten years of the chart (2010-2020)'."
+    },
+    {
+      "question_number": 23,
+      "passage": "The chart indicates that overall energy consumption increased, which requires more production from existing or new sources. This rising demand puts pressure on finding new ways to generate energy.",
+      "question_stem": "What is one consequence of the increasing total energy consumption?",
+      "options": [
+        {"letter": "A", "text": "Less need for energy production.", "is_correct": false},
+        {"letter": "B", "text": "Increased pressure to find new energy generation methods.", "is_correct": true},
+        {"letter": "C", "text": "A reduction in global energy demand.", "is_correct": false},
+        {"letter": "D", "text": "Fossil fuels are no longer necessary.", "is_correct": false}
+      ],
+      "explanation": "The passage implies, 'This rising demand puts pressure on finding new ways to generate energy'."
+    },
+    {
+      "question_number": 24,
+      "passage": "By the end of the chart (2020), natural gas had become the most consumed fossil fuel. This was a change from the beginning of the period when other fossil fuels were more dominant.",
+      "question_stem": "By 2020, what was the most consumed fossil fuel?",
+      "options": [
+        {"letter": "A", "text": "Coal.", "is_correct": false},
+        {"letter": "B", "text": "Oil.", "is_correct": false},
+        {"letter": "C", "text": "Natural Gas.", "is_correct": true},
+        {"letter": "D", "text": "All fossil fuels were consumed equally.", "is_correct": false}
+      ],
+      "explanation": "The passage states, 'By the end of the chart (2020), natural gas had become the most consumed fossil fuel'."
+    },
+    {
+      "question_number": 25,
+      "passage": "Hydroelectric power's growth was steady, but nuclear power's growth almost stopped after a certain point. This shows that not all non-fossil fuel sources are expanding at the same rate.",
+      "question_stem": "Which non-fossil fuel source showed its growth almost stopping towards 2020?",
+      "options": [
+        {"letter": "A", "text": "Hydroelectric power.", "is_correct": false},
+        {"letter": "B", "text": "Renewables.", "is_correct": false},
+        {"letter": "C", "text": "Nuclear power.", "is_correct": true},
+        {"letter": "D", "text": "Both hydroelectric and nuclear power.", "is_correct": false}
+      ],
+      "explanation": "The passage mentions, 'nuclear power's growth almost stopped after a certain point'."
+    },
+    {
+      "question_number": 26,
+      "passage": "The chart presents data from 2000 to 2020, covering twenty years of global energy consumption. This timeframe allows us to observe long-term trends and shifts in energy use.",
+      "question_stem": "How many years of data are covered in the chart?",
+      "options": [
+        {"letter": "A", "text": "Ten years.", "is_correct": false},
+        {"letter": "B", "text": "Fifteen years.", "is_correct": false},
+        {"letter": "C", "text": "Twenty years.", "is_correct": true},
+        {"letter": "D", "text": "Fifty years.", "is_correct": false}
+      ],
+      "explanation": "The passage states, 'The chart presents data from 2000 to 2020, covering twenty years'."
+    },
+    {
+      "question_number": 27,
+      "passage": "The significant rise in renewable energy use after 2010 suggests a global effort to move away from older, more polluting energy sources. This shift is important for fighting climate change.",
+      "question_stem": "What does the rapid growth of renewables after 2010 imply?",
+      "options": [
+        {"letter": "A", "text": "Less interest in clean energy.", "is_correct": false},
+        {"letter": "B", "text": "A move towards cleaner energy sources.", "is_correct": true},
+        {"letter": "C", "text": "An increase in fossil fuel burning.", "is_correct": false},
+        {"letter": "D", "text": "No change in environmental policies.", "is_correct": false}
+      ],
+      "explanation": "The passage suggests, 'a global effort to move away from older, more polluting energy sources'."
+    },
+    {
+      "question_number": 28,
+      "passage": "While coal and oil started with high consumption levels in 2000, natural gas, which started lower, had a very strong and continuous increase. This shows a long-term shift within fossil fuel preferences.",
+      "question_stem": "Which fossil fuel started lower but showed a very strong and continuous increase?",
+      "options": [
+        {"letter": "A", "text": "Coal.", "is_correct": false},
+        {"letter": "B", "text": "Oil.", "is_correct": false},
+        {"letter": "C", "text": "Natural Gas.", "is_correct": true},
+        {"letter": "D", "text": "All three had the same starting point.", "is_correct": false}
+      ],
+      "explanation": "The passage mentions, 'natural gas, which started lower, had a very strong and continuous increase'."
+    },
+    {
+      "question_number": 29,
+      "passage": "The chart allows us to compare different energy types side-by-side. For example, we can see that renewables grew faster than nuclear power. This helps understand which types of energy are becoming more popular.",
+      "question_stem": "What is one benefit of looking at the chart?",
+      "options": [
+        {"letter": "A", "text": "It predicts the exact future energy prices.", "is_correct": false},
+        {"letter": "B", "text": "It helps compare the growth of different energy types.", "is_correct": true},
+        {"letter": "C", "text": "It shows only fossil fuel consumption.", "is_correct": false},
+        {"letter": "D", "text": "It tells us the exact amount of energy used in any single year for all countries.", "is_correct": false}
+      ],
+      "explanation": "The passage says, 'It helps compare the growth of different energy types'."
+    },
+    {
+      "question_number": 30,
+      "passage": "Overall, the pattern of energy consumption shows a world that is still very dependent on fossil fuels, but also one that is increasingly trying to adopt cleaner energy sources. The period reveals both continuity and change in energy choices.",
+      "question_stem": "What main idea about global energy choices is shown by the chart's patterns?",
+      "options": [
+        {"letter": "A", "text": "A complete end to fossil fuel use.", "is_correct": false},
+        {"letter": "B", "text": "No change in energy choices.", "is_correct": false},
+        {"letter": "C", "text": "Continued reliance on fossil fuels, with growing clean energy adoption.", "is_correct": true},
+        {"letter": "D", "text": "Only clean energy sources are now being used.", "is_correct": false}
+      ],
+      "explanation": "The passage states, 'a world that is still very dependent on fossil fuels, but also one that is increasingly trying to adopt cleaner energy sources'."
+    }
+  ],
+  "medium": [
+    {
+      "question_number": 1,
+      "passage": "The ongoing digital revolution has profoundly reshaped the landscape of global communication, creating unprecedented opportunities for instantaneous interaction across vast distances. Technologies such as high-speed internet, email, and sophisticated video conferencing platforms have effectively bridged geographical barriers, enabling individuals and organisations to connect with remarkable ease. This pervasive connectivity, while offering immense advantages in terms of information exchange and cultural understanding, also introduces new considerations regarding digital literacy and online privacy.",
+      "question_stem": "Which aspects of modern communication are highlighted in the passage?",
+      "options": [
+        {"letter": "A", "text": "The decline of all traditional communication methods.", "is_correct": false},
+        {"letter": "B", "text": "The ability to interact instantly across distances.", "is_correct": true},
+        {"letter": "C", "text": "The emergence of new privacy concerns.", "is_correct": true},
+        {"letter": "D", "text": "The exclusive use of written correspondence.", "is_correct": false}
+      ],
+      "explanation": "The passage mentions 'instantaneous interaction across vast distances' and 'new considerations regarding digital literacy and online privacy'."
+    },
+    {
+      "question_number": 2,
+      "passage": "Engaging in regular physical activity is an indispensable component of a holistic approach to health and well-being. Consistent exercise not only yields significant physiological benefits, such as enhanced cardiovascular function and strengthened musculoskeletal systems, but also exerts a powerful positive influence on psychological states. Many individuals report a marked reduction in stress levels and an overall improvement in mood following sustained periods of moderate exertion, underscoring the multifaceted advantages of incorporating activity into daily routines.",
+      "question_stem": "According to the text, what positive effects can regular exercise have?",
+      "options": [
+        {"letter": "A", "text": "It only influences physical strength.", "is_correct": false},
+        {"letter": "B", "text": "It can lead to improved cardiovascular health.", "is_correct": true},
+        {"letter": "C", "text": "It often contributes to lower stress levels.", "is_correct": true},
+        {"letter": "D", "text": "It guarantees immediate weight loss for everyone.", "is_correct": false}
+      ],
+      "explanation": "The passage notes 'enhanced cardiovascular function' and 'a marked reduction in stress levels and an overall improvement in mood'."
+    },
+    {
+      "question_number": 3,
+      "passage": "The global imperative to address climate change has catalysed a transformative shift towards sustainable energy solutions. Technologies like photovoltaic solar panels efficiently harness solar radiation, converting it into electricity without generating harmful emissions. Similarly, expansive wind farms capture the kinetic energy of air currents, providing a clean and inexhaustible power source. These innovative approaches are pivotal in diminishing humanity's ecological footprint and transitioning away from reliance on finite fossil fuels, thus securing a more environmentally sound future.",
+      "question_stem": "What is the primary motivation for developing renewable energy sources?",
+      "options": [
+        {"letter": "A", "text": "To increase dependency on fossil fuels.", "is_correct": false},
+        {"letter": "B", "text": "To mitigate the effects of climate change.", "is_correct": true},
+        {"letter": "C", "text": "To decrease the global ecological footprint.", "is_correct": true},
+        {"letter": "D", "text": "To create more energy-intensive industries.", "is_correct": false}
+      ],
+      "explanation": "The passage mentions 'The global imperative to address climate change has catalysed a transformative shift towards sustainable energy solutions' and 'diminishing humanity's ecological footprint'."
+    },
+    {
+      "question_number": 4,
+      "passage": "The ongoing phenomenon of urbanization, characterised by the movement of populations from rural to densely populated urban centres, presents a dual-edged sword for societies worldwide. On one hand, metropolitan areas frequently serve as hubs for innovation, offering enhanced educational opportunities and a wider array of employment prospects. On the other hand, rapid urban growth often precipitates significant challenges, including severe strains on public infrastructure, the proliferation of informal settlements, and heightened levels of traffic congestion, demanding meticulous urban planning.",
+      "question_stem": "What are the common challenges associated with rapid urbanization?",
+      "options": [
+        {"letter": "A", "text": "Increased access to educational facilities.", "is_correct": false},
+        {"letter": "B", "text": "Severe pressure on existing public infrastructure.", "is_correct": true},
+        {"letter": "C", "text": "A reduction in employment opportunities.", "is_correct": false},
+        {"letter": "D", "text": "Higher levels of traffic congestion.", "is_correct": true}
+      ],
+      "explanation": "The passage states 'rapid urban growth often precipitates significant challenges, including severe strains on public infrastructure... and heightened levels of traffic congestion'."
+    },
+    {
+      "question_number": 5,
+      "passage": "The profound impact of the printing press, invented by Johannes Gutenberg in the 15th century, cannot be overstated in the annals of human intellectual development. This revolutionary device facilitated the rapid and extensive reproduction of texts, thereby dramatically reducing the cost of books and making them far more accessible to a burgeoning readership beyond monastic or elite circles. Consequently, it played an instrumental role in stimulating widespread literacy, disseminating knowledge, and ultimately catalysing the European Renaissance and the Protestant Reformation.",
+      "question_stem": "Which of the following were direct consequences of the printing press invention?",
+      "options": [
+        {"letter": "A", "text": "Books became exclusively available to the wealthy.", "is_correct": false},
+        {"letter": "B", "text": "The cost of printed materials significantly decreased.", "is_correct": true},
+        {"letter": "C", "text": "It contributed to the spread of literacy.", "is_correct": true},
+        {"letter": "D", "text": "It halted intellectual development for centuries.", "is_correct": false}
+      ],
+      "explanation": "The passage explains it 'dramatically reducing the cost of books and making them far more accessible' and 'played an instrumental role in stimulating widespread literacy, disseminating knowledge'."
+    },
+    {
+      "question_number": 6,
+      "passage": "The burgeoning global tourism industry has emerged as a significant economic driver for numerous nations, particularly those endowed with rich cultural heritage or pristine natural environments. It generates substantial foreign exchange earnings, creates diverse employment opportunities across hospitality and related sectors, and often necessitates significant investment in infrastructure development, such as airports and hotels. However, if not managed sustainably, the influx of tourists can exert considerable pressure on delicate ecosystems and potentially dilute the authenticity of local cultures.",
+      "question_stem": "What positive economic impacts does global tourism typically have?",
+      "options": [
+        {"letter": "A", "text": "It frequently leads to cultural degradation.", "is_correct": false},
+        {"letter": "B", "text": "It stimulates various employment sectors.", "is_correct": true},
+        {"letter": "C", "text": "It fosters infrastructure improvements.", "is_correct": true},
+        {"letter": "D", "text": "It always reduces local spending.", "is_correct": false}
+      ],
+      "explanation": "The passage indicates it 'creates diverse employment opportunities' and 'often necessitates significant investment in infrastructure development'."
+    },
+    {
+      "question_number": 7,
+      "passage": "Mastering the art of effective time management is unequivocally a foundational skill for achieving both academic excellence and professional advancement. This discipline entails the judicious allocation of one's hours, which typically involves meticulous prioritization of tasks, the establishment of realistic and achievable deadlines, and the vigilant avoidance of superfluous distractions. Cultivating such proficiency can dramatically elevate an individual's productivity output and concurrently ameliorate feelings of anxiety and being overwhelmed.",
+      "question_stem": "What elements are crucial for effective time management?",
+      "options": [
+        {"letter": "A", "text": "Ignoring all forms of external distractions.", "is_correct": true},
+        {"letter": "B", "text": "Setting unrealistic expectations for task completion.", "is_correct": false},
+        {"letter": "C", "text": "Prioritizing tasks appropriately.", "is_correct": true},
+        {"letter": "D", "text": "Working continuously without any breaks.", "is_correct": false}
+      ],
+      "explanation": "The passage states it involves 'meticulous prioritization of tasks... and the vigilant avoidance of superfluous distractions'."
+    },
+    {
+      "question_number": 8,
+      "passage": "The Amazon Rainforest stands as an ecological titan, globally recognized for its unparalleled biodiversity and its indispensable role in regulating planetary climate patterns. This sprawling biome hosts millions of species, many of which are endemic, making it a critical reservoir of genetic information. Its extensive forest cover acts as a monumental carbon sink, absorbing prodigious quantities of atmospheric carbon dioxide, thereby mitigating the severity of global warming. However, persistent deforestation, driven by agricultural expansion and logging, continues to threaten this invaluable natural asset.",
+      "question_stem": "Why is the Amazon Rainforest considered vital on a global scale?",
+      "options": [
+        {"letter": "A", "text": "It is the primary source of commercial timber for construction.", "is_correct": false},
+        {"letter": "B", "text": "It plays a key role in global climate regulation.", "is_correct": true},
+        {"letter": "C", "text": "It is a crucial repository of unique biodiversity.", "is_correct": true},
+        {"letter": "D", "text": "It is entirely impervious to human-induced threats.", "is_correct": false}
+      ],
+      "explanation": "The passage highlights its 'unparalleled biodiversity and its indispensable role in regulating planetary climate patterns' and being a 'critical reservoir of genetic information'."
+    },
+    {
+      "question_number": 9,
+      "passage": "The burgeoning field of Artificial Intelligence (AI) is rapidly catalysing transformative shifts across a myriad of economic sectors. From streamlining operational processes through automation of repetitive tasks to enabling sophisticated data analytics and predictive modelling, AI applications are significantly augmenting efficiency and unlocking novel capabilities. This technological paradigm shift is not merely enhancing current practices but is also projected to fundamentally redefine the structure and demands of future employment landscapes, necessitating workforce adaptation.",
+      "question_stem": "In what ways is Artificial Intelligence (AI) impacting various economic sectors?",
+      "options": [
+        {"letter": "A", "text": "It exclusively reduces human employment in all areas.", "is_correct": false},
+        {"letter": "B", "text": "It improves operational efficiency through automation.", "is_correct": true},
+        {"letter": "C", "text": "It is enabling advanced data analysis.", "is_correct": true},
+        {"letter": "D", "text": "It has no discernible effect on future job markets.", "is_correct": false}
+      ],
+      "explanation": "The passage states AI is 'streamlining operational processes through automation' and 'enabling sophisticated data analytics'."
+    },
+    {
+      "question_number": 10,
+      "passage": "The increasing prevalence of remote work arrangements is initiating profound reconfigurations in both urban planning paradigms and conventional office design principles. Progressive companies are increasingly re-evaluating the necessity of expansive, centralized corporate campuses, opting instead for more flexible co-working environments or entirely distributed virtual teams. This burgeoning trend carries the potential to alleviate urban traffic congestion, diminish the environmental impact associated with daily commuting, and potentially cultivate a more balanced work-life dynamic for a significant portion of the global workforce.",
+      "question_stem": "What are the potential consequences of the growing trend of remote work?",
+      "options": [
+        {"letter": "A", "text": "It will inevitably lead to the complete disappearance of all office buildings.", "is_correct": false},
+        {"letter": "B", "text": "It could contribute to reduced urban traffic congestion.", "is_correct": true},
+        {"letter": "C", "text": "It has the potential to enhance work-life balance.", "is_correct": true},
+        {"letter": "D", "text": "It encourages a return to traditional, rigid office structures.", "is_correct": false}
+      ],
+      "explanation": "The passage suggests it 'carries the potential to alleviate urban traffic congestion... and potentially cultivate a more balanced work-life dynamic'."
+    },
+    {
+      "question_number": 11,
+      "passage": "Sustainable agricultural practices represent a holistic approach designed to satisfy the world's burgeoning demand for food and fibre, without compromising the ecological integrity of natural systems or the capacity of future generations to meet their own fundamental requirements. Such methodologies encompass a broad spectrum of techniques, including crop rotation, organic farming, and judicious water management, all of which are instrumental in preserving soil health, conserving biodiversity, and ensuring the long-term viability of agricultural ecosystems.",
+      "question_stem": "What is the overarching aim of sustainable agricultural practices?",
+      "options": [
+        {"letter": "A", "text": "To increase reliance on chemical fertilisers.", "is_correct": false},
+        {"letter": "B", "text": "To protect ecological integrity for future generations.", "is_correct": true},
+        {"letter": "C", "text": "To satisfy current food demands without harming the environment.", "is_correct": true},
+        {"letter": "D", "text": "To exclusively focus on maximizing short-term yields.", "is_correct": false}
+      ],
+      "explanation": "The passage states its aim is to 'satisfy the world's burgeoning demand for food and fibre, without compromising the ecological integrity of natural systems or the capacity of future generations to meet their own fundamental requirements'."
+    },
+    {
+      "question_number": 12,
+      "passage": "The evolution of pedagogical methodologies in education has transitioned considerably from traditional rote learning approaches to more dynamic, student-centric paradigms. Contemporary educational philosophy frequently champions the cultivation of critical thinking abilities, the development of sophisticated problem-solving strategies, and the promotion of collaborative learning environments. Furthermore, the pervasive integration of digital technologies has become an increasingly indispensable medium for the delivery of diverse educational content and fostering interactive learning experiences.",
+      "question_stem": "What are some characteristics of modern pedagogical approaches?",
+      "options": [
+        {"letter": "A", "text": "They solely focus on memorization and repetition.", "is_correct": false},
+        {"letter": "B", "text": "They prioritise the development of critical thinking.", "is_correct": true},
+        {"letter": "C", "text": "They encourage collaborative learning amongst students.", "is_correct": true},
+        {"letter": "D", "text": "They avoid the use of any digital technologies.", "is_correct": false}
+      ],
+      "explanation": "The passage mentions 'cultivation of critical thinking abilities... and the promotion of collaborative learning environments. Furthermore, the pervasive integration of digital technologies has become an increasingly indispensable medium'."
+    },
+    {
+      "question_number": 13,
+      "passage": "The burgeoning global adoption of electric vehicles (EVs) is anticipated to instigate substantial improvements in urban air quality. A key advantage of EVs is their complete absence of tailpipe emissions, which means they do not release harmful pollutants directly into the local atmosphere, unlike conventional internal combustion engine vehicles. This transformative shift in transportation technology is regarded as crucial for addressing escalating public health concerns, particularly in densely populated metropolitan areas where air pollution levels are often critically high.",
+      "question_stem": "What is the primary environmental benefit of electric vehicles mentioned?",
+      "options": [
+        {"letter": "A", "text": "They can operate without any charging infrastructure.", "is_correct": false},
+        {"letter": "B", "text": "They contribute to significant reductions in urban air pollution.", "is_correct": true},
+        {"letter": "C", "text": "They increase the consumption of fossil fuels.", "is_correct": false},
+        {"letter": "D", "text": "They produce zero tailpipe emissions.", "is_correct": true}
+      ],
+      "explanation": "The passage highlights 'their complete absence of tailpipe emissions' and that this 'significantly reduces local air pollution'."
+    },
+    {
+      "question_number": 14,
+      "passage": "Neuroplasticity, a truly remarkable inherent capability of the human brain, refers to its profound ability to continually adapt, reorganize, and form new neural connections throughout an individual's lifespan. This dynamic characteristic underpins our capacity for lifelong learning, facilitates recovery from neurological injuries by rerouting functions, and enables profound adjustments to novel environmental stimuli. While particularly pronounced during formative childhood years, the brain's plasticity persists, albeit with varying degrees, well into adulthood, underscoring its continuous developmental potential.",
+      "question_stem": "Which statements accurately describe neuroplasticity?",
+      "options": [
+        {"letter": "A", "text": "It is primarily limited to the early stages of childhood development.", "is_correct": false},
+        {"letter": "B", "text": "It refers to the brain's capacity for adaptation and reorganization.", "is_correct": true},
+        {"letter": "C", "text": "It allows individuals to learn new skills.", "is_correct": true},
+        {"letter": "D", "text": "It implies the brain's structure is entirely fixed from birth.", "is_correct": false}
+      ],
+      "explanation": "The passage defines it as the brain's 'ability to continually adapt, reorganize, and form new neural connections' and states it 'underpins our capacity for lifelong learning'."
+    },
+    {
+      "question_number": 15,
+      "passage": "The ubiquity of smartphones has fundamentally reconfigured various facets of contemporary personal and professional existence. These sophisticated handheld devices offer users immediate access to an extensive repository of information, enable seamless and continuous communication across diverse networks, and ingeniously integrate a multitude of functionalities, ranging from advanced navigation systems to high-resolution photographic capabilities, all within a singular, compact unit. This pervasive integration of technology has, in turn, fostered both unprecedented levels of convenience and the evolution of novel societal norms and expectations regarding connectivity.",
+      "question_stem": "What are the significant impacts or features of smartphones?",
+      "options": [
+        {"letter": "A", "text": "They have reduced the overall convenience for users.", "is_correct": false},
+        {"letter": "B", "text": "They provide instant access to vast amounts of information.", "is_correct": true},
+        {"letter": "C", "text": "They combine various functions into a single device.", "is_correct": true},
+        {"letter": "D", "text": "They have eliminated the need for human interaction.", "is_correct": false}
+      ],
+      "explanation": "The passage notes they 'offer users immediate access to an extensive repository of information... and ingeniously integrate a multitude of functionalities'."
+    },
+    {
+      "question_number": 16,
+      "passage": "The paramount importance of biodiversity to the health and functioning of planetary ecosystems cannot be overstated. A rich and varied array of species contributes intrinsically to the stability and inherent resilience of natural environments, empowering them to more effectively withstand and recover from ecological disturbances, such as climate shifts or disease outbreaks. Conversely, a reduction in biodiversity can precipitate cascading ecological imbalances, leading to diminished ecosystem services that are vital for human welfare, including critical processes like natural pollination, water filtration, and nutrient cycling.",
+      "question_stem": "What is the primary contribution of high biodiversity to ecosystems?",
+      "options": [
+        {"letter": "A", "text": "It guarantees the absence of all environmental disturbances.", "is_correct": false},
+        {"letter": "B", "text": "It enhances ecological stability and resilience.", "is_correct": true},
+        {"letter": "C", "text": "It improves the capacity of ecosystems to recover from disruptions.", "is_correct": true},
+        {"letter": "D", "text": "It invariably leads to a reduction in ecosystem services.", "is_correct": false}
+      ],
+      "explanation": "The passage states 'A rich and varied array of species contributes intrinsically to the stability and inherent resilience of natural environments, empowering them to more effectively withstand and recover from ecological disturbances'."
+    },
+    {
+      "question_number": 17,
+      "passage": "Volcanic eruptions, though often perceived primarily as catastrophic natural phenomena, are in fact integral components of Earth's dynamic geological processes. Beyond their immediate destructive potential, these events play a crucial long-term role in shaping the planet's surface by contributing to the formation of new landmasses and enriching surrounding soils with a diverse array of essential minerals. Over geological timescales, the continuous release of gases and molten rock from volcanoes has significantly influenced the composition of Earth's atmosphere and the very contours of its continents, underscoring their profound geological importance.",
+      "question_stem": "What are the constructive roles of volcanic eruptions?",
+      "options": [
+        {"letter": "A", "text": "They exclusively cause widespread environmental destruction.", "is_correct": false},
+        {"letter": "B", "text": "They are instrumental in the creation of new land.", "is_correct": true},
+        {"letter": "C", "text": "They contribute to the enrichment of soils with minerals.", "is_correct": true},
+        {"letter": "D", "text": "They primarily lead to a decrease in global temperatures.", "is_correct": false}
+      ],
+      "explanation": "The passage states they 'contributing to the formation of new landmasses and enriching surrounding soils with a diverse array of essential minerals'."
+    },
+    {
+      "question_number": 18,
+      "passage": "The academic discipline of history offers an unparalleled lens through which to comprehend the intricate tapestry of human civilization. By meticulously analysing past events, societies gain invaluable insights into the foundational origins of contemporary social structures, political systems, and cultural norms. Furthermore, studying historical narratives provides crucial opportunities to learn from previous societal missteps and triumphs, thereby potentially informing strategic decisions and enabling more astute predictions regarding future trends and challenges. Authentic historical research is rigorously grounded in the meticulous examination of primary source materials, including ancient manuscripts, archaeological findings, and oral traditions.",
+      "question_stem": "What key understandings can be gained from studying history?",
+      "options": [
+        {"letter": "A", "text": "A definitive ability to prevent all future societal problems.", "is_correct": false},
+        {"letter": "B", "text": "Insights into the origins of current social systems.", "is_correct": true},
+        {"letter": "C", "text": "Opportunities to learn from historical errors and successes.", "is_correct": true},
+        {"letter": "D", "text": "Exclusive knowledge of only recent historical events.", "is_correct": false}
+      ],
+      "explanation": "The passage explains we can 'understand the foundational origins of contemporary social structures... and learn from previous societal missteps and triumphs'."
+    },
+    {
+      "question_number": 19,
+      "passage": "The strategic development of sustainable transportation systems is an imperative undertaking for both mitigating adverse environmental impacts and significantly enhancing the quality of urban living. Actively promoting and investing in modes such as comprehensive public transport networks, dedicated cycling infrastructure, and pedestrian-friendly pathways can substantially curtail carbon emissions and alleviate pervasive traffic congestion within metropolitan areas. Such forward-thinking initiatives are demonstrably pivotal in fostering healthier, more efficient, and ultimately more livable urban environments for their inhabitants.",
+      "question_stem": "What are the principal objectives of developing sustainable transportation systems?",
+      "options": [
+        {"letter": "A", "text": "To encourage an increase in private vehicle ownership.", "is_correct": false},
+        {"letter": "B", "text": "To reduce overall carbon emissions.", "is_correct": true},
+        {"letter": "C", "text": "To improve the overall quality of urban life.", "is_correct": true},
+        {"letter": "D", "text": "To completely eliminate all forms of urban travel.", "is_correct": false}
+      ],
+      "explanation": "The passage highlights their importance for 'mitigating adverse environmental impacts and significantly enhancing the quality of urban living' and to 'curtail carbon emissions'."
+    },
+    {
+      "question_number": 20,
+      "passage": "The escalating global challenge of freshwater scarcity is predominantly driven by a confluence of factors, including unprecedented population expansion, intensified agricultural demands, and pervasive industrial pollution. Excessive extraction of water from finite natural reserves for various human activities, coupled with the degradation of water quality through contaminants, exacerbates this critical issue. Consequently, the implementation of robust and efficient water management strategies, alongside widespread public awareness campaigns promoting conservation, becomes unequivocally critical for ensuring long-term access to this indispensable resource.",
+      "question_stem": "What are the primary factors contributing to global freshwater scarcity?",
+      "options": [
+        {"letter": "A", "text": "A global decrease in overall human population.", "is_correct": false},
+        {"letter": "B", "text": "Increased agricultural water consumption.", "is_correct": true},
+        {"letter": "C", "text": "Extensive industrial water pollution.", "is_correct": true},
+        {"letter": "D", "text": "The natural replenishment of water sources.", "is_correct": false}
+      ],
+      "explanation": "The passage attributes scarcity to 'unprecedented population expansion, intensified agricultural demands, and pervasive industrial pollution' and 'Excessive extraction... coupled with the degradation of water quality through contaminants'."
+    },
+    {
+      "question_number": 21,
+      "passage": "Technological innovation has instigated a profound transformation across the entire healthcare spectrum, from diagnostic precision to therapeutic efficacy. Advanced imaging techniques and sophisticated laboratory analyses now enable medical professionals to identify health conditions with unprecedented accuracy and at earlier stages. Concurrently, the proliferation of digital health platforms and telemedicine services has dramatically expanded access to medical consultations and expert advice, particularly benefiting remote populations and those with limited mobility, thereby bridging geographical divides in healthcare provision.",
+      "question_stem": "How has technology fundamentally altered the healthcare sector?",
+      "options": [
+        {"letter": "A", "text": "It has universally increased the cost of all medical treatments.", "is_correct": false},
+        {"letter": "B", "text": "It has led to more precise diagnostic capabilities.", "is_correct": true},
+        {"letter": "C", "text": "It has improved access to medical advice through telemedicine.", "is_correct": true},
+        {"letter": "D", "text": "It has reduced the need for highly skilled medical professionals.", "is_correct": false}
+      ],
+      "explanation": "The passage states 'Diagnostic tools are becoming more precise' and 'telemedicine services has dramatically expanded access to medical consultations'."
+    },
+    {
+      "question_number": 22,
+      "passage": "Forest ecosystems are of paramount importance, their value extending far beyond their role as sources of timber and other raw materials. These vital biomes are indispensable for maintaining atmospheric composition by producing vast quantities of oxygen and sequestering carbon dioxide, thereby playing a critical role in regulating global temperatures. Furthermore, forests serve as irreplaceable habitats for an astonishing diversity of plant and animal species, underpin the health of freshwater systems, and are instrumental in preventing soil erosion. Consequently, their diligent protection is an ecological imperative for planetary balance and sustained human prosperity.",
+      "question_stem": "What are the key ecological functions of forests?",
+      "options": [
+        {"letter": "A", "text": "They contribute to increased levels of soil erosion.", "is_correct": false},
+        {"letter": "B", "text": "They are essential for regulating global temperatures.", "is_correct": true},
+        {"letter": "C", "text": "They provide critical habitats for diverse species.", "is_correct": true},
+        {"letter": "D", "text": "They are exclusively important for timber production.", "is_correct": false}
+      ],
+      "explanation": "The passage highlights their role in 'regulating global temperatures' and serving as 'irreplaceable habitats for an astonishing diversity of plant and animal species'."
+    },
+    {
+      "question_number": 23,
+      "passage": "The intricate process of childhood development is profoundly influenced by a complex interplay of inherent genetic predispositions and a rich array of environmental stimuli. Early childhood experiences, particularly the quality and frequency of social interaction, coupled with exposure to stimulating and enriching learning environments, are pivotal in shaping an individual's subsequent cognitive, emotional, and social growth trajectories. A supportive and nurturing early environment lays the foundational groundwork for healthy development throughout life.",
+      "question_stem": "Which factors are highlighted as significant influences on childhood development?",
+      "options": [
+        {"letter": "A", "text": "Only the child's genetic makeup.", "is_correct": false},
+        {"letter": "B", "text": "The quality of social interaction.", "is_correct": true},
+        {"letter": "C", "text": "Exposure to stimulating learning environments.", "is_correct": true},
+        {"letter": "D", "text": "Exclusive focus on academic achievements at a young age.", "is_correct": false}
+      ],
+      "explanation": "The passage mentions 'inherent genetic predispositions and a rich array of environmental stimuli' and 'social interaction, coupled with exposure to stimulating and enriching learning environments'."
+    },
+    {
+      "question_number": 24,
+      "passage": "Humanity's enduring pursuit of space exploration has yielded consequences far beyond the realm of pure scientific inquiry into the cosmos. While it has undoubtedly expanded our fundamental understanding of the universe, providing unprecedented insights into celestial mechanics and planetary formation, it has also served as a powerful catalyst for a myriad of terrestrial technological innovations. Derived benefits range from the sophisticated satellite communication networks that underpin global connectivity to the development of advanced materials with applications in various industries, thereby illustrating space exploration's tangible contributions to daily life on Earth, despite its considerable financial investment.",
+      "question_stem": "What are the main results of space exploration mentioned in the text?",
+      "options": [
+        {"letter": "A", "text": "It has exclusively led to significant financial losses.", "is_correct": false},
+        {"letter": "B", "text": "It has deepened our comprehension of the universe.", "is_correct": true},
+        {"letter": "C", "text": "It has spurred numerous technological advancements for Earth.", "is_correct": true},
+        {"letter": "D", "text": "It has primarily focused on discovering new alien life forms.", "is_correct": false}
+      ],
+      "explanation": "The passage states it 'expanded our fundamental understanding of the universe' and 'served as a powerful catalyst for a myriad of terrestrial technological innovations'."
+    },
+    {
+      "question_number": 25,
+      "passage": "The escalating global crisis of freshwater scarcity is a pressing environmental and societal concern, exacerbated by exponential population growth, intensifying agricultural demands, and pervasive industrial pollution. The over-extraction of potable water from rivers, lakes, and aquifers, coupled with the degradation of existing water sources through various contaminants, collectively contributes to this critical imbalance. Consequently, the proactive implementation of judicious water management strategies, such as efficient irrigation techniques and widespread public education campaigns promoting conservation, is paramount for ensuring sustainable access to this indispensable resource for both present and future generations.",
+      "question_stem": "What are the significant factors contributing to the global freshwater crisis?",
+      "options": [
+        {"letter": "A", "text": "Reduced industrial water usage.", "is_correct": false},
+        {"letter": "B", "text": "Increasing global population.", "is_correct": true},
+        {"letter": "C", "text": "Contamination of water sources.", "is_correct": true},
+        {"letter": "D", "text": "Effective water management practices.", "is_correct": false}
+      ],
+      "explanation": "The passage attributes the crisis to 'exponential population growth, intensifying agricultural demands, and pervasive industrial pollution' and 'the degradation of existing water sources through various contaminants'."
+    },
+    {
+      "question_number": 26,
+      "passage": "The proliferation of e-commerce platforms has ushered in a profound transformation of the global retail landscape, fundamentally altering consumer buying habits and business operational models. For consumers, the principal allure lies in the unparalleled convenience of being able to peruse and purchase goods from any location at any time, a benefit that transcends geographical and temporal constraints. For businesses, the digital marketplace opens up vast, previously untapped global markets, circumventing the limitations of physical retail presence. However, this shift also introduces complex challenges pertaining to secure logistics, efficient supply chain management, and robust data protection.",
+      "question_stem": "What are the primary effects of e-commerce on consumers and businesses?",
+      "options": [
+        {"letter": "A", "text": "It restricts consumer purchasing options.", "is_correct": false},
+        {"letter": "B", "text": "It offers consumers unprecedented convenience.", "is_correct": true},
+        {"letter": "C", "text": "It creates new global markets for businesses.", "is_correct": true},
+        {"letter": "D", "text": "It removes all challenges related to product delivery.", "is_correct": false}
+      ],
+      "explanation": "The passage states it offers 'unparalleled convenience' for consumers and 'opens up vast, previously untapped global markets' for businesses."
+    },
+    {
+      "question_number": 27,
+      "passage": "Effective leadership is demonstrably characterized by a constellation of indispensable attributes that collectively empower individuals to guide and inspire groups towards shared objectives. Key among these are exceptional communication prowess, the innate ability to genuinely motivate and galvanise teams, and the articulation of a compelling, forward-looking vision. Furthermore, exemplary leaders must exhibit a high degree of adaptability to deftly navigate unforeseen circumstances and possess an unwavering commitment to continuous professional development, ensuring their relevance in dynamic environments.",
+      "question_stem": "What are some essential qualities of effective leadership?",
+      "options": [
+        {"letter": "A", "text": "An exclusive focus on individual accomplishments.", "is_correct": false},
+        {"letter": "B", "text": "Strong communication skills.", "is_correct": true},
+        {"letter": "C", "text": "The capacity to inspire and motivate teams.", "is_correct": true},
+        {"letter": "D", "text": "A rigid resistance to any form of change.", "is_correct": false}
+      ],
+      "explanation": "The passage lists 'exceptional communication prowess, the innate ability to genuinely motivate and galvanise teams, and the articulation of a compelling, forward-looking vision' and 'a high degree of adaptability'."
+    },
+    {
+      "question_number": 28,
+      "passage": "The seismic shift brought about by the digital revolution has irrevocably reshaped the entertainment industry, fundamentally altering how content is consumed and created. The ascendancy of streaming services has largely supplanted traditional modes of media consumption, offering unparalleled on-demand access to an extensive array of films, musical compositions, and television programmes. This paradigm shift has consequently fostered increased personalization of content recommendations for individual users and concurrently opened up novel avenues for diverse content creators to reach broader audiences, democratising access to entertainment.",
+      "question_stem": "How has the digital revolution impacted the entertainment industry?",
+      "options": [
+        {"letter": "A", "text": "It has led to a decrease in the demand for new content.", "is_correct": false},
+        {"letter": "B", "text": "It provides on-demand access to a wide range of media.", "is_correct": true},
+        {"letter": "C", "text": "It has resulted in more personalized content experiences.", "is_correct": true},
+        {"letter": "D", "text": "It has caused the complete disappearance of all traditional media forms.", "is_correct": false}
+      ],
+      "explanation": "The passage highlights 'on-demand access to an extensive array of films, musical compositions, and television programmes' and that it 'fostered increased personalization of content recommendations'."
+    },
+    {
+      "question_number": 29,
+      "passage": "The profound significance of cultural heritage lies in its capacity to serve as a vital nexus connecting contemporary societies with the legacies of their forebears, thereby instilling a profound sense of collective identity and historical continuity. The assiduous preservation of historical edifices, traditional artistic expressions, and indigenous oral traditions not only enriches the communal fabric of present-day societies but also constitutes an invaluable repository of educational insights for future generations. A failure to safeguard this rich heritage risks a catastrophic erosion of collective memory and a diminishing appreciation for ancestral achievements.",
+      "question_stem": "Why is the preservation of cultural heritage deemed important?",
+      "options": [
+        {"letter": "A", "text": "It creates a divide between past and present generations.", "is_correct": false},
+        {"letter": "B", "text": "It provides a sense of collective identity.", "is_correct": true},
+        {"letter": "C", "text": "It serves as a valuable educational resource.", "is_correct": true},
+        {"letter": "D", "text": "It is only relevant to archaeological experts.", "is_correct": false}
+      ],
+      "explanation": "The passage states it 'connects contemporary societies with the legacies of their forebears, thereby instilling a profound sense of collective identity and historical continuity' and 'constitutes an invaluable repository of educational insights'."
+    },
+    {
+      "question_number": 30,
+      "passage": "The escalating global challenge of waste management necessitates the widespread adoption of comprehensive and sustainable strategies to alleviate environmental degradation. The foundational principles of this approach are encapsulated by the '3 Rs': reducing overall consumption of resources, actively reusing items whenever feasible, and diligently recycling materials to convert waste into new products. Implementing these interconnected strategies is crucial for minimizing the volume of waste destined for landfills, conserving finite natural resources, and significantly curtailing environmental pollution, thereby charting a course towards a more ecologically resilient and sustainable global future.",
+      "question_stem": "What are the core components of effective waste management strategies?",
+      "options": [
+        {"letter": "A", "text": "Primarily increasing the number of landfill sites.", "is_correct": false},
+        {"letter": "B", "text": "Reducing the overall consumption of goods.", "is_correct": true},
+        {"letter": "C", "text": "Recycling materials to create new products.", "is_correct": true},
+        {"letter": "D", "text": "Uncontrolled disposal of all waste materials.", "is_correct": false}
+      ],
+      "explanation": "The passage identifies the '3 Rs': 'reducing overall consumption of resources, actively reusing items whenever feasible, and diligently recycling materials'."
+    }
+  ],
+  "hard": [
+    {
+      "question_number": 1,
+      "passage": "The provided graphical representation meticulously illustrates the aggregate trajectory of global energy consumption from 2000 to 2020, revealing an unmistakable and substantial escalation in overall demand. This pervasive increment, far from merely signifying increased energy availability, fundamentally underscores the profound socio-economic shifts globally, particularly concerning industrial expansion and demographic proliferation, which inherently necessitate augmented energy provisioning despite concomitant efficiency gains in various sectors.",
+      "question_stem": "What profound implication is underscored by the consistent increase in aggregate global energy consumption?",
+      "options": [
+        {"letter": "A", "text": "It signifies a complete saturation of global energy markets.", "is_correct": false},
+        {"letter": "B", "text": "It suggests a fundamental decoupling of economic growth from energy demand.", "is_correct": false},
+        {"letter": "C", "text": "It highlights the pervasive influence of industrial development and population growth on escalating energy requirements.", "is_correct": true},
+        {"letter": "D", "text": "It implies a diminishing need for diverse energy sources due to increased efficiency.", "is_correct": false}
+      ],
+      "explanation": "The passage states the increment 'fundamentally underscores the profound socio-economic shifts globally, particularly concerning industrial expansion and demographic proliferation, which inherently necessitate augmented energy provisioning'."
+    },
+    {
+      "question_number": 2,
+      "passage": "An in-depth analysis of the consumption patterns for conventional hydrocarbons unveils divergent paths: whilst oil maintained a robust, albeit incrementally ascending, trajectory throughout the entire two-decade period, coal's narrative was one of initial considerable expansion followed by a discernible abatement post-2010. Conversely, natural gas exhibited the most dynamic upward momentum among the fossil fuels, culminating in its surpassing both coal and oil in terms of total consumption by the cessation of the charted interval.",
+      "question_stem": "Based on the comprehensive trends presented, what was the most significant shift among the primary fossil fuels by 2020?",
+      "options": [
+        {"letter": "A", "text": "Coal consistently outstripped all other fossil fuels in consumption.", "is_correct": false},
+        {"letter": "B", "text": "Oil's usage experienced a sharp and unprecedented decline.", "is_correct": false},
+        {"letter": "C", "text": "Natural gas emerged as the preeminent fossil fuel in terms of aggregate consumption.", "is_correct": true},
+        {"letter": "D", "text": "All fossil fuels had converged to identical consumption levels by the end of the period.", "is_correct": false}
+      ],
+      "explanation": "The passage states 'natural gas exhibited the most dynamic upward momentum among the fossil fuels, culminating in its surpassing both coal and oil in terms of total consumption by the cessation of the charted interval'."
+    },
+    {
+      "question_number": 3,
+      "passage": "The trajectory of renewable energy sources, encompassing solar, wind, geothermal, and biofuels, constitutes the most compelling aspect of the depicted data, notwithstanding their comparatively negligible initial contribution in 2000. Post-2010, the acceleration in their uptake was nothing short of prodigious, illustrating a clear global imperative to transition towards sustainable alternatives. This exponential growth, therefore, signals a potentially transformative recalibration of the future global energy matrix.",
+      "question_stem": "What is the most remarkable qualitative characteristic of the trend in renewable energy consumption, despite its initial status?",
+      "options": [
+        {"letter": "A", "text": "It maintained a static level, demonstrating a lack of significant investment.", "is_correct": false},
+        {"letter": "B", "text": "It achieved absolute parity with fossil fuel consumption by 2020.", "is_correct": false},
+        {"letter": "C", "text": "Its consumption showed an exceptionally steep and accelerating growth curve in the latter decade.", "is_correct": true},
+        {"letter": "D", "text": "Its growth was consistently linear throughout the entire twenty-year period.", "is_correct": false}
+      ],
+      "explanation": "The passage describes 'the acceleration in their uptake was nothing short of prodigious, illustrating a clear global imperative to transition towards sustainable alternatives. This exponential growth...'"
+    },
+    {
+      "question_number": 4,
+      "passage": "While both nuclear and hydroelectric power represent established low-carbon energy modalities, their respective consumption growth rates within the charted period presented a stark contrast to the burgeoning momentum observed in renewables. These sources demonstrated a more constrained, gradual increment, hinting at either mature market saturation or the formidable infrastructural and regulatory impediments inherent in significantly expanding their global footprint, distinguishing their development from the rapid proliferation of novel green technologies.",
+      "question_stem": "How does the growth pattern of nuclear and hydroelectric power compare with that of other renewable sources as suggested by the chart?",
+      "options": [
+        {"letter": "A", "text": "Nuclear and hydroelectric power experienced a more rapid expansion than renewables.", "is_correct": false},
+        {"letter": "B", "text": "All low-carbon sources exhibited identical, exponential growth patterns.", "is_correct": false},
+        {"letter": "C", "text": "Their growth was slower and more gradual, possibly due to inherent constraints.", "is_correct": true},
+        {"letter": "D", "text": "Nuclear and hydroelectric consumption witnessed a pronounced decline.", "is_correct": false}
+      ],
+      "explanation": "The passage states 'These sources demonstrated a more constrained, gradual increment... distinguishing their development from the rapid proliferation of novel green technologies'."
+    },
+    {
+      "question_number": 5,
+      "passage": "The transition within the fossil fuel hierarchy, culminating in natural gas's ascendancy by 2020, is particularly noteworthy. This shift from earlier dominance by oil and coal reflects a complex interplay of factors, including evolving energy policies, heightened environmental consciousness favouring less carbon-intensive hydrocarbons, and advancements in extraction technologies that rendered natural gas more economically viable and accessible globally.",
+      "question_stem": "What multifaceted factors likely contributed to natural gas becoming the leading fossil fuel by 2020?",
+      "options": [
+        {"letter": "A", "text": "A worldwide depletion of natural gas reserves and infrastructure.", "is_correct": false},
+        {"letter": "B", "text": "A global mandate to cease all coal and oil consumption.", "is_correct": false},
+        {"letter": "C", "text": "Changes in energy policies, environmental considerations, and advancements in extraction.", "is_correct": true},
+        {"letter": "D", "text": "Exclusive reliance on single-country production increases.", "is_correct": false}
+      ],
+      "explanation": "The passage attributes the shift to 'evolving energy policies, heightened environmental consciousness favouring less carbon-intensive hydrocarbons, and advancements in extraction technologies'."
+    },
+    {
+      "question_number": 6,
+      "passage": "The initial decade of the charted period, from 2000 to 2010, marked a phase where coal consumption experienced its most pronounced surge, reaching its peak during this interval. This robust expansion was largely attributable to burgeoning industrialization and rapid economic growth in developing nations, where readily available and affordable coal served as a primary energy feedstock before substantial global efforts towards decarbonization began to gain widespread international traction.",
+      "question_stem": "What underlying global trends predominantly propelled the significant increase in coal consumption during the first decade?",
+      "options": [
+        {"letter": "A", "text": "A substantial shift towards nuclear power generation.", "is_correct": false},
+        {"letter": "B", "text": "The rapid decarbonization of global industries.", "is_correct": false},
+        {"letter": "C", "text": "Increased industrialization and rapid economic growth in developing nations.", "is_correct": true},
+        {"letter": "D", "text": "A widespread moratorium on oil exploration.", "is_correct": false}
+      ],
+      "explanation": "The passage explicitly states 'This robust expansion was largely attributable to burgeoning industrialization and rapid economic growth in developing nations'."
+    },
+    {
+      "question_number": 7,
+      "passage": "Notwithstanding the exponential growth exhibited by renewable energy sources, their diminutive starting base in 2000 meant that even by 2020, their aggregate contribution to the global energy supply remained a considerably smaller proportion when juxtaposed against the collective consumption of conventional fossil fuels. This persistent disparity highlights the immense scale of the energy transition still required to fundamentally alter the global energy mix and achieve ambitious climate objectives.",
+      "question_stem": "Despite the impressive growth of renewables, what critical observation can be made about their contribution to the global energy mix by 2020?",
+      "options": [
+        {"letter": "A", "text": "They had become the single largest energy source globally.", "is_correct": false},
+        {"letter": "B", "text": "Their total output was still a significantly smaller fraction compared to fossil fuels.", "is_correct": true},
+        {"letter": "C", "text": "Their growth plateaued after 2015, indicating a loss of momentum.", "is_correct": false},
+        {"letter": "D", "text": "They had replaced coal as the second-largest energy source.", "is_correct": false}
+      ],
+      "explanation": "The passage states 'their aggregate contribution to the global energy supply remained a considerably smaller proportion when juxtaposed against the collective consumption of conventional fossil fuels'."
+    },
+    {
+      "question_number": 8,
+      "passage": "The divergence in growth rates between oil and natural gas is a salient feature of the charted data: while oil's consumption trajectory was characterized by a relatively linear and contained upward trend, natural gas experienced a more pronounced and accelerated expansion, particularly post-2005. This asymmetrical growth suggests differing market dynamics, perhaps influenced by varying levels of perceived environmental impact and evolving energy security considerations associated with each hydrocarbon.",
+      "question_stem": "What inference can be drawn from the distinct growth patterns of oil versus natural gas consumption?",
+      "options": [
+        {"letter": "A", "text": "Oil became a more preferred energy source due to its rapid growth.", "is_correct": false},
+        {"letter": "B", "text": "Both hydrocarbons demonstrated identical rates of expansion over the period.", "is_correct": false},
+        {"letter": "C", "text": "Natural gas exhibited a more accelerated and dynamic increase than oil.", "is_correct": true},
+        {"letter": "D", "text": "The environmental impact of oil led to its complete discontinuation.", "is_correct": false}
+      ],
+      "explanation": "The passage notes 'oil's consumption trajectory was characterized by a relatively linear and contained upward trend, natural gas experienced a more pronounced and accelerated expansion'."
+    },
+    {
+      "question_number": 9,
+      "passage": "The final decade of the twenty-year span (2010-2020) emerges as a period of significant inflection in global energy trends. During this interval, a discernible deceleration in coal consumption became apparent, often correlated with global climate accords and national decarbonization strategies. Concomitantly, this period witnessed an unprecedented surge in the deployment of renewable energy technologies, signalling a fundamental pivot in investment and policy priorities towards sustainable energy futures.",
+      "question_stem": "What major interconnected shifts in energy consumption characterized the period between 2010 and 2020?",
+      "options": [
+        {"letter": "A", "text": "A universal increase in all fossil fuel consumption.", "is_correct": false},
+        {"letter": "B", "text": "A marked decline in coal usage coupled with a dramatic rise in renewables.", "is_correct": true},
+        {"letter": "C", "text": "The complete replacement of nuclear power by hydroelectricity.", "is_correct": false},
+        {"letter": "D", "text": "Stagnation across all energy sectors due to economic downturns.", "is_correct": false}
+      ],
+      "explanation": "The passage describes 'a discernible deceleration in coal consumption became apparent' and 'this period witnessed an unprecedented surge in the deployment of renewable energy technologies'."
+    },
+    {
+      "question_number": 10,
+      "passage": "Notwithstanding the formidable strides made in diversifying the global energy matrix, the chart unequivocally demonstrates that conventional fossil fuels – coal, oil, and natural gas – collectively retained their overarching dominance, constituting the overwhelming majority of energy consumed throughout the entire period from 2000 to 2020. This enduring preponderance underscores the profound structural inertia of existing energy infrastructures and the economic reliance on these long-established sources.",
+      "question_stem": "Despite evolving energy trends, what fundamental aspect of global energy supply remained consistent throughout the two decades?",
+      "options": [
+        {"letter": "A", "text": "Renewable energy technologies consistently provided the largest share of power.", "is_correct": false},
+        {"letter": "B", "text": "Nuclear power's contribution rapidly diminished to negligible levels.", "is_correct": false},
+        {"letter": "C", "text": "Fossil fuels maintained their status as the predominant source of global energy.", "is_correct": true},
+        {"letter": "D", "text": "All energy sources achieved equitable shares of the total consumption.", "is_correct": false}
+      ],
+      "explanation": "The passage explicitly states 'conventional fossil fuels... collectively retained their overarching dominance, constituting the overwhelming majority of energy consumed throughout the entire period'."
+    },
+    {
+      "question_number": 11,
+      "passage": "The sustained upward trajectory of aggregate global energy demand, as observed over the two decades, presents a formidable challenge for environmental sustainability. This continuous escalation fundamentally necessitates the rapid development and widespread deployment of low-carbon energy solutions on an unprecedented scale, if international accords aimed at mitigating anthropogenic climate change are to be realistically met, given the inherent limitations and environmental repercussions associated with further reliance on high-carbon alternatives.",
+      "question_stem": "What significant challenge is implicitly highlighted by the persistent increase in overall global energy demand?",
+      "options": [
+        {"letter": "A", "text": "The diminishing economic viability of all energy production.", "is_correct": false},
+        {"letter": "B", "text": "The imperative for widespread, rapid deployment of low-carbon energy solutions.", "is_correct": true},
+        {"letter": "C", "text": "A global shift towards significantly reduced energy consumption.", "is_correct": false},
+        {"letter": "D", "text": "The complete cessation of international environmental agreements.", "is_correct": false}
+      ],
+      "explanation": "The passage notes the increase 'fundamentally necessitates the rapid development and widespread deployment of low-carbon energy solutions on an unprecedented scale'."
+    },
+    {
+      "question_number": 12,
+      "passage": "Nuclear power's consumption, following an initial period of modest growth, appeared to reach a discernible plateau during the latter portion of the charted interval. This flattening of the curve, contrasting sharply with the dynamism of other burgeoning clean technologies, could potentially be ascribed to the complex regulatory frameworks, high capital outlays, and protracted construction timelines that intrinsically characterize nuclear energy projects, thereby constraining their capacity for rapid scalable expansion.",
+      "question_stem": "What are the most likely contributing factors to the observed stagnation in nuclear power consumption towards 2020?",
+      "options": [
+        {"letter": "A", "text": "A sudden, overwhelming public demand for increased nuclear power generation.", "is_correct": false},
+        {"letter": "B", "text": "The inherent complexities of regulation, high investment costs, and long development periods.", "is_correct": true},
+        {"letter": "C", "text": "Rapid technological breakthroughs rendering nuclear power instantly obsolete.", "is_correct": false},
+        {"letter": "D", "text": "Global initiatives to entirely dismantle existing nuclear infrastructure.", "is_correct": false}
+      ],
+      "explanation": "The passage suggests the plateau 'could potentially be ascribed to the complex regulatory frameworks, high capital outlays, and protracted construction timelines'."
+    },
+    {
+      "question_number": 13,
+      "passage": "The trajectory of hydroelectric power, while consistently positive, demonstrated a growth rate that was incrementally slower than the more radical expansion witnessed in other renewable technologies. This measured, rather than exponential, increase can be largely attributed to the geographical specificities required for large-scale hydroelectric installations, coupled with mounting environmental considerations and social impacts associated with dam construction, thereby imposing inherent limitations on its unbridled proliferation.",
+      "question_stem": "What primary reasons account for the more constrained growth trajectory of hydroelectric power compared to other renewables?",
+      "options": [
+        {"letter": "A", "text": "Its superior efficiency rendered further expansion unnecessary.", "is_correct": false},
+        {"letter": "B", "text": "Geographical and environmental constraints, alongside social impacts of dam construction.", "is_correct": true},
+        {"letter": "C", "text": "A global moratorium on all forms of hydroelectric development.", "is_correct": false},
+        {"letter": "D", "text": "The complete technological obsolescence of hydroelectric systems.", "is_correct": false}
+      ],
+      "explanation": "The passage attributes the 'measured... increase' to 'geographical specificities required for large-scale hydroelectric installations, coupled with mounting environmental considerations and social impacts associated with dam construction'."
+    },
+    {
+      "question_number": 14,
+      "passage": "At the genesis of the charted period in 2000, oil undeniably commanded the largest individual share of global energy consumption, reflecting its established ubiquity in transportation and industrial applications. However, this initial preeminence was gradually eroded over the subsequent two decades, not by a significant absolute decline, but by the relentless and sustained proliferation of natural gas, which incrementally narrowed the consumption gap, eventually assuming the mantle of the leading hydrocarbon.",
+      "question_stem": "How did oil's initial dominant position in 2000 evolve over the two-decade period?",
+      "options": [
+        {"letter": "A", "text": "It maintained its absolute dominance, widening the gap over other sources.", "is_correct": false},
+        {"letter": "B", "text": "It experienced a precipitous fall, being rapidly phased out globally.", "is_correct": false},
+        {"letter": "C", "text": "Its preeminence was gradually challenged by the ascendancy of natural gas, eventually losing its top spot.", "is_correct": true},
+        {"letter": "D", "text": "It converged with coal to form a new combined dominant fossil fuel.", "is_correct": false}
+      ],
+      "explanation": "The passage states 'this initial preeminence was gradually eroded over the subsequent two decades... by the relentless and sustained proliferation of natural gas, which incrementally narrowed the consumption gap, eventually assuming the mantle of the leading hydrocarbon'."
+    },
+    {
+      "question_number": 15,
+      "passage": "The observable retrenchment in coal consumption, particularly in the latter half of the twenty-year span following its 2010 zenith, provides compelling empirical evidence of a nascent, albeit challenging, global decarbonization effort. This downturn, contrasting sharply with the concurrent ascendance of cleaner alternatives, suggests that policy interventions, technological innovations in renewables, and heightened environmental consciousness are collectively beginning to exert a tangible influence on shifting entrenched energy consumption patterns away from the most carbon-intensive fossil fuel.",
+      "question_stem": "What multifaceted factors are most likely driving the observed decline in coal consumption after its peak?",
+      "options": [
+        {"letter": "A", "text": "A global scarcity of coal reserves, rendering extraction economically unfeasible.", "is_correct": false},
+        {"letter": "B", "text": "The complete replacement of coal-fired power plants by nuclear facilities.", "is_correct": false},
+        {"letter": "C", "text": "The collective impact of environmental policies, renewable energy advancements, and increased ecological awareness.", "is_correct": true},
+        {"letter": "D", "text": "A sudden, inexplicable loss of industrial demand for heavy fuels.", "is_correct": false}
+      ],
+      "explanation": "The passage links the downturn to 'policy interventions, technological innovations in renewables, and heightened environmental consciousness'."
+    },
+    {
+      "question_number": 16,
+      "passage": "A precise quantitative assessment of the growth rates reveals a pronounced disparity among non-fossil fuel sources. While both nuclear and hydroelectric power exhibited measurable increases, the exponential trajectory of renewable energy sources, especially post-2010, was demonstrably orders of magnitude steeper, indicating a fundamental divergence in their underlying growth drivers and future potential for scalability within the global energy transition.",
+      "question_stem": "What is the most accurate characterization of the comparative growth in non-fossil fuel consumption?",
+      "options": [
+        {"letter": "A", "text": "Nuclear and hydroelectric power consistently outpaced renewables in terms of percentage growth.", "is_correct": false},
+        {"letter": "B", "text": "All non-fossil fuel sources displayed similar, modest rates of expansion.", "is_correct": false},
+        {"letter": "C", "text": "Renewables demonstrated an exponentially steeper growth trajectory than nuclear and hydroelectric power.", "is_correct": true},
+        {"letter": "D", "text": "There was no discernible growth in any non-fossil fuel category.", "is_correct": false}
+      ],
+      "explanation": "The passage states 'the exponential trajectory of renewable energy sources... was demonstrably orders of magnitude steeper'."
+    },
+    {
+      "question_number": 17,
+      "passage": "Notwithstanding the accelerating diversification of the global energy portfolio, the chart unequivocally corroborates that fossil fuels – comprising coal, oil, and natural gas – collectively retained an overwhelming and preponderant share of the total energy consumption throughout the entire two-decade period. This sustained reliance on conventional hydrocarbons, despite burgeoning environmental concerns and technological advancements in alternatives, highlights the formidable entrenched infrastructure and economic dependencies that characterise the current global energy system.",
+      "question_stem": "What persistent reality regarding the global energy supply is undeniably affirmed by the chart, despite the growth of alternative sources?",
+      "options": [
+        {"letter": "A", "text": "A complete and swift transition away from all fossil fuels.", "is_correct": false},
+        {"letter": "B", "text": "The sustained and overwhelming dominance of fossil fuels in total energy consumption.", "is_correct": true},
+        {"letter": "C", "text": "Renewable energy achieving global energy hegemony by 2020.", "is_correct": false},
+        {"letter": "D", "text": "An equal distribution of energy consumption across all available sources.", "is_correct": false}
+      ],
+      "explanation": "The passage emphasizes 'fossil fuels... collectively retained an overwhelming and preponderant share of the total energy consumption throughout the entire two-decade period'."
+    },
+    {
+      "question_number": 18,
+      "passage": "The precise year 2010 marks a critical inflection point for coal consumption, as it reached its peak global usage before embarking on a discernible downward trend in the subsequent decade. This pivot, rather than being an isolated statistical anomaly, reflects a confluence of factors, including evolving energy policies, heightened environmental pressures, and the increasing competitiveness of natural gas and renewable alternatives in the global energy market, collectively signalling a strategic recalibration in energy investment paradigms.",
+      "question_stem": "What multifaceted significance does the year 2010 hold for coal consumption trends?",
+      "options": [
+        {"letter": "A", "text": "It marked the beginning of coal's sustained, exponential growth phase.", "is_correct": false},
+        {"letter": "B", "text": "It represented the point at which coal was completely phased out globally.", "is_correct": false},
+        {"letter": "C", "text": "It was the zenith of coal consumption, after which a decline began, influenced by various factors.", "is_correct": true},
+        {"letter": "D", "text": "It was the year coal became the least utilized energy source.", "is_correct": false}
+      ],
+      "explanation": "The passage states 'The precise year 2010 marks a critical inflection point for coal consumption, as it reached its peak global usage before embarking on a discernible downward trend'."
+    },
+    {
+      "question_number": 19,
+      "passage": "The initial contribution of renewable energy sources to the overall global energy mix in 2000 was quantitatively marginal, particularly when juxtaposed against the established giants of fossil fuels. Notwithstanding this diminutive starting point, the subsequent two decades witnessed a trajectory of growth so steep that by 2020, while not yet eclipsing traditional sources, renewables had become a force of significant and rapidly expanding relevance in the global energy landscape, challenging long-held assumptions about energy transition speed.",
+      "question_stem": "Despite its initial marginality, what significant status did renewable energy achieve by 2020?",
+      "options": [
+        {"letter": "A", "text": "It had surpassed all fossil fuels in total consumption.", "is_correct": false},
+        {"letter": "B", "text": "It remained an entirely insignificant contributor to global energy.", "is_correct": false},
+        {"letter": "C", "text": "It became a force of significant and rapidly expanding relevance, challenging traditional energy paradigms.", "is_correct": true},
+        {"letter": "D", "text": "Its growth had reversed, returning to its 2000 levels.", "is_correct": false}
+      ],
+      "explanation": "The passage notes 'by 2020... renewables had become a force of significant and rapidly expanding relevance... challenging long-held assumptions about energy transition speed'."
+    },
+    {
+      "question_number": 20,
+      "passage": "Oil consumption, throughout the twenty-year period, exhibited a pattern of incremental yet consistent growth, devoid of the sharp fluctuations or periods of substantial decline witnessed in some other energy categories. This relatively stable ascent, while not as dramatic as the renewable surge, underscores the enduring, pervasive demand for oil, particularly within the transportation sector and petrochemical industries, which are slower to transition to alternative energy sources.",
+      "question_stem": "What distinct characteristic defined the trajectory of oil consumption over the two decades?",
+      "options": [
+        {"letter": "A", "text": "It was marked by extreme volatility and unpredictable declines.", "is_correct": false},
+        {"letter": "B", "text": "It demonstrated a stable and consistent, though not rapid, increase.", "is_correct": true},
+        {"letter": "C", "text": "Its consumption plummeted sharply due to global policy changes.", "is_correct": false},
+        {"letter": "D", "text": "It remained entirely stagnant, showing no discernible change.", "is_correct": false}
+      ],
+      "explanation": "The passage states 'Oil consumption... exhibited a pattern of incremental yet consistent growth, devoid of the sharp fluctuations or periods of substantial decline'."
+    },
+    {
+      "question_number": 21,
+      "passage": "Natural gas, commencing with a lesser overall contribution than both coal and oil in 2000, subsequently embarked on a robust and consistently upward trajectory that distinguished its growth from other fossil fuels. This dynamic expansion ultimately positioned natural gas as the dominant hydrocarbon by 2020, likely reflecting its perceived role as a 'transition fuel' due to its lower carbon emissions relative to coal, alongside abundant new discoveries and expanded infrastructure.",
+      "question_stem": "What factors potentially underpin the remarkable ascendance of natural gas to become the leading fossil fuel by 2020?",
+      "options": [
+        {"letter": "A", "text": "Its complete lack of environmental impact.", "is_correct": false},
+        {"letter": "B", "text": "Its initial negligible supply leading to extreme demand.", "is_correct": false},
+        {"letter": "C", "text": "Its 'transition fuel' status, lower emissions (relative to coal), and new discoveries/infrastructure.", "is_correct": true},
+        {"letter": "D", "text": "A global ban on all other fossil fuel extraction.", "is_correct": false}
+      ],
+      "explanation": "The passage links the ascendance to 'its perceived role as a 'transition fuel' due to its lower carbon emissions relative to coal, alongside abundant new discoveries and expanded infrastructure'."
+    },
+    {
+      "question_number": 22,
+      "passage": "The period between 2010 and 2020 emerges as a critical decade, characterized by a pronounced acceleration in the adoption and deployment of renewable energy technologies. This significant upswing, contrasting sharply with the deceleration in coal consumption, signifies a pivotal shift in global energy investment and policy, driven by increasingly urgent climate change mitigation imperatives and the growing cost-effectiveness of renewable solutions.",
+      "question_stem": "What were the key drivers behind the 'pivotal shift' towards renewable energy during the 2010-2020 decade?",
+      "options": [
+        {"letter": "A", "text": "A sudden and unprecedented global economic recession.", "is_correct": false},
+        {"letter": "B", "text": "Increased reliance on traditional fossil fuel subsidies.", "is_correct": false},
+        {"letter": "C", "text": "Urgent climate change mitigation and improving cost-effectiveness of renewables.", "is_correct": true},
+        {"letter": "D", "text": "A universal decline in energy demand across all sectors.", "is_correct": false}
+      ],
+      "explanation": "The passage states the shift was 'driven by increasingly urgent climate change mitigation imperatives and the growing cost-effectiveness of renewable solutions'."
+    },
+    {
+      "question_number": 23,
+      "passage": "The unabated upward trajectory of total global energy consumption, even in the face of ongoing efforts towards energy efficiency and conservation, inherently suggests a formidable challenge for achieving global sustainability objectives. This persistent demand necessitates not only the continued diversification of energy sources but also potentially more aggressive strategies for demand-side management and the fostering of a global culture of resource austerity, beyond mere technological innovation, to decouple growth from environmental impact.",
+      "question_stem": "Beyond diversifying energy sources, what deeper strategies might be necessary to address the implications of persistently rising total energy consumption?",
+      "options": [
+        {"letter": "A", "text": "A complete abandonment of all energy-intensive industries globally.", "is_correct": false},
+        {"letter": "B", "text": "Relying solely on existing fossil fuel reserves without new exploration.", "is_correct": false},
+        {"letter": "C", "text": "More aggressive demand-side management and fostering resource austerity.", "is_correct": true},
+        {"letter": "D", "text": "Halting all global economic development to reduce energy needs.", "is_correct": false}
+      ],
+      "explanation": "The passage suggests 'necessitates not only the continued diversification of energy sources but also potentially more aggressive strategies for demand-side management and the fostering of a global culture of resource austerity'."
+    },
+    {
+      "question_number": 24,
+      "passage": "By the conclusion of the charted twenty-year period in 2020, natural gas had ascended to a position of paramount importance among fossil fuels, unequivocally establishing itself as the most extensively consumed hydrocarbon globally. This transformative shift, from a position of secondary importance in 2000 to outright leadership, is a testament to its evolving market perception and technological advancements that have bolstered its production and transport infrastructure.",
+      "question_stem": "What compelling evidence from the chart illustrates the significant evolution of natural gas's role in global energy by 2020?",
+      "options": [
+        {"letter": "A", "text": "Its consumption remained consistently lower than both coal and oil.", "is_correct": false},
+        {"letter": "B", "text": "It completely displaced all other energy sources from the market.", "is_correct": false},
+        {"letter": "C", "text": "It moved from a secondary role to become the most extensively consumed fossil fuel.", "is_correct": true},
+        {"letter": "D", "text": "Its production decreased, leading to higher prices.", "is_correct": false}
+      ],
+      "explanation": "The passage states 'natural gas had ascended to a position of paramount importance among fossil fuels, unequivocally establishing itself as the most extensively consumed hydrocarbon globally. This transformative shift, from a position of secondary importance in 2000 to outright leadership'."
+    },
+    {
+      "question_number": 25,
+      "passage": "While both hydroelectric and nuclear power are critical components of a low-carbon energy future, their respective trajectories in the chart present a nuanced narrative: hydroelectric sustained a gradual, consistent increase, whereas nuclear power, after an initial period of expansion, demonstrably stagnated towards the latter years. This divergence highlights that scaling up established non-fossil technologies presents distinct challenges and opportunities, not a uniform path to widespread adoption, unlike the emergent rapid growth of solar and wind.",
+      "question_stem": "What nuanced difference in growth patterns is observable between hydroelectric and nuclear power, and what does it suggest about their expansion?",
+      "options": [
+        {"letter": "A", "text": "Both experienced identical exponential growth, indicating universal scalability.", "is_correct": false},
+        {"letter": "B", "text": "Hydroelectric maintained steady growth, while nuclear power stagnated, implying distinct expansion challenges.", "is_correct": true},
+        {"letter": "C", "text": "Nuclear power rapidly declined as hydroelectric surged, indicating a direct competition.", "is_correct": false},
+        {"letter": "D", "text": "Neither source showed any significant change, making their expansion potentials similar.", "is_correct": false}
+      ],
+      "explanation": "The passage states 'hydroelectric sustained a gradual, consistent increase, whereas nuclear power, after an initial period of expansion, demonstrably stagnated towards the latter years. This divergence highlights that scaling up established non-fossil technologies presents distinct challenges'."
+    },
+    {
+      "question_number": 26,
+      "passage": "The twenty-year timeframe of the chart, encompassing data from 2000 to 2020, is particularly instructive. This specific temporal resolution enables the discernment of both long-term, overarching trends in energy consumption, such as the persistent increase in total demand, and more granular shifts in the relative contributions of individual energy sources, including the significant rise of renewables and the nuanced dynamics within the fossil fuel complex, thereby offering a comprehensive historical perspective on energy transition.",
+      "question_stem": "What analytical benefit does the specific 20-year duration of the chart provide for understanding global energy trends?",
+      "options": [
+        {"letter": "A", "text": "It limits analysis to short-term, erratic daily fluctuations.", "is_correct": false},
+        {"letter": "B", "text": "It is too brief to discern any meaningful patterns or shifts.", "is_correct": false},
+        {"letter": "C", "text": "It allows for the discernment of both long-term trends and granular shifts in energy sources.", "is_correct": true},
+        {"letter": "D", "text": "It focuses exclusively on predicting future energy prices with absolute certainty.", "is_correct": false}
+      ],
+      "explanation": "The passage states 'This specific temporal resolution enables the discernment of both long-term, overarching trends... and more granular shifts in the relative contributions'."
+    },
+    {
+      "question_number": 27,
+      "passage": "The dramatic acceleration in the adoption of renewable energy technologies subsequent to 2010 represents a compelling indicator of a profound structural reorientation within the global energy sector. This swift pivot towards cleaner sources is not merely an environmental imperative but is increasingly underpinned by advancements in cost-efficiency, supportive policy frameworks, and a growing consensus regarding the exigency of mitigating climate change, collectively precipitating a fundamental shift in investment away from traditional, carbon-intensive fuels.",
+      "question_stem": "What confluence of factors primarily accounts for the 'profound structural reorientation' marked by rapid renewable energy adoption after 2010?",
+      "options": [
+        {"letter": "A", "text": "A sudden depletion of all fossil fuel reserves globally.", "is_correct": false},
+        {"letter": "B", "text": "Exclusive reliance on market forces without governmental intervention.", "is_correct": false},
+        {"letter": "C", "text": "Improved cost-efficiency, supportive policies, and the urgent need for climate change mitigation.", "is_correct": true},
+        {"letter": "D", "text": "A decrease in overall global energy consumption and demand.", "is_correct": false}
+      ],
+      "explanation": "The passage states it is 'underpinned by advancements in cost-efficiency, supportive policy frameworks, and a growing consensus regarding the exigency of mitigating climate change'."
+    },
+    {
+      "question_number": 28,
+      "passage": "Within the complex dynamics of fossil fuel consumption, the trajectory of natural gas stands out for its consistent and robust ascent, particularly when contrasted with the more constrained growth of oil and the eventual decline of coal. This sustained proliferation, commencing from a relatively lower base in 2000, reflects its increasing preference as a bridging fuel in the transition away from coal, facilitated by both technological advancements in extraction and expansion of global pipeline infrastructure.",
+      "question_stem": "What unique characteristics contributed to natural gas's consistent and robust ascent to prominence among fossil fuels?",
+      "options": [
+        {"letter": "A", "text": "Its total abandonment in favor of coal in the latter half of the period.", "is_correct": false},
+        {"letter": "B", "text": "Its limited availability, driving up demand and price.", "is_correct": false},
+        {"letter": "C", "text": "Its role as a bridging fuel, technological advancements, and infrastructure expansion.", "is_correct": true},
+        {"letter": "D", "text": "A significant decrease in its overall production.", "is_correct": false}
+      ],
+      "explanation": "The passage refers to its 'increasing preference as a bridging fuel... facilitated by both technological advancements in extraction and expansion of global pipeline infrastructure'."
+    },
+    {
+      "question_number": 29,
+      "passage": "The utility of the comprehensive chart extends beyond mere descriptive statistics; it serves as an invaluable analytical tool for comprehending the intricate interdependencies and evolving competitive landscapes within the global energy market. By enabling direct comparative assessments of diverse energy sources' performance over time, it facilitates the identification of emerging trends, the efficacy of various energy policies, and the relative progress towards a sustainable energy future, providing a foundational empirical basis for strategic planning.",
+      "question_stem": "Beyond presenting basic consumption figures, what deeper analytical value does the chart offer to energy stakeholders?",
+      "options": [
+        {"letter": "A", "text": "It provides precise, real-time market trading data for all energy commodities.", "is_correct": false},
+        {"letter": "B", "text": "It offers definitive predictions for geopolitical conflicts driven by energy resources.", "is_correct": false},
+        {"letter": "C", "text": "It enables comprehensive comparative assessments of energy source performance and informs strategic planning.", "is_correct": true},
+        {"letter": "D", "text": "It quantifies the exact environmental impact of each energy source in specific countries.", "is_correct": false}
+      ],
+      "explanation": "The passage states it 'enables direct comparative assessments of diverse energy sources' performance over time, it facilitates the identification of emerging trends, the efficacy of various energy policies, and the relative progress towards a sustainable energy future, providing a foundational empirical basis for strategic planning'."
+    },
+    {
+      "question_number": 30,
+      "passage": "The overarching narrative conveyed by the twenty-year energy consumption chart is one of a global energy system in flux, albeit one characterized by significant inertia. While there is compelling evidence of a concerted, accelerating transition towards cleaner and more sustainable energy sources, the enduring and substantial reliance on conventional fossil fuels simultaneously underscores the formidable challenges inherent in a comprehensive global energy transformation, suggesting a prolonged period of parallel energy economies.",
+      "question_stem": "What is the most comprehensive interpretation of the overall narrative conveyed by the energy consumption chart?",
+      "options": [
+        {"letter": "A", "text": "A rapid and complete global abandonment of all fossil fuels by 2020.", "is_correct": false},
+        {"letter": "B", "text": "A static energy landscape with no discernible shifts or progress in clean energy.", "is_correct": false},
+        {"letter": "C", "text": "A system in flux with accelerating clean energy transition, yet persistent reliance on fossil fuels, indicating a challenging and prolonged transformation.", "is_correct": true},
+        {"letter": "D", "text": "An energy system that has regressed, with increasing dependence on outdated technologies.", "is_correct": false}
+      ],
+      "explanation": "The passage explains 'A global energy system in flux... compelling evidence of a concerted, accelerating transition towards cleaner... yet the enduring and substantial reliance on conventional fossil fuels simultaneously underscores the formidable challenges... suggesting a prolonged period of parallel energy economies'."
+    }
+  ]
+}

@@ -1,0 +1,1268 @@
+{
+    "easy": [
+  {
+    "question_number": 1,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "The provided chart details global energy use from various sources over two decades, starting in the year 2000 and concluding in 2020. This visual aid gives a clear overview of how energy consumption patterns shifted.",
+    "question_stem": "What is the time period covered by the chart?",
+    "options": [
+      {"letter": "A", "text": "From 1990 to 2010.", "is_correct": false},
+      {"letter": "B", "text": "From 2000 to 2020.", "is_correct": true},
+      {"letter": "C", "text": "From 2010 to 2030.", "is_correct": false},
+      {"letter": "D", "text": "Only the year 2000.", "is_correct": false}
+    ],
+    "explanation": "The passage clearly states the chart covers 'from the year 2000 and concluding in 2020'."
+  },
+  {
+    "question_number": 2,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "At the beginning of the period, in 2000, oil was the leading source of energy globally. Its consumption level was higher than that of any other single source shown.",
+    "question_stem": "Which energy source had the highest consumption level in 2000?",
+    "options": [
+      {"letter": "A", "text": "Coal.", "is_correct": false},
+      {"letter": "B", "text": "Natural Gas.", "is_correct": false},
+      {"letter": "C", "text": "Oil.", "is_correct": true},
+      {"letter": "D", "text": "Renewables.", "is_correct": false}
+    ],
+    "explanation": "The passage explicitly states, 'in 2000, oil was the leading source of energy globally'."
+  },
+  {
+    "question_number": 3,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "Renewable energy sources, including solar and wind power, showed very low consumption levels at the start of the period in 2000. However, they demonstrated rapid growth in the later years.",
+    "question_stem": "What was the initial consumption level of renewable energy sources in 2000?",
+    "options": [
+      {"letter": "A", "text": "Very high.", "is_correct": false},
+      {"letter": "B", "text": "Moderate.", "is_correct": false},
+      {"letter": "C", "text": "Very low.", "is_correct": true},
+      {"letter": "D", "text": "Equal to oil.", "is_correct": false}
+    ],
+    "explanation": "The passage mentions, 'showed very low consumption levels at the start of the period in 2000'."
+  },
+  {
+    "question_number": 4,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "From 2000 to 2010, coal consumption saw a noticeable increase, reaching its highest point around 2010. After this year, its use began to decline slightly.",
+    "question_stem": "When did coal consumption reach its peak according to the passage?",
+    "options": [
+      {"letter": "A", "text": "In 2000.", "is_correct": false},
+      {"letter": "B", "text": "Around 2010.", "is_correct": true},
+      {"letter": "C", "text": "In 2020.", "is_correct": false},
+      {"letter": "D", "text": "It did not reach a peak.", "is_correct": false}
+    ],
+    "explanation": "The passage says, 'reaching its highest point around 2010'."
+  },
+  {
+    "question_number": 5,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "Natural gas showed a steady and strong increase in consumption throughout the entire twenty-year period. By 2020, natural gas had surpassed coal in terms of total energy consumed.",
+    "question_stem": "What energy source did natural gas surpass in consumption by 2020?",
+    "options": [
+      {"letter": "A", "text": "Oil.", "is_correct": false},
+      {"letter": "B", "text": "Hydroelectric power.", "is_correct": false},
+      {"letter": "C", "text": "Coal.", "is_correct": true},
+      {"letter": "D", "text": "Nuclear power.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'By 2020, natural gas had surpassed coal in terms of total energy consumed'."
+  },
+  {
+    "question_number": 6,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "The overall total amount of energy consumed globally increased from 2000 to 2020. This indicates a general rise in energy demand worldwide.",
+    "question_stem": "What happened to the total global energy consumption over the period?",
+    "options": [
+      {"letter": "A", "text": "It stayed the same.", "is_correct": false},
+      {"letter": "B", "text": "It decreased.", "is_correct": false},
+      {"letter": "C", "text": "It increased.", "is_correct": true},
+      {"letter": "D", "text": "It only increased in some specific years.", "is_correct": false}
+    ],
+    "explanation": "The passage says, 'The overall total amount of energy consumed globally increased'."
+  },
+  {
+    "question_number": 7,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "Oil consumption showed a consistent, gradual increase throughout the entire twenty years. There were no sharp drops or sudden spikes in its usage.",
+    "question_stem": "How can oil consumption be described from 2000 to 2020?",
+    "options": [
+      {"letter": "A", "text": "It declined significantly.", "is_correct": false},
+      {"letter": "B", "text": "It fluctuated wildly.", "is_correct": false},
+      {"letter": "C", "text": "It showed a consistent, gradual increase.", "is_correct": true},
+      {"letter": "D", "text": "It remained perfectly stable.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'Oil consumption showed a consistent, gradual increase'."
+  },
+  {
+    "question_number": 8,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "Hydroelectric power, which generates electricity from water, also experienced a steady increase in its usage from 2000 to 2020, though not as fast as solar or wind.",
+    "question_stem": "Did hydroelectric power consumption increase, decrease, or stay the same?",
+    "options": [
+      {"letter": "A", "text": "It decreased.", "is_correct": false},
+      {"letter": "B", "text": "It stayed the same.", "is_correct": false},
+      {"letter": "C", "text": "It increased steadily.", "is_correct": true},
+      {"letter": "D", "text": "It increased very rapidly.", "is_correct": false}
+    ],
+    "explanation": "The passage mentions, 'Hydroelectric power... experienced a steady increase'."
+  },
+  {
+    "question_number": 9,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "Nuclear power showed a small increase in consumption early on, but then its use largely leveled off, meaning it did not grow much towards the end of the period.",
+    "question_stem": "What happened to nuclear power consumption towards 2020?",
+    "options": [
+      {"letter": "A", "text": "It grew very quickly.", "is_correct": false},
+      {"letter": "B", "text": "It started to fall sharply.", "is_correct": false},
+      {"letter": "C", "text": "Its use largely leveled off.", "is_correct": true},
+      {"letter": "D", "text": "It became the dominant energy source.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'its use largely leveled off'."
+  },
+  {
+    "question_number": 10,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "Even with the strong growth of renewables, fossil fuels (coal, oil, and natural gas) remained the primary source of global energy throughout the entire period from 2000 to 2020.",
+    "question_stem": "What was the main source of global energy from 2000 to 2020?",
+    "options": [
+      {"letter": "A", "text": "Renewable energy.", "is_correct": false},
+      {"letter": "B", "text": "Nuclear power.", "is_correct": false},
+      {"letter": "C", "text": "Fossil fuels.", "is_correct": true},
+      {"letter": "D", "text": "Hydroelectric power.", "is_correct": false}
+    ],
+    "explanation": "The passage clearly states, 'fossil fuels... remained the primary source of global energy'."
+  },
+  {
+    "question_number": 11,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "The chart provides information about several energy sources including Coal, Oil, Natural Gas, Nuclear, Hydroelectric, and Renewables such as Solar and Wind.",
+    "question_stem": "Which of these is NOT an energy source mentioned in the chart?",
+    "options": [
+      {"letter": "A", "text": "Solar.", "is_correct": false},
+      {"letter": "B", "text": "Tidal.", "is_correct": true},
+      {"letter": "C", "text": "Oil.", "is_correct": false},
+      {"letter": "D", "text": "Nuclear.", "is_correct": false}
+    ],
+    "explanation": "The passage lists 'Coal, Oil, Natural Gas, Nuclear, Hydroelectric, and Renewables such as Solar and Wind.' Tidal is not mentioned."
+  },
+  {
+    "question_number": 12,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "In 2020, natural gas had become the most consumed fossil fuel, taking over from where oil and coal started at the beginning of the period.",
+    "question_stem": "By the year 2020, which fossil fuel was consumed the most?",
+    "options": [
+      {"letter": "A", "text": "Coal.", "is_correct": false},
+      {"letter": "B", "text": "Oil.", "is_correct": false},
+      {"letter": "C", "text": "Natural Gas.", "is_correct": true},
+      {"letter": "D", "text": "Both Coal and Oil were equal.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'In 2020, natural gas had become the most consumed fossil fuel'."
+  },
+  {
+    "question_number": 13,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "The usage of renewable energy saw its most significant and fastest growth in the years after 2010. This indicates a period of strong development for clean energy.",
+    "question_stem": "When did renewable energy experience its fastest growth?",
+    "options": [
+      {"letter": "A", "text": "Before 2005.", "is_correct": false},
+      {"letter": "B", "text": "In the period 2000-2010.", "is_correct": false},
+      {"letter": "C", "text": "After 2010.", "is_correct": true},
+      {"letter": "D", "text": "It grew slowly throughout.", "is_correct": false}
+    ],
+    "explanation": "The passage says, 'saw its most significant and fastest growth in the years after 2010'."
+  },
+  {
+    "question_number": 14,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "Coal consumption, after increasing initially, began a slight downward trend specifically after 2010. This marked a change in its overall pattern.",
+    "question_stem": "What happened to coal consumption after 2010?",
+    "options": [
+      {"letter": "A", "text": "It continued to increase rapidly.", "is_correct": false},
+      {"letter": "B", "text": "It began a slight downward trend.", "is_correct": true},
+      {"letter": "C", "text": "It remained stable.", "is_correct": false},
+      {"letter": "D", "text": "It was completely replaced by other fuels.", "is_correct": false}
+    ],
+    "explanation": "The passage explicitly states, 'began a slight downward trend specifically after 2010'."
+  },
+  {
+    "question_number": 15,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "In 2000, natural gas started at a moderate consumption level, lower than both coal and oil. However, its consistent growth led to a much higher position by 2020.",
+    "question_stem": "How did natural gas consumption compare to coal and oil in the year 2000?",
+    "options": [
+      {"letter": "A", "text": "It was higher than both.", "is_correct": false},
+      {"letter": "B", "text": "It was lower than both.", "is_correct": true},
+      {"letter": "C", "text": "It was higher than coal but lower than oil.", "is_correct": false},
+      {"letter": "D", "text": "It was the same as oil.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'natural gas started at a moderate consumption level, lower than both coal and oil'."
+  },
+  {
+    "question_number": 16,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "The chart focuses on global energy consumption. This means it shows how much energy the world used, not just one country.",
+    "question_stem": "What geographical scope does the chart cover?",
+    "options": [
+      {"letter": "A", "text": "A single country's energy use.", "is_correct": false},
+      {"letter": "B", "text": "Only energy use in Europe.", "is_correct": false},
+      {"letter": "C", "text": "Global energy consumption.", "is_correct": true},
+      {"letter": "D", "text": "Only energy use in developing nations.", "is_correct": false}
+    ],
+    "explanation": "The passage says, 'The chart focuses on global energy consumption.'"
+  },
+  {
+    "question_number": 17,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "The total amount of energy consumed globally showed an upward trend, suggesting that the world's overall energy needs expanded over the two decades.",
+    "question_stem": "Did the world's overall energy needs expand or contract from 2000 to 2020?",
+    "options": [
+      {"letter": "A", "text": "They contracted significantly.", "is_correct": false},
+      {"letter": "B", "text": "They remained unchanged.", "is_correct": false},
+      {"letter": "C", "text": "They expanded.", "is_correct": true},
+      {"letter": "D", "text": "They expanded for only a few years.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'the world's overall energy needs expanded'."
+  },
+  {
+    "question_number": 18,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "The sources of renewable energy mentioned in the chart include solar, wind, geothermal, and biofuels. These are considered cleaner alternatives.",
+    "question_stem": "Name one type of renewable energy source mentioned in the passage.",
+    "options": [
+      {"letter": "A", "text": "Coal.", "is_correct": false},
+      {"letter": "B", "text": "Natural Gas.", "is_correct": false},
+      {"letter": "C", "text": "Solar.", "is_correct": true},
+      {"letter": "D", "text": "Oil.", "is_correct": false}
+    ],
+    "explanation": "The passage lists 'solar, wind, geothermal, and biofuels' as renewable energy sources. Solar is one of them."
+  },
+  {
+    "question_number": 19,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "In the year 2000, coal was a major energy source, starting with a high consumption level. It was second only to oil at that time.",
+    "question_stem": "How high was coal consumption at the start of the period in 2000?",
+    "options": [
+      {"letter": "A", "text": "Very low.", "is_correct": false},
+      {"letter": "B", "text": "Moderate.", "is_correct": false},
+      {"letter": "C", "text": "High.", "is_correct": true},
+      {"letter": "D", "text": "It was the lowest.", "is_correct": false}
+    ],
+    "explanation": "The passage says, 'coal was a major energy source, starting with a high consumption level'."
+  },
+  {
+    "question_number": 20,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "The consumption of natural gas showed consistent and significant growth from 2000 to 2020. This growth was stronger than that of oil.",
+    "question_stem": "What kind of growth did natural gas consumption show?",
+    "options": [
+      {"letter": "A", "text": "Slight decline.", "is_correct": false},
+      {"letter": "B", "text": "Erratic and unpredictable.", "is_correct": false},
+      {"letter": "C", "text": "Consistent and significant growth.", "is_correct": true},
+      {"letter": "D", "text": "No growth at all.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'The consumption of natural gas showed consistent and significant growth'."
+  },
+  {
+    "question_number": 21,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "Nuclear power began with a low level of consumption in 2000. It had a small increase before its use stabilized later on.",
+    "question_stem": "What was the starting consumption level of nuclear power in 2000?",
+    "options": [
+      {"letter": "A", "text": "High.", "is_correct": false},
+      {"letter": "B", "text": "Moderate.", "is_correct": false},
+      {"letter": "C", "text": "Low.", "is_correct": true},
+      {"letter": "D", "text": "The highest among all sources.", "is_correct": false}
+    ],
+    "explanation": "The passage says, 'Nuclear power began with a low level of consumption in 2000'."
+  },
+  {
+    "question_number": 22,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "Hydroelectric power's contribution to global energy also started at a low level in 2000, similar to nuclear power, but it showed continuous growth.",
+    "question_stem": "How did hydroelectric power's consumption start in 2000?",
+    "options": [
+      {"letter": "A", "text": "At a high level.", "is_correct": false},
+      {"letter": "B", "text": "At a moderate level.", "is_correct": false},
+      {"letter": "C", "text": "At a low level.", "is_correct": true},
+      {"letter": "D", "text": "It was zero.", "is_correct": false}
+    ],
+    "explanation": "The passage mentions, 'Hydroelectric power's contribution... also started at a low level in 2000'."
+  },
+  {
+    "question_number": 23,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "The period between 2010 and 2020 saw a very rapid increase in the use of renewable energy sources. This decade was crucial for their expansion.",
+    "question_stem": "Which decade was particularly important for the rapid increase of renewable energy?",
+    "options": [
+      {"letter": "A", "text": "1990-2000.", "is_correct": false},
+      {"letter": "B", "text": "2000-2010.", "is_correct": false},
+      {"letter": "C", "text": "2010-2020.", "is_correct": true},
+      {"letter": "D", "text": "After 2020.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'The period between 2010 and 2020 saw a very rapid increase in the use of renewable energy sources'."
+  },
+  {
+    "question_number": 24,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "The total energy consumption showed a consistent rise, which implies that the demand for energy kept growing over the entire twenty-year period.",
+    "question_stem": "What does the consistent rise in total energy consumption imply about energy demand?",
+    "options": [
+      {"letter": "A", "text": "It declined.", "is_correct": false},
+      {"letter": "B", "text": "It fluctuated.", "is_correct": false},
+      {"letter": "C", "text": "It kept growing.", "is_correct": true},
+      {"letter": "D", "text": "It remained stable.", "is_correct": false}
+    ],
+    "explanation": "The passage says, 'implies that the demand for energy kept growing'."
+  },
+  {
+    "question_number": 25,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "Fossil fuels, including coal, oil, and natural gas, started as the dominant energy sources in 2000 and continued to hold the largest share of consumption throughout the period.",
+    "question_stem": "Were fossil fuels the dominant energy sources in 2000?",
+    "options": [
+      {"letter": "A", "text": "No, renewables were dominant.", "is_correct": false},
+      {"letter": "B", "text": "Yes, they were the dominant energy sources.", "is_correct": true},
+      {"letter": "C", "text": "Only natural gas was dominant.", "is_correct": false},
+      {"letter": "D", "text": "Only oil was dominant.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'Fossil fuels... started as the dominant energy sources in 2000'."
+  },
+  {
+    "question_number": 26,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "Although renewable energy grew significantly, by 2020, its total contribution to global energy was still much less than the combined use of fossil fuels.",
+    "question_stem": "By 2020, how did the total contribution of renewables compare to fossil fuels?",
+    "options": [
+      {"letter": "A", "text": "It was higher than fossil fuels.", "is_correct": false},
+      {"letter": "B", "text": "It was about the same as fossil fuels.", "is_correct": false},
+      {"letter": "C", "text": "It was still much less than fossil fuels.", "is_correct": true},
+      {"letter": "D", "text": "It had completely replaced fossil fuels.", "is_correct": false}
+    ],
+    "explanation": "The passage says, 'its total contribution to global energy was still much less than the combined use of fossil fuels'."
+  },
+  {
+    "question_number": 27,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "The consumption of oil remained on a consistent upward path from 2000 to 2020, without any major downturns. It demonstrated stable growth.",
+    "question_stem": "Did oil consumption show any major downturns between 2000 and 2020?",
+    "options": [
+      {"letter": "A", "text": "Yes, several major downturns.", "is_correct": false},
+      {"letter": "B", "text": "No, it remained on a consistent upward path.", "is_correct": true},
+      {"letter": "C", "text": "It only declined in the first five years.", "is_correct": false},
+      {"letter": "D", "text": "It only declined in the last five years.", "is_correct": false}
+    ],
+    "explanation": "The passage explicitly states, 'without any major downturns'."
+  },
+  {
+    "question_number": 28,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "Both nuclear and hydroelectric power sources showed increases in consumption, but their growth was more modest compared to the rapid rise of other renewables like solar and wind.",
+    "question_stem": "Was the growth of nuclear and hydroelectric power faster or slower than solar and wind?",
+    "options": [
+      {"letter": "A", "text": "Much faster.", "is_correct": false},
+      {"letter": "B", "text": "Slower.", "is_correct": true},
+      {"letter": "C", "text": "About the same speed.", "is_correct": false},
+      {"letter": "D", "text": "They both decreased while solar and wind increased.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'their growth was more modest compared to the rapid rise of other renewables'."
+  },
+  {
+    "question_number": 29,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "The chart is titled 'Global Energy Consumption Trends by Source (2000-2020)', clearly indicating its subject matter.",
+    "question_stem": "What is the main subject of the chart?",
+    "options": [
+      {"letter": "A", "text": "Energy prices in 2020.", "is_correct": false},
+      {"letter": "B", "text": "How energy is produced locally.", "is_correct": false},
+      {"letter": "C", "text": "Global energy consumption trends by source.", "is_correct": true},
+      {"letter": "D", "text": "The future of renewable energy.", "is_correct": false}
+    ],
+    "explanation": "The passage provides the chart title: 'Global Energy Consumption Trends by Source (2000-2020)'."
+  },
+  {
+    "question_number": 30,
+    "difficulty": "easy",
+    "type": "Identifying Information",
+    "passage": "Natural gas began with a lower consumption level than coal in 2000 but experienced continuous and significant growth, eventually surpassing coal's usage.",
+    "question_stem": "Did natural gas start with a higher or lower consumption level than coal in 2000?",
+    "options": [
+      {"letter": "A", "text": "Higher.", "is_correct": false},
+      {"letter": "B", "text": "Lower.", "is_correct": true},
+      {"letter": "C", "text": "The same.", "is_correct": false},
+      {"letter": "D", "text": "It was not consumed in 2000.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'Natural gas began with a lower consumption level than coal in 2000'."
+  }
+],
+    "medium": [
+  {
+    "question_number": 1,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "The comprehensive dataset presented illustrates the global trajectory of energy consumption from 2000 to 2020, revealing a consistent and undeniable escalation in the aggregate demand. This upward trend highlights the intensifying worldwide need for power over the two-decade span.",
+    "question_stem": "What characteristic describes the overall global energy demand between 2000 and 2020?",
+    "options": [
+      {"letter": "A", "text": "It experienced a significant downturn.", "is_correct": false},
+      {"letter": "B", "text": "It remained largely constant without major shifts.", "is_correct": false},
+      {"letter": "C", "text": "It demonstrated a consistent and undeniable escalation.", "is_correct": true},
+      {"letter": "D", "text": "It showed erratic fluctuations with no clear direction.", "is_correct": false}
+    ],
+    "explanation": "The passage clearly states 'a consistent and undeniable escalation in the aggregate demand'."
+  },
+  {
+    "question_number": 2,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "An examination of fossil fuel consumption patterns indicates that oil maintained a continuous, albeit moderate, upward trajectory across the entire twenty-year period. Conversely, coal's usage, after peaking around 2010 following an initial surge, exhibited a subsequent slight retrenchment in the following decade.",
+    "question_stem": "How did coal consumption primarily evolve after its peak around 2010?",
+    "options": [
+      {"letter": "A", "text": "It continued to expand rapidly.", "is_correct": false},
+      {"letter": "B", "text": "It underwent a complete cessation.", "is_correct": false},
+      {"letter": "C", "text": "It experienced a slight retrenchment.", "is_correct": true},
+      {"letter": "D", "text": "It remained entirely stable, without change.", "is_correct": false}
+    ],
+    "explanation": "The passage notes coal 'exhibited a subsequent slight retrenchment in the following decade'."
+  },
+  {
+    "question_number": 3,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "Natural gas consumption displayed a robust and unwavering increase throughout the period from 2000 to 2020. This sustained growth allowed it to ultimately surpass both coal and oil in terms of overall consumption by the conclusion of the charted interval, marking a significant reordering within the fossil fuel hierarchy.",
+    "question_stem": "By the end of the period, what was natural gas's standing relative to coal and oil consumption?",
+    "options": [
+      {"letter": "A", "text": "It remained below both coal and oil.", "is_correct": false},
+      {"letter": "B", "text": "It had surpassed only oil, not coal.", "is_correct": false},
+      {"letter": "C", "text": "It had surpassed both coal and oil.", "is_correct": true},
+      {"letter": "D", "text": "It showed a decline, while others increased.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'This sustained growth allowed it to ultimately surpass both coal and oil'."
+  },
+  {
+    "question_number": 4,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "The trajectory of renewable energy sources, despite a minimal initial footprint in 2000, demonstrated a remarkable and accelerated surge in consumption, particularly pronounced in the post-2010 era. This strong momentum highlights a pivotal shift in global energy preferences.",
+    "question_stem": "When did renewable energy sources exhibit their most significant and accelerated increase in consumption?",
+    "options": [
+      {"letter": "A", "text": "In the period prior to 2005.", "is_correct": false},
+      {"letter": "B", "text": "Throughout the entire two decades consistently.", "is_correct": false},
+      {"letter": "C", "text": "In the post-2010 era.", "is_correct": true},
+      {"letter": "D", "text": "During a period of stagnation between 2005 and 2010.", "is_correct": false}
+    ],
+    "explanation": "The passage notes 'a remarkable and accelerated surge in consumption, particularly pronounced in the post-2010 era'."
+  },
+  {
+    "question_number": 5,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "Both nuclear and hydroelectric power sources experienced a steady, albeit comparatively modest, increase in their consumption over the period. Their expansion was less dramatic than the rapid proliferation observed in other, newer renewable technologies.",
+    "question_stem": "How did the growth rate of nuclear and hydroelectric power compare to that of newer renewable technologies?",
+    "options": [
+      {"letter": "A", "text": "It was significantly more rapid.", "is_correct": false},
+      {"letter": "B", "text": "It was comparable to their rapid proliferation.", "is_correct": false},
+      {"letter": "C", "text": "It was steady and modest, not as dramatic.", "is_correct": true},
+      {"letter": "D", "text": "They both showed a sharp decline in contrast.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'Their expansion was less dramatic than the rapid proliferation observed in other, newer renewable technologies'."
+  },
+  {
+    "question_number": 6,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "The chart illustrates changes in global energy consumption from 2000 to 2020. This particular timeframe provides insights into how the world's energy mix evolved over two crucial decades.",
+    "question_stem": "What kind of insights does the chosen timeframe of the chart offer?",
+    "options": [
+      {"letter": "A", "text": "Detailed daily fluctuations in energy use.", "is_correct": false},
+      {"letter": "B", "text": "Predictions for energy prices in the next century.", "is_correct": false},
+      {"letter": "C", "text": "How the world's energy mix evolved over two crucial decades.", "is_correct": true},
+      {"letter": "D", "text": "Specific energy policies of individual nations.", "is_correct": false}
+    ],
+    "explanation": "The passage says, 'This particular timeframe provides insights into how the world's energy mix evolved over two crucial decades'."
+  },
+  {
+    "question_number": 7,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "In 2000, oil commanded the highest share of global energy consumption among all individual sources. However, its lead was gradually eroded as natural gas's consumption surged in the following years.",
+    "question_stem": "What was oil's standing in global energy consumption in 2000?",
+    "options": [
+      {"letter": "A", "text": "It was the least consumed source.", "is_correct": false},
+      {"letter": "B", "text": "It was equal to coal consumption.", "is_correct": false},
+      {"letter": "C", "text": "It commanded the highest share among individual sources.", "is_correct": true},
+      {"letter": "D", "text": "It had already been surpassed by renewables.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'In 2000, oil commanded the highest share of global energy consumption among all individual sources'."
+  },
+  {
+    "question_number": 8,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "Despite their exponential growth, renewable energy sources began from a very low base in 2000. Consequently, by 2020, their aggregate contribution to the global energy supply remained significantly smaller than the collective consumption of fossil fuels.",
+    "question_stem": "By 2020, how did the total contribution of renewable energy compare to the collective consumption of fossil fuels?",
+    "options": [
+      {"letter": "A", "text": "It was equal to that of fossil fuels.", "is_correct": false},
+      {"letter": "B", "text": "It had surpassed fossil fuels significantly.", "is_correct": false},
+      {"letter": "C", "text": "It remained significantly smaller than fossil fuels.", "is_correct": true},
+      {"letter": "D", "text": "Fossil fuels were no longer a significant part of the energy mix.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'their aggregate contribution to the global energy supply remained significantly smaller than the collective consumption of fossil fuels'."
+  },
+  {
+    "question_number": 9,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "Natural gas consumption demonstrated a more vigorous and sustained increase than oil throughout the two decades. This indicates a stronger market shift towards natural gas within the hydrocarbon sector.",
+    "question_stem": "Which fossil fuel, oil or natural gas, showed a more vigorous and sustained increase in consumption?",
+    "options": [
+      {"letter": "A", "text": "Oil showed a more vigorous increase.", "is_correct": false},
+      {"letter": "B", "text": "Both showed identical increases.", "is_correct": false},
+      {"letter": "C", "text": "Natural gas showed a more vigorous and sustained increase.", "is_correct": true},
+      {"letter": "D", "text": "Neither showed any significant increase.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'Natural gas consumption demonstrated a more vigorous and sustained increase than oil'."
+  },
+  {
+    "question_number": 10,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "The period between 2010 and 2020 marked a noticeable deceleration in coal consumption. Concurrently, this decade witnessed a substantial acceleration in the deployment and utilization of renewable energy technologies.",
+    "question_stem": "What distinct contrasting trends were observed in coal and renewable energy consumption between 2010 and 2020?",
+    "options": [
+      {"letter": "A", "text": "Both coal and renewables experienced significant decline.", "is_correct": false},
+      {"letter": "B", "text": "Coal consumption accelerated, while renewables decelerated.", "is_correct": false},
+      {"letter": "C", "text": "Coal consumption decelerated, while renewables saw substantial acceleration.", "is_correct": true},
+      {"letter": "D", "text": "Neither showed any significant change.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'a noticeable deceleration in coal consumption. Concurrently, this decade witnessed a substantial acceleration in the deployment and utilization of renewable energy technologies'."
+  },
+  {
+    "question_number": 11,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "Despite the rise of cleaner alternatives, fossil fuels (coal, oil, and natural gas) collectively maintained their predominant share of global energy consumption throughout the entire 2000-2020 period. This underscores their persistent foundational role.",
+    "question_stem": "Did fossil fuels collectively retain their predominant share of global energy consumption throughout the period?",
+    "options": [
+      {"letter": "A", "text": "No, they were quickly replaced by renewables.", "is_correct": false},
+      {"letter": "B", "text": "Yes, they collectively maintained their predominant share.", "is_correct": true},
+      {"letter": "C", "text": "Only in the first five years.", "is_correct": false},
+      {"letter": "D", "text": "Their share decreased to a negligible amount.", "is_correct": false}
+    ],
+    "explanation": "The passage explicitly states, 'fossil fuels... collectively maintained their predominant share of global energy consumption throughout the entire 2000-2020 period'."
+  },
+  {
+    "question_number": 12,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "The sustained upward trajectory of total global energy demand necessitates considerable efforts in diversifying energy sources and enhancing efficiency to meet growing needs sustainably.",
+    "question_stem": "What is necessitated by the sustained upward trajectory of total global energy demand?",
+    "options": [
+      {"letter": "A", "text": "A reduction in overall energy production.", "is_correct": false},
+      {"letter": "B", "text": "Significant efforts in diversifying energy sources and enhancing efficiency.", "is_correct": true},
+      {"letter": "C", "text": "A shift exclusively to coal-fired power plants.", "is_correct": false},
+      {"letter": "D", "text": "A global decrease in energy consumption patterns.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'necessitates considerable efforts in diversifying energy sources and enhancing efficiency'."
+  },
+  {
+    "question_number": 13,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "Nuclear power consumption, after a period of initial modest growth, largely plateaued towards the latter part of the charted interval. This indicates a stabilization rather than a continued expansion in its usage.",
+    "question_stem": "What was the dominant characteristic of nuclear power consumption towards the end of the period?",
+    "options": [
+      {"letter": "A", "text": "A rapid acceleration.", "is_correct": false},
+      {"letter": "B", "text": "A significant decline.", "is_correct": false},
+      {"letter": "C", "text": "It largely plateaued.", "is_correct": true},
+      {"letter": "D", "text": "It became the fastest-growing source.", "is_correct": false}
+    ],
+    "explanation": "The passage clearly states, 'it largely plateaued towards the latter part of the charted interval'."
+  },
+  {
+    "question_number": 14,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "Hydroelectric power demonstrated a consistent and gradual increase in consumption over the two decades. While positive, its growth rate was not as dramatic as the emerging renewable technologies due to inherent locational and environmental considerations.",
+    "question_stem": "What restrained the growth rate of hydroelectric power compared to emerging renewable technologies?",
+    "options": [
+      {"letter": "A", "text": "Its high operational costs.", "is_correct": false},
+      {"letter": "B", "text": "A global reduction in water levels.", "is_correct": false},
+      {"letter": "C", "text": "Inherent locational and environmental considerations.", "is_correct": true},
+      {"letter": "D", "text": "A lack of available technology.", "is_correct": false}
+    ],
+    "explanation": "The passage attributes the difference to 'inherent locational and environmental considerations'."
+  },
+  {
+    "question_number": 15,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "In 2000, oil undeniably held the largest share of consumption among individual energy sources. However, over the subsequent two decades, natural gas steadily increased its share, effectively narrowing the gap and eventually surpassing oil in total usage.",
+    "question_stem": "How did oil's initial lead in 2000 change relative to natural gas by 2020?",
+    "options": [
+      {"letter": "A", "text": "Oil widened its lead over natural gas.", "is_correct": false},
+      {"letter": "B", "text": "Natural gas's consumption decreased, reinforcing oil's lead.", "is_correct": false},
+      {"letter": "C", "text": "Natural gas narrowed the gap and eventually surpassed oil.", "is_correct": true},
+      {"letter": "D", "text": "Both oil and natural gas declined equally.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'natural gas steadily increased its share, effectively narrowing the gap and eventually surpassing oil in total usage'."
+  },
+  {
+    "question_number": 16,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "The decline in coal consumption after its 2010 peak can be attributed to a combination of factors, including increasingly stringent environmental regulations and the rising competitiveness of cleaner energy alternatives.",
+    "question_stem": "What two key factors contributed to the decline in coal consumption after 2010?",
+    "options": [
+      {"letter": "A", "text": "Increased coal production and higher global demand.", "is_correct": false},
+      {"letter": "B", "text": "Relaxation of environmental regulations and decreased competitiveness of alternatives.", "is_correct": false},
+      {"letter": "C", "text": "Increasingly stringent environmental regulations and rising competitiveness of cleaner alternatives.", "is_correct": true},
+      {"letter": "D", "text": "A global shortage of coal reserves and lack of investment.", "is_correct": false}
+    ],
+    "explanation": "The passage lists 'increasingly stringent environmental regulations and the rising competitiveness of cleaner energy alternatives'."
+  },
+  {
+    "question_number": 17,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "Among the non-fossil fuel sources, renewables (solar, wind, etc.) exhibited a demonstrably steeper growth trajectory compared to both nuclear and hydroelectric power over the twenty-year period.",
+    "question_stem": "Which non-fossil fuel group displayed a demonstrably steeper growth trajectory?",
+    "options": [
+      {"letter": "A", "text": "Nuclear power.", "is_correct": false},
+      {"letter": "B", "text": "Hydroelectric power.", "is_correct": false},
+      {"letter": "C", "text": "Renewables (solar, wind, etc.).", "is_correct": true},
+      {"letter": "D", "text": "All non-fossil fuels grew at the same rate.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'renewables (solar, wind, etc.) exhibited a demonstrably steeper growth trajectory compared to both nuclear and hydroelectric power'."
+  },
+  {
+    "question_number": 18,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "Despite the significant advancements in clean energy, fossil fuels (coal, oil, and natural gas) collectively constituted the overwhelming majority of global energy consumption throughout the entire duration of the chart, from 2000 to 2020.",
+    "question_stem": "What proportion of global energy consumption was collectively constituted by fossil fuels throughout the period?",
+    "options": [
+      {"letter": "A", "text": "A minor and diminishing proportion.", "is_correct": false},
+      {"letter": "B", "text": "Less than half of the total.", "is_correct": false},
+      {"letter": "C", "text": "The overwhelming majority.", "is_correct": true},
+      {"letter": "D", "text": "An equal share with renewables.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'fossil fuels... collectively constituted the overwhelming majority of global energy consumption throughout the entire duration'."
+  },
+  {
+    "question_number": 19,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "The year 2010 represents a key turning point for coal, as its consumption reached its zenith before entering a period of slight decline. This transition reflects evolving global energy strategies.",
+    "question_stem": "What significant event occurred concerning coal consumption in the year 2010?",
+    "options": [
+      {"letter": "A", "text": "It became the least used energy source.", "is_correct": false},
+      {"letter": "B", "text": "It began a rapid increase.", "is_correct": false},
+      {"letter": "C", "text": "Its consumption reached its zenith.", "is_correct": true},
+      {"letter": "D", "text": "It was completely phased out.", "is_correct": false}
+    ],
+    "explanation": "The passage says, 'its consumption reached its zenith' in 2010."
+  },
+  {
+    "question_number": 20,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "Despite starting from a very low base in 2000, renewable energy sources achieved a status of significant and rapidly expanding relevance by 2020. This indicates their growing importance in the global energy landscape.",
+    "question_stem": "What status did renewable energy sources achieve by 2020, despite their initial low contribution?",
+    "options": [
+      {"letter": "A", "text": "They remained statistically insignificant.", "is_correct": false},
+      {"letter": "B", "text": "They became the sole energy source globally.", "is_correct": false},
+      {"letter": "C", "text": "A status of significant and rapidly expanding relevance.", "is_correct": true},
+      {"letter": "D", "text": "Their growth reversed to their 2000 levels.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'achieved a status of significant and rapidly expanding relevance by 2020'."
+  },
+  {
+    "question_number": 21,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "Oil consumption throughout the two decades maintained a consistent upward trajectory, characterized by gradual but uninterrupted growth. This pattern reflects its enduring demand across various sectors.",
+    "question_stem": "What was the consistent characteristic of oil consumption's trend over the twenty years?",
+    "options": [
+      {"letter": "A", "text": "Sharp and unpredictable fluctuations.", "is_correct": false},
+      {"letter": "B", "text": "A period of rapid decline followed by recovery.", "is_correct": false},
+      {"letter": "C", "text": "A consistent upward trajectory with gradual growth.", "is_correct": true},
+      {"letter": "D", "text": "Complete stagnation without any change.", "is_correct": false}
+    ],
+    "explanation": "The passage describes it as a 'consistent upward trajectory, characterized by gradual but uninterrupted growth'."
+  },
+  {
+    "question_number": 22,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "Natural gas began the period with lower consumption than both coal and oil. However, its robust and sustained growth led to its eventual preeminence among fossil fuels by the close of the charted period.",
+    "question_stem": "How did natural gas's initial consumption level compare to other fossil fuels, and what was its eventual outcome?",
+    "options": [
+      {"letter": "A", "text": "It started higher and maintained its lead.", "is_correct": false},
+      {"letter": "B", "text": "It started lower but eventually became the most consumed.", "is_correct": true},
+      {"letter": "C", "text": "It started lower but its consumption decreased further.", "is_correct": false},
+      {"letter": "D", "text": "It was not consumed at the start of the period.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'Natural gas began the period with lower consumption than both coal and oil. However, its robust and sustained growth led to its eventual preeminence'."
+  },
+  {
+    "question_number": 23,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "The acceleration in renewable energy adoption, particularly evident from 2010 to 2020, signals a pivotal shift in global energy investment and policy, driven by increasing climate change mitigation imperatives.",
+    "question_stem": "What primarily drove the pivotal shift in global energy investment and policy after 2010?",
+    "options": [
+      {"letter": "A", "text": "A decline in the overall global population.", "is_correct": false},
+      {"letter": "B", "text": "Increased profits from fossil fuel industries.", "is_correct": false},
+      {"letter": "C", "text": "Increasing climate change mitigation imperatives.", "is_correct": true},
+      {"letter": "D", "text": "A decrease in energy efficiency technologies.", "is_correct": false}
+    ],
+    "explanation": "The passage attributes the shift to 'increasing climate change mitigation imperatives'."
+  },
+  {
+    "question_number": 24,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "By 2020, natural gas had ascended to become the most extensively consumed hydrocarbon globally. This marked a significant transformation from its position at the start of the charted period.",
+    "question_stem": "What major change occurred in natural gas's ranking among hydrocarbons by 2020?",
+    "options": [
+      {"letter": "A", "text": "It fell to the least consumed position.", "is_correct": false},
+      {"letter": "B", "text": "It remained unchanged from its 2000 ranking.", "is_correct": false},
+      {"letter": "C", "text": "It became the most extensively consumed hydrocarbon.", "is_correct": true},
+      {"letter": "D", "text": "It was completely replaced by nuclear power.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'By 2020, natural gas had ascended to become the most extensively consumed hydrocarbon globally'."
+  },
+  {
+    "question_number": 25,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "While hydroelectric power maintained a consistent, gradual increase throughout the period, nuclear power's consumption, following an initial modest rise, subsequently demonstrated a noticeable stagnation towards the later years.",
+    "question_stem": "How did nuclear power's growth trajectory compare to hydroelectric power towards the end of the period?",
+    "options": [
+      {"letter": "A", "text": "Nuclear grew faster than hydroelectric.", "is_correct": false},
+      {"letter": "B", "text": "Hydroelectric power stagnated, while nuclear increased.", "is_correct": false},
+      {"letter": "C", "text": "Nuclear power stagnated, while hydroelectric maintained gradual increase.", "is_correct": true},
+      {"letter": "D", "text": "Both experienced a sharp decline.", "is_correct": false}
+    ],
+    "explanation": "The passage indicates 'hydroelectric power maintained a consistent, gradual increase... nuclear power... subsequently demonstrated a noticeable stagnation'."
+  },
+  {
+    "question_number": 26,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "The twenty-year duration of the chart, from 2000 to 2020, is particularly effective for discerning both broad, long-term trends in global energy consumption and more specific, nuanced shifts within individual energy source contributions.",
+    "question_stem": "What kind of analysis is particularly facilitated by the chart's 20-year timeframe?",
+    "options": [
+      {"letter": "A", "text": "Only micro-level, daily energy price fluctuations.", "is_correct": false},
+      {"letter": "B", "text": "Forecasting exact geopolitical energy conflicts.", "is_correct": false},
+      {"letter": "C", "text": "Discerning both broad long-term trends and specific nuanced shifts.", "is_correct": true},
+      {"letter": "D", "text": "Exclusive analysis of historical energy policy failures.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'effective for discerning both broad, long-term trends... and more specific, nuanced shifts'."
+  },
+  {
+    "question_number": 27,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "The rapid and accelerating adoption of renewable energy technologies post-2010 signifies a fundamental restructuring of the global energy sector. This momentum is driven not only by environmental imperatives but also by advancements in cost-efficiency.",
+    "question_stem": "What two primary factors are identified as drivers for the rapid adoption of renewable energy after 2010?",
+    "options": [
+      {"letter": "A", "text": "Decreased global energy demand and increased fossil fuel reserves.", "is_correct": false},
+      {"letter": "B", "text": "Environmental imperatives and advancements in cost-efficiency.", "is_correct": true},
+      {"letter": "C", "text": "A lack of available land for traditional power plants.", "is_correct": false},
+      {"letter": "D", "text": "Reduced governmental subsidies for clean energy.", "is_correct": false}
+    ],
+    "explanation": "The passage explicitly states, 'driven not only by environmental imperatives but also by advancements in cost-efficiency'."
+  },
+  {
+    "question_number": 28,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "Natural gas's consistent and robust ascent among fossil fuels, starting from a comparatively lower baseline in 2000, can be partially attributed to its growing perception as a 'bridging fuel' and enhancements in its production and transport infrastructure.",
+    "question_stem": "What facilitated natural gas's consistent ascent among fossil fuels?",
+    "options": [
+      {"letter": "A", "text": "Its high carbon emissions.", "is_correct": false},
+      {"letter": "B", "text": "Its role as a 'bridging fuel' and infrastructure enhancements.", "is_correct": true},
+      {"letter": "C", "text": "A decline in its overall supply.", "is_correct": false},
+      {"letter": "D", "text": "Its limited application in various sectors.", "is_correct": false}
+    ],
+    "explanation": "The passage states it was 'partially attributed to its growing perception as a 'bridging fuel' and enhancements in its production and transport infrastructure'."
+  },
+  {
+    "question_number": 29,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "Beyond its descriptive function, the chart serves as a crucial analytical instrument for evaluating the evolving dynamics and competitive interplay within the global energy market. It allows for direct comparisons that inform strategic planning.",
+    "question_stem": "What is a key analytical use of the chart beyond merely describing energy figures?",
+    "options": [
+      {"letter": "A", "text": "It provides definitive future energy production quotas for countries.", "is_correct": false},
+      {"letter": "B", "text": "It directly calculates the profitability of specific energy companies.", "is_correct": false},
+      {"letter": "C", "text": "It acts as a crucial analytical instrument for evaluating evolving market dynamics.", "is_correct": true},
+      {"letter": "D", "text": "It dictates global energy policy without further analysis.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'it serves as a crucial analytical instrument for evaluating the evolving dynamics and competitive interplay within the global energy market'."
+  },
+  {
+    "question_number": 30,
+    "difficulty": "medium",
+    "type": "Identifying Information",
+    "passage": "The overarching narrative presented by the chart reflects a global energy system characterized by both an accelerating transition towards cleaner sources and a persistent, substantial reliance on conventional fossil fuels. This duality signifies a complex and ongoing transformation.",
+    "question_stem": "What dual characteristic defines the global energy system's narrative as depicted by the chart?",
+    "options": [
+      {"letter": "A", "text": "Complete transition to clean energy and elimination of fossil fuels.", "is_correct": false},
+      {"letter": "B", "text": "Stagnation in all energy sectors and no innovation.", "is_correct": false},
+      {"letter": "C", "text": "Accelerating transition to cleaner sources alongside persistent reliance on fossil fuels.", "is_correct": true},
+      {"letter": "D", "text": "A return to only traditional, outdated energy technologies.", "is_correct": false}
+    ],
+    "explanation": "The passage identifies 'an accelerating transition towards cleaner sources and a persistent, substantial reliance on conventional fossil fuels'."
+  }
+],
+    "hard": [
+  {
+    "question_number": 1,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "The provided graphical representation meticulously delineates the aggregate trajectory of global energy consumption from 2000 to 2020, revealing an unmistakable and substantial escalation in overall demand. This pervasive increment, far from being solely attributable to demographic proliferation, fundamentally underscores the profound socio-economic shifts globally, particularly concerning industrial expansion and an increasingly energy-intensive lifestyle, which inherently necessitate augmented energy provisioning despite concomitant efficiency gains in various sectors.",
+    "question_stem": "According to the passage, what specific factor is explicitly stated as *not* the sole cause of the pervasive increment in overall global energy demand?",
+    "options": [
+      {"letter": "A", "text": "Industrial expansion.", "is_correct": false},
+      {"letter": "B", "text": "Demographic proliferation.", "is_correct": true},
+      {"letter": "C", "text": "Increasingly energy-intensive lifestyle.", "is_correct": false},
+      {"letter": "D", "text": "Augmented energy provisioning.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'This pervasive increment, far from being solely attributable to demographic proliferation'. This directly identifies 'demographic proliferation' as explicitly *not* the sole cause, though it is a contributing factor."
+  },
+  {
+    "question_number": 2,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "An in-depth analysis of the consumption patterns for conventional hydrocarbons unveils divergent paths: whilst oil maintained a robust, albeit incrementally ascending, trajectory throughout the entire two-decade period, coal's narrative was one of initial considerable expansion followed by a discernible abatement post-2010. Conversely, natural gas exhibited the most dynamic upward momentum among the fossil fuels, culminating in its unequivocally surpassing both coal and oil in terms of total consumption by the cessation of the charted interval.",
+    "question_stem": "What precisely describes the culmination of natural gas's trajectory among fossil fuels by 2020?",
+    "options": [
+      {"letter": "A", "text": "It became the second-highest consumed fossil fuel, behind oil.", "is_correct": false},
+      {"letter": "B", "text": "It reached parity with coal but remained below oil.", "is_correct": false},
+      {"letter": "C", "text": "It unequivocally surpassed both coal and oil in total consumption.", "is_correct": true},
+      {"letter": "D", "text": "Its consumption declined significantly, making it the least used fossil fuel.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'natural gas exhibited the most dynamic upward momentum among the fossil fuels, culminating in its unequivocally surpassing both coal and oil in terms of total consumption'."
+  },
+  {
+    "question_number": 3,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "The trajectory of renewable energy sources, encompassing solar, wind, geothermal, and biofuels, constitutes the most compelling aspect of the depicted data, notwithstanding their comparatively negligible initial volumetric contribution in 2000. Post-2010, the acceleration in their uptake was nothing short of prodigious, yet their aggregate volumetric output did not, by 2020, universally eclipse that of all individual fossil fuels, let alone their collective total, highlighting the formidable scale of the required energy transition.",
+    "question_stem": "By 2020, what was the precise volumetric status of renewable energy sources relative to *all individual* fossil fuels?",
+    "options": [
+      {"letter": "A", "text": "They had universally eclipsed all individual fossil fuels.", "is_correct": false},
+      {"letter": "B", "text": "They had not universally eclipsed all individual fossil fuels.", "is_correct": true},
+      {"letter": "C", "text": "They collectively comprised the majority of all energy consumed.", "is_correct": false},
+      {"letter": "D", "text": "Their consumption had returned to negligible levels.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'their aggregate volumetric output did not, by 2020, universally eclipse that of all individual fossil fuels'. This directly addresses the 'all individual' part of the question."
+  },
+  {
+    "question_number": 4,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "While both nuclear and hydroelectric power represent established low-carbon energy modalities, their respective consumption growth rates within the charted period presented a stark contrast to the burgeoning momentum observed in renewables. These sources demonstrated a more constrained, gradual increment, hinting at either mature market saturation or the formidable infrastructural and regulatory impediments inherent in significantly expanding their global footprint, distinguishing their development from the rapid proliferation of novel green technologies.",
+    "question_stem": "According to the passage, what specific factors are *suggested* as causes for the constrained, gradual increment in nuclear and hydroelectric power consumption?",
+    "options": [
+      {"letter": "A", "text": "Exponential increases in operational costs.", "is_correct": false},
+      {"letter": "B", "text": "The complete absence of new technological innovations.", "is_correct": false},
+      {"letter": "C", "text": "Mature market saturation or formidable infrastructural and regulatory impediments.", "is_correct": true},
+      {"letter": "D", "text": "A universal public aversion to their use.", "is_correct": false}
+    ],
+    "explanation": "The passage directly states, 'hinting at either mature market saturation or the formidable infrastructural and regulatory impediments'."
+  },
+  {
+    "question_number": 5,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "The transition within the fossil fuel hierarchy, culminating in natural gas's preeminence by 2020, is particularly noteworthy. This shift from earlier dominance by oil and coal reflects a complex interplay of factors, including evolving energy policies, heightened environmental consciousness favouring less carbon-intensive hydrocarbons, and advancements in extraction technologies that rendered natural gas more economically viable and accessible globally.",
+    "question_stem": "Which of the following factors is *not* explicitly mentioned as contributing to natural gas's preeminence by 2020?",
+    "options": [
+      {"letter": "A", "text": "Evolving energy policies.", "is_correct": false},
+      {"letter": "B", "text": "Heightened environmental consciousness.", "is_correct": false},
+      {"letter": "C", "text": "A significant reduction in global oil reserves.", "is_correct": true},
+      {"letter": "D", "text": "Advancements in extraction technologies.", "is_correct": false}
+    ],
+    "explanation": "The passage lists A, B, and D. Option C ('A significant reduction in global oil reserves') is not mentioned as a factor, making it the correct answer for what was *not* explicitly mentioned."
+  },
+  {
+    "question_number": 6,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "The initial decade of the charted period, from 2000 to 2010, marked a phase where coal consumption experienced its most pronounced surge, reaching its absolute zenith during this interval. This robust expansion was fundamentally attributable to burgeoning industrialization and rapid economic growth in a selection of developing nations, where readily available and economically feasible coal served as a primary energy feedstock before substantial global efforts towards decarbonization began to gain widespread international traction.",
+    "question_stem": "To what specific underlying global developments was the 'most pronounced surge' in coal consumption between 2000 and 2010 primarily attributed?",
+    "options": [
+      {"letter": "A", "text": "A global shift towards residential heating.", "is_correct": false},
+      {"letter": "B", "text": "Burgeoning industrialization and rapid economic growth in developing nations.", "is_correct": true},
+      {"letter": "C", "text": "The widespread adoption of coal-to-liquids technology.", "is_correct": false},
+      {"letter": "D", "text": "A significant decline in the supply of alternative energy sources.", "is_correct": false}
+    ],
+    "explanation": "The passage explicitly states, 'This robust expansion was fundamentally attributable to burgeoning industrialization and rapid economic growth in a selection of developing nations'."
+  },
+  {
+    "question_number": 7,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "Notwithstanding the exponential growth exhibited by renewable energy sources, their diminutive starting base in 2000 meant that even by 2020, their aggregate contribution to the global energy supply remained a considerably smaller volumetric proportion when juxtaposed against the collective consumption of conventional fossil fuels. This persistent disparity highlights the immense scale of the energy transition still required to fundamentally alter the global energy mix and achieve ambitious climate objectives, rather than indicating a completed shift.",
+    "question_stem": "By 2020, what critical implication is drawn from the comparison of renewable energy's contribution to the collective consumption of fossil fuels?",
+    "options": [
+      {"letter": "A", "text": "The energy transition had already been completed.", "is_correct": false},
+      {"letter": "B", "text": "Renewables had achieved volumetric parity with fossil fuels.", "is_correct": false},
+      {"letter": "C", "text": "The immense scale of the energy transition still required.", "is_correct": true},
+      {"letter": "D", "text": "Fossil fuels were no longer a relevant part of the energy mix.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'This persistent disparity highlights the immense scale of the energy transition still required'."
+  },
+  {
+    "question_number": 8,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "The divergence in growth rates between oil and natural gas is a salient feature of the charted data: while oil's consumption trajectory was characterized by a relatively linear and contained upward trend, natural gas experienced a more pronounced and accelerated expansion, particularly post-2005. This asymmetrical growth suggests differing market dynamics, potentially influenced by varying levels of perceived environmental impact and evolving energy security considerations associated with each hydrocarbon, rather than mere production capacities.",
+    "question_stem": "According to the passage, what specific factors are *suggested* to have influenced the asymmetrical growth between oil and natural gas consumption?",
+    "options": [
+      {"letter": "A", "text": "Identical market dynamics and static energy policies.", "is_correct": false},
+      {"letter": "B", "text": "Varying levels of perceived environmental impact and evolving energy security considerations.", "is_correct": true},
+      {"letter": "C", "text": "Direct governmental mandates to reduce oil consumption to zero.", "is_correct": false},
+      {"letter": "D", "text": "A sudden and complete exhaustion of natural gas reserves.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'potentially influenced by varying levels of perceived environmental impact and evolving energy security considerations'."
+  },
+  {
+    "question_number": 9,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "The final decade of the twenty-year span (2010-2020) emerges as a period of significant inflection in global energy trends. During this interval, a discernible deceleration in coal consumption became apparent, robustly correlated with global climate accords and national decarbonization strategies. Concomitantly, this period witnessed an unprecedented surge in the deployment of renewable energy technologies, signalling a fundamental pivot in investment and policy priorities towards sustainable energy futures, rather than a mere incremental adjustment.",
+    "question_stem": "What was the nature of the shift in investment and policy priorities observed during the 2010-2020 decade?",
+    "options": [
+      {"letter": "A", "text": "A temporary pause in energy investments.", "is_correct": false},
+      {"letter": "B", "text": "A mere incremental adjustment towards traditional fuels.", "is_correct": false},
+      {"letter": "C", "text": "A fundamental pivot towards sustainable energy futures.", "is_correct": true},
+      {"letter": "D", "text": "A complete abandonment of all existing energy infrastructures.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'signalling a fundamental pivot in investment and policy priorities towards sustainable energy futures'."
+  },
+  {
+    "question_number": 10,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "Notwithstanding the formidable strides made in diversifying the global energy matrix, the chart unequivocally demonstrates that conventional fossil fuels – coal, oil, and natural gas – collectively retained their overarching dominance, constituting the overwhelming majority of energy consumed throughout the entire period from 2000 to 2020. This enduring preponderance underscores the profound structural inertia of existing energy infrastructures and the pervasive economic reliance on these long-established sources, rather than implying a swift phase-out.",
+    "question_stem": "What persistent reality about global energy is explicitly underscored by the chart, despite advancements in diversification?",
+    "options": [
+      {"letter": "A", "text": "The swift phase-out of all fossil fuels.", "is_correct": false},
+      {"letter": "B", "text": "The complete independence from traditional energy sources.", "is_correct": false},
+      {"letter": "C", "text": "The enduring preponderance and overwhelming majority contribution of fossil fuels.", "is_correct": true},
+      {"letter": "D", "text": "The negligible contribution of all conventional energy sources.", "is_correct": false}
+    ],
+    "explanation": "The passage explicitly states, 'constituting the overwhelming majority of energy consumed throughout the entire period... This enduring preponderance underscores the profound structural inertia'."
+  },
+  {
+    "question_number": 11,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "The sustained upward trajectory of aggregate global energy demand, as observed over the two decades, presents a formidable and escalating challenge for environmental sustainability. This continuous escalation fundamentally necessitates the rapid development and widespread deployment of low-carbon energy solutions on an unprecedented scale, if international accords aimed at mitigating anthropogenic climate change are to be realistically met, given the inherent limitations and environmental repercussions associated with further reliance on high-carbon alternatives.",
+    "question_stem": "To what specific end is the 'rapid development and widespread deployment of low-carbon energy solutions' fundamentally necessitated?",
+    "options": [
+      {"letter": "A", "text": "To decrease global population growth.", "is_correct": false},
+      {"letter": "B", "text": "To reduce the economic viability of traditional energy.", "is_correct": false},
+      {"letter": "C", "text": "To realistically meet international accords for mitigating anthropogenic climate change.", "is_correct": true},
+      {"letter": "D", "text": "To completely eliminate all forms of energy consumption.", "is_correct": false}
+    ],
+    "explanation": "The passage states it is necessitated 'if international accords aimed at mitigating anthropogenic climate change are to be realistically met'."
+  },
+  {
+    "question_number": 12,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "Nuclear power's consumption, following an initial period of modest growth, appeared to reach a discernible plateau during the latter portion of the charted interval. This flattening of the curve, contrasting sharply with the dynamism of other burgeoning clean technologies, could potentially be ascribed to the complex regulatory frameworks, high capital outlays, and protracted construction timelines that intrinsically characterize nuclear energy projects, thereby constraining their capacity for rapid scalable expansion, rather than a lack of energy demand.",
+    "question_stem": "What three specific factors are *identified as potentially* constraining the rapid scalable expansion of nuclear energy projects?",
+    "options": [
+      {"letter": "A", "text": "Public enthusiasm, low costs, and short construction.", "is_correct": false},
+      {"letter": "B", "text": "Complex regulatory frameworks, high capital outlays, and protracted construction timelines.", "is_correct": true},
+      {"letter": "C", "text": "Technological obsolescence, abundant fuel, and simple licensing.", "is_correct": false},
+      {"letter": "D", "text": "Environmental benefits, high efficiency, and wide public acceptance.", "is_correct": false}
+    ],
+    "explanation": "The passage lists 'complex regulatory frameworks, high capital outlays, and protracted construction timelines' as potential constraints."
+  },
+  {
+    "question_number": 13,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "The trajectory of hydroelectric power, while consistently positive, demonstrated a growth rate that was incrementally slower than the more radical expansion witnessed in other renewable technologies. This measured, rather than exponential, increase can be largely attributed to the geographical specificities required for large-scale hydroelectric installations, coupled with mounting environmental considerations and social impacts associated with dam construction, thereby imposing inherent limitations on its unbridled proliferation.",
+    "question_stem": "What combination of factors is *explicitly stated* as largely attributing to the measured growth of hydroelectric power?",
+    "options": [
+      {"letter": "A", "text": "Its limited operational lifespan and high maintenance.", "is_correct": false},
+      {"letter": "B", "text": "A global preference for fossil fuels over hydroelectricity.", "is_correct": false},
+      {"letter": "C", "text": "Geographical specificities, environmental considerations, and social impacts of dam construction.", "is_correct": true},
+      {"letter": "D", "text": "Its complete inability to generate sufficient power.", "is_correct": false}
+    ],
+    "explanation": "The passage states it can be 'largely attributed to the geographical specificities required for large-scale hydroelectric installations, coupled with mounting environmental considerations and social impacts associated with dam construction'."
+  },
+  {
+    "question_number": 14,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "At the genesis of the charted period in 2000, oil undeniably commanded the largest individual share of global energy consumption, reflecting its established ubiquity in transportation and industrial applications. However, this initial preeminence was gradually eroded over the subsequent two decades, not by a significant absolute decline in oil's consumption itself, but by the relentless and sustained volumetric proliferation of natural gas, which incrementally narrowed the consumption gap, eventually assuming the mantle of the leading hydrocarbon.",
+    "question_stem": "By what mechanism was oil's initial preeminence gradually eroded over the two decades, as precisely described in the passage?",
+    "options": [
+      {"letter": "A", "text": "By a significant absolute decline in oil's consumption.", "is_correct": false},
+      {"letter": "B", "text": "By the relentless and sustained volumetric proliferation of natural gas.", "is_correct": true},
+      {"letter": "C", "text": "By oil being completely replaced by renewable energy sources.", "is_correct": false},
+      {"letter": "D", "text": "By a global reduction in transportation and industrial applications.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'this initial preeminence was gradually eroded... not by a significant absolute decline in oil's consumption itself, but by the relentless and sustained volumetric proliferation of natural gas'."
+  },
+  {
+    "question_number": 15,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "The observable retrenchment in coal consumption, particularly in the latter half of the twenty-year span following its 2010 zenith, provides compelling empirical evidence of a nascent, albeit challenging, global decarbonization effort. This downturn, contrasting sharply with the concurrent ascendance of cleaner alternatives, suggests that policy interventions, technological innovations in renewables, and heightened environmental consciousness are collectively beginning to exert a tangible influence on shifting entrenched energy consumption patterns away from the most carbon-intensive fossil fuel, rather than merely indicating market saturation.",
+    "question_stem": "According to the passage, what type of influence are policy interventions, technological innovations, and environmental consciousness *collectively beginning to exert* on energy consumption patterns?",
+    "options": [
+      {"letter": "A", "text": "A negligible and transient influence.", "is_correct": false},
+      {"letter": "B", "text": "A destabilizing but ultimately inconsequential influence.", "is_correct": false},
+      {"letter": "C", "text": "A tangible influence on shifting entrenched energy consumption patterns.", "is_correct": true},
+      {"letter": "D", "text": "An influence that increases reliance on carbon-intensive fuels.", "is_correct": false}
+    ],
+    "explanation": "The passage states they are 'collectively beginning to exert a tangible influence on shifting entrenched energy consumption patterns'."
+  },
+  {
+    "question_number": 16,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "A precise quantitative assessment of the growth rates reveals a pronounced disparity among non-fossil fuel sources. While both nuclear and hydroelectric power exhibited measurable increases, the exponential trajectory of renewable energy sources, especially post-2010, was demonstrably orders of magnitude steeper, indicating a fundamental divergence in their underlying growth drivers and future potential for scalability within the global energy transition, not a uniform progression.",
+    "question_stem": "What fundamental difference is indicated by the 'orders of magnitude steeper' trajectory of renewable energy compared to nuclear and hydroelectric power?",
+    "options": [
+      {"letter": "A", "text": "A uniform progression among all non-fossil fuels.", "is_correct": false},
+      {"letter": "B", "text": "A complete cessation of nuclear and hydroelectric development.", "is_correct": false},
+      {"letter": "C", "text": "A fundamental divergence in their underlying growth drivers and future potential for scalability.", "is_correct": true},
+      {"letter": "D", "text": "Their equivalent contributions to climate change mitigation.", "is_correct": false}
+    ],
+    "explanation": "The passage states this indicates 'a fundamental divergence in their underlying growth drivers and future potential for scalability'."
+  },
+  {
+    "question_number": 17,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "Notwithstanding the accelerating diversification of the global energy portfolio, the chart unequivocally corroborates that fossil fuels – comprising coal, oil, and natural gas – collectively retained an overwhelming and preponderant volumetric share of the total energy consumed throughout the entire two-decade period. This sustained reliance on conventional hydrocarbons, despite burgeoning environmental concerns and technological advancements in alternatives, highlights the formidable entrenched infrastructure and pervasive economic dependencies that characterise the current global energy system, rather than a rapid dissolution.",
+    "question_stem": "What two specific characteristics of the current global energy system are highlighted by the sustained reliance on fossil fuels?",
+    "options": [
+      {"letter": "A", "text": "Their rapid dissolution and negligible economic impact.", "is_correct": false},
+      {"letter": "B", "text": "Formidable entrenched infrastructure and pervasive economic dependencies.", "is_correct": true},
+      {"letter": "C", "text": "Minimal investment in new production and immediate replacement by renewables.", "is_correct": false},
+      {"letter": "D", "text": "A complete lack of environmental concerns and technological stagnation.", "is_correct": false}
+    ],
+    "explanation": "The passage states this reliance 'highlights the formidable entrenched infrastructure and pervasive economic dependencies'."
+  },
+  {
+    "question_number": 18,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "The precise year 2010 marks a critical inflection point for coal consumption, as it reached its absolute zenith global usage before embarking on a discernible downward trend in the subsequent decade. This pivot, rather than being an isolated statistical anomaly, reflects a confluence of factors, including evolving energy policies, heightened environmental pressures, and the increasing competitiveness of natural gas and renewable alternatives in the global energy market, collectively signalling a strategic recalibration in energy investment paradigms, not a temporary market fluctuation.",
+    "question_stem": "What is the *exact nature* of the event that occurred for coal consumption in 2010?",
+    "options": [
+      {"letter": "A", "text": "The beginning of its exponential growth phase.", "is_correct": false},
+      {"letter": "B", "text": "An isolated statistical anomaly of low consumption.", "is_correct": false},
+      {"letter": "C", "text": "Its absolute zenith global usage, followed by a downward trend.", "is_correct": true},
+      {"letter": "D", "text": "A complete cessation of its global usage.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'it reached its absolute zenith global usage before embarking on a discernible downward trend'."
+  },
+  {
+    "question_number": 19,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "The initial contribution of renewable energy sources to the overall global energy mix in 2000 was quantitatively marginal, particularly when juxtaposed against the established giants of fossil fuels. Notwithstanding this diminutive starting point, the subsequent two decades witnessed a trajectory of growth so steep that by 2020, while not yet eclipsing traditional sources in aggregate, renewables had become a force of significant and rapidly expanding relevance in the global energy landscape, challenging long-held assumptions about energy transition speed and market viability.",
+    "question_stem": "By 2020, what specific impact did the growth trajectory of renewables have on 'long-held assumptions'?",
+    "options": [
+      {"letter": "A", "text": "It confirmed the impossibility of rapid energy transition.", "is_correct": false},
+      {"letter": "B", "text": "It entirely eliminated all reliance on traditional energy sources.", "is_correct": false},
+      {"letter": "C", "text": "It challenged long-held assumptions about energy transition speed and market viability.", "is_correct": true},
+      {"letter": "D", "text": "It proved that renewables had no significant market viability.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'challenging long-held assumptions about energy transition speed and market viability'."
+  },
+  {
+    "question_number": 20,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "Oil consumption, throughout the twenty-year period, exhibited a pattern of incremental yet consistent growth, devoid of the sharp fluctuations or periods of substantial decline witnessed in some other energy categories. This relatively stable ascent, while not as dramatic as the renewable surge, unequivocally underscores the enduring, pervasive demand for oil, particularly within the transportation sector and petrochemical industries, which are inherently slower to transition to alternative energy sources due to infrastructural complexities.",
+    "question_stem": "What two specific sectors are highlighted as particularly contributing to the enduring, pervasive demand for oil?",
+    "options": [
+      {"letter": "A", "text": "Residential heating and commercial lighting.", "is_correct": false},
+      {"letter": "B", "text": "The agricultural sector and deep-sea mining.", "is_correct": false},
+      {"letter": "C", "text": "The transportation sector and petrochemical industries.", "is_correct": true},
+      {"letter": "D", "text": "The renewable energy manufacturing sector and carbon capture plants.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'particularly within the transportation sector and petrochemical industries'."
+  },
+  {
+    "question_number": 21,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "Natural gas, commencing with a lesser overall volumetric contribution than both coal and oil in 2000, subsequently embarked on a robust and consistently upward trajectory that unequivocally distinguished its growth from other fossil fuels. This dynamic expansion ultimately positioned natural gas as the dominant hydrocarbon by 2020, likely reflecting its perceived role as a 'transition fuel' due to its comparatively lower carbon emissions relative to coal, alongside abundant new discoveries and strategically expanded pipeline infrastructure, rather than a mere increase in price.",
+    "question_stem": "According to the passage, what specific roles and developments contributed to natural gas becoming the dominant hydrocarbon by 2020?",
+    "options": [
+      {"letter": "A", "text": "Its role as a primary end-use fuel in all sectors and its high price.", "is_correct": false},
+      {"letter": "B", "text": "Its perceived role as a 'transition fuel', lower carbon emissions (relative to coal), abundant new discoveries, and expanded pipeline infrastructure.", "is_correct": true},
+      {"letter": "C", "text": "A decline in global energy demand and a shift to non-fossil fuels.", "is_correct": false},
+      {"letter": "D", "text": "Exclusive governmental mandates without market influence.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'likely reflecting its perceived role as a 'transition fuel' due to its comparatively lower carbon emissions relative to coal, alongside abundant new discoveries and strategically expanded pipeline infrastructure'."
+  },
+  {
+    "question_number": 22,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "The period between 2010 and 2020 emerges as a critical decade, characterized by a pronounced acceleration in the adoption and deployment of renewable energy technologies. This significant upswing, contrasting sharply with the deceleration in coal consumption, signifies a pivotal shift in global energy investment and policy, driven by increasingly urgent climate change mitigation imperatives and the growing cost-effectiveness of renewable solutions, rather than solely by resource scarcity.",
+    "question_stem": "Beyond 'environmental imperatives', what additional, specific factor contributed to the pivotal shift towards renewable energy after 2010?",
+    "options": [
+      {"letter": "A", "text": "A sudden reduction in global energy supply.", "is_correct": false},
+      {"letter": "B", "text": "The dwindling availability of fossil fuel deposits.", "is_correct": false},
+      {"letter": "C", "text": "The growing cost-effectiveness of renewable solutions.", "is_correct": true},
+      {"letter": "D", "text": "A universal ban on all coal extraction.", "is_correct": false}
+    ],
+    "explanation": "The passage identifies 'the growing cost-effectiveness of renewable solutions' as a driver, in addition to climate change mitigation imperatives."
+  },
+  {
+    "question_number": 23,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "The unabated upward trajectory of total global energy consumption, even in the face of ongoing efforts towards energy efficiency and conservation, inherently suggests a formidable challenge for achieving global sustainability objectives. This persistent demand necessitates not only the continued diversification of energy sources but also potentially more aggressive strategies for demand-side management and the fostering of a global culture of resource austerity, beyond mere technological innovation, to comprehensively decouple growth from environmental impact.",
+    "question_stem": "Beyond 'technological innovation', what additional, more aggressive strategies are *suggested as potentially necessary* to decouple economic growth from environmental impact?",
+    "options": [
+      {"letter": "A", "text": "Complete cessation of all industrial activity.", "is_correct": false},
+      {"letter": "B", "text": "More aggressive demand-side management and fostering a global culture of resource austerity.", "is_correct": true},
+      {"letter": "C", "text": "Exclusive reliance on carbon capture technologies.", "is_correct": false},
+      {"letter": "D", "text": "A significant increase in global energy production from all sources.", "is_correct": false}
+    ],
+    "explanation": "The passage states 'necessitates... more aggressive strategies for demand-side management and the fostering of a global culture of resource austerity'."
+  },
+  {
+    "question_number": 24,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "By the conclusion of the charted twenty-year period in 2020, natural gas had ascended to a position of paramount importance among fossil fuels, unequivocally establishing itself as the most extensively consumed hydrocarbon globally. This transformative shift, from a position of secondary importance in 2000 to outright leadership, is a testament to its evolving market perception and the comprehensive technological advancements that have bolstered its production and transport infrastructure, rather than a sudden global policy change.",
+    "question_stem": "What two specific types of advancements are credited with bolstering natural gas's production and transport infrastructure?",
+    "options": [
+      {"letter": "A", "text": "Political negotiations and diplomatic agreements.", "is_correct": false},
+      {"letter": "B", "text": "Comprehensive technological advancements.", "is_correct": true},
+      {"letter": "C", "text": "Economic stagnation and reduced demand.", "is_correct": false},
+      {"letter": "D", "text": "Manual labor and outdated engineering methods.", "is_correct": false}
+    ],
+    "explanation": "The passage states it's 'a testament to its evolving market perception and the comprehensive technological advancements that have bolstered its production and transport infrastructure'."
+  },
+  {
+    "question_number": 25,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "While hydroelectric power maintained a consistent, gradual increase throughout the period, nuclear power's consumption, following an initial modest rise, subsequently demonstrated a noticeable stagnation towards the later years. This divergence highlights that scaling up established non-fossil technologies presents distinct challenges and opportunities, not a uniform path to widespread adoption, unlike the emergent rapid growth of solar and wind, implying varied developmental pathways.",
+    "question_stem": "What nuanced understanding regarding the scaling up of established non-fossil technologies is implied by the differing trajectories of nuclear and hydroelectric power?",
+    "options": [
+      {"letter": "A", "text": "They follow a uniform path to widespread adoption.", "is_correct": false},
+      {"letter": "B", "text": "They are inherently incapable of any further growth.", "is_correct": false},
+      {"letter": "C", "text": "Scaling them up presents distinct challenges and opportunities, not a uniform path.", "is_correct": true},
+      {"letter": "D", "text": "Their development pathways are identical to solar and wind.", "is_correct": false}
+    ],
+    "explanation": "The passage states, 'This divergence highlights that scaling up established non-fossil technologies presents distinct challenges and opportunities, not a uniform path to widespread adoption'."
+  },
+  {
+    "question_number": 26,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "The twenty-year timeframe of the chart, encompassing data from 2000 to 2020, is particularly instructive. This specific temporal resolution enables the discernment of both long-term, overarching trends in energy consumption, such as the persistent increase in total demand, and more granular shifts in the relative contributions of individual energy sources, including the significant rise of renewables and the nuanced dynamics within the fossil fuel complex, thereby offering a comprehensive historical perspective on energy transition and strategic policy evaluation.",
+    "question_stem": "What is the comprehensive analytical utility provided by the specific 20-year temporal resolution of the chart?",
+    "options": [
+      {"letter": "A", "text": "It restricts analysis to only short-term economic impacts.", "is_correct": false},
+      {"letter": "B", "text": "It provides data solely for academic research purposes, with no practical application.", "is_correct": false},
+      {"letter": "C", "text": "It enables discernment of long-term trends and granular shifts, offering a comprehensive historical perspective on energy transition and strategic policy evaluation.", "is_correct": true},
+      {"letter": "D", "text": "It is too short to provide any meaningful insights into energy consumption.", "is_correct": false}
+    ],
+    "explanation": "The passage states it 'enables the discernment of both long-term... and more granular shifts... thereby offering a comprehensive historical perspective on energy transition and strategic policy evaluation'."
+  },
+  {
+    "question_number": 27,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "The dramatic acceleration in the adoption of renewable energy technologies subsequent to 2010 represents a compelling indicator of a profound structural reorientation within the global energy sector. This swift pivot towards cleaner sources is not merely an environmental imperative but is increasingly underpinned by advancements in cost-efficiency, supportive policy frameworks, and a growing international consensus regarding the exigency of mitigating climate change, collectively precipitating a fundamental shift in investment away from traditional, carbon-intensive fuels, rather than being a spontaneous market phenomenon.",
+    "question_stem": "What three specific forces are described as collectively precipitating the fundamental shift in investment away from carbon-intensive fuels?",
+    "options": [
+      {"letter": "A", "text": "Resource scarcity, increased competition, and geopolitical instability.", "is_correct": false},
+      {"letter": "B", "text": "Technological stagnation, rising unemployment, and declining profits.", "is_correct": false},
+      {"letter": "C", "text": "Advancements in cost-efficiency, supportive policy frameworks, and a growing international consensus on climate change mitigation.", "is_correct": true},
+      {"letter": "D", "text": "Decreased public awareness, reduced environmental regulations, and static energy demand.", "is_correct": false}
+    ],
+    "explanation": "The passage states it is 'underpinned by advancements in cost-efficiency, supportive policy frameworks, and a growing international consensus regarding the exigency of mitigating climate change, collectively precipitating a fundamental shift in investment'."
+  },
+  {
+    "question_number": 28,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "Within the complex dynamics of fossil fuel consumption, the trajectory of natural gas stands out for its consistent and robust ascent, particularly when contrasted with the more constrained growth of oil and the eventual decline of coal. This sustained proliferation, commencing from a relatively lower volumetric base in 2000, reflects its increasing preference as a bridging fuel in the transition away from coal, facilitated by both technological advancements in extraction and strategically expanded global pipeline infrastructure, rather than a sudden global surge in demand.",
+    "question_stem": "What two specific developments facilitated the 'sustained proliferation' of natural gas, as explicitly mentioned?",
+    "options": [
+      {"letter": "A", "text": "A sudden global surge in demand and decreased environmental concerns.", "is_correct": false},
+      {"letter": "B", "text": "Technological advancements in extraction and strategically expanded global pipeline infrastructure.", "is_correct": true},
+      {"letter": "C", "text": "Its high carbon footprint and limited reserves.", "is_correct": false},
+      {"letter": "D", "text": "A complete ban on its use in industrial applications and transportation.", "is_correct": false}
+    ],
+    "explanation": "The passage states it was 'facilitated by both technological advancements in extraction and strategically expanded global pipeline infrastructure'."
+  },
+  {
+    "question_number": 29,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "The utility of the comprehensive chart extends beyond mere descriptive statistics; it serves as an invaluable analytical tool for comprehending the intricate interdependencies and evolving competitive landscapes within the global energy market. By enabling direct comparative assessments of diverse energy sources' performance over time, it precisely facilitates the identification of emerging trends, the efficacy of various energy policies, and the relative progress towards a sustainable energy future, providing a foundational empirical basis for strategic planning and informed decision-making for stakeholders.",
+    "question_stem": "According to the passage, what specific practical benefits does the chart's analytical utility provide for stakeholders?",
+    "options": [
+      {"letter": "A", "text": "It provides definitive future energy prices and geopolitical conflict predictions.", "is_correct": false},
+      {"letter": "B", "text": "It allows for speculation on energy market failures without empirical data.", "is_correct": false},
+      {"letter": "C", "text": "It facilitates the identification of emerging trends, efficacy of policies, and progress towards sustainable energy, providing a foundational empirical basis for strategic planning and informed decision-making.", "is_correct": true},
+      {"letter": "D", "text": "It exclusively highlights past governmental failures in energy policy.", "is_correct": false}
+    ],
+    "explanation": "The passage states it 'facilitates the identification of emerging trends, the efficacy of various energy policies, and the relative progress towards a sustainable energy future, providing a foundational empirical basis for strategic planning and informed decision-making'."
+  },
+  {
+    "question_number": 30,
+    "difficulty": "hard",
+    "type": "Identifying Information",
+    "passage": "The overarching narrative conveyed by the twenty-year energy consumption chart is one of a global energy system in pronounced flux, albeit one characterized by significant structural inertia. While there is compelling empirical evidence of a concerted, accelerating transition towards cleaner and more sustainable energy sources, the enduring and substantial volumetric reliance on conventional fossil fuels simultaneously underscores the formidable challenges inherent in a comprehensive global energy transformation, suggesting a prolonged period of parallel energy economies and policy complexities, rather than an imminent complete overhaul.",
+    "question_stem": "What is the precise nature of the global energy system's state as conveyed by the chart, especially concerning the interplay of clean and fossil fuels?",
+    "options": [
+      {"letter": "A", "text": "A rapid and complete global overhaul, eliminating all fossil fuels.", "is_correct": false},
+      {"letter": "B", "text": "A static system with no discernible progress towards clean energy.", "is_correct": false},
+      {"letter": "C", "text": "A system in pronounced flux with accelerating clean energy transition, but also enduring and substantial reliance on fossil fuels, suggesting a prolonged period of parallel energy economies and policy complexities.", "is_correct": true},
+      {"letter": "D", "text": "An energy system regressing to outdated technologies, with no new developments.", "is_correct": false}
+    ],
+    "explanation": "The passage describes it as 'A global energy system in pronounced flux, albeit one characterized by significant structural inertia. While there is compelling empirical evidence of a concerted, accelerating transition towards cleaner... the enduring and substantial volumetric reliance on conventional fossil fuels simultaneously underscores the formidable challenges... suggesting a prolonged period of parallel energy economies and policy complexities'."
+  }
+]
+}
