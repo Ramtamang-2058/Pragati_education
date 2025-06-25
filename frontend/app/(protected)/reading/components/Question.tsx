@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 
 interface Option {
   letter: string;
@@ -14,6 +14,7 @@ interface QuestionProps {
   explanation: string;
   videoUrl?: string;
   downloadUrl?: string;
+  onCorrectAnswer?: () => void;
 }
 
 const Question = ({ 
@@ -23,58 +24,43 @@ const Question = ({
   options,
   explanation,
   videoUrl,
-  downloadUrl
+  downloadUrl,
+  onCorrectAnswer
 }: QuestionProps) => {
-  const [selectedOptions, setSelectedOptions] = useState<string[]>([]);
+  const [inputValue, setInputValue] = useState('');
   const [showExplanation, setShowExplanation] = useState(false);
+  const [feedback, setFeedback] = useState<string | null>(null);
 
-  const handleOptionClick = (letter: string) => {
-    setSelectedOptions(prev => 
-      prev.includes(letter)
-        ? prev.filter(l => l !== letter)
-        : [...prev, letter]
-    );
+  // Reset input and feedback when question changes
+  useEffect(() => {
+    setInputValue('');
+    setFeedback(null);
+    setShowExplanation(false);
+  }, [question_number]);
+
+  const handleSubmit = () => {
+    const answer = inputValue.trim().toLowerCase();
+    const correctOption = options.find(opt => opt.is_correct);
+    if (!correctOption) {
+      setFeedback(null);
+      return;
+    }
+    // Accept either letter or text as correct answer
+    if (
+      answer === correctOption.letter.trim().toLowerCase() ||
+      answer === correctOption.text.trim().toLowerCase()
+    ) {
+      setFeedback("Correct answer!");
+      if (onCorrectAnswer) onCorrectAnswer();
+    } else {
+      setFeedback("Incorrect answer.");
+    }
   };
 
   return (
     <div className="max-w-4xl mx-auto p-6 space-y-6">
       <div className="bg-white rounded-lg shadow-lg p-6">
         <h2 className="text-2xl font-bold mb-4">Question {question_number}</h2>
-        
-        {/* Resources section */}
-        {(videoUrl || downloadUrl) && (
-          <div className="mb-6">
-            <h3 className="text-lg font-semibold mb-2 text-gray-800">Resources</h3>
-            <div className="flex flex-col md:flex-row gap-6 items-start">
-              {videoUrl && (
-                <div className="w-full md:w-2/3">
-                  <div className="aspect-video bg-gray-200 rounded-lg overflow-hidden mb-2">
-                    <iframe
-                      width="100%"
-                      height="315"
-                      src={videoUrl}
-                      title="YouTube video player"
-                      frameBorder="0"
-                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                      allowFullScreen
-                    ></iframe>
-                  </div>
-                </div>
-              )}
-              {downloadUrl && (
-                <div className="w-full md:w-1/3 flex flex-col gap-4">
-                  <a
-                    href={downloadUrl}
-                    download
-                    className="inline-block px-6 py-3 bg-blue-600 text-white rounded-lg font-semibold shadow hover:bg-blue-700 transition"
-                  >
-                    Download Printable Materials
-                  </a>
-                </div>
-              )}
-            </div>
-          </div>
-        )}
 
         <div className="bg-gray-50 p-4 rounded-lg mb-6">
           <p className="text-gray-800">{passage}</p>
@@ -83,22 +69,35 @@ const Question = ({
         <div className="mb-6">
           <p className="font-semibold mb-4">{question_stem}</p>
           
-          <div className="space-y-3">
+          {/* Show options as non-selectable */}
+          <div className="space-y-3 mb-4">
             {options.map((option) => (
               <div
                 key={option.letter}
-                onClick={() => handleOptionClick(option.letter)}
-                className={`p-3 rounded-lg cursor-pointer border-2 transition-colors
-                  ${selectedOptions.includes(option.letter)
-                    ? 'border-blue-500 bg-blue-50'
-                    : 'border-gray-200 hover:border-blue-300'
-                  }`}
+                className="p-3 rounded-lg border-2 border-gray-200 bg-gray-50 flex items-center"
               >
                 <span className="font-medium mr-2">{option.letter}.</span>
                 {option.text}
               </div>
             ))}
           </div>
+
+          {/* Input for user answer */}
+          <input
+            type="text"
+            className="w-full px-4 py-2 border rounded-lg mb-2"
+            placeholder="Type your answer here..."
+            value={inputValue}
+            onChange={e => {
+              setInputValue(e.target.value);
+              setFeedback(null);
+            }}
+          />
+          {feedback && (
+            <div className={`mb-2 font-semibold ${feedback === "Correct answer!" ? "text-green-600" : "text-red-600"}`}>
+              {feedback}
+            </div>
+          )}
         </div>
 
         <div className="flex justify-between">
@@ -111,6 +110,7 @@ const Question = ({
           
           <button
             className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700"
+            onClick={handleSubmit}
           >
             Submit
           </button>
