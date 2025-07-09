@@ -13,7 +13,7 @@ const Page = () => {
     setSelectedType(type);
   };
 
-  const handleLevelSelect = (level: "easy" | "medium" | "hard") => {
+  const handleLevelSele`ct = (level: "easy" | "medium" | "hard") => {
     setCurrentLevel(level);
   };
 

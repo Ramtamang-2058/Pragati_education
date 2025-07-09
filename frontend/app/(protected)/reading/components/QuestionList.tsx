@@ -1,8 +1,8 @@
 // app/(protected)/reading/components/QuestionList.tsx
 "use client";
-import { useEffect, useState } from "react";
-import axios from "axios";
-import { useRouter } from "next/navigation";
+import { useState, useEffect } from "react";
+import { ResourceTab, resourcesMap } from "./ResourceComponent";
+import Question from "./Question";
 
 type QuestionStatus = "completed" | "inProgress" | "notStarted";
 
@@ -17,29 +17,119 @@ interface QuestionListProps {
   level: "easy" | "medium" | "hard";
 }
 
-export const QuestionList = ({ questionType, level }: QuestionListProps) => {
-  const [questions, setQuestions] = useState<Question[]>([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
-  const router = useRouter();
+// Track status and score per question type and question number
+type StatusMap = Record<
+  string, // questionType
+  Record<number, { status: QuestionStatus; score?: number }>
+>;
 
+export const QuestionList = ({
+  questionType,
+  level,
+  onStartTest,
+  onContinueTest,
+  onViewResults,
+  onQuestionClick,
+}: QuestionListProps) => {
+  const [selectedQuestion, setSelectedQuestion] = useState<number | null>(null);
+  const [mcqQuestions, setMcqQuestions] = useState<any[]>([]);
+  const [loading, setLoading] = useState(false);
+
+  // Track status/score for each question type and question number
+  const [questionStatus, setQuestionStatus] = useState<StatusMap>({});
+
+  // Load MCQ questions from JSON when needed
   useEffect(() => {
-    const fetchQuestions = async () => {
-      try {
-        setLoading(true);
-        setError(null);
-        const response = await axios.get('http://localhost:8000/api/questions/', {
-          params: { level, question_type: questionType },
+    if (questionType === "Multiple Choice Questions") {
+      setLoading(true);
+      import("./Questions/Multiple_Choice.json")
+        .then((mod) => {
+          // mod.default is the JSON object
+          const questions = mod.default?.[level] || [];
+          setMcqQuestions(questions);
+        })
+        .finally(() => setLoading(false));
+    }
+  }, [questionType, level]);
+
+  // Build questions array as before, but use per-type status/score
+  const questions: (Question & {
+    question_number: number;
+    passage: string;
+    question_stem: string;
+    options: { letter: string; text: string; is_correct?: boolean }[];
+    explanation: string;
+  })[] =
+    questionType === "Multiple Choice Questions"
+      ? mcqQuestions.map((q, idx) => {
+          const qNum = q.question_number ?? idx + 1;
+          const statusObj = questionStatus[questionType]?.[qNum] || {
+            status: "notStarted",
+          };
+          return {
+            id: qNum,
+            status: statusObj.status,
+            score: statusObj.score,
+            question_number: qNum,
+            passage: q.passage,
+            question_stem: q.question_stem,
+            options: q.options,
+            explanation: q.explanation,
+          };
+        })
+      : Array.from({ length: 30 }, (_, i) => {
+          const qNum = i + 1;
+          const statusObj = questionStatus[questionType]?.[qNum] || {
+            status: "notStarted",
+          };
+          return {
+            id: qNum,
+            status: statusObj.status,
+            score: statusObj.score,
+            question_number: qNum,
+            passage: `Sample passage for question ${qNum}`,
+            question_stem: `What is the answer to question ${qNum}?`,
+            options: [
+              { letter: "A", text: "Option A" },
+              { letter: "B", text: "Option B" },
+              { letter: "C", text: "Option C" },
+              { letter: "D", text: "Option D" },
+            ],
+            explanation: `Explanation for question ${qNum}.`,
+          };
         });
-        setQuestions(response.data);
-      } catch (err) {
-        setError("Failed to load questions. Please try again.");
-      } finally {
-        setLoading(false);
-      }
-    };
-    fetchQuestions();
-  }, [level, questionType]);
+
+  // When a question is opened, mark as inProgress if not completed
+  useEffect(() => {
+    if (selectedQuestion !== null) {
+      setQuestionStatus((prev) => {
+        const prevType = prev[questionType] || {};
+        const current = prevType[selectedQuestion];
+        if (current?.status === "completed") return prev;
+        return {
+          ...prev,
+          [questionType]: {
+            ...prevType,
+            [selectedQuestion]: { ...current, status: "inProgress" },
+          },
+        };
+      });
+    }
+  }, [selectedQuestion, questionType]);
+
+  // Handler for correct answer submission
+  const handleQuestionCompleted = (question_number: number, score?: number) => {
+    setQuestionStatus((prev) => {
+      const prevType = prev[questionType] || {};
+      return {
+        ...prev,
+        [questionType]: {
+          ...prevType,
+          [question_number]: { status: "completed", score },
+        },
+      };
+    });
+  };
 
   const getStatusStyle = (status: QuestionStatus) => {
     switch (status) {
@@ -67,27 +157,83 @@ export const QuestionList = ({ questionType, level }: QuestionListProps) => {
     router.push(`/reading/question/${questionId}`);
   };
 
-  if (loading) return <div className="text-center py-8">Loading questions...</div>;
-  if (error) return <div className="text-center py-8 text-red-600">{error}</div>;
+  if (selectedQuestion !== null) {
+    const q = questions[selectedQuestion - 1];
+    const options =
+      q.options?.map((opt: any) => ({
+        letter: opt.letter,
+        text: opt.text,
+        is_correct: opt.is_correct ?? false,
+      })) || [];
+    return (
+      <div>
+        <button
+          className="mb-4 px-4 py-2 bg-gray-200 rounded hover:bg-gray-300"
+          onClick={() => setSelectedQuestion(null)}
+        >
+          ← Back to List
+        </button>
+        <Question
+          question_number={q.question_number}
+          passage={q.passage}
+          question_stem={q.question_stem}
+          options={options}
+          explanation={q.explanation}
+          onCorrectAnswer={() => handleQuestionCompleted(q.question_number)}
+        />
+        {/* Navigation buttons */}
+        <div className="flex justify-between mt-6">
+          <button
+            className="px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 disabled:opacity-50"
+            onClick={() => setSelectedQuestion(selectedQuestion - 1)}
+            disabled={selectedQuestion <= 1}
+          >
+            ← Previous Question
+          </button>
+          <button
+            className="px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 disabled:opacity-50"
+            onClick={() => setSelectedQuestion(selectedQuestion + 1)}
+            disabled={selectedQuestion >= questions.length}
+          >
+            Next Question →
+          </button>
+        </div>
+      </div>
+    );
+  }
 
   return (
-    <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
-      {questions.map((question) => (
-        <div
-          key={question.id}
-          onClick={() => handleQuestionClick(question.id)}
-          className={`w-24 h-24 border-2 rounded-2xl flex flex-col items-center justify-center transition-all cursor-pointer
-            ${getStatusStyle(question.status)}
-            ${question.status !== "notStarted" ? "hover:scale-105 hover:shadow-xl" : "opacity-60"}
-          `}
-        >
-          <span className="text-xl mb-1">{getStatusIcon(question.status)}</span>
-          <div className="text-lg font-semibold">{question.id}</div>
-          {question.status === "completed" && question.score !== undefined && (
-            <span className="text-xs font-medium">{question.score}%</span>
-          )}
+    <div>
+      {/* Show resources only in the question list/grid view */}
+      {resourcesMap[questionType] && (
+        <ResourceTab
+          videoUrl={resourcesMap[questionType].videoUrl}
+          downloadUrl={resourcesMap[questionType].downloadUrl}
+        />
+      )}
+      {loading && questionType === "Multiple Choice Questions" ? (
+        <div className="text-center py-8 text-gray-500">Loading questions...</div>
+      ) : (
+        <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-6">
+          {questions.map((question) => (
+            <div
+              key={question.id}
+              className={`flex flex-col items-center justify-center border rounded-lg p-4 cursor-pointer transition-all duration-200 ${getStatusStyle(
+                question.status
+              )}`}
+              onClick={() => setSelectedQuestion(question.id)}
+            >
+              <div className="text-lg font-semibold">{question.id}</div>
+              {question.status === "completed" && question.score !== undefined && (
+                <span className="text-xs font-medium">{question.score}%</span>
+              )}
+              {getActionButton(question.status, question.id)}
+            </div>
+          ))}
         </div>
-      ))}
+      )}
     </div>
   );
 };
+
+export default QuestionList;

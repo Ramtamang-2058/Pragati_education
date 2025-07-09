@@ -1,0 +1,1268 @@
+{
+    "easy": [
+  {
+    "question_number": 1,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The significant rise in renewable energy consumption from 2000 to 2020 is a truly encouraging development. It shows a positive shift in our global energy approach.",
+    "question_stem": "What is the writer's view on the rise of renewable energy?",
+    "options": [
+      {"letter": "A", "text": "It is a worrying trend.", "is_correct": false},
+      {"letter": "B", "text": "It is an encouraging development.", "is_correct": true},
+      {"letter": "C", "text": "It is largely irrelevant.", "is_correct": false},
+      {"letter": "D", "text": "It indicates a decline in total energy.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'truly encouraging development' directly expresses the writer's positive view."
+  },
+  {
+    "question_number": 2,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "Despite some increases, the limited growth of nuclear power over the two decades is somewhat disappointing for those hoping for rapid decarbonization.",
+    "question_stem": "What is the writer's attitude towards the growth of nuclear power?",
+    "options": [
+      {"letter": "A", "text": "Optimistic.", "is_correct": false},
+      {"letter": "B", "text": "Enthusiastic.", "is_correct": false},
+      {"letter": "C", "text": "Somewhat disappointing.", "is_correct": true},
+      {"letter": "D", "text": "Indifferent.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'somewhat disappointing' directly conveys the writer's attitude."
+  },
+  {
+    "question_number": 3,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The persistent dominance of fossil fuels, particularly oil and coal, throughout the entire period is a concerning reality that poses challenges for environmental goals.",
+    "question_stem": "How does the writer view the continued dominance of fossil fuels?",
+    "options": [
+      {"letter": "A", "text": "As a positive sign of stability.", "is_correct": false},
+      {"letter": "B", "text": "As a concerning reality.", "is_correct": true},
+      {"letter": "C", "text": "As an unexpected outcome.", "is_correct": false},
+      {"letter": "D", "text": "As beneficial for economic growth.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'concerning reality' clearly indicates the writer's negative view."
+  },
+  {
+    "question_number": 4,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The substantial increase in natural gas consumption is a noteworthy trend, suggesting a gradual move towards slightly cleaner fossil fuel alternatives.",
+    "question_stem": "What is the writer's opinion on the increase in natural gas consumption?",
+    "options": [
+      {"letter": "A", "text": "It is insignificant.", "is_correct": false},
+      {"letter": "B", "text": "It is a negative development.", "is_correct": false},
+      {"letter": "C", "text": "It is a noteworthy trend.", "is_correct": true},
+      {"letter": "D", "text": "It has no impact on environmental goals.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'a noteworthy trend' indicates the writer sees it as important and positive in a relative sense."
+  },
+  {
+    "question_number": 5,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The overall increase in global energy demand over the two decades is undeniable, highlighting the continuous pressure on energy resources.",
+    "question_stem": "How does the writer describe the increase in global energy demand?",
+    "options": [
+      {"letter": "A", "text": "As negligible.", "is_correct": false},
+      {"letter": "B", "text": "As undeniable.", "is_correct": true},
+      {"letter": "C", "text": "As surprising.", "is_correct": false},
+      {"letter": "D", "text": "As easily managed.", "is_correct": false}
+    ],
+    "explanation": "The word 'undeniable' directly reflects the writer's view on the certainty of the increase."
+  },
+  {
+    "question_number": 6,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The initial high dependence on coal in 2000 was a significant challenge for environmental sustainability, given its high carbon footprint.",
+    "question_stem": "What is the writer's view on the initial high dependence on coal?",
+    "options": [
+      {"letter": "A", "text": "It was economically advantageous.", "is_correct": false},
+      {"letter": "B", "text": "It was a significant challenge for sustainability.", "is_correct": true},
+      {"letter": "C", "text": "It had no environmental implications.", "is_correct": false},
+      {"letter": "D", "text": "It was an unavoidable necessity.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'significant challenge for environmental sustainability' expresses the writer's negative view."
+  },
+  {
+    "question_number": 7,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The rapid acceleration of solar and wind power post-2010 is truly promising for the future of clean energy.",
+    "question_stem": "How does the writer feel about the acceleration of solar and wind power?",
+    "options": [
+      {"letter": "A", "text": "Indifferent.", "is_correct": false},
+      {"letter": "B", "text": "Pessimistic.", "is_correct": false},
+      {"letter": "C", "text": "Promising.", "is_correct": true},
+      {"letter": "D", "text": "Alarmed.", "is_correct": false}
+    ],
+    "explanation": "The word 'promising' clearly conveys the writer's positive outlook."
+  },
+  {
+    "question_number": 8,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The slight decline in coal consumption after 2010, while modest, represents a welcome development in the global energy transition.",
+    "question_stem": "What is the writer's stance on the slight decline in coal consumption?",
+    "options": [
+      {"letter": "A", "text": "It is concerning.", "is_correct": false},
+      {"letter": "B", "text": "It is a negative trend.", "is_correct": false},
+      {"letter": "C", "text": "It is a welcome development.", "is_correct": true},
+      {"letter": "D", "text": "It is insignificant.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'a welcome development' expresses the writer's positive view."
+  },
+  {
+    "question_number": 9,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The consistent, albeit gradual, increase in hydroelectric power is a stable and reliable aspect of the energy mix, which is commendable.",
+    "question_stem": "How does the writer view the increase in hydroelectric power?",
+    "options": [
+      {"letter": "A", "text": "As unstable.", "is_correct": false},
+      {"letter": "B", "text": "As problematic.", "is_correct": false},
+      {"letter": "C", "text": "As commendable.", "is_correct": true},
+      {"letter": "D", "text": "As negligible.", "is_correct": false}
+    ],
+    "explanation": "The word 'commendable' indicates the writer's positive evaluation."
+  },
+  {
+    "question_number": 10,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The fact that fossil fuels still constitute the majority of global energy consumption by 2020 is a stark reminder of the challenges ahead for decarbonization.",
+    "question_stem": "What is the writer's attitude towards the continued majority share of fossil fuels by 2020?",
+    "options": [
+      {"letter": "A", "text": "Optimistic about rapid change.", "is_correct": false},
+      {"letter": "B", "text": "Indifferent to the outcome.", "is_correct": false},
+      {"letter": "C", "text": "It is a stark reminder of challenges.", "is_correct": true},
+      {"letter": "D", "text": "It indicates an easy path forward.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'stark reminder of the challenges ahead' clearly shows the writer's concern."
+  },
+  {
+    "question_number": 11,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The period from 2000 to 2020 shows a clear need for more proactive energy policies to tackle climate change effectively.",
+    "question_stem": "What does the writer believe is needed based on the period's trends?",
+    "options": [
+      {"letter": "A", "text": "Less government intervention.", "is_correct": false},
+      {"letter": "B", "text": "More proactive energy policies.", "is_correct": true},
+      {"letter": "C", "text": "A return to coal dominance.", "is_correct": false},
+      {"letter": "D", "text": "No significant changes.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'clear need for more proactive energy policies' directly states the writer's belief."
+  },
+  {
+    "question_number": 12,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The limited expansion of nuclear power reflects an area where greater investment might have yielded more positive results for low-carbon energy.",
+    "question_stem": "What is the writer's implicit view on nuclear power's growth?",
+    "options": [
+      {"letter": "A", "text": "It was too rapid.", "is_correct": false},
+      {"letter": "B", "text": "It was sufficiently effective.", "is_correct": false},
+      {"letter": "C", "text": "It could have been more positive with more investment.", "is_correct": true},
+      {"letter": "D", "text": "It posed significant environmental risks.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'greater investment might have yielded more positive results' suggests the writer believes current growth is less than ideal and could be improved."
+  },
+  {
+    "question_number": 13,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The increasing prominence of natural gas as the leading fossil fuel by 2020, while a cleaner alternative to coal, still highlights the ongoing reliance on carbon-emitting sources.",
+    "question_stem": "What is the writer's overall view on natural gas becoming the leading fossil fuel?",
+    "options": [
+      {"letter": "A", "text": "It solves all energy problems.", "is_correct": false},
+      {"letter": "B", "text": "It is a perfectly clean solution.", "is_correct": false},
+      {"letter": "C", "text": "It is a 'cleaner' step but still problematic due to carbon emissions.", "is_correct": true},
+      {"letter": "D", "text": "It is a sign of complete energy transition.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'still highlights the ongoing reliance on carbon-emitting sources' indicates a nuanced, somewhat critical, view despite acknowledging it's 'cleaner'."
+  },
+  {
+    "question_number": 14,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The rapid growth of renewables post-2010 is compelling and signals a clear direction for global energy investment in the future.",
+    "question_stem": "What does the writer believe the rapid growth of renewables signals?",
+    "options": [
+      {"letter": "A", "text": "A temporary market anomaly.", "is_correct": false},
+      {"letter": "B", "text": "A clear direction for future energy investment.", "is_correct": true},
+      {"letter": "C", "text": "A risky and uncertain path.", "is_correct": false},
+      {"letter": "D", "text": "No significant long-term impact.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'signals a clear direction for global energy investment' directly states the writer's belief."
+  },
+  {
+    "question_number": 15,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The continued, if gradual, increase in oil consumption indicates a persistent challenge in shifting away from this deeply entrenched energy source.",
+    "question_stem": "How does the writer view the continued increase in oil consumption?",
+    "options": [
+      {"letter": "A", "text": "As a sign of effortless transition.", "is_correct": false},
+      {"letter": "B", "text": "As a major success for energy policy.", "is_correct": false},
+      {"letter": "C", "text": "As a persistent challenge.", "is_correct": true},
+      {"letter": "D", "text": "As entirely expected and positive.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'a persistent challenge' clearly expresses the writer's view."
+  },
+  {
+    "question_number": 16,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The global nature of the energy consumption trends means that solutions must be equally global and collaborative to be effective.",
+    "question_stem": "What is the writer's view on the nature of solutions for global energy challenges?",
+    "options": [
+      {"letter": "A", "text": "They should be localized and individual.", "is_correct": false},
+      {"letter": "B", "text": "They must be global and collaborative.", "is_correct": true},
+      {"letter": "C", "text": "They are irrelevant.", "is_correct": false},
+      {"letter": "D", "text": "They only require technological fixes.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'must be equally global and collaborative to be effective' directly conveys the writer's view."
+  },
+  {
+    "question_number": 17,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The declining trend of coal consumption after 2010, while not drastic, offers a glimmer of hope for reducing carbon emissions.",
+    "question_stem": "How does the writer perceive the declining coal consumption?",
+    "options": [
+      {"letter": "A", "text": "As completely negative.", "is_correct": false},
+      {"letter": "B", "text": "As a major setback.", "is_correct": false},
+      {"letter": "C", "text": "As a glimmer of hope.", "is_correct": true},
+      {"letter": "D", "text": "As too minor to be important.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'offers a glimmer of hope' clearly indicates a positive outlook."
+  },
+  {
+    "question_number": 18,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The dramatic increase in renewable energy, despite its low starting point, proves that ambitious targets for clean energy are achievable.",
+    "question_stem": "What does the writer believe the growth of renewables proves?",
+    "options": [
+      {"letter": "A", "text": "Clean energy targets are impossible.", "is_correct": false},
+      {"letter": "B", "text": "Ambitious clean energy targets are achievable.", "is_correct": true},
+      {"letter": "C", "text": "Only fossil fuels are viable.", "is_correct": false},
+      {"letter": "D", "text": "The energy market is unpredictable.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'proves that ambitious targets for clean energy are achievable' directly states the writer's view."
+  },
+  {
+    "question_number": 19,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The stagnation of nuclear power consumption is a missed opportunity for a significant low-carbon energy source.",
+    "question_stem": "How does the writer characterize the stagnation of nuclear power?",
+    "options": [
+      {"letter": "A", "text": "As a successful outcome.", "is_correct": false},
+      {"letter": "B", "text": "As a necessary development.", "is_correct": false},
+      {"letter": "C", "text": "As a missed opportunity.", "is_correct": true},
+      {"letter": "D", "text": "As beneficial for the environment.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'a missed opportunity' expresses the writer's negative evaluation."
+  },
+  {
+    "question_number": 20,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The shift towards natural gas, while better than coal, highlights that the transition away from fossil fuels is slow and incremental, requiring patience and further effort.",
+    "question_stem": "What is the writer's view on the pace of transition away from fossil fuels?",
+    "options": [
+      {"letter": "A", "text": "It is extremely fast.", "is_correct": false},
+      {"letter": "B", "text": "It is slow and incremental.", "is_correct": true},
+      {"letter": "C", "text": "It is not happening at all.", "is_correct": false},
+      {"letter": "D", "text": "It has already succeeded.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'slow and incremental' directly describes the writer's view on the pace."
+  },
+  {
+    "question_number": 21,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The two-decade snapshot provided by the chart is invaluable for understanding past trends and informing future energy policy decisions.",
+    "question_stem": "How does the writer view the utility of the chart's timeframe?",
+    "options": [
+      {"letter": "A", "text": "It is confusing and unhelpful.", "is_correct": false},
+      {"letter": "B", "text": "It is too short to be meaningful.", "is_correct": false},
+      {"letter": "C", "text": "It is invaluable for understanding and informing policy.", "is_correct": true},
+      {"letter": "D", "text": "It misrepresents the data.", "is_correct": false}
+    ],
+    "explanation": "The word 'invaluable' directly expresses the writer's positive view on its utility."
+  },
+  {
+    "question_number": 22,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The sustained growth in overall energy consumption is a clear indication that global development continues to drive demand.",
+    "question_stem": "What does the writer see as the driver for sustained growth in overall energy consumption?",
+    "options": [
+      {"letter": "A", "text": "A decrease in global population.", "is_correct": false},
+      {"letter": "B", "text": "Global development.", "is_correct": true},
+      {"letter": "C", "text": "Reduced industrial activity.", "is_correct": false},
+      {"letter": "D", "text": "Energy conservation efforts.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'clear indication that global development continues to drive demand' directly states the writer's view."
+  },
+  {
+    "question_number": 23,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The increasing share of renewables, even while starting from a low base, is a testament to technological progress and policy support.",
+    "question_stem": "What does the writer consider the increasing share of renewables to be a 'testament to'?",
+    "options": [
+      {"letter": "A", "text": "Market failure.", "is_correct": false},
+      {"letter": "B", "text": "Technological progress and policy support.", "is_correct": true},
+      {"letter": "C", "text": "Economic stagnation.", "is_correct": false},
+      {"letter": "D", "text": "Unforeseen circumstances.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'a testament to technological progress and policy support' clearly indicates the writer's positive attribution."
+  },
+  {
+    "question_number": 24,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The ongoing, yet slow, nature of energy transition underscores the immense scale of the global challenge. It's a complex task.",
+    "question_stem": "How does the writer characterize the energy transition?",
+    "options": [
+      {"letter": "A", "text": "Simple and quick.", "is_correct": false},
+      {"letter": "B", "text": "Non-existent.", "is_correct": false},
+      {"letter": "C", "text": "An immense and complex task.", "is_correct": true},
+      {"letter": "D", "text": "Already completed.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'underscores the immense scale of the global challenge. It's a complex task' directly states the writer's view."
+  },
+  {
+    "question_number": 25,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The continued reliance on oil, despite calls for diversification, indicates a deeply entrenched dependence that will be difficult to overcome quickly.",
+    "question_stem": "What does the writer believe about the reliance on oil?",
+    "options": [
+      {"letter": "A", "text": "It is easily overcome.", "is_correct": false},
+      {"letter": "B", "text": "It is a sign of rapid change.", "is_correct": false},
+      {"letter": "C", "text": "It is a deeply entrenched dependence difficult to overcome quickly.", "is_correct": true},
+      {"letter": "D", "text": "It is environmentally harmless.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'deeply entrenched dependence that will be difficult to overcome quickly' expresses the writer's view."
+  },
+  {
+    "question_number": 26,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The contrast between the decline of coal and the rise of natural gas and renewables highlights a positive, if incomplete, shift towards cleaner energy options.",
+    "question_stem": "What is the writer's view on the contrast between coal's decline and the rise of natural gas/renewables?",
+    "options": [
+      {"letter": "A", "text": "It is a negative sign for the future.", "is_correct": false},
+      {"letter": "B", "text": "It shows no meaningful change.", "is_correct": false},
+      {"letter": "C", "text": "It highlights a positive, if incomplete, shift.", "is_correct": true},
+      {"letter": "D", "text": "It suggests a return to older technologies.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'highlights a positive, if incomplete, shift' directly expresses the writer's view."
+  },
+  {
+    "question_number": 27,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The limited pace of growth for hydroelectric power, despite its clean nature, underscores the infrastructural challenges associated with large-scale projects.",
+    "question_stem": "What does the writer imply about the growth of hydroelectric power?",
+    "options": [
+      {"letter": "A", "text": "It is growing too fast.", "is_correct": false},
+      {"letter": "B", "text": "It is unhindered by challenges.", "is_correct": false},
+      {"letter": "C", "text": "It is limited by infrastructural challenges.", "is_correct": true},
+      {"letter": "D", "text": "It is unimportant.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'underscores the infrastructural challenges' indicates the writer's implied view of a barrier."
+  },
+  {
+    "question_number": 28,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The data from 2000-2020 clearly supports the argument that global energy policy requires urgent and sustained attention.",
+    "question_stem": "What does the writer believe the data from 2000-2020 supports regarding energy policy?",
+    "options": [
+      {"letter": "A", "text": "That policy changes are unnecessary.", "is_correct": false},
+      {"letter": "B", "text": "That global energy policy requires urgent and sustained attention.", "is_correct": true},
+      {"letter": "C", "text": "That past policies have been perfect.", "is_correct": false},
+      {"letter": "D", "text": "That energy is no longer a policy concern.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'clearly supports the argument that global energy policy requires urgent and sustained attention' directly states the writer's view."
+  },
+  {
+    "question_number": 29,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The relatively slow growth of nuclear power is perhaps surprising, given its potential for clean base-load energy.",
+    "question_stem": "How does the writer describe the slow growth of nuclear power?",
+    "options": [
+      {"letter": "A", "text": "As expected.", "is_correct": false},
+      {"letter": "B", "text": "As unproblematic.", "is_correct": false},
+      {"letter": "C", "text": "As perhaps surprising.", "is_correct": true},
+      {"letter": "D", "text": "As a positive indicator.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'perhaps surprising' indicates the writer's view."
+  },
+  {
+    "question_number": 30,
+    "difficulty": "easy",
+    "type": "Identifying Writer's View",
+    "passage": "The shift in fossil fuel dominance from coal/oil to natural gas represents a pragmatic step forward, even if it's not the ultimate solution for sustainability.",
+    "question_stem": "How does the writer view the shift to natural gas dominance among fossil fuels?",
+    "options": [
+      {"letter": "A", "text": "As a regressive step.", "is_correct": false},
+      {"letter": "B", "text": "As a complete solution to sustainability.", "is_correct": false},
+      {"letter": "C", "text": "As a pragmatic step forward.", "is_correct": true},
+      {"letter": "D", "text": "As irrelevant to sustainability.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'a pragmatic step forward' clearly indicates the writer's positive, yet qualified, view."
+  }
+],
+    "medium": [
+  {
+    "question_number": 1,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The prodigious acceleration in renewable energy consumption post-2010 stands as a beacon of progress within the global energy landscape, demonstrating that ambitious clean energy goals are not merely aspirational but demonstrably achievable with concerted effort.",
+    "question_stem": "What is the writer's underlying sentiment regarding the acceleration of renewable energy consumption?",
+    "options": [
+      {"letter": "A", "text": "Scepticism about its long-term viability.", "is_correct": false},
+      {"letter": "B", "text": "An acknowledgment of its limited impact.", "is_correct": false},
+      {"letter": "C", "text": "Optimism about the achievability of clean energy goals.", "is_correct": true},
+      {"letter": "D", "text": "Concern over its rapid, uncontrolled expansion.", "is_correct": false}
+    ],
+    "explanation": "Phrases like 'beacon of progress' and 'demonstrably achievable' strongly convey an optimistic and positive sentiment about clean energy goals."
+  },
+  {
+    "question_number": 2,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "Despite the undeniable growth in certain low-carbon sources, the sustained and overwhelming volumetric reliance on fossil fuels throughout the period underscores the formidable inertia of existing energy infrastructures, posing a significant hurdle to a truly transformative energy transition.",
+    "question_stem": "How does the writer characterize the continued reliance on fossil fuels?",
+    "options": [
+      {"letter": "A", "text": "As an easily surmountable obstacle.", "is_correct": false},
+      {"letter": "B", "text": "As an insignificant detail in the broader transition.", "is_correct": false},
+      {"letter": "C", "text": "As a formidable hurdle due to existing infrastructure.", "is_correct": true},
+      {"letter": "D", "text": "As a temporary phase that will quickly resolve itself.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'formidable inertia of existing energy infrastructures, posing a significant hurdle' clearly indicates the writer sees it as a major challenge."
+  },
+  {
+    "question_number": 3,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The trajectory of nuclear power, plateauing after a modest initial ascent, serves as a poignant reminder of the intricate regulatory and financial complexities that can impede the large-scale deployment of even highly efficient, low-carbon technologies.",
+    "question_stem": "What is the writer's implied attitude towards the impediments to nuclear power's growth?",
+    "options": [
+      {"letter": "A", "text": "They are negligible and easily overcome.", "is_correct": false},
+      {"letter": "B", "text": "They are necessary and beneficial for safety.", "is_correct": false},
+      {"letter": "C", "text": "They are significant and serve as a 'poignant reminder' of complexities.", "is_correct": true},
+      {"letter": "D", "text": "They are largely misunderstood and exaggerated.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'poignant reminder of the intricate regulatory and financial complexities' conveys that these impediments are significant and noteworthy from the writer's perspective."
+  },
+  {
+    "question_number": 4,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "While natural gas's ascension to the dominant fossil fuel offers a marginal environmental improvement over coal, it is crucial not to misinterpret this as a definitive solution to climate change, as it remains a significant contributor to greenhouse gas emissions.",
+    "question_stem": "What is the writer's cautionary view regarding natural gas's dominance?",
+    "options": [
+      {"letter": "A", "text": "It is a definitive solution to climate change.", "is_correct": false},
+      {"letter": "B", "text": "It has no environmental benefits whatsoever.", "is_correct": false},
+      {"letter": "C", "text": "It is a marginal improvement but not a definitive solution, still contributing to emissions.", "is_correct": true},
+      {"letter": "D", "text": "It represents a complete shift away from fossil fuels.", "is_correct": false}
+    ],
+    "explanation": "The passage states 'crucial not to misinterpret this as a definitive solution to climate change, as it remains a significant contributor', indicating a cautious, qualified view."
+  },
+  {
+    "question_number": 5,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The overall burgeoning trend in global energy demand, rather than plateauing, signifies an escalating pressure on global resources and climate, rendering the need for accelerated decarbonization efforts more urgent than ever.",
+    "question_stem": "How does the writer perceive the continued increase in global energy demand?",
+    "options": [
+      {"letter": "A", "text": "As a positive indicator of economic prosperity.", "is_correct": false},
+      {"letter": "B", "text": "As a negligible factor in environmental sustainability.", "is_correct": false},
+      {"letter": "C", "text": "As signifying an escalating pressure and urgent need for decarbonization.", "is_correct": true},
+      {"letter": "D", "text": "As an easily manageable development.", "is_correct": false}
+    ],
+    "explanation": "Phrases like 'burgeoning trend', 'escalating pressure', and 'more urgent than ever' convey the writer's view of growing concern and urgency."
+  },
+  {
+    "question_number": 6,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The discernible abatement in coal consumption post-2010, though modest, provides tangible evidence that targeted policies and growing environmental awareness are indeed capable of instigating shifts, however gradual, in entrenched energy paradigms.",
+    "question_stem": "What does the writer imply about the decline in coal consumption?",
+    "options": [
+      {"letter": "A", "text": "It is a random market fluctuation.", "is_correct": false},
+      {"letter": "B", "text": "It is proof that policy and awareness can induce change.", "is_correct": true},
+      {"letter": "C", "text": "It is an insignificant change with no real impact.", "is_correct": false},
+      {"letter": "D", "text": "It is a sign of economic recession.", "is_correct": false}
+    ],
+    "explanation": "The passage states it 'provides tangible evidence that targeted policies and growing environmental awareness are indeed capable of instigating shifts'."
+  },
+  {
+    "question_number": 7,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The consistent, albeit tempered, growth of oil consumption over two decades vividly illustrates the deep-seated reliance of global economies on this particular fossil fuel, making its eventual phase-out an undertaking of immense complexity.",
+    "question_stem": "How does the writer view the challenge of phasing out oil consumption?",
+    "options": [
+      {"letter": "A", "text": "As straightforward and easily achievable.", "is_correct": false},
+      {"letter": "B", "text": "As an undertaking of immense complexity.", "is_correct": true},
+      {"letter": "C", "text": "As irrelevant given renewable energy growth.", "is_correct": false},
+      {"letter": "D", "text": "As a desirable but unnecessary goal.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'an undertaking of immense complexity' directly conveys the writer's view."
+  },
+  {
+    "question_number": 8,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The strong emphasis on renewable energy growth in the latter decade (2010-2020) suggests a strategic recalibration of global energy priorities, one that holds considerable promise for environmental stewardship.",
+    "question_stem": "What is the writer's implicit view on the energy priority recalibration post-2010?",
+    "options": [
+      {"letter": "A", "text": "It is a short-term, unsustainable trend.", "is_correct": false},
+      {"letter": "B", "text": "It lacks clear direction or purpose.", "is_correct": false},
+      {"letter": "C", "text": "It holds considerable promise for environmental stewardship.", "is_correct": true},
+      {"letter": "D", "text": "It will have negligible environmental impact.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'holds considerable promise for environmental stewardship' clearly indicates a positive, hopeful implied view."
+  },
+  {
+    "question_number": 9,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "While hydroelectric power offers a clean energy solution, its 'measured' growth rate, in contrast to solar and wind, subtly hints at inherent geographical and infrastructural limitations that temper its potential for widespread, rapid deployment.",
+    "question_stem": "What is the writer's implied reason for hydroelectric power's 'measured' growth?",
+    "options": [
+      {"letter": "A", "text": "Lack of interest from investors.", "is_correct": false},
+      {"letter": "B", "text": "Its superior efficiency.", "is_correct": false},
+      {"letter": "C", "text": "Inherent geographical and infrastructural limitations.", "is_correct": true},
+      {"letter": "D", "text": "Environmental concerns outweighing its benefits.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'subtly hints at inherent geographical and infrastructural limitations' implies these are the reasons for slower growth."
+  },
+  {
+    "question_number": 10,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The persistent reality of fossil fuels constituting the majority of global energy consumption by 2020 should serve as a sobering reminder that the journey towards a decarbonized world remains a protracted and arduous one.",
+    "question_stem": "What feeling does the writer want to evoke regarding the continued reliance on fossil fuels?",
+    "options": [
+      {"letter": "A", "text": "Excitement about new opportunities.", "is_correct": false},
+      {"letter": "B", "text": "A sense of immediate triumph.", "is_correct": false},
+      {"letter": "C", "text": "A 'sobering reminder' of a difficult journey ahead.", "is_correct": true},
+      {"letter": "D", "text": "Optimism for an easy path to decarbonization.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'sobering reminder that the journey... remains a protracted and arduous one' clearly conveys a sense of realism and difficulty."
+  },
+  {
+    "question_number": 11,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The initial high dependence on coal in 2000, while economically rational for its time, casts a long shadow over early decarbonization efforts, highlighting the historical challenges of balancing development with environmental responsibility.",
+    "question_stem": "How does the writer implicitly view the historical dependence on coal?",
+    "options": [
+      {"letter": "A", "text": "As a model for future energy development.", "is_correct": false},
+      {"letter": "B", "text": "As a perfectly balanced approach.", "is_correct": false},
+      {"letter": "C", "text": "As a historical challenge for balancing development and environment.", "is_correct": true},
+      {"letter": "D", "text": "As an anomaly with no lasting impact.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'casts a long shadow over early decarbonization efforts, highlighting the historical challenges' implies a critical but understanding historical perspective."
+  },
+  {
+    "question_number": 12,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The rapid ascent of natural gas to preeminence among fossil fuels, while representing a cleaner transition fuel, concurrently serves as a testament to the persistent difficulty in making a complete break from hydrocarbon reliance.",
+    "question_stem": "What duality does the writer emphasize about natural gas's rise?",
+    "options": [
+      {"letter": "A", "text": "Its simultaneous role as a clean solution and a major polluter.", "is_correct": false},
+      {"letter": "B", "text": "Its success as a transition fuel *and* the difficulty of breaking hydrocarbon reliance.", "is_correct": true},
+      {"letter": "C", "text": "Its immediate impact on climate change and its long-term benefits.", "is_correct": false},
+      {"letter": "D", "text": "Its limited availability and its widespread use.", "is_correct": false}
+    ],
+    "explanation": "The passage highlights 'a cleaner transition fuel' *and* 'a testament to the persistent difficulty in making a complete break from hydrocarbon reliance', emphasizing the duality."
+  },
+  {
+    "question_number": 13,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The trajectory of oil consumption, demonstrating continuous but moderate growth, reveals the inelasticity of demand in certain key sectors, implying that policy efforts for reduction must be extraordinarily persistent to be effective.",
+    "question_stem": "What is the writer's implied view on the effort required to reduce oil consumption?",
+    "options": [
+      {"letter": "A", "text": "It will be effortless due to market forces.", "is_correct": false},
+      {"letter": "B", "text": "It is unnecessary as consumption is stable.", "is_correct": false},
+      {"letter": "C", "text": "It must be 'extraordinarily persistent' to be effective.", "is_correct": true},
+      {"letter": "D", "text": "It can be achieved quickly through simple policy changes.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'implying that policy efforts for reduction must be extraordinarily persistent' clearly conveys the writer's view on the required effort."
+  },
+  {
+    "question_number": 14,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The significant, accelerating surge of renewables post-2010 is not just a statistical anomaly; it represents a tangible shift in global energy investment, fostering optimism for future climate mitigation endeavors, provided the momentum is maintained.",
+    "question_stem": "What is the writer's qualified optimism about the renewable surge?",
+    "options": [
+      {"letter": "A", "text": "It is merely a statistical anomaly.", "is_correct": false},
+      {"letter": "B", "text": "It is promising only if momentum is maintained.", "is_correct": true},
+      {"letter": "C", "text": "It indicates immediate and complete climate mitigation.", "is_correct": false},
+      {"letter": "D", "text": "It signifies a permanent end to fossil fuel use.", "is_correct": false}
+    ],
+    "explanation": "The optimism is qualified by 'provided the momentum is maintained', indicating a condition."
+  },
+  {
+    "question_number": 15,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The modest increase and subsequent plateau of nuclear power, despite its low-carbon profile, serve as a cautionary tale regarding the complex interplay of public perception, safety concerns, and economic viability that shapes energy portfolios.",
+    "question_stem": "What moral or lesson does the writer draw from nuclear power's trajectory?",
+    "options": [
+      {"letter": "A", "text": "Nuclear power is the ultimate solution to all energy needs.", "is_correct": false},
+      {"letter": "B", "text": "It is a 'cautionary tale' about complex interplay of factors.", "is_correct": true},
+      {"letter": "C", "text": "Its growth was inevitable and effortless.", "is_correct": false},
+      {"letter": "D", "text": "Public perception has no bearing on energy development.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'serve as a cautionary tale regarding the complex interplay' indicates the writer's interpretive view."
+  },
+  {
+    "question_number": 16,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The period from 2000 to 2020 offers a compelling narrative of slow but undeniable transformation within the global energy matrix, suggesting that fundamental shifts, while challenging, are indeed occurring.",
+    "question_stem": "How does the writer generally describe the nature of the energy transformation between 2000 and 2020?",
+    "options": [
+      {"letter": "A", "text": "Rapid and effortless.", "is_correct": false},
+      {"letter": "B", "text": "Non-existent or merely superficial.", "is_correct": false},
+      {"letter": "C", "text": "Slow but undeniable, suggesting fundamental shifts are occurring.", "is_correct": true},
+      {"letter": "D", "text": "A regression to less efficient energy systems.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'compelling narrative of slow but undeniable transformation' directly reflects the writer's positive and realistic view."
+  },
+  {
+    "question_number": 17,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The continued dominance of fossil fuels, particularly the combined share of oil and natural gas, reinforces the argument that energy transition requires multifaceted strategies beyond merely promoting renewables, including carbon capture and efficiency improvements for existing systems.",
+    "question_stem": "What is the writer's implied belief about the scope of necessary energy transition strategies?",
+    "options": [
+      {"letter": "A", "text": "Renewables alone are sufficient for transition.", "is_correct": false},
+      {"letter": "B", "text": "Transition is impossible and should be abandoned.", "is_correct": false},
+      {"letter": "C", "text": "It requires multifaceted strategies beyond just renewables.", "is_correct": true},
+      {"letter": "D", "text": "Carbon capture is a complete waste of resources.", "is_correct": false}
+    ],
+    "explanation": "The passage states it 'reinforces the argument that energy transition requires multifaceted strategies beyond merely promoting renewables'."
+  },
+  {
+    "question_number": 18,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The overall growth in global energy consumption necessitates a serious rethinking of economic development models, as the current trajectory appears unsustainable for the planet's finite resources and atmospheric capacity.",
+    "question_stem": "What implicit call to action does the writer make regarding global energy consumption?",
+    "options": [
+      {"letter": "A", "text": "To increase consumption to fuel economic growth.", "is_correct": false},
+      {"letter": "B", "text": "To ignore resource limits and atmospheric capacity.", "is_correct": false},
+      {"letter": "C", "text": "A 'serious rethinking of economic development models' due to unsustainability.", "is_correct": true},
+      {"letter": "D", "text": "To rely solely on technological fixes without systemic change.", "is_correct": false}
+    ],
+    "explanation": "The passage implies a call for 'serious rethinking of economic development models' because the current trajectory is 'unsustainable'."
+  },
+  {
+    "question_number": 19,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The comparatively stagnant growth of nuclear power suggests that despite its inherent benefits for decarbonization, significant societal and political hurdles persist, making its widespread adoption a complex policy challenge rather than a straightforward engineering one.",
+    "question_stem": "What is the writer's implied assessment of the barriers to nuclear power adoption?",
+    "options": [
+      {"letter": "A", "text": "They are purely engineering challenges.", "is_correct": false},
+      {"letter": "B", "text": "They are negligible and easily resolved.", "is_correct": false},
+      {"letter": "C", "text": "They are primarily societal and political hurdles, making it a complex policy challenge.", "is_correct": true},
+      {"letter": "D", "text": "They are insurmountable and permanent.", "is_correct": false}
+    ],
+    "explanation": "The passage states 'significant societal and political hurdles persist, making its widespread adoption a complex policy challenge rather than a straightforward engineering one', indicating the writer's view on the nature of the barriers."
+  },
+  {
+    "question_number": 20,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The incremental shift from coal to natural gas, though a step in the right direction environmentally, underscores the often-gradual and sometimes politically contentious nature of energy transitions, where optimal environmental outcomes may be compromised by economic realities.",
+    "question_stem": "What does the writer emphasize about the nature of energy transitions?",
+    "options": [
+      {"letter": "A", "text": "They are always rapid and straightforward.", "is_correct": false},
+      {"letter": "B", "text": "They are often gradual and sometimes contentious, shaped by economic realities.", "is_correct": true},
+      {"letter": "C", "text": "They invariably prioritize environmental outcomes above all else.", "is_correct": false},
+      {"letter": "D", "text": "They are not happening at all.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'underscores the often-gradual and sometimes politically contentious nature of energy transitions, where optimal environmental outcomes may be compromised by economic realities' directly conveys the writer's emphasis."
+  },
+  {
+    "question_number": 21,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The insights gleaned from the 2000-2020 energy consumption data are not merely historical curiosities; they provide a crucial empirical foundation for forecasting future energy scenarios and crafting resilient energy policies.",
+    "question_stem": "How does the writer view the significance of the 2000-2020 energy data?",
+    "options": [
+      {"letter": "A", "text": "As largely irrelevant for future planning.", "is_correct": false},
+      {"letter": "B", "text": "As a 'crucial empirical foundation' for forecasting and policy.", "is_correct": true},
+      {"letter": "C", "text": "As a collection of historical curiosities only.", "is_correct": false},
+      {"letter": "D", "text": "As too complex to be useful.", "is_correct": false}
+    ],
+    "explanation": "The passage explicitly states it provides 'a crucial empirical foundation for forecasting future energy scenarios and crafting resilient energy policies'."
+  },
+  {
+    "question_number": 22,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The unabated overall growth in energy consumption highlights a fundamental paradox: increasing global prosperity often correlates with a heightened ecological footprint, demanding innovative solutions to decouple these trends.",
+    "question_stem": "What paradox does the writer identify regarding energy consumption and prosperity?",
+    "options": [
+      {"letter": "A", "text": "Prosperity always leads to reduced energy use.", "is_correct": false},
+      {"letter": "B", "text": "Increased prosperity often correlates with a heightened ecological footprint.", "is_correct": true},
+      {"letter": "C", "text": "Energy consumption has no link to economic development.", "is_correct": false},
+      {"letter": "D", "text": "Solutions to energy demand are not needed.", "is_correct": false}
+    ],
+    "explanation": "The passage describes the 'fundamental paradox: increasing global prosperity often correlates with a heightened ecological footprint', and calls for 'innovative solutions to decouple these trends'."
+  },
+  {
+    "question_number": 23,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The rapid ascent of renewables, despite being nascent in 2000, reflects a profound shift in technological capability and global investment priorities, hinting at an accelerating paradigm shift in energy supply.",
+    "question_stem": "What does the writer suggest the rapid growth of renewables reflects and hints at?",
+    "options": [
+      {"letter": "A", "text": "A temporary market fluctuation and no real change.", "is_correct": false},
+      {"letter": "B", "text": "A profound shift in capability and investment, hinting at an accelerating paradigm shift.", "is_correct": true},
+      {"letter": "C", "text": "A decline in overall energy security.", "is_correct": false},
+      {"letter": "D", "text": "The irrelevance of policy decisions.", "is_correct": false}
+    ],
+    "explanation": "The passage explicitly states it 'reflects a profound shift in technological capability and global investment priorities, hinting at an accelerating paradigm shift'."
+  },
+  {
+    "question_number": 24,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The sheer scale of the global energy system means that even impressive gains in renewable deployment are often offset by persistent growth in fossil fuel consumption, emphasizing the need for comprehensive and aggressive decarbonization efforts.",
+    "question_stem": "What is the writer's implied message about the impact of renewable gains?",
+    "options": [
+      {"letter": "A", "text": "Renewable gains are sufficient to solve climate change.", "is_correct": false},
+      {"letter": "B", "text": "Renewable gains are negated by overall growth, requiring more aggressive efforts.", "is_correct": true},
+      {"letter": "C", "text": "Fossil fuel growth is unavoidable and should be accepted.", "is_correct": false},
+      {"letter": "D", "text": "The energy system is too small to have a global impact.", "is_correct": false}
+    ],
+    "explanation": "The passage implies that 'even impressive gains in renewable deployment are often offset by persistent growth in fossil fuel consumption, emphasizing the need for comprehensive and aggressive decarbonization efforts'."
+  },
+  {
+    "question_number": 25,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The resilience of oil consumption, demonstrating a continuous if not exponential rise, underscores its strategic importance and pervasive integration into global infrastructure, making any rapid disengagement profoundly challenging.",
+    "question_stem": "What is the writer's view on the difficulty of rapidly disengaging from oil?",
+    "options": [
+      {"letter": "A", "text": "It is an easy task with minimal disruption.", "is_correct": false},
+      {"letter": "B", "text": "It is unnecessary as oil consumption will naturally decline.", "is_correct": false},
+      {"letter": "C", "text": "It would be 'profoundly challenging' due to its strategic importance and integration.", "is_correct": true},
+      {"letter": "D", "text": "It is not a goal worth pursuing.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'making any rapid disengagement profoundly challenging' directly expresses the writer's view."
+  },
+  {
+    "question_number": 26,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The period's trends reveal a nascent but undeniable transition away from the most carbon-intensive energy sources, albeit at a pace that requires significant acceleration to meet urgent climate goals.",
+    "question_stem": "What is the writer's mixed assessment of the energy transition revealed by the trends?",
+    "options": [
+      {"letter": "A", "text": "It is not happening at all.", "is_correct": false},
+      {"letter": "B", "text": "It is complete and successful.", "is_correct": false},
+      {"letter": "C", "text": "It is nascent but undeniable, yet needs significant acceleration.", "is_correct": true},
+      {"letter": "D", "text": "It is too fast and should be slowed down.", "is_correct": false}
+    ],
+    "explanation": "The passage describes it as 'nascent but undeniable transition... albeit at a pace that requires significant acceleration', indicating a mixed assessment."
+  },
+  {
+    "question_number": 27,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "Hydroelectric power's stable, albeit limited, growth underscores its role as a consistent contributor to clean energy, even if its scalability for rapid global decarbonization is constrained by geological and ecological factors.",
+    "question_stem": "What is the writer's nuanced view on hydroelectric power's potential for rapid decarbonization?",
+    "options": [
+      {"letter": "A", "text": "It is limitless and easily scalable.", "is_correct": false},
+      {"letter": "B", "text": "It has no role in clean energy.", "is_correct": false},
+      {"letter": "C", "text": "It is a consistent contributor, but its rapid scalability is constrained.", "is_correct": true},
+      {"letter": "D", "text": "It is superior to all other renewable sources.", "is_correct": false}
+    ],
+    "explanation": "The passage acknowledges its role as a 'consistent contributor' but also states its 'scalability for rapid global decarbonization is constrained', showing a nuanced view."
+  },
+  {
+    "question_number": 28,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The overarching trends from 2000 to 2020 compel the conclusion that a truly sustainable energy future hinges not only on technological innovation but critically on global policy harmonization and collective commitment.",
+    "question_stem": "What does the writer believe are the crucial elements for a sustainable energy future?",
+    "options": [
+      {"letter": "A", "text": "Only technological innovation is needed.", "is_correct": false},
+      {"letter": "B", "text": "Sustainable energy is an impossible goal.", "is_correct": false},
+      {"letter": "C", "text": "Technological innovation, global policy harmonization, and collective commitment.", "is_correct": true},
+      {"letter": "D", "text": "Individual nation efforts without global cooperation.", "is_correct": false}
+    ],
+    "explanation": "The passage states it 'hinges not only on technological innovation but critically on global policy harmonization and collective commitment', indicating these crucial elements."
+  },
+  {
+    "question_number": 29,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The relatively slow uptake of nuclear power, despite its technical merits in low-carbon energy generation, highlights the profound impact of public sentiment and risk perception on energy infrastructure development, often overshadowing purely scientific arguments.",
+    "question_stem": "What does the writer suggest is a key factor in nuclear power's slow uptake?",
+    "options": [
+      {"letter": "A", "text": "Its lack of technical merits.", "is_correct": false},
+      {"letter": "B", "text": "A purely scientific deficiency.", "is_correct": false},
+      {"letter": "C", "text": "The profound impact of public sentiment and risk perception.", "is_correct": true},
+      {"letter": "D", "text": "Its excessive cost effectiveness.", "is_correct": false}
+    ],
+    "explanation": "The passage states it 'highlights the profound impact of public sentiment and risk perception', indicating these as key factors."
+  },
+  {
+    "question_number": 30,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "While the ascendancy of natural gas marks a relatively cleaner interim step within the fossil fuel hierarchy, one must guard against the complacency that this transition alone suffices to address the escalating climate crisis.",
+    "question_stem": "What cautionary note does the writer issue regarding the transition to natural gas?",
+    "options": [
+      {"letter": "A", "text": "It is a complete and final solution to climate change.", "is_correct": false},
+      {"letter": "B", "text": "It has no benefits whatsoever.", "is_correct": false},
+      {"letter": "C", "text": "One must 'guard against the complacency' that it alone suffices for the climate crisis.", "is_correct": true},
+      {"letter": "D", "text": "It is a regressive step that worsens the crisis.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'one must guard against the complacency that this transition alone suffices to address the escalating climate crisis' directly conveys the cautionary note."
+  }
+],
+    "hard": [
+  {
+    "question_number": 1,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The prodigious acceleration in renewable energy consumption post-2010 stands as a beacon of progress within the global energy landscape, demonstrating that ambitious clean energy goals are not merely aspirational but demonstrably achievable with concerted effort.",
+    "question_stem": "What is the writer's underlying sentiment regarding the acceleration of renewable energy consumption?",
+    "options": [
+      {"letter": "A", "text": "Scepticism about its long-term viability.", "is_correct": false},
+      {"letter": "B", "text": "An acknowledgment of its limited impact.", "is_correct": false},
+      {"letter": "C", "text": "Optimism about the achievability of clean energy goals.", "is_correct": true},
+      {"letter": "D", "text": "Concern over its rapid, uncontrolled expansion.", "is_correct": false}
+    ],
+    "explanation": "Phrases like 'beacon of progress' and 'demonstrably achievable' strongly convey an optimistic and positive sentiment about clean energy goals."
+  },
+  {
+    "question_number": 2,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "Despite the undeniable growth in certain low-carbon sources, the sustained and overwhelming volumetric reliance on fossil fuels throughout the period underscores the formidable inertia of existing energy infrastructures, posing a significant hurdle to a truly transformative energy transition.",
+    "question_stem": "How does the writer characterize the continued reliance on fossil fuels?",
+    "options": [
+      {"letter": "A", "text": "As an easily surmountable obstacle.", "is_correct": false},
+      {"letter": "B", "text": "As an insignificant detail in the broader transition.", "is_correct": false},
+      {"letter": "C", "text": "As a formidable hurdle due to existing infrastructure.", "is_correct": true},
+      {"letter": "D", "text": "As a temporary phase that will quickly resolve itself.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'formidable inertia of existing energy infrastructures, posing a significant hurdle' clearly indicates the writer sees it as a major challenge."
+  },
+  {
+    "question_number": 3,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The trajectory of nuclear power, plateauing after a modest initial ascent, serves as a poignant reminder of the intricate regulatory and financial complexities that can impede the large-scale deployment of even highly efficient, low-carbon technologies.",
+    "question_stem": "What is the writer's implied attitude towards the impediments to nuclear power's growth?",
+    "options": [
+      {"letter": "A", "text": "They are negligible and easily overcome.", "is_correct": false},
+      {"letter": "B", "text": "They are necessary and beneficial for safety.", "is_correct": false},
+      {"letter": "C", "text": "They are significant and serve as a 'poignant reminder' of complexities.", "is_correct": true},
+      {"letter": "D", "text": "They are largely misunderstood and exaggerated.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'poignant reminder of the intricate regulatory and financial complexities' conveys that these impediments are significant and noteworthy from the writer's perspective."
+  },
+  {
+    "question_number": 4,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "While natural gas's ascension to the dominant fossil fuel offers a marginal environmental improvement over coal, it is crucial not to misinterpret this as a definitive solution to climate change, as it remains a significant contributor to greenhouse gas emissions.",
+    "question_stem": "What is the writer's cautionary view regarding natural gas's dominance?",
+    "options": [
+      {"letter": "A", "text": "It is a definitive solution to climate change.", "is_correct": false},
+      {"letter": "B", "text": "It has no environmental benefits whatsoever.", "is_correct": false},
+      {"letter": "C", "text": "It is a marginal improvement but not a definitive solution, still contributing to emissions.", "is_correct": true},
+      {"letter": "D", "text": "It represents a complete shift away from fossil fuels.", "is_correct": false}
+    ],
+    "explanation": "The passage states 'crucial not to misinterpret this as a definitive solution to climate change, as it remains a significant contributor', indicating a cautious, qualified view."
+  },
+  {
+    "question_number": 5,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The overall burgeoning trend in global energy demand, rather than plateauing, signifies an escalating pressure on global resources and climate, rendering the need for accelerated decarbonization efforts more urgent than ever.",
+    "question_stem": "How does the writer perceive the continued increase in global energy demand?",
+    "options": [
+      {"letter": "A", "text": "As a positive indicator of economic prosperity.", "is_correct": false},
+      {"letter": "B", "text": "As a negligible factor in environmental sustainability.", "is_correct": false},
+      {"letter": "C", "text": "As signifying an escalating pressure and urgent need for decarbonization.", "is_correct": true},
+      {"letter": "D", "text": "As an easily manageable development.", "is_correct": false}
+    ],
+    "explanation": "Phrases like 'burgeoning trend', 'escalating pressure', and 'more urgent than ever' convey the writer's view of growing concern and urgency."
+  },
+  {
+    "question_number": 6,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The discernible abatement in coal consumption post-2010, though modest, provides tangible evidence that targeted policies and growing environmental awareness are indeed capable of instigating shifts, however gradual, in entrenched energy paradigms.",
+    "question_stem": "What does the writer imply about the decline in coal consumption?",
+    "options": [
+      {"letter": "A", "text": "It is a random market fluctuation.", "is_correct": false},
+      {"letter": "B", "text": "It is proof that policy and awareness can induce change.", "is_correct": true},
+      {"letter": "C", "text": "It is an insignificant change with no real impact.", "is_correct": false},
+      {"letter": "D", "text": "It is a sign of economic recession.", "is_correct": false}
+    ],
+    "explanation": "The passage states it 'provides tangible evidence that targeted policies and growing environmental awareness are indeed capable of instigating shifts'."
+  },
+  {
+    "question_number": 7,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The consistent, albeit tempered, growth of oil consumption over two decades vividly illustrates the deep-seated reliance of global economies on this particular fossil fuel, making its eventual phase-out an undertaking of immense complexity.",
+    "question_stem": "How does the writer view the challenge of phasing out oil consumption?",
+    "options": [
+      {"letter": "A", "text": "As straightforward and easily achievable.", "is_correct": false},
+      {"letter": "B", "text": "As an undertaking of immense complexity.", "is_correct": true},
+      {"letter": "C", "text": "As irrelevant given renewable energy growth.", "is_correct": false},
+      {"letter": "D", "text": "As a desirable but unnecessary goal.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'an undertaking of immense complexity' directly conveys the writer's view."
+  },
+  {
+    "question_number": 8,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The strong emphasis on renewable energy growth in the latter decade (2010-2020) suggests a strategic recalibration of global energy priorities, one that holds considerable promise for environmental stewardship.",
+    "question_stem": "What is the writer's implicit view on the energy priority recalibration post-2010?",
+    "options": [
+      {"letter": "A", "text": "It is a short-term, unsustainable trend.", "is_correct": false},
+      {"letter": "B", "text": "It lacks clear direction or purpose.", "is_correct": false},
+      {"letter": "C", "text": "It holds considerable promise for environmental stewardship.", "is_correct": true},
+      {"letter": "D", "text": "It will have negligible environmental impact.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'holds considerable promise for environmental stewardship' clearly indicates a positive, hopeful implied view."
+  },
+  {
+    "question_number": 9,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "While hydroelectric power offers a clean energy solution, its 'measured' growth rate, in contrast to solar and wind, subtly hints at inherent geographical and infrastructural limitations that temper its potential for widespread, rapid deployment.",
+    "question_stem": "What is the writer's implied reason for hydroelectric power's 'measured' growth?",
+    "options": [
+      {"letter": "A", "text": "Lack of interest from investors.", "is_correct": false},
+      {"letter": "B", "text": "Its superior efficiency.", "is_correct": false},
+      {"letter": "C", "text": "Inherent geographical and infrastructural limitations.", "is_correct": true},
+      {"letter": "D", "text": "Environmental concerns outweighing its benefits.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'subtly hints at inherent geographical and infrastructural limitations' implies these are the reasons for slower growth."
+  },
+  {
+    "question_number": 10,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The persistent reality of fossil fuels constituting the majority of global energy consumption by 2020 should serve as a sobering reminder that the journey towards a decarbonized world remains a protracted and arduous one.",
+    "question_stem": "What feeling does the writer want to evoke regarding the continued reliance on fossil fuels?",
+    "options": [
+      {"letter": "A", "text": "Excitement about new opportunities.", "is_correct": false},
+      {"letter": "B", "text": "A sense of immediate triumph.", "is_correct": false},
+      {"letter": "C", "text": "A 'sobering reminder' of a difficult journey ahead.", "is_correct": true},
+      {"letter": "D", "text": "Optimism for an easy path to decarbonization.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'sobering reminder that the journey... remains a protracted and arduous one' clearly conveys a sense of realism and difficulty."
+  },
+  {
+    "question_number": 11,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The initial high dependence on coal in 2000, while economically rational for its time, casts a long shadow over early decarbonization efforts, highlighting the historical challenges of balancing development with environmental responsibility.",
+    "question_stem": "How does the writer implicitly view the historical dependence on coal?",
+    "options": [
+      {"letter": "A", "text": "As a model for future energy development.", "is_correct": false},
+      {"letter": "B", "text": "As a perfectly balanced approach.", "is_correct": false},
+      {"letter": "C", "text": "As a historical challenge for balancing development and environment.", "is_correct": true},
+      {"letter": "D", "text": "As an anomaly with no lasting impact.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'casts a long shadow over early decarbonization efforts, highlighting the historical challenges' implies a critical but understanding historical perspective."
+  },
+  {
+    "question_number": 12,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The rapid ascent of natural gas to preeminence among fossil fuels, while representing a cleaner transition fuel, concurrently serves as a testament to the persistent difficulty in making a complete break from hydrocarbon reliance.",
+    "question_stem": "What duality does the writer emphasize about natural gas's rise?",
+    "options": [
+      {"letter": "A", "text": "Its simultaneous role as a clean solution and a major polluter.", "is_correct": false},
+      {"letter": "B", "text": "Its success as a transition fuel *and* the difficulty of breaking hydrocarbon reliance.", "is_correct": true},
+      {"letter": "C", "text": "Its immediate impact on climate change and its long-term benefits.", "is_correct": false},
+      {"letter": "D", "text": "Its limited availability and its widespread use.", "is_correct": false}
+    ],
+    "explanation": "The passage highlights 'a cleaner transition fuel' *and* 'a testament to the persistent difficulty in making a complete break from hydrocarbon reliance', emphasizing the duality."
+  },
+  {
+    "question_number": 13,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The trajectory of oil consumption, demonstrating continuous but moderate growth, reveals the inelasticity of demand in certain key sectors, implying that policy efforts for reduction must be extraordinarily persistent to be effective.",
+    "question_stem": "What is the writer's implied view on the effort required to reduce oil consumption?",
+    "options": [
+      {"letter": "A", "text": "It will be effortless due to market forces.", "is_correct": false},
+      {"letter": "B", "text": "It is unnecessary as consumption is stable.", "is_correct": false},
+      {"letter": "C", "text": "It must be 'extraordinarily persistent' to be effective.", "is_correct": true},
+      {"letter": "D", "text": "It can be achieved quickly through simple policy changes.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'implying that policy efforts for reduction must be extraordinarily persistent' clearly conveys the writer's view on the required effort."
+  },
+  {
+    "question_number": 14,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The significant, accelerating surge of renewables post-2010 is not just a statistical anomaly; it represents a tangible shift in global energy investment, fostering optimism for future climate mitigation endeavors, provided the momentum is maintained.",
+    "question_stem": "What is the writer's qualified optimism about the renewable surge?",
+    "options": [
+      {"letter": "A", "text": "It is merely a statistical anomaly.", "is_correct": false},
+      {"letter": "B", "text": "It is promising only if momentum is maintained.", "is_correct": true},
+      {"letter": "C", "text": "It indicates immediate and complete climate mitigation.", "is_correct": false},
+      {"letter": "D", "text": "It signifies a permanent end to fossil fuel use.", "is_correct": false}
+    ],
+    "explanation": "The optimism is qualified by 'provided the momentum is maintained', indicating a condition."
+  },
+  {
+    "question_number": 15,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The modest increase and subsequent plateau of nuclear power, despite its low-carbon profile, serve as a cautionary tale regarding the complex interplay of public perception, safety concerns, and economic viability that shapes energy portfolios.",
+    "question_stem": "What moral or lesson does the writer draw from nuclear power's trajectory?",
+    "options": [
+      {"letter": "A", "text": "Nuclear power is the ultimate solution to all energy needs.", "is_correct": false},
+      {"letter": "B", "text": "It is a 'cautionary tale' about complex interplay of factors.", "is_correct": true},
+      {"letter": "C", "text": "Its growth was inevitable and effortless.", "is_correct": false},
+      {"letter": "D", "text": "Public perception has no bearing on energy development.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'serve as a cautionary tale regarding the complex interplay' indicates the writer's interpretive view."
+  },
+  {
+    "question_number": 16,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The period from 2000 to 2020 offers a compelling narrative of slow but undeniable transformation within the global energy matrix, suggesting that fundamental shifts, while challenging, are indeed occurring.",
+    "question_stem": "How does the writer generally describe the nature of the energy transformation between 2000 and 2020?",
+    "options": [
+      {"letter": "A", "text": "Rapid and effortless.", "is_correct": false},
+      {"letter": "B", "text": "Non-existent or merely superficial.", "is_correct": false},
+      {"letter": "C", "text": "Slow but undeniable, suggesting fundamental shifts are occurring.", "is_correct": true},
+      {"letter": "D", "text": "A regression to less efficient energy systems.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'compelling narrative of slow but undeniable transformation' directly reflects the writer's positive and realistic view."
+  },
+  {
+    "question_number": 17,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The continued dominance of fossil fuels, particularly the combined share of oil and natural gas, reinforces the argument that energy transition requires multifaceted strategies beyond merely promoting renewables, including carbon capture and efficiency improvements for existing systems.",
+    "question_stem": "What is the writer's implied belief about the scope of necessary energy transition strategies?",
+    "options": [
+      {"letter": "A", "text": "Renewables alone are sufficient for transition.", "is_correct": false},
+      {"letter": "B", "text": "Transition is impossible and should be abandoned.", "is_correct": false},
+      {"letter": "C", "text": "It requires multifaceted strategies beyond just renewables.", "is_correct": true},
+      {"letter": "D", "text": "Carbon capture is a complete waste of resources.", "is_correct": false}
+    ],
+    "explanation": "The passage states it 'reinforces the argument that energy transition requires multifaceted strategies beyond merely promoting renewables'."
+  },
+  {
+    "question_number": 18,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The overall growth in global energy consumption necessitates a serious rethinking of economic development models, as the current trajectory appears unsustainable for the planet's finite resources and atmospheric capacity.",
+    "question_stem": "What implicit call to action does the writer make regarding global energy consumption?",
+    "options": [
+      {"letter": "A", "text": "To increase consumption to fuel economic growth.", "is_correct": false},
+      {"letter": "B", "text": "To ignore resource limits and atmospheric capacity.", "is_correct": false},
+      {"letter": "C", "text": "A 'serious rethinking of economic development models' due to unsustainability.", "is_correct": true},
+      {"letter": "D", "text": "To rely solely on technological fixes without systemic change.", "is_correct": false}
+    ],
+    "explanation": "The passage implies a call for 'serious rethinking of economic development models' because the current trajectory is 'unsustainable'."
+  },
+  {
+    "question_number": 19,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The comparatively stagnant growth of nuclear power suggests that despite its inherent benefits for decarbonization, significant societal and political hurdles persist, making its widespread adoption a complex policy challenge rather than a straightforward engineering one.",
+    "question_stem": "What is the writer's implied assessment of the barriers to nuclear power adoption?",
+    "options": [
+      {"letter": "A", "text": "They are purely engineering challenges.", "is_correct": false},
+      {"letter": "B", "text": "They are negligible and easily resolved.", "is_correct": false},
+      {"letter": "C", "text": "They are primarily societal and political hurdles, making it a complex policy challenge.", "is_correct": true},
+      {"letter": "D", "text": "They are insurmountable and permanent.", "is_correct": false}
+    ],
+    "explanation": "The passage states 'significant societal and political hurdles persist, making its widespread adoption a complex policy challenge rather than a straightforward engineering one', indicating the writer's view on the nature of the barriers."
+  },
+  {
+    "question_number": 20,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The incremental shift from coal to natural gas, though a step in the right direction environmentally, underscores the often-gradual and sometimes politically contentious nature of energy transitions, where optimal environmental outcomes may be compromised by economic realities.",
+    "question_stem": "What does the writer emphasize about the nature of energy transitions?",
+    "options": [
+      {"letter": "A", "text": "They are always rapid and straightforward.", "is_correct": false},
+      {"letter": "B", "text": "They are often gradual and sometimes contentious, shaped by economic realities.", "is_correct": true},
+      {"letter": "C", "text": "They invariably prioritize environmental outcomes above all else.", "is_correct": false},
+      {"letter": "D", "text": "They are not happening at all.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'underscores the often-gradual and sometimes politically contentious nature of energy transitions, where optimal environmental outcomes may be compromised by economic realities' directly conveys the writer's emphasis."
+  },
+  {
+    "question_number": 21,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The insights gleaned from the 2000-2020 energy consumption data are not merely historical curiosities; they provide a crucial empirical foundation for forecasting future energy scenarios and crafting resilient energy policies.",
+    "question_stem": "How does the writer view the significance of the 2000-2020 energy data?",
+    "options": [
+      {"letter": "A", "text": "As largely irrelevant for future planning.", "is_correct": false},
+      {"letter": "B", "text": "As a 'crucial empirical foundation' for forecasting and policy.", "is_correct": true},
+      {"letter": "C", "text": "As a collection of historical curiosities only.", "is_correct": false},
+      {"letter": "D", "text": "As too complex to be useful.", "is_correct": false}
+    ],
+    "explanation": "The passage explicitly states it provides 'a crucial empirical foundation for forecasting future energy scenarios and crafting resilient energy policies'."
+  },
+  {
+    "question_number": 22,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The unabated overall growth in energy consumption highlights a fundamental paradox: increasing global prosperity often correlates with a heightened ecological footprint, demanding innovative solutions to decouple these trends.",
+    "question_stem": "What paradox does the writer identify regarding energy consumption and prosperity?",
+    "options": [
+      {"letter": "A", "text": "Prosperity always leads to reduced energy use.", "is_correct": false},
+      {"letter": "B", "text": "Increased prosperity often correlates with a heightened ecological footprint.", "is_correct": true},
+      {"letter": "C", "text": "Energy consumption has no link to economic development.", "is_correct": false},
+      {"letter": "D", "text": "Solutions to energy demand are not needed.", "is_correct": false}
+    ],
+    "explanation": "The passage describes the 'fundamental paradox: increasing global prosperity often correlates with a heightened ecological footprint', and calls for 'innovative solutions to decouple these trends'."
+  },
+  {
+    "question_number": 23,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The rapid ascent of renewables, despite being nascent in 2000, reflects a profound shift in technological capability and global investment priorities, hinting at an accelerating paradigm shift in energy supply.",
+    "question_stem": "What does the writer suggest the rapid growth of renewables reflects and hints at?",
+    "options": [
+      {"letter": "A", "text": "A temporary market fluctuation and no real change.", "is_correct": false},
+      {"letter": "B", "text": "A profound shift in capability and investment, hinting at an accelerating paradigm shift.", "is_correct": true},
+      {"letter": "C", "text": "A decline in overall energy security.", "is_correct": false},
+      {"letter": "D", "text": "The irrelevance of policy decisions.", "is_correct": false}
+    ],
+    "explanation": "The passage explicitly states it 'reflects a profound shift in technological capability and global investment priorities, hinting at an accelerating paradigm shift'."
+  },
+  {
+    "question_number": 24,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The sheer scale of the global energy system means that even impressive gains in renewable deployment are often offset by persistent growth in fossil fuel consumption, emphasizing the need for comprehensive and aggressive decarbonization efforts.",
+    "question_stem": "What is the writer's implied message about the impact of renewable gains?",
+    "options": [
+      {"letter": "A", "text": "Renewable gains are sufficient to solve climate change.", "is_correct": false},
+      {"letter": "B", "text": "Renewable gains are negated by overall growth, requiring more aggressive efforts.", "is_correct": true},
+      {"letter": "C", "text": "Fossil fuel growth is unavoidable and should be accepted.", "is_correct": false},
+      {"letter": "D", "text": "The energy system is too small to have a global impact.", "is_correct": false}
+    ],
+    "explanation": "The passage implies that 'even impressive gains in renewable deployment are often offset by persistent growth in fossil fuel consumption, emphasizing the need for comprehensive and aggressive decarbonization efforts'."
+  },
+  {
+    "question_number": 25,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The resilience of oil consumption, demonstrating a continuous if not exponential rise, underscores its strategic importance and pervasive integration into global infrastructure, making any rapid disengagement profoundly challenging.",
+    "question_stem": "What is the writer's view on the difficulty of rapidly disengaging from oil?",
+    "options": [
+      {"letter": "A", "text": "It is an easy task with minimal disruption.", "is_correct": false},
+      {"letter": "B", "text": "It is unnecessary as oil consumption will naturally decline.", "is_correct": false},
+      {"letter": "C", "text": "It would be 'profoundly challenging' due to its strategic importance and integration.", "is_correct": true},
+      {"letter": "D", "text": "It is not a goal worth pursuing.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'making any rapid disengagement profoundly challenging' directly expresses the writer's view."
+  },
+  {
+    "question_number": 26,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The period's trends reveal a nascent but undeniable transition away from the most carbon-intensive energy sources, albeit at a pace that requires significant acceleration to meet urgent climate goals.",
+    "question_stem": "What is the writer's mixed assessment of the energy transition revealed by the trends?",
+    "options": [
+      {"letter": "A", "text": "It is not happening at all.", "is_correct": false},
+      {"letter": "B", "text": "It is complete and successful.", "is_correct": false},
+      {"letter": "C", "text": "It is nascent but undeniable, yet needs significant acceleration.", "is_correct": true},
+      {"letter": "D", "text": "It is too fast and should be slowed down.", "is_correct": false}
+    ],
+    "explanation": "The passage describes it as 'nascent but undeniable transition... albeit at a pace that requires significant acceleration', indicating a mixed assessment."
+  },
+  {
+    "question_number": 27,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "Hydroelectric power's stable, albeit limited, growth underscores its role as a consistent contributor to clean energy, even if its scalability for rapid global decarbonization is constrained by geological and ecological factors.",
+    "question_stem": "What is the writer's nuanced view on hydroelectric power's potential for rapid decarbonization?",
+    "options": [
+      {"letter": "A", "text": "It is limitless and easily scalable.", "is_correct": false},
+      {"letter": "B", "text": "It has no role in clean energy.", "is_correct": false},
+      {"letter": "C", "text": "It is a consistent contributor, but its rapid scalability is constrained.", "is_correct": true},
+      {"letter": "D", "text": "It is superior to all other renewable sources.", "is_correct": false}
+    ],
+    "explanation": "The passage acknowledges its role as a 'consistent contributor' but also states its 'scalability for rapid global decarbonization is constrained', showing a nuanced view."
+  },
+  {
+    "question_number": 28,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The overarching trends from 2000 to 2020 compel the conclusion that a truly sustainable energy future hinges not only on technological innovation but critically on global policy harmonization and collective commitment.",
+    "question_stem": "What does the writer believe are the crucial elements for a sustainable energy future?",
+    "options": [
+      {"letter": "A", "text": "Only technological innovation is needed.", "is_correct": false},
+      {"letter": "B", "text": "Sustainable energy is an impossible goal.", "is_correct": false},
+      {"letter": "C", "text": "Technological innovation, global policy harmonization, and collective commitment.", "is_correct": true},
+      {"letter": "D", "text": "Individual nation efforts without global cooperation.", "is_correct": false}
+    ],
+    "explanation": "The passage states it 'hinges not only on technological innovation but critically on global policy harmonization and collective commitment', indicating these crucial elements."
+  },
+  {
+    "question_number": 29,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "The relatively slow uptake of nuclear power, despite its technical merits in low-carbon energy generation, highlights the profound impact of public sentiment and risk perception on energy infrastructure development, often overshadowing purely scientific arguments.",
+    "question_stem": "What does the writer suggest is a key factor in nuclear power's slow uptake?",
+    "options": [
+      {"letter": "A", "text": "Its lack of technical merits.", "is_correct": false},
+      {"letter": "B", "text": "A purely scientific deficiency.", "is_correct": false},
+      {"letter": "C", "text": "The profound impact of public sentiment and risk perception.", "is_correct": true},
+      {"letter": "D", "text": "Its excessive cost effectiveness.", "is_correct": false}
+    ],
+    "explanation": "The passage states it 'highlights the profound impact of public sentiment and risk perception', indicating these as key factors."
+  },
+  {
+    "question_number": 30,
+    "difficulty": "medium",
+    "type": "Identifying Writer's View",
+    "passage": "While the ascendancy of natural gas marks a relatively cleaner interim step within the fossil fuel hierarchy, one must guard against the complacency that this transition alone suffices to address the escalating climate crisis.",
+    "question_stem": "What cautionary note does the writer issue regarding the transition to natural gas?",
+    "options": [
+      {"letter": "A", "text": "It is a complete and final solution to climate change.", "is_correct": false},
+      {"letter": "B", "text": "It has no benefits whatsoever.", "is_correct": false},
+      {"letter": "C", "text": "One must 'guard against the complacency' that it alone suffices for the climate crisis.", "is_correct": true},
+      {"letter": "D", "text": "It is a regressive step that worsens the crisis.", "is_correct": false}
+    ],
+    "explanation": "The phrase 'one must guard against the complacency that this transition alone suffices to address the escalating climate crisis' directly conveys the cautionary note."
+  }
+]
+}

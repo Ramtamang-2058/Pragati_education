@@ -1,8 +1,4 @@
-// app/(protected)/reading/question/[id]/page.tsx
-"use client";
-import { useState, useEffect } from "react";
-import axios from "axios";
-import { useRouter, useParams } from "next/navigation";
+import React, { useState, useEffect } from 'react';
 
 interface Option {
   letter: string;
@@ -16,43 +12,49 @@ interface QuestionData {
   question_stem: string;
   options: Option[];
   explanation: string;
-  status: "completed" | "inProgress" | "notStarted";
-  score?: number;
+  videoUrl?: string;
+  downloadUrl?: string;
+  onCorrectAnswer?: () => void;
 }
 
-const QuestionPage = () => {
-  const { id } = useParams();
-  const router = useRouter();
-  const [questionData, setQuestionData] = useState<QuestionData | null>(null);
-  const [selectedOptions, setSelectedOptions] = useState<string[]>([]);
+const Question = ({ 
+  question_number,
+  passage,
+  question_stem,
+  options,
+  explanation,
+  videoUrl,
+  downloadUrl,
+  onCorrectAnswer
+}: QuestionProps) => {
+  const [inputValue, setInputValue] = useState('');
   const [showExplanation, setShowExplanation] = useState(false);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
-  const [submitStatus, setSubmitStatus] = useState<"idle" | "submitting" | "success" | "error">("idle");
+  const [feedback, setFeedback] = useState<string | null>(null);
 
+  // Reset input and feedback when question changes
   useEffect(() => {
-    const fetchQuestion = async () => {
-      try {
-        setLoading(true);
-        setError(null);
-        const response = await axios.get(`http://localhost:8000/api/questions/${id}/`);
-        setQuestionData(response.data);
-        if (response.data.status === "inProgress" || response.data.status === "completed") {
-          // Optionally load previously selected options from backend
-        }
-      } catch (err) {
-        setError("Failed to load question. Please try again.");
-      } finally {
-        setLoading(false);
-      }
-    };
-    fetchQuestion();
-  }, [id]);
+    setInputValue('');
+    setFeedback(null);
+    setShowExplanation(false);
+  }, [question_number]);
 
-  const handleOptionClick = (letter: string) => {
-    setSelectedOptions((prev) =>
-      prev.includes(letter) ? prev.filter((l) => l !== letter) : [...prev, letter]
-    );
+  const handleSubmit = () => {
+    const answer = inputValue.trim().toLowerCase();
+    const correctOption = options.find(opt => opt.is_correct);
+    if (!correctOption) {
+      setFeedback(null);
+      return;
+    }
+    // Accept either letter or text as correct answer
+    if (
+      answer === correctOption.letter.trim().toLowerCase() ||
+      answer === correctOption.text.trim().toLowerCase()
+    ) {
+      setFeedback("Correct answer!");
+      if (onCorrectAnswer) onCorrectAnswer();
+    } else {
+      setFeedback("Incorrect answer.");
+    }
   };
 
   const handleSubmit = async () => {
@@ -96,40 +98,46 @@ const QuestionPage = () => {
   if (!questionData) return null;
 
   return (
-    <div className="min-h-screen bg-gray-50 p-8">
-      <div className="max-w-4xl mx-auto bg-white rounded-xl shadow-sm p-8">
-        <div className="flex justify-between items-center mb-6">
-          <h2 className="text-2xl font-bold text-gray-800">Question {questionData.id}</h2>
-          <button
-            onClick={() => router.push('/reading')}
-            className="text-red-600 hover:text-red-800 text-sm font-medium"
-          >
-            Back to Questions
-          </button>
-        </div>
+    <div className="max-w-4xl mx-auto p-6 space-y-6">
+      <div className="bg-white rounded-lg shadow-lg p-6">
+        <h2 className="text-2xl font-bold mb-4">Question {question_number}</h2>
 
         <div className="bg-gray-50 p-4 rounded-lg mb-6">
           <p className="text-gray-800 whitespace-pre-wrap">{questionData.passage}</p>
         </div>
 
         <div className="mb-6">
-          <p className="font-semibold mb-4">{questionData.question_stem}</p>
-          <div className="space-y-3">
-            {questionData.options.map((option) => (
+          <p className="font-semibold mb-4">{question_stem}</p>
+          
+          {/* Show options as non-selectable */}
+          <div className="space-y-3 mb-4">
+            {options.map((option) => (
               <div
                 key={option.letter}
-                onClick={() => handleOptionClick(option.letter)}
-                className={`p-3 rounded-lg cursor-pointer border-2 transition-colors
-                  ${selectedOptions.includes(option.letter)
-                    ? "border-blue-500 bg-blue-50"
-                    : "border-gray-200 hover:border-blue-300"
-                  }`}
+                className="p-3 rounded-lg border-2 border-gray-200 bg-gray-50 flex items-center"
               >
                 <span className="font-medium mr-2">{option.letter}.</span>
                 {option.text}
               </div>
             ))}
           </div>
+
+          {/* Input for user answer */}
+          <input
+            type="text"
+            className="w-full px-4 py-2 border rounded-lg mb-2"
+            placeholder="Type your answer here..."
+            value={inputValue}
+            onChange={e => {
+              setInputValue(e.target.value);
+              setFeedback(null);
+            }}
+          />
+          {feedback && (
+            <div className={`mb-2 font-semibold ${feedback === "Correct answer!" ? "text-green-600" : "text-red-600"}`}>
+              {feedback}
+            </div>
+          )}
         </div>
 
         <div className="flex justify-between items-center mb-6">
@@ -137,7 +145,14 @@ const QuestionPage = () => {
             onClick={() => setShowExplanation(!showExplanation)}
             className="text-blue-600 hover:text-blue-800 text-sm font-medium"
           >
-            {showExplanation ? "Hide" : "Show"} Explanation
+            {showExplanation ? 'Hide' : 'Show'} Explanation
+          </button>
+          
+          <button
+            className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700"
+            onClick={handleSubmit}
+          >
+            Submit
           </button>
           <div className="space-x-4">
             {questionData.status !== "completed" && (
