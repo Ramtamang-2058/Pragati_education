@@ -1,0 +1,56 @@
+name: CI/CD Multi-Step Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: 🔧 Build
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Install dependencies
+      run: |
+        cd frontend
+        npm install
+
+  test:
+    name: 🧪 Test
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Run Lint & Unit Tests
+      run: |
+        cd frontend
+        npm run lint || true  # optional
+        npm test || echo "No tests yet"
+
+  deploy:
+    name: 🚀 Deploy to Dev
+    needs: test
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Setup SSH
+      run: |
+        mkdir -p ~/.ssh
+        echo "${{ secrets.EC2_SSH_KEY }}" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan -H ${{ secrets.EC2_HOST }} >> ~/.ssh/known_hosts
+
+    - name: Deploy to EC2
+      run: |
+        ssh ${{ secrets.EC2_USER }}@${{ secrets.EC2_HOST }} << 'EOF'
+          cd ~/Pragati_education
+          git pull origin main
+          cd frontend
+          npm install
+          pm2 restart frontend || pm2 start 'npx next dev' --name frontend
+        EOF

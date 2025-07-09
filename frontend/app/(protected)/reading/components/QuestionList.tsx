@@ -1,3 +1,4 @@
+// app/(protected)/reading/components/QuestionList.tsx
 "use client";
 import { useState, useEffect } from "react";
 import { ResourceTab, resourcesMap } from "./ResourceComponent";
@@ -14,10 +15,6 @@ interface Question {
 interface QuestionListProps {
   questionType: string;
   level: "easy" | "medium" | "hard";
-  onStartTest?: (questionId: number) => void;
-  onContinueTest?: (questionId: number) => void;
-  onViewResults?: (questionId: number) => void;
-  onQuestionClick?: (questionId: number) => void;
 }
 
 // Track status and score per question type and question number
@@ -156,45 +153,8 @@ export const QuestionList = ({
     }
   };
 
-  const getActionButton = (status: QuestionStatus, questionId: number) => {
-    switch (status) {
-      case "completed":
-        return (
-          <button
-            onClick={(e) => {
-              e.stopPropagation();
-              onViewResults?.(questionId);
-            }}
-            className="mt-1 text-[10px] font-medium text-red-600 hover:text-red-700"
-          >
-            View Results
-          </button>
-        );
-      case "inProgress":
-        return (
-          <button
-            onClick={(e) => {
-              e.stopPropagation();
-              onContinueTest?.(questionId);
-            }}
-            className="mt-1 text-[10px] font-medium text-yellow-600 hover:text-yellow-700"
-          >
-            Continue Test
-          </button>
-        );
-      default:
-        return (
-          <button
-            onClick={(e) => {
-              e.stopPropagation();
-              onStartTest?.(questionId);
-            }}
-            className="mt-1 text-[10px] font-medium text-gray-500 hover:text-gray-700"
-          >
-            Start Test
-          </button>
-        );
-    }
+  const handleQuestionClick = (questionId: number) => {
+    router.push(`/reading/question/${questionId}`);
   };
 
   if (selectedQuestion !== null) {

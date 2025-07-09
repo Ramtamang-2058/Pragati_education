@@ -30,7 +30,8 @@ ALLOWED_HOSTS = [
 CSRF_TRUSTED_ORIGINS = [
     'https://hightechpioneer.com.np',
     'https://www.hightechpioneer.com.np',
-    'http://ec2-157-175-156-89.me-south-1.compute.amazonaws.com'
+    'http://ec2-157-175-156-89.me-south-1.compute.amazonaws.com',
+    'http://localhost:8000',
 ]
 
 # Security settings for production
@@ -59,9 +60,14 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'apps.reading',
+    'rest_framework',
+    'corsheaders',
+
 ]
 
 MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -70,7 +76,7 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
-
+CORS_ALLOW_ALL_ORIGINS = True
 ROOT_URLCONF = 'config.urls'
 
 TEMPLATES = [
