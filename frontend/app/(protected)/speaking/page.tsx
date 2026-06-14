@@ -3,24 +3,11 @@ import React, { useState } from "react";
 import LevelSelector from "./components/LevelSelector";
 import topics from "./Topics.json";
 import introductionQuestions from "./IntroductionQuestions.json";
-import monologueQuestions from "./MonologueQuestion.json";
-import discussionQuestions from "./DiscussionQuestion.json";
 import SpeakTest from "./components/speaktest";
 
 type Level = "easy" | "medium" | "hard";
 
-interface QuestionSet {
-  topic: string;
-  questions: string[];
-}
-
-interface DiscussionQuestionSet {
-  topic: string;
-  questions: { monologue_question: string; follow_up_questions: string[] }[];
-  monologue_question_followups: { monologue_question: string; follow_up_questions: string[] }[];
-}
-
-const page = () => {
+const Page = () => {
   const [currentLevel, setCurrentLevel] = useState<Level>("easy");
   const [selectedTopic, setSelectedTopic] = useState<string | null>(null);
 
@@ -81,4 +68,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;

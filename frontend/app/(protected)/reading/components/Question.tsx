@@ -6,8 +6,8 @@ interface Option {
   is_correct: boolean;
 }
 
-interface QuestionData {
-  id: number;
+interface QuestionProps {
+  question_number: number;
   passage: string;
   question_stem: string;
   options: Option[];
@@ -17,15 +17,13 @@ interface QuestionData {
   onCorrectAnswer?: () => void;
 }
 
-const Question = ({ 
+const Question = ({
   question_number,
   passage,
   question_stem,
   options,
   explanation,
-  videoUrl,
-  downloadUrl,
-  onCorrectAnswer
+  onCorrectAnswer,
 }: QuestionProps) => {
   const [inputValue, setInputValue] = useState('');
   const [showExplanation, setShowExplanation] = useState(false);
@@ -57,58 +55,18 @@ const Question = ({
     }
   };
 
-  const handleSubmit = async () => {
-    if (selectedOptions.length === 0) {
-      alert("Please select at least one option.");
-      return;
-    }
-    try {
-      setSubmitStatus("submitting");
-      const response = await axios.post(`http://localhost:8000/api/questions/${id}/submit/`, {
-        selected_options: selectedOptions,
-      });
-      setQuestionData((prev) => prev ? { ...prev, score: response.data.score, status: "completed" } : prev);
-      setSubmitStatus("success");
-      alert(`Score: ${response.data.score}%`);
-    } catch (err) {
-      setSubmitStatus("error");
-      alert("Failed to submit answer. Please try again.");
-    }
-  };
-
-  const handleNextQuestion = async () => {
-    try {
-      const response = await axios.get('http://localhost:8000/api/questions/', {
-        params: { level: questionData?.level, question_type: questionData?.question_type },
-      });
-      const questions = response.data;
-      const currentIndex = questions.findIndex((q: QuestionData) => q.id === parseInt(id as string));
-      if (currentIndex < questions.length - 1) {
-        router.push(`/reading/question/${questions[currentIndex + 1].id}`);
-      } else {
-        router.push('/reading');
-      }
-    } catch (err) {
-      alert("Failed to load next question.");
-    }
-  };
-
-  if (loading) return <div className="text-center py-8">Loading question...</div>;
-  if (error) return <div className="text-center py-8 text-red-600">{error}</div>;
-  if (!questionData) return null;
-
   return (
     <div className="max-w-4xl mx-auto p-6 space-y-6">
       <div className="bg-white rounded-lg shadow-lg p-6">
         <h2 className="text-2xl font-bold mb-4">Question {question_number}</h2>
 
         <div className="bg-gray-50 p-4 rounded-lg mb-6">
-          <p className="text-gray-800 whitespace-pre-wrap">{questionData.passage}</p>
+          <p className="text-gray-800 whitespace-pre-wrap">{passage}</p>
         </div>
 
         <div className="mb-6">
           <p className="font-semibold mb-4">{question_stem}</p>
-          
+
           {/* Show options as non-selectable */}
           <div className="space-y-3 mb-4">
             {options.map((option) => (
@@ -147,42 +105,18 @@ const Question = ({
           >
             {showExplanation ? 'Hide' : 'Show'} Explanation
           </button>
-          
+
           <button
             className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700"
             onClick={handleSubmit}
           >
             Submit
           </button>
-          <div className="space-x-4">
-            {questionData.status !== "completed" && (
-              <button
-                onClick={handleSubmit}
-                disabled={submitStatus === "submitting"}
-                className={`px-6 py-2 rounded-lg text-white
-                  ${submitStatus === "submitting" ? "bg-blue-400" : "bg-blue-600 hover:bg-blue-700"}`}
-              >
-                {submitStatus === "submitting" ? "Submitting..." : "Submit"}
-              </button>
-            )}
-            <button
-              onClick={handleNextQuestion}
-              className="px-6 py-2 rounded-lg bg-gray-600 text-white hover:bg-gray-700"
-            >
-              Next Question
-            </button>
-          </div>
         </div>
 
         {showExplanation && (
           <div className="p-4 bg-blue-50 rounded-lg">
-            <p className="text-gray-800">{questionData.explanation}</p>
-          </div>
-        )}
-
-        {questionData.status === "completed" && questionData.score !== undefined && (
-          <div className="mt-6 p-4 bg-green-50 rounded-lg">
-            <p className="text-green-800 font-semibold">Your Score: {questionData.score}%</p>
+            <p className="text-gray-800">{explanation}</p>
           </div>
         )}
       </div>
@@ -190,4 +124,4 @@ const Question = ({
   );
 };
 
-export default QuestionPage;
+export default Question;

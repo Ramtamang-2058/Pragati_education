@@ -43,7 +43,7 @@ const VoiceWaveform = ({ listening }: { listening: boolean }) => {
     let source: MediaStreamAudioSourceNode;
 
     const setup = async () => {
-      audioContext = new (window.AudioContext || (window as any).webkitAudioContext)();
+      audioContext = new (window.AudioContext || (window as unknown as Window & { webkitAudioContext: typeof AudioContext }).webkitAudioContext)();
       audioContextRef.current = audioContext;
       const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
       streamRef.current = stream;
@@ -119,7 +119,7 @@ const SpeakTest = ({ selectedTopic, firstIntroQuestion, onBack }: SpeakTestProps
   const [listening, setListening] = useState(false);
   const [speechSupported, setSpeechSupported] = useState(true);
   const [audioUrl, setAudioUrl] = useState<string | null>(null);
-  const recognitionRef = useRef<any>(null);
+  const recognitionRef = useRef<SpeechRecognition | null>(null);
   const mediaRecorderRef = useRef<MediaRecorder | null>(null);
   const audioChunksRef = useRef<Blob[]>([]);
   const audioStreamRef = useRef<MediaStream | null>(null);
@@ -130,7 +130,7 @@ const SpeakTest = ({ selectedTopic, firstIntroQuestion, onBack }: SpeakTestProps
   useEffect(() => {
     if (typeof window !== "undefined") {
       const SpeechRecognition =
-        // @ts-ignore
+        // @ts-expect-error -- webkitSpeechRecognition is not in standard types
         window.SpeechRecognition || window.webkitSpeechRecognition;
       if (SpeechRecognition) {
         setSpeechSupported(true);
@@ -223,7 +223,7 @@ const SpeakTest = ({ selectedTopic, firstIntroQuestion, onBack }: SpeakTestProps
         };
         mediaRecorderRef.current = mediaRecorder;
         mediaRecorder.start();
-      } catch (err) {
+      } catch {
         // fallback: just speech recognition
       }
     }

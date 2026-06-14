@@ -12,6 +12,14 @@ interface Question {
   score?: number;
 }
 
+interface McqQuestion {
+  question_number: number;
+  passage: string;
+  question_stem: string;
+  options: { letter: string; text: string; is_correct?: boolean }[];
+  explanation: string;
+}
+
 interface QuestionListProps {
   questionType: string;
   level: "easy" | "medium" | "hard";
@@ -26,13 +34,9 @@ type StatusMap = Record<
 export const QuestionList = ({
   questionType,
   level,
-  onStartTest,
-  onContinueTest,
-  onViewResults,
-  onQuestionClick,
 }: QuestionListProps) => {
   const [selectedQuestion, setSelectedQuestion] = useState<number | null>(null);
-  const [mcqQuestions, setMcqQuestions] = useState<any[]>([]);
+  const [mcqQuestions, setMcqQuestions] = useState<McqQuestion[]>([]);
   const [loading, setLoading] = useState(false);
 
   // Track status/score for each question type and question number
@@ -45,7 +49,7 @@ export const QuestionList = ({
       import("./Questions/Multiple_Choice.json")
         .then((mod) => {
           // mod.default is the JSON object
-          const questions = mod.default?.[level] || [];
+          const questions = (mod.default?.[level] || []) as McqQuestion[];
           setMcqQuestions(questions);
         })
         .finally(() => setLoading(false));
@@ -62,7 +66,7 @@ export const QuestionList = ({
   })[] =
     questionType === "Multiple Choice Questions"
       ? mcqQuestions.map((q, idx) => {
-          const qNum = q.question_number ?? idx + 1;
+          const qNum: number = q.question_number ?? idx + 1;
           const statusObj = questionStatus[questionType]?.[qNum] || {
             status: "notStarted",
           };
@@ -142,25 +146,16 @@ export const QuestionList = ({
     }
   };
 
-  const getStatusIcon = (status: QuestionStatus) => {
-    switch (status) {
-      case "completed":
-        return "✓";
-      case "inProgress":
-        return "⚠️";
-      default:
-        return "•";
-    }
-  };
-
-  const handleQuestionClick = (questionId: number) => {
-    router.push(`/reading/question/${questionId}`);
+  const getActionButton = (status: QuestionStatus) => {
+    if (status === "completed") return <span className="text-xs text-green-600 mt-1">Done</span>;
+    if (status === "inProgress") return <span className="text-xs text-yellow-600 mt-1">Resume</span>;
+    return <span className="text-xs text-gray-400 mt-1">Start</span>;
   };
 
   if (selectedQuestion !== null) {
     const q = questions[selectedQuestion - 1];
     const options =
-      q.options?.map((opt: any) => ({
+      q.options?.map((opt: { letter: string; text: string; is_correct?: boolean }) => ({
         letter: opt.letter,
         text: opt.text,
         is_correct: opt.is_correct ?? false,
@@ -227,7 +222,7 @@ export const QuestionList = ({
               {question.status === "completed" && question.score !== undefined && (
                 <span className="text-xs font-medium">{question.score}%</span>
               )}
-              {getActionButton(question.status, question.id)}
+              {getActionButton(question.status)}
             </div>
           ))}
         </div>

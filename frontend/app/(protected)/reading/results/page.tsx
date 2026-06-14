@@ -27,7 +27,7 @@ const ResultsPage = () => {
           params: { status: "completed" },
         });
         setQuestions(response.data);
-      } catch (err) {
+      } catch {
         setError("Failed to load results. Please try again.");
       } finally {
         setLoading(false);

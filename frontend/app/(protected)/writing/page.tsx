@@ -200,8 +200,8 @@ const Page = () => {
   const [selectedType, setSelectedType] = useState<string | null>(null);
   const [part, setPart] = useState<"part1" | "part2">("part1");
   const [showDiagram, setShowDiagram] = useState(false);
-  const [currentDiagram, setCurrentDiagram] = useState<string | null>(null);
-  const [currentQuestionText, setCurrentQuestionText] = useState<string | null>(null);
+  const [currentDiagram] = useState<string | null>(null);
+  const [currentQuestionText] = useState<string | null>(null);
 
   // For Line Graphs question view
   const [selectedQuestionIdx, setSelectedQuestionIdx] = useState<number | null>(null);
@@ -385,7 +385,7 @@ Student Answer: ${answer}
 
       setReviewResult(parsed);
       setBandScore(parsed.band ?? 0);
-    } catch (err: any) {
+    } catch {
       setReviewError("Could not get review from Gemini API.");
       const possibleScores = [6, 6.5, 7, 7.5, 8];
       setBandScore(possibleScores[Math.floor(Math.random() * possibleScores.length)]);
@@ -667,7 +667,7 @@ Student Answer: ${answer}
                   <div className="mb-8">
                     <h4 className="text-lg font-semibold mb-4">Select a Question:</h4>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                      {getCurrentQuestions().map((q: any, idx: number) => (
+                      {getCurrentQuestions().map((q, idx: number) => (
                         <div
                           key={idx}
                           className="border rounded-lg p-4 bg-gray-50 hover:bg-red-50 cursor-pointer transition"

@@ -7,7 +7,7 @@ function getDateKey(date: Date) {
 
 function generateTasks(start: Date, end: Date) {
   const tasks: Record<string, Array<{ text: string; completed: boolean }>> = {};
-  let current = new Date(start);
+  const current = new Date(start);
   while (current <= end) {
     const key = getDateKey(current);
     tasks[key] = [
@@ -36,8 +36,6 @@ function getFirstDayOfWeek(year: number, month: number) {
 }
 
 export default function Calendar() {
-  const [startDate, setStartDate] = useState<Date | null>(null);
-  const [endDate, setEndDate] = useState<Date | null>(null);
   const [currentMonth, setCurrentMonth] = useState(new Date().getMonth());
   const [currentYear, setCurrentYear] = useState(new Date().getFullYear());
   const [today, setToday] = useState(new Date());
@@ -122,17 +120,6 @@ export default function Calendar() {
     }
   }
 
-  function isInRange(day: number) {
-    if (!testDate) return false;
-    const d = new Date(currentYear, currentMonth, day);
-    d.setHours(0, 0, 0, 0);
-    const start = new Date(today);
-    start.setHours(0, 0, 0, 0);
-    const end = new Date(testDate);
-    end.setHours(0, 0, 0, 0);
-    return d >= start && d <= end;
-  }
-
   function isTestDate(day: number) {
     if (!testDate) return false;
     const d = new Date(currentYear, currentMonth, day);
@@ -174,7 +161,7 @@ export default function Calendar() {
   function getAllDatesFromTodayToTest() {
     if (!testDate) return [];
     const dates: Date[] = [];
-    let current = new Date(today);
+    const current = new Date(today);
     current.setHours(0, 0, 0, 0);
     const end = new Date(testDate);
     end.setHours(0, 0, 0, 0);
@@ -274,8 +261,7 @@ export default function Calendar() {
             display: "flex",
             alignItems: "center",
             justifyContent: "center",
-            transition: "all 0.2s ease",
-            ':hover': { background: "#ffebee" }
+            transition: "all 0.2s ease"
           }}
         >←</button>
         <span style={{ 
@@ -299,8 +285,7 @@ export default function Calendar() {
             display: "flex",
             alignItems: "center",
             justifyContent: "center",
-            transition: "all 0.2s ease",
-            ':hover': { background: "#ffebee" }
+            transition: "all 0.2s ease"
           }}
         >→</button>
       </div>
@@ -328,7 +313,6 @@ export default function Calendar() {
                 }
                 const isTest = isTestDate(dayNum);
                 const todayCell = isToday(dayNum);
-                const inRange = isInRange(dayNum);
                 const hasTask = hasTasks(dayNum);
                 const selected = selectedDay &&
                   new Date(currentYear, currentMonth, dayNum).toDateString() === selectedDay.toDateString();
@@ -540,12 +524,7 @@ export default function Calendar() {
             fontSize: "0.9rem",
             textTransform: "uppercase",
             letterSpacing: "0.5px",
-            transition: "all 0.2s ease",
-            ':hover': {
-              background: "#b71c1c",
-              transform: "translateY(-1px)",
-              boxShadow: "0 4px 12px rgba(211, 47, 47, 0.2)"
-            }
+            transition: "all 0.2s ease"
           }}
           onClick={() => {
             setTestDate(null);
